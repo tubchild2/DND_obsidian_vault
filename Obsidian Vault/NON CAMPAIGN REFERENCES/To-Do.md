@@ -2,6 +2,7 @@
 	- [ ] Enemies
 - [ ] Fix the [[brainstorm]] document
 - [ ] Get last names
+- [ ] peepee poopoo
 
 #### **30th To Do List**
 - [ ] Copy obsidian vault over to laptop
