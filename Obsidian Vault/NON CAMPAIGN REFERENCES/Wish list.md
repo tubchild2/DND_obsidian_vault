@@ -1,0 +1,12 @@
+- DM's guide
+- Player's handbook
+- Large graph paper
+- Monster manual
+- Black-light and invisible ink
+- D&D bag
+- Not AI generated DM screen. https://www.amazon.com/CASEMATIX-Screen-Leather-8-Panel-Deluxe/dp/B0CD31W3LH/ref=sr_1_7?dib=eyJ2IjoiMSJ9.rdugs9mQKgx7KKWtfCye30xJcKzBBsW6dSEFfvEF1uXt-TFYfVgkCzJt3nDUzaT8HxPHfrvgWy-tpCkWsCvpD4VlLDL09R50lqv1P2oGTB2BWvxwUYy9ejhq1_ojAD8Bgk9YPTieJ_FMFJshSmVh8w2JhDQROKw8sj5dbrh8AGzQKALBz0DV76zfEJCzMMKNXiToWdTEFxM6p7OpVGWnHxU2BjCNZjK_O7TKk-Cf9A8QoJODNIW0t1X8yj26m38m3UMEcFZbxsIGKAlIUBL8-dR3e2cwiuXKafVR3cbd3Ok.UInrbs-SL7TZO5vfHKQ0YZLfEl3HJFuqpkRw_zO9AVI&dib_tag=se&keywords=DM+screen&qid=1731619688&sr=8-7
+- King Midas Dice Set: https://dnddice.com/products/king-midas-dice-set?_pos=1&_psq=King+MIdas&_ss=e&_v=1.0
+- Humidifier
+- Deck of cards
+- Big ol' graph paper https://www.amazon.com/Pacon-34-inch-1-inch-Quadrille-PAC0077810/dp/B000XP23O8/ref=sr_1_6?crid=1PM8LSOJSFK7&dib=eyJ2IjoiMSJ9.mdJyKRhoVLilkWbfN53ktKqe06pIUt9RwY7AOyc9RGy-hOqMFDoAgd_wuygveN_jDVsFl2ovhx4VGJCEHqYnCouAsU0hs1IIT4xOQyu0voRlaH0KjMolxXQnRSKR25HE_3mF6wcb3mI8QQsju5n-SJzBJgN8Aqb7Gf-jfZ4woNqi2bXmPTssxMAk5jusGqEt0-SnvjK7nd91JGzHabfOPODQ2i-Fcqw-GuJGFjnqOpDZgE70QdzxG88Y2xYxaQQqOsTAIv1K8ruMQYiF_XTGggP-gnGYTgq6aZJNvETebnXxd7jFEP3NK7eJBmQYrL81WQOj9aw9XlIT_1YHH2lABWpVZtbp22maiR4G3rX3B3u5ehmINJjjQRNv7PVURISLbYjYw5u5etUccLCS34bpU1mRuuSI457Tr56lMgYUzMUMlTH2nRk-XtiDIUV7keY8.PEP4BHhPtJ6TMVzIFUPJuUwLn2ov0TzMy_ArwqsOG9w&dib_tag=se&keywords=1%22%2Bbulk%2Bgrid%2Bpaper&qid=1734195833&sprefix=1%2Bbulk%2Bgrid%2Bpape%2Caps%2C155&sr=8-6&th=1
+# Cart

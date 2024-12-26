@@ -1,0 +1,1 @@
+![[Manor Galling.png]]

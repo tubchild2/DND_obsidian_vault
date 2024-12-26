@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "84afae02a28f04b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0fa808f7769e0868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9af5e1c494b26aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NON CAMPAIGN REFERENCES/To-Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To-Do"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b029e1ef90e88f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7abdadd5f1a8709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75bb62ce5edb6dc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fdeb48166cfe8362",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d6f44f2b15a35484",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "7efababeab0f1b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e2b0bb42dc0a968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7946af4dae5739d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Groups/House Galling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "House Galling"
+            }
+          },
+          {
+            "id": "21fec4d8354d0936",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Character for Avery's Campaign.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Character for Avery's Campaign"
+            }
+          },
+          {
+            "id": "893c207900901b6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NON CAMPAIGN REFERENCES/To-Do.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from To-Do"
+            }
+          },
+          {
+            "id": "0538de0749272bdc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5118995533a272fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessions/Session 1/Session 1.1 - The Alarm.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 1.1 - The Alarm"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9af5e1c494b26aab",
+  "lastOpenFiles": [
+    "Pictures/PDF/Inventory Sheet.pdf",
+    "Pictures/PDF/Character Sheet - Print Version.pdf",
+    "NON CAMPAIGN REFERENCES/To-Do.md",
+    "Character for Avery's Campaign.md",
+    "Sentry.jpg",
+    "NON CAMPAIGN REFERENCES/Links.md",
+    "Sessions/Session 1/Outline 1.md",
+    "Worldbuilding/Characters/Bradford.md",
+    "Worldbuilding/Characters/Copper (PC).md",
+    "Worldbuilding/Things/Incarnadine Gate.md",
+    "Worldbuilding/Characters/Taure (PC).md",
+    "Worldbuilding/Characters/Gemini (PC).md",
+    "Worldbuilding/Characters/Corvus (PC).md",
+    "Worldbuilding/Groups/House Galling.md",
+    "Worldbuilding/Things/Mano di Dio.md",
+    "Pictures/Things/Mano di Dio.jpg",
+    "Worldbuilding/Groups/Armstrong Initiative.md",
+    "Worldbuilding/References/World History (summarized).md",
+    "Worldbuilding/Places/Vivere Mori.md",
+    "Sessions/Session 1/Session 1.2 - Vivere Mori.md",
+    "Sessions/Session 1/Session 1.3 - Hangar 18.md",
+    "Worldbuilding/References/Catalogues/Food Catalogue.md",
+    "Sessions/Session 1/Session 1.1 - The Ship.md",
+    "Worldbuilding/Groups/Doctrine of St. Galling.md",
+    "Worldbuilding/Characters/Pluto.md",
+    "Worldbuilding/Things/Nethrium.md",
+    "Worldbuilding/Places/Manor Galling.md",
+    "Worldbuilding/References/Race Catalogue.md",
+    "Worldbuilding/Races",
+    "Worldbuilding/Characters/Tessali.md",
+    "Pictures/Places/The plane of ideas.jpg",
+    "Pictures/Statblocks/yakuza.png",
+    "Pictures/Statblocks/yakuza 1.png",
+    "Pictures/Statblocks/okawa yoichi.png",
+    "Pictures/Statblocks/okawa yoichi 1.png",
+    "Pictures/Statblocks/Sand Wraith Statblock.png",
+    "Pictures/Characters/The Supervisor Picture.png",
+    "Pictures/Characters/The previous crew.png",
+    "Worldbuilding/References/Catalogues",
+    "SFX/Audio Tape 7.7.12024.wav",
+    "SFX/beacon 2.wav",
+    "SFX/SecurityFootageStartup.wav",
+    "Worldbuilding/Things",
+    "SFX/Saturn Noises.wav",
+    "SFX",
+    "Untitled.canvas",
+    "PANDORA SCRIPT OVERVIEW.canvas",
+    "PANDORA DND Campaign.canvas",
+    "Supply Chain FitnessApp(tm).canvas",
+    "Don't Worry About it.canvas",
+    "Pandora DND 2.canvas"
+  ]
+}
