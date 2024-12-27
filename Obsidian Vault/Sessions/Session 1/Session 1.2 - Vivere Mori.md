@@ -64,8 +64,9 @@
 
 **Interior**
 - You guys walk in, and are immediately met with an overwhelming barrage of sensory input. A thick haze of smoke fills the air, swirling and dancing beneath the neon red lights. 
-- The room is massive, and split into a couple sections. There's a seating area, slot machines, a table playing some kind of wagering game, a bar, and a backdoor to the side of the bar. 
+- The room is massive, and split into a couple sections. There's a seating area, slot machines, a table playing some kind of wagering game, a bar, and a backdoor to the side of the bartender.
 	- Could I get a perception check from Gemini? Out of the corner of your eye you notice a Tanto (a Japanese knife) hanging in front of the back door. When you were in the Yakuza, people would use that as a warning against entering that room.
+	- The bartender is named Chaz Grober. If you try to buy anything alcoholic, he sighs, pulls out a massive book, and asks for their species and age.
 		- Finding a way to distract the bartender and enter the backdoor gives you this. Behind the door is a cramped hallway that it doesn't look like Taure can fit into. The hallway leads to a single metal door marked with the symbol of [[House Galling]]. 
 			- Inside, you find a room constructed entirely from white tiles, and in the corner, you see a fire genasi slumped against the wall. She's lifeless, her eyes and mouth half-opened. Her clothes stretched and ripped, and her hands covered in blood. She died recently. 
 
@@ -132,6 +133,9 @@ Slot Machines (Wager)
 	- A hoverboard that gets faster the louder the user screams. Created as a training toy for kids on a planet called Screamo-10. Scream endurance is important to their culture.  
 	- A short range teleporter. It works once a day, and can teleport you up to 60ft. It was tinkered by some gnomes he met on a space station. It uses an enormous amount of energy because it uses FTL warp drive technology.  
 	- A pair of boots for sinking in liquid mercury. He traded them from someone for some Venusian pottery a couple months ago. 
+	- A ring of frostbite. Some guy sold this to me a couple years ago. 
+	- Moon shoes. Make you jump 20ft into the air. Unfortunately, you do still take 100% fall damage.
+	- Bow and arrow. Only shoots where you want it to when you're blackout drunk.
 - If you show him the [[Nethrium]], he quietly gasps. He says to put it away. He says he doesn't want trouble, and tells them to leave. If they don't, he closes his shop and shuffles away. 
 ### The Obscura Athenaeum - Fumewood
 **Exterior**

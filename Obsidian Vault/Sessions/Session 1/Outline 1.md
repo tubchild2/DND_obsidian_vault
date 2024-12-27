@@ -6,10 +6,12 @@
 - Have everyone choose a last name
 - Have everyone spend a little time on their characters
 	- Traits / backstory / quirks
-- Have everyone spend a little time on their agendas (wants / needs)
+- Have everyone spend a little time on their agendas 
+	- (wants / needs)
 
 ### BEFORE WE BEGIN:
 - BE ABSOLUTELY LOCKED IN TO MAKE SURE THEY REALIZE HOW GOD AWFUL THEIR SHIP IS. 
+- WE GOTTA FREAKING COOK WITH THIS SESSION OR IM A BAD PERSON
 
 [[Session 1.1 - The Ship]]
 

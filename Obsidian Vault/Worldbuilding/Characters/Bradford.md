@@ -1,4 +1,4 @@
-
+![[Bradford Galling 4.jpg]]
 ### Stats
 Full name: Sir General Patriarch Judge Bradford Simeon Emmanuel Victor Sanctus Aurelius Galling I 
 Race: Human*

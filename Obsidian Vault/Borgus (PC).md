@@ -1,15 +1,15 @@
-![[Sentry.jpg]]
+![[Borgus.jpg]]
 ### Stats
-Full name: Sentry-N53v13
+Full name: Borgus-N53v13
 Alignment: Chaotic Good
 Race: Warforged
 Class: Bard
 Height: 7'1"
 
-Stats in order of value:
-1. STR
-2. CHA
-3. CON
+Stats in order of how I'll assign them after I roll:
+1. STR (Because a clumsy but strong robot sounds funny)
+2. CHA (bard)
+3. CON 
 4. WIS
 5. DEX (BAD)
 6. INT (VERY BAD)
@@ -40,6 +40,7 @@ Languages:
 
 ### Personality
 - Robotic. I.E. Objective and pragmatic
+- Speaks in the third person
 - Likes order, math, music, suffering, violence, following orders, and triumph over evil. 
 - Must obey all orders given to him
 - Knows as little as possible.

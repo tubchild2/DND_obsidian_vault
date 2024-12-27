@@ -8,8 +8,8 @@
 - Below, rivers of molten magma carve violent paths down the hillsides, their fiery flow vanishing into swirling storms of ash and dust. The ground is scarred with charred and shattered bones, their jagged forms jutting from the earth like a grim forest. Nearby, plumes of toxic gas hiss and sputter from cracked chemical vents.
 - Through the haze, a massive silhouette emerges—dark, oppressive, and unnatural. As you approach, the outline sharpens into mountainous black walls, impossibly tall and unyielding, stretching beyond the limits of your vision. Above the walls, the faint curve of a colossal glass dome becomes visible, shimmering dimly under the corrosive winds.
 - At the base of the wall, barely visible at first, is a single black tunnel—a needle-like opening cutting through the unyielding steel. Your ship angles down and enters, swallowed by the tunnel’s gaping maw. 
-- After 20 seconds, you fly out the other end of the wall and are greeted by a massive cliff-face that towers above you, and drops deeper than you can see. There are some smaller walls with towers, and a small checkpoint to allow you to park your ship and enter the city.
-- You in between two metal towers, and an barrier of arcing electricity blocks your path. To your left, you can see a large grimy window in the tower. Through it, you spot the silhouette of a figure--the checkpoint officer--watching your approach.
+- After 20 seconds, you fly out the other end of the wall and are greeted by a massive cliff-face that towers above you, and drops deeper than you can see. There are some smaller walls with watchtowers, and a small checkpoint to allow you to park your ship and enter the city.
+- You fly inbetween two metal towers, and an barrier of arcing electricity blocks your path. To your left, you can see a large grimy window in the tower. Through it, you spot the silhouette of a figure--the checkpoint officer--watching your approach.
 
 
 **Checkpoint 18**
@@ -24,7 +24,8 @@
 	- He's good friends with the main shipwright, Chav Cymbeline. He's kind of a tool but they're friends anyways.
 - He says, "Hello, welcome to [[Vivere Mori]]. I need to ask you a few questions before I can let you in the city. Nothing to worry about--standard procedure."
 	- Please state your name, rank, and intention.
-	- Who do you currently work for? 
+	- Who's your current employer? 
+		- If they say [[House Galling]]. "Shocker."
 	- What's your business in [[Vivere Mori]]?
 	- Where are you coming from?
 		- [[The Deadwoods]] are the worst this time of year. You guys seem to go to the worst locations, but hey that's [[House Galling]] for you. 
@@ -67,7 +68,7 @@ I'm going to need everyone to roll initiative
 | 2-5   | It's a shipment of expired food packets. They're apple flavored.                                                                          |
 | 6-10  | Basic supplies like batteries, bolts, and wires.                                                                                          |
 | 11-15 | Blueprints for a stun baton.                                                                                                              |
-| 16-19 | You see wrapped plastic bags containing some kind of yellow powder (Overclock), as well as some delivery instructions from House Galling. |
+| 16-19 | You see wrapped plastic bags containing some kind of yellow powder (Overclock), as well as some delivery instructions from [[House Galling]]. |
 | 20    | You find a strange device that seems to be a portable heat based radar.                                                                   |
 
 

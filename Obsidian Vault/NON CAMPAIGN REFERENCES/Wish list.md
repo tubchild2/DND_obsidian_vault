@@ -1,12 +1,8 @@
-- DM's guide
-- Player's handbook
-- Large graph paper
-- Monster manual
 - Black-light and invisible ink
 - D&D bag
-- Not AI generated DM screen. https://www.amazon.com/CASEMATIX-Screen-Leather-8-Panel-Deluxe/dp/B0CD31W3LH/ref=sr_1_7?dib=eyJ2IjoiMSJ9.rdugs9mQKgx7KKWtfCye30xJcKzBBsW6dSEFfvEF1uXt-TFYfVgkCzJt3nDUzaT8HxPHfrvgWy-tpCkWsCvpD4VlLDL09R50lqv1P2oGTB2BWvxwUYy9ejhq1_ojAD8Bgk9YPTieJ_FMFJshSmVh8w2JhDQROKw8sj5dbrh8AGzQKALBz0DV76zfEJCzMMKNXiToWdTEFxM6p7OpVGWnHxU2BjCNZjK_O7TKk-Cf9A8QoJODNIW0t1X8yj26m38m3UMEcFZbxsIGKAlIUBL8-dR3e2cwiuXKafVR3cbd3Ok.UInrbs-SL7TZO5vfHKQ0YZLfEl3HJFuqpkRw_zO9AVI&dib_tag=se&keywords=DM+screen&qid=1731619688&sr=8-7
-- King Midas Dice Set: https://dnddice.com/products/king-midas-dice-set?_pos=1&_psq=King+MIdas&_ss=e&_v=1.0
 - Humidifier
 - Deck of cards
 - Big ol' graph paper https://www.amazon.com/Pacon-34-inch-1-inch-Quadrille-PAC0077810/dp/B000XP23O8/ref=sr_1_6?crid=1PM8LSOJSFK7&dib=eyJ2IjoiMSJ9.mdJyKRhoVLilkWbfN53ktKqe06pIUt9RwY7AOyc9RGy-hOqMFDoAgd_wuygveN_jDVsFl2ovhx4VGJCEHqYnCouAsU0hs1IIT4xOQyu0voRlaH0KjMolxXQnRSKR25HE_3mF6wcb3mI8QQsju5n-SJzBJgN8Aqb7Gf-jfZ4woNqi2bXmPTssxMAk5jusGqEt0-SnvjK7nd91JGzHabfOPODQ2i-Fcqw-GuJGFjnqOpDZgE70QdzxG88Y2xYxaQQqOsTAIv1K8ruMQYiF_XTGggP-gnGYTgq6aZJNvETebnXxd7jFEP3NK7eJBmQYrL81WQOj9aw9XlIT_1YHH2lABWpVZtbp22maiR4G3rX3B3u5ehmINJjjQRNv7PVURISLbYjYw5u5etUccLCS34bpU1mRuuSI457Tr56lMgYUzMUMlTH2nRk-XtiDIUV7keY8.PEP4BHhPtJ6TMVzIFUPJuUwLn2ov0TzMy_ArwqsOG9w&dib_tag=se&keywords=1%22%2Bbulk%2Bgrid%2Bpaper&qid=1734195833&sprefix=1%2Bbulk%2Bgrid%2Bpape%2Caps%2C155&sr=8-6&th=1
+- Dax Flame's Book: https://www.amazon.com/Ice-Cream-Man-Dax-Flame/dp/1700583654/ref=sr_1_7?crid=4TSCGQZVT3IW&dib=eyJ2IjoiMSJ9.1AmebnK4Th8vQHd88vhC-wOeRkZzMdJ6Mz9kZ6RY3eRmjhxsc375BqFVSjX2faBFscysmEmCMauzJiyRDeECMshrGH5MA9KTf-StU7MRxoNaGDYGq9LCGA-IFPszjc9McR_qRCT6t0mfH0PVn_ILG2MpEYvkaCt7xaNNLNnBilo1X3T8EAWWrWtWms-A4ji3qz6ZbiZgiAvhyitvvGHNxUtUY2aITiwe-UHXlhoCLBuDARjsq-P-lesnmwlz8aWpJnI7JsWFWsyOMkV4x2I8f0DgpCiS_1OVoYcHp0seTqqFaIfo_1Iu6ZOOW8R38XZnXxGiNA9X4A0-Tcw7EXFiaIGamAsi8YzCZ3uyR_s5mTQG-0dA5XbN83vNuYikTKAdqaKg9qwHB9_QzB-DhWXAt83wR--5a6AbbRvYBatDlUziHKbiKDQ5o_8GxdMPZ_ib.fV-x_fTOqtpkLWi7WDFZB6qVAdGAMsGZqQ4aSOOAXig&dib_tag=se&keywords=Ice+cream+man&qid=1735275252&sprefix=ice+cream+ma%2Caps%2C164&sr=8-7
+- Mistborn: https://www.amazon.com/Mistborn-Final-Empire-Saga/dp/1250868289/ref=tmm_pap_swatch_0?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.jQprCi47nQR_kbma4-TbIIeIxViL9WmJSpGVXP0xkMmpgELMmIEKq7deQn2-C-FKpUuC0ZUPdOe9ViZK4pGltjvJcFJdlgZKX4W0hchldZvf2o5YwI4yOgQThF2XU2AoaDzWTEsluo9OwHSk03DnkPFJTYZ1WzEebbE5i2dqBleb3udy9wDDhNHUqx9d3ZrCT2v8XmAHNa5-1iOqOPjrbdkiby_PfCRlrjrjDVqTxsg.PN9vdKs4Qa7KDS-nA9SvbWigcfUqzlle6bs4caJRtAU&qid=1735275347&sr=8-2
 # Cart
