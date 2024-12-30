@@ -4,13 +4,16 @@
 - https://open.spotify.com/playlist/6UEti90f4RT12zyDSDgl3v?si=2db071e6dc944b3c&pt=c1d84ecd24ece67b9c9c2f4904665558
 - Space Ambience: Playlist by tubbs
 ### *Introduction to Session 1*
+**GET THE MAP OF THE SHIP OUT**
+- Do it or youre buig gay dudddde
 **Recap**
+- Welcome back!
 - Does anyone want to recap in character where we left off last time? 
 - Landon was just on the ship the whole time btw.
 **Opening Monologue**
-- The ship hums softly in the quiet. Dim, flickering lights cast long shadows over the cramped, rusting interior of the ship. [[Copper (PC)]], [[Corvus (PC)]], [[Taure (PC)]], [[Gemini (PC)]], and Landon (PC), sit in the ordered yet worn leather sets of the cockpit, having just lied to their supervisor. A decision that would surely keep them up at night, not with guilt, but dread. What do you want to do?
-	- (Make an error noise) As you type in the coordinates, you get a giant red error message saying those specific coordinates are blacklisted by [[House Galling]]. It's trying to reroute you to a nearby city.
-	- Could I get a history check from everyone to see what you know about the coordinates?
+- The ship's florescent lights hum softly, yet a nameless dread heightening your senses makes it feel louder than ever before. You all sit silently in the worn leather seats of the cockpit, having just lied to your supervisor. A decision that would surely keep you up at night, not with regret, but with fear. The ship is currently idle on the forest planet of [[the deadwoods]], what do you want to do?
+	- (Make an error noise) As you type in the coordinates, it sets you up to fly to the planet of [[Vivimus]]. Then, you get a giant red error message saying the planet you're attempting to land on is blacklisted by [[House Galling]]. It's trying to reroute you to another spot on the planet.
+	- (wait) Could I get a history check from everyone to see what you know about the planet?
 **Exploration**
 - The ship has many rooms:
 	- Cockpit (which you're all in now)
@@ -46,7 +49,7 @@ The kitchen feels like something out of a forgotten era. The cracked, dirty whit
 
 The [[House Galling]] brand nutrient paste dispenser. 
 	There's a blinking yellow light demanding 2 credits per use. 
-	Rolling below a 7 jams it, pooling paste all over the floor. 
+	(AIDEN, DO A LUCK ROLL) anything a 7 jams it, pooling paste all over the floor. Otherwise, you get some nutrient paste. 
 There are some cabinets below the sink.
 	Inside are some cubic cans neatly stacked into big piles. They're labeled [[House Galling]] Meat Product. You have no idea if it's edible. 
 	There's also a book on mixology left behind by someone named Owen. It has a bunch of drink recipes. See [[Food Catalogue]] 
@@ -66,7 +69,7 @@ There's an open cookbook on the counter.
 		- Keppler Crumble Cake
 
 ### *Maintenance Room*
-You walk into a loud room packed with shelves of chemicals, tools, and different plastic bags of parts and wires thrown onto them. The ship's engine is directly front of you, emanating a fiery orange light, and an intense dry heat. The room is filled with a deafening cacophony of mechanical clanking and whirring that hurts your ears. Could I get a perception check please?  
+You walk into a loud room packed with shelves of chemicals, tools, and different plastic bags of parts and wires thrown onto them. The ship's engine is directly front of you, emanating a fiery orange light, and an intense dry heat. The room is filled with a deafening cacophony of mechanical clanking and whirring that hurts your ears. Could I get a perception check?  
 
 | Roll (perception) | Result                                                                                                                                             |
 | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -79,7 +82,7 @@ You walk into a loud room packed with shelves of chemicals, tools, and different
 - Inside the vent cover is a small hidden storage compartment.
 	- A group photo of the previous crew. They're all smiling, and doing a group hug. 
 	- A dismantled gas mask that has a thick gash in it's forehead. 
-	- There's a yellow note with rushed, reed handwriting that says, "7.7.12024"
+	- There's a yellow note with rushed, red handwriting that says, "7.7.12024"
 
 
 
@@ -96,7 +99,8 @@ A large reinforced glass window stretches in front of you, offering a view of th
 
 ***Security Application (Computer)***
 - The cameras have a bootup noise: ![[SecurityFootageStartup.wav]]
-- (Play bootup audio now) You can enter any date from that past 2 years. Could I get an investigation check?
+- (Play bootup audio now) You can enter any date from that past 2 years. 
+- If they want to enter a random date: Could I get an investigation check? (See table)
 	- You enter the date 9.7.12024. You see an empty ship as you're all investigating the cabin in [[the deadwoods]]. 
 	- You enter the date 9.8.12024. You see yourself on the cameras right now. 
 	- (play the audio now). You enter the date 7.7.12024. This would have been around the time the last crew left. It's 2am, and almost completely dark, and there's thick static and some kind of gas pluming through the ship. You hear the wind screaming, and an inorganic thrumming in the distance. You squint your eyes and lean forward, and recognize the shapes of bodies strewn across the floor--their appendages bent and deformed. Some are sprawled out, and others are slumped against the walls. But... there's something else there. In the corner of your screen, you see a dark shape you don't understand, twitching rapidly. It begins to make an eerie, whining groan over the wet squelching of flesh, before barreling down the hallway. All the cameras go dark, but the audio is still playing. The machine grows louder and louder, closer and closer. But, then it simply stops. The rest of the footage was erased. ![[Audio Tape 7.7.12024.wav]]
@@ -105,8 +109,8 @@ A large reinforced glass window stretches in front of you, offering a view of th
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1                    | You can't work the cam                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | 2-5                  | You get some footage, but there doesn't seem to be anyone there. It seems they're on a mission somewhere                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 6-10                 | You see a man in an orange cap tinkering with a bunch of tools. He stands up, and begins pacing back and forth, covering his mouth and breathing heavily. The audio was disabled, but he's clearly di                                                                                                                                                                                                                                                                                                                                                                                     |
-| 11-15                | You recognize a man a member of the ship's last crew. You see him in the loading bay, waiting for the rest of the group to leave. Once they do, he sprints into the maintenance room, then into the cockpit, and enters the ship's vents.                                                                                                                                                                                                                                                                                                                                                 |
+| 6-10                 | You see a man in an orange cap tinkering with a bunch of tools. He stands up, and begins pacing back and forth, covering his mouth and breathing heavily. The audio was disabled, but he's clearly distressed.                                                                                                                                                                                                                                                                                                                                                                            |
+| 11-15                | You recognize a man as a member of the ship's last crew. You see him in the loading bay, waiting for the rest of the group to leave. Once they do, he sprints into the maintenance room, then into the cockpit, and enters the ship's vents.                                                                                                                                                                                                                                                                                                                                              |
 | 16-20                | You see a member of the ship's previous crew. There's no one else on board the ship. He crawls out of the vents holding a strange, wiry contraption. He sets it down, and pulls something out of his pocket. You can't make out the details, but he holds what looks like a vial of ink up to it. After a few seconds, it begins beeping and flashing rapidly. He starts frantically messing with it, trying to get it to turn off, but it wont. He grabs a hammer and begins smashing it over and over and over, but then... everything goes black. The rest of the footage was deleted. |
 
 
@@ -115,7 +119,7 @@ You get on the computer and open up the ship's records. Could I get an investiga
 
 | Roll (Investigation) | Result                                                                                                                                                                                                                                                                                                                                                                                                         |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                    | You don't understand any of it.                                                                                                                                                                                                                                                                                                                                                                                |
+| 1                    | You don't understand any of it. This is moon runes.                                                                                                                                                                                                                                                                                                                                                            |
 | 2-5                  | You don't really understand the details, but it looks pretty standard for a ship like this.                                                                                                                                                                                                                                                                                                                    |
 | 6-10                 | The ship seems pretty official. It's got some blueprints, documentation from it's creation, and a signed seal of safety from the [[federation]]. You don't understand anything else.                                                                                                                                                                                                                           |
 | 11-15                | These files seem pretty official, but something is off. The blueprints don't really line up at all with your recollection of the ship, and the legal documents seem pretty sketchy.                                                                                                                                                                                                                            |
@@ -127,14 +131,13 @@ You get on the computer and open up the ship's records. Could I get an investiga
 ***Radio***
 - This is a general purpose ship radio, it's pretty cheap. You could communicate with nearby ships, or try and intercept messages. Could I get an investigation check.
 
-| Roll (Investigation) | Result                                                                                                                                                                                                                                                                                                                                                                 |
-| -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1                    | All you hear is static.                                                                                                                                                                                                                                                                                                                                                |
-| 2-5                  | You intercept what sounds like a commercial for a Proxima Burger from Proxima Centauri B.                                                                                                                                                                                                                                                                              |
-| 6-10                 | You kind of hear what sounds like a voice, but there's heavy interference cutting through it.                                                                                                                                                                                                                                                                          |
-| 11-15                | You hear two Japanese men arguing, but it's too staticky to make things out.                                                                                                                                                                                                                                                                                           |
-| 16-20                | You hear two Japanese men arguing. If you speak Japanese, you understand what they're saying. One says, "It's impossible! [[House Galling]] ran out centuries ago!" The other says, "I know my equipment." You then hear some whining radio tuning, as if they're trying to block you out. You lost the signal, but it seemed to be generally coming from [[Vivimus]]. |
-
+| Roll (Investigation) | Result                                                                                                                                                                                                                                                                                     |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1                    | All you hear is static.                                                                                                                                                                                                                                                                    |
+| 2-5                  | You intercept what sounds like a commercial for a Proxima Burger from Proxima Centauri B. "Eat like a winner!"                                                                                                                                                                             |
+| 6-10                 | You kind of hear what sounds like a robotic voice, but there's heavy interference cutting through it.                                                                                                                                                                                      |
+| 11-15                | You hear two Japanese men arguing, but it's too staticky to make things out.                                                                                                                                                                                                               |
+| 16-20                | You hear two Japanese men arguing. If you speak Japanese, you understand what they're saying. One says, "It's impossible! No one's found any of that in centuries!" The other says, "I know my equipment. Go tell the Gallings." You then hear some whining radio tuning, and it cuts out. |
 
 
 ### *Cabins*
@@ -152,8 +155,6 @@ ID Cards
 ### *Loading Bay*
 The room is sweltering, directly connected to the maintenance area, and the heat seems to press in from every direction. It's the only exit on the ship, a massive metal garage door that only opens when the ship is landed. Splintering wooden crates of various sizes are scattered throughout the room, some half-open, others precariously stacked. A large vent cover in the wall hums softly, struggling to filter out some of the unbearable heat. 
 
-Could I get a perception check please?
-
 | Roll (perception) | Result                                                                                                                                                                                                                                                                                                                                     |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 1-10              | Most of the crates are just full of uniforms, flashlights, nutrient paste, and canned meat. There doesn't seem to be anything interesting here.                                                                                                                                                                                            |
@@ -166,7 +167,7 @@ Could I get an investigation check?
 | Roll (Investigation) | Result                                                                                                                                                                                               |
 | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1-5                  | You don't find anything of note, it's super boring in there. It's also very hot, so you're now tired and sweaty.                                                                                     |
-| 6-10                 | You find an old sticky note that says, "Are there ship gasses?" stuck to a pipe.                                                                                                                     |
+| 6-10                 | You find an old sticky note that says, "Gas?" stuck to a pipe.                                                                                                                                       |
 | 11-15                | You find a hidden compartment that leads into the walls of the ship. There's a bunch of weird machines wired directly into the walls of the ship. It looks like someone was trying to take them out. |
 | 16-20                | You find a false wall in the vents that leads to a room full of 20 of dismantled gas masks neatly ordered into rows.                                                                                 |
 ### *The Closet*

@@ -25,6 +25,14 @@ Proficiencies:
 	Perception
 	Performance
 
+Tool and weapon proficiencies:
+- Simple weapons
+- Saxophone
+
+Saving throw proficiencies:
+- Dexterity
+- Charisma
+
 ### Background:
 - When he was 6 he was kidnapped for genetic experimentation by an unknown group
 - Was given the ability to speak, and walk

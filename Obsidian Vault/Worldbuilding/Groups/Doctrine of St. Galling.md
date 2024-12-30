@@ -19,8 +19,6 @@ The Doctrine of St. Galling revolves around strict principles regarding divinity
 - **Predetermined Status**: Movement within the hierarchy is seen as God’s will; if someone changes rank, it was always meant to happen.
 - **Wealth as Divine Favor**: Material success and wealth are viewed as rewards from God for righteous living.
 - **Atonement and Sacrifice**: Mistakes lower one’s status in the hierarchy. Redemption requires repayment through significant sacrifices to the church and God. The value of the sacrifice is measured by the suffering it causes the individual, making ascension almost unattainable for average believers.
-- **Punishing the Lowly**: Acts considered wrong are excused if committed against those lower in the hierarchy, as this is seen as enforcing divine order. Punishing the lowly is framed as a righteous duty.
-- **Deference to Authority**: Those higher in the hierarchy are considered morally superior and less “mentally polluted.” Defying their orders is viewed as a grievous sin.
 
 #### Human Nature and Discipline
 - **Purity of Instinct**: Humanity’s “pure” instincts have been corrupted by modern philosophies. Followers are taught to trust their gut and reject intellectual doubt, as ignoring instinct is seen as weakness born of fear.

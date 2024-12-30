@@ -99,7 +99,7 @@
 - **Feather Falling**. Removes fall damage for X time. 
 - **Nudity**. Removes your armor.
 - **Teleportation**. Lets you teleport by direction and distance once. No more than 30ft.
-- **Old Man Mystery Juice**. Who knows what it does?
+- **Mystery Juice**. Who knows what it does?
 - **Crazy Multivitamin**. Removes hunger and thirst.
 
 # PRICING

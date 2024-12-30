@@ -7,7 +7,7 @@ Class: Bard
 Height: 7'1"
 
 Stats in order of how I'll assign them after I roll:
-1. STR (Because a clumsy but strong robot sounds funny)
+1. STR (Because a clumsy strong robot guy sounds funny)
 2. CHA (bard)
 3. CON 
 4. WIS
@@ -22,14 +22,6 @@ Proficiencies:
 Languages:
 - Common and one of my choice
 
-### Background
-- Was built during a really bad war to be a sentry. Given basic moral principles and the drive to be a hero. 
-- In charge of playing war music, and watching over battlefields. Was given an appreciation for music, and sadism. 
-- Saw horrible things that his sadistic robot brain loved.
-- The war ended and so he was let free. But, he had no where to go. 
-- Now he's pursuing music, violence, and a good impact on the world. All of which he can get by adventuring, regardless of how big the quest might be.
-- Looking for an artificer to give him emotions and basic intelligence.
-
 ### Appearance
 - 7ft tall
 - Large black steel body
@@ -41,23 +33,23 @@ Languages:
 ### Personality
 - Robotic. I.E. Objective and pragmatic
 - Speaks in the third person
-- Likes order, math, music, suffering, violence, following orders, and triumph over evil. 
+- Likes organization, math, music, and following orders
 - Must obey all orders given to him
-- Knows as little as possible.
-- Enjoys watching people suffer. He ignores his moral code for this.
-- Doesn't know right from wrong. Instead has a moral code that's essentially a list of a couple bad things to avoid doing. He doesn't understand why any of them are wrong.
-- Clumsy due to mechanical body
+- Loves [[to-do]] lists and algorithms
+- Knows as little as possible about the real world.
+- Doesn't know right from wrong. Instead has a moral code that's essentially a list of bad things to avoid doing. He doesn't understand why any of them are wrong.
+- Clumsy due to his mechanical body
 
 Agenda:
-1. Go on an adventure and triumph over evil
+1. Find someone to give him orders
 2. Find an artificer to give him emotions, intelligence, and basic awareness.
-3. Play music
-4. Watch people suffer
+3. Fulfill his base function--play music
 
 Inspiration:
 - Michael Falk--Autistic Reporter
 - Roz from The Wild Robot
 - That one spooky robot that arrests Andor
+- Bender from Futurama
 
 ### Choice LVL 0
 - Mage Hand

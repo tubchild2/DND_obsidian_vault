@@ -1,7 +1,3 @@
-- [ ] Finish the battle map
-- [ ] Print crates and fires
-	- [ ] 3 3x3cm crates
-- [ ] Get last names
 #### **30th To Do List**
 - [ ] Copy obsidian vault over to laptop
 	- [ ] Finish everything here
@@ -21,11 +17,19 @@
 	- [ ] Pencils
 	- [ ] Notebook paper
 	- [ ] Index Cards
-- [ ] Disinfect everything before taking it over
+
+### When Setting Up
+- [ ] Make sure that there is a path for stealth to get to the storage room
+- [ ] Put out 6 yakuza evenly distributed
 
 #### **Next Time**
 - [ ] Fix the [[brainstorm]] document
+- [ ] Do a third draft of [[Bradford]]'s backstory. 
+- [ ] The story needs better stakes. [[Bradford]] wants to get more personal with them, and he wants it more for himself than he does for the religious stuff. He only believes in it when it benefits him, he's not actually devout. 
+- [ ] Maybe [[Bradford]] has a "guard dog character", who's fiercely loyal and obedient to him because they genuinely want to be. Maybe that's who the supervisor is. It should be a war forged! It'd be so cool if a big clumsy intimidating robot who wants nothing more but to follow orders is [[Bradford]]'s only follower. 
 - [ ] Rival team that wants different things and grows at the same rate as the players
+- [ ] Rebellions against the [[Federation]] and or [[House Galling]] / [[Bradford]]. 
+- [ ] Mind Flayers and Beholders
 - [ ] World build
 	- [ ] Make some alien races, and maybe an alien race catalogue (don't forget their planets)
 		- [ ] Doppelgangers have to be in here somewhere

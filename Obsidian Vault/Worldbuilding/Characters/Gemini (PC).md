@@ -24,6 +24,15 @@ Proficiencies:
 	Sleight of Hand
 	Stealth
 
+Tool and weapon proficiencies:
+- Finesse weapons (Simple or martial)
+- Light weapons (Simple or martial)
+- Thieves' tools
+
+Saving throw proficiencies:
+- Dexterity
+- Intelligence
+
 ### Background:
 - A Japanese YouTube streamer who dreams of adventure
 - His parents are extremely rich streamer cosplayers

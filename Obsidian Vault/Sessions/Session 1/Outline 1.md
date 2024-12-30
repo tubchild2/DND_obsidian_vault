@@ -1,13 +1,19 @@
-# Prepwork:
-- See [[Improved Character Creation Guide]] for Landon's character
-- Have everyone choose an alignment
-	- Good or evil means do you have social or antisocial tendencies?
-	- Lawful or chaotic means do you have communal or independent tendencies? Do you think about systems and trying not to focus on the individual, or do you want to think about the individual, like just you or just someone else?
-- Have everyone choose a last name
-- Have everyone spend a little time on their characters
-	- Traits / backstory / quirks
-- Have everyone spend a little time on their agendas 
-	- (wants / needs)
+### LORE MAKING
+- Landon's character:
+	- See [[Improved Character Creation Guide]]
+- Everyone else:
+		- Alignment
+			- Good or evil. This is really a question of whether you have social or antisocial tendencies. 
+			- Lawful or chaotic. This is really a question of whether you have communal or independent tendencies. Do you think about systems and organizations, or are you more focused on the individual? 
+		- Last name (just Xavi)
+		- Personalities
+			- Traits / quirks
+				- Taure: Scared of nothing but the color red?
+				- Corvus: Likes to eat garbage, and likes shiny things?
+				- Copper: Distracted by small moving objects, and really jumpy?
+				- Gemini: Overdramatic and brooding, and overconfident?
+			- Agendas. What does your character want? What is there overall goal? Why? 
+- **GET THE MAP OF THE SHIP OUT**
 
 ### BEFORE WE BEGIN:
 - BE ABSOLUTELY LOCKED IN TO MAKE SURE THEY REALIZE HOW GOD AWFUL THEIR SHIP IS. 

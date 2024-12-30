@@ -23,6 +23,14 @@ Proficiencies:
 - Intimidation
 - Perception
 
+Tool and weapon proficiencies:
+- Simple weapons
+- Martial weapons
+
+Saving throw proficiencies:
+- Strength
+- Constitution
+
 ### Background:
 - Born in 11974.
 - Taure was born in a small village named Blugler to Clokes and Binguslar.  

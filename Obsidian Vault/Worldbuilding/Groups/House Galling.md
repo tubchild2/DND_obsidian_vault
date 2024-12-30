@@ -10,9 +10,9 @@ In 7222, [[Vivere Mori]] had well over million residents, so House Galling decid
 
 In 9992. Simeon Galling reactivates a private version of the [[Armstrong Initiative]] to try and cheat death, as he was getting older and wanted to extend his life. Their HQ was beneath Old [[Manor Galling]].
 
-In 10012, Simeon Galling uncovers the [[Tessali]] on an asteroid excavation mission. It was sleeping in a tiny asteroid, which seems to have formed around it. They capture it and bring it to the [[Armstrong Initiative]] for study. Then they discover [[Nethrium]]. They immediately begin farming and selling it. By the end of the year, they're the most wealthy and corrupt people in [[the galaxy]]. 
+In 10012, Simeon Galling uncovers the [[Tessali]] on an asteroid excavation mission. It was simply watching them work. They capture it and bring it to the [[Armstrong Initiative]] for study. Then they discover [[Nethrium]]. They immediately begin farming and selling it. By the end of the year, they're the most wealthy and corrupt people in [[the galaxy]]. 
 
-In 10018, Simeon Galling is on his deathbed. Noting how sociopathic his son [[Bradford]] was, he elected to give his position as family patriarch to his nephew instead. His nephew (Timothy Galling) was 9 years old at the time. After learning this, [[Bradford]] entered their home at night, and strangled him. He then beat his entire family to death. He then went and poisoned his father, before altering his will to make himself the heir once more. 
+In 10018, Simeon Galling is on his deathbed. Noting how sociopathic his son [[Bradford]] was, he elected to give his position as family patriarch to a close family friend instead--Timothy Peterson. After learning this, [[Bradford]] entered their home at night, and killed both him and his mother. He was then made heir before the change to Timothy could take place. 
 
 In 10020, the [[Armstrong Initiative]] begins to research [[Caldwell's Field]], and Incarnadine Gates. [[Bradford]] takes interest in this, because he believes he can start the rapture (a teaching of the [[Doctrine of St. Galling]]) by opening a portal to the field. He invests nearly the entirety of House Galling's [[Nethrium]] into a 6ft statue designed to be boiled that he calls "[[Mano di Dio]]."
 

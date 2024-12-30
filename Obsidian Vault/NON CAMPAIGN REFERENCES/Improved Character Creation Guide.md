@@ -32,10 +32,14 @@ Step 3b: They do fun stuff
 1. Write out their background
 2. Write out their appearance
 3. Write out their personality
+4. Write out their agendas
+5. Choose an alignment
 
 Step 4: Proficiencies
 1. Racial proficiencies
 2. Class proficiencies
+3. Saving throw proficiencies
+4. Weapons and tool proficiencies
 
 Step 5: Documentation
 1. Physical folder with everything
