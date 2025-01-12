@@ -1,7 +1,7 @@
 ![[Nethrium fragments.png]]
 # History
-- Can only be made by a [[Primordial]] at a weak spot in spacetime. 
-- Typically found in avatars of [[Primordial]]s, as they directly physically connect the [[Primordial]] to the physical world. This loses its connection when the [[Primordial]]'s physical body is destroyed, or when the Nethrium looses its energy. 
+- Can only be made by a [[Primordial]] at a weak spot in spacetime. It's important to note that [[Primordial]] entities will not attempt to exit the weak spot in spacetime unless it's already large and stable. Nethrium is only made when this process fails, so it cannot be farmed. 
+- Can be found inside of Theophanous entities, as they connect a [[Primordial]] to the physical world, and is typically the chosen material for themselves due to it being remarkably strong and easily producible for them. 
 # Physical Properties:
 - Appearance: solid black, with purple streaks through it. 
 - Density: 3g / cm^3

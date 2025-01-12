@@ -14,6 +14,7 @@ By 7083, the entire planet teetered on the edge of collapse. As the [[Fernites]]
 In 7105, Finn Galling to interest in the planet due to it's abundant thermal energy, chemicals, and rare metals. He set up a small mining colony called Muri Vivi. 
 
 # Physical Characteristics
+- Located in the [[The Galaxy|central plate]] of [[the galaxy]]. 
 - Black deserts (Entire valleys covered in [[Fernites]])
 - Black graveyards (Particularly lively areas turned to solid ash)
 - Black volcanoes (Volcanic systems overtaken by [[Fernites]]. They spew black magma and erupt more)

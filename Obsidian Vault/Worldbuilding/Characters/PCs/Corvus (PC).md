@@ -56,6 +56,35 @@ Saving throw proficiencies:
 - Expert duplication: Can copy writing or craftwork with advantage
 - Cunning Action: Can use a bonus action to dash, disengage, hide, or sleight of hand check
 - Sneak Attack: Can deal 1d6 extra damage if undetected
-- Laser Pistol: Ranged attack for 1d6 + proficiency. Range: 80ft. Cost: 1 bullet.
-- Shortsword: Melee attack for 1d12 - 2 + proficiency
-- Twin Daggers: Melee attack for 2d4 + proficiency
+
+### Inventory:
+- Laser Pistol (+2 to hit)
+- Laster Pistol
+- Long neck rifle. 
+- Tanto
+- Shortsword
+- Wakizashi (shortsword)
+- Twin Daggers
+- Thieves' tools
+- Burglar's pack. 
+- Janky flashlight.
+- Moon boots
+- Short range teleporter
+- Chekhov's Gun
+- Leather armor
+- [[House Galling]] Uniform. 
+- [[Pluto]]'s Note x2. 
+- Bag of holding. 
+- Pouch of [[overclock]].
+- 2 Canned lithworms
+- x2 1d4 healing potions
+- x2 +2AC defense potions
+
+Ammo pouch:
+- 20 charges
+
+Wallet:
+- 2920c
+- 0cp
+- 0sp
+- 0gp

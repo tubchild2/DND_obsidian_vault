@@ -48,7 +48,7 @@
 - You step into a cramped, colorful room, filled to the brim with mismatched furniture and clutter. Hundreds of instruments hang haphazardly on the walls, some dusty, some broken, others still in decent shape. Piles of sheet music spill out of boxes, and neon signs flicker with quotes about music. The air smells of old vinyl and electric guitar strings.
 - In the corner, a jukebox blares 80s rock classics, while a goblin assistant zips around, quickly grabbing items from the shelves. Behind a worn-out counter with a cash register, you spot a grizzled, gray-haired goblin with round glasses, wearing a vintage 1920s-style suit. 
 	- Selin Whitaker; An artsy washed up Goblin musician. He loves music, and calls it the truest form of art in the world. His hair is turning gray, and he has circular glasses and an outfit that wouldn't be out of place on a 1920s American president, except worn out. He plays the electric guitar, and loves classical music. He was relocated to the lower levels by [[House Galling]] when they demolished his old store. 
-- See [[Song Catalogue]]. 
+- See [[Songs]]. 
 
 ### Cloak and Stagger - Caustic Corner
 **Exterior**
@@ -87,7 +87,7 @@ Slot Machines (Standard)
 
 
 - The bar. Chaz Grober is working as the bartender. You can order food, drinks, and (secretly) formulas. 
-	- See [[Food Catalogue]]
+	- See [[Drink Catalogue]]
 		- They have a few specials today
 			- Jellyfish Pie
 			- Elysian Snake Steak
@@ -95,7 +95,7 @@ Slot Machines (Standard)
 			- Inferno Shot
 			- Ether Bloom
 			- Bohrium Sunrise
-	- See [[Formula Catalogue]]
+	- See [[Formulas]]
 		- (be all secret about it) We've got all the best stuff. What kind of formula you lookin for? I'm sure our guys can whip something up. 
 
 ### Larry's Pawn Shop and General Store - Petroleum Pass
@@ -134,9 +134,9 @@ Slot Machines (Standard)
 	- [[Pluto]]
 	- [[Nethrium]]
 	- [[Galactic Standards]]
-	- [[Formula Catalogue]]
-	- [[Food Catalogue]]
-	- [[Song Catalogue]]
+	- [[Formulas]]
+	- [[Drink Catalogue]]
+	- [[Songs]]
 	- [[Vivimus]]
 	- [[Vivere Mori]]
 	- [[Fernites]]
@@ -167,3 +167,5 @@ Slot Machines (Standard)
 - **Unity Banking**
 - **Revenant Correctional Facility**
 - **Sector 18 Educational Facility**
+- **Dale's** (a gun store)
+- **Costkeep** (Mega Costco earth scraper)

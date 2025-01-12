@@ -1,6 +1,6 @@
 Before time: [[Caldwell's Field]] and the [[Primordial]]s are created.
 
-Prehistory: The [[primordial]] of observation manages to create an avatar. The avatar becomes the [[Tessali]], and begins exploring and observing [[the galaxy]]. 
+Prehistory: The [[Primordial]] of observation manages to create an Theophany called the [[Tessali]], and it begins exploring and observing [[the galaxy]]. 
 
 6680: Humanity organizes into the [[Federation]] after WWXI. They represent and oversee all human governments with absolute control. 
 
@@ -26,11 +26,12 @@ Prehistory: The [[primordial]] of observation manages to create an avatar. The a
 
 10064: [[Pluto]] built a small cabin in [[The Deadwoods]] where he's been protecting the [[Tessali]] and the [[Nethrium]]. One of [[House Galling]]'s bounty hunters finds and nearly kills him. This prompts [[Pluto]] to attempt to find a replacement. He creates a set of trials, and hides the first clue in his cottage. 
 
-11970: [[Bradford]] begins enacting genocides and wars against weaker races and empires to gain land, framing it as a holy war. 
+11970: [[House Galling]] and [[Doctrine of St. Galling|DSG]] Church are involved in multiple inquisitions and wars against weaker races due to them revolting, slandering, or threatening the house. 
 
 12000: The [[Armstrong Initiative]] kidnaps and experiments on animals to compare results with previous human subjects. Among these are a baby lion named [[Copper (PC)]]. He doesn't perform well enough, and barely escapes execution. 
 # Campaign
 **September 7th, 12024**
 [[Outline 0]]: [[Gemini (PC)]], [[Corvus (PC)]], [[Copper (PC)]], and [[Taure (PC)]], get hired by [[House Galling]] as "general purpose assistants". They were hired to look for [[Pluto]]'s treasure, and [[Nethrium]], but they weren't told this. They find [[Pluto's Cottage]], and a note from [[Pluto]] informing them of his trials. They lie to [[House Galling]] and say they didn't find anything. 
 
-
+**September 8th, 12024**
+[[Outline 1]]: [[Gemini (PC)]], [[Corvus (PC)]], [[Copper (PC)]], [[Taure (PC)]], and [[Bjorn (PC)]] land at [[Vivere Mori]] to stock up on supplies due to it's proximity to the coordinates provided by [[Pluto]]. While there, the [[Nethrium]] they found at [[Pluto]]'s Cottage is detected by the Yakuza, a force controlled by [[House Galling]]. They're observed by the Yakuza while gambling, stocking up on supplies, and exploring the city. While attempting to buy a ship, the hangar is attacked by the Yakuza, and their ship is trashed. They battle the Yakuza and win, and design their own ship. They return to the city while it's being fabricated, and [[Gemini (PC)]] and [[Taure (PC)]] shoot, mutilate, bisect, crush, and disembowel the entire family of a gun store owner, including the father, the 7 year old son, the pregnant mother, and her fresh newborn. 

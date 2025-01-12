@@ -52,14 +52,14 @@ The [[House Galling]] brand nutrient paste dispenser.
 	(AIDEN, DO A LUCK ROLL) anything a 7 jams it, pooling paste all over the floor. Otherwise, you get some nutrient paste. 
 There are some cabinets below the sink.
 	Inside are some cubic cans neatly stacked into big piles. They're labeled [[House Galling]] Meat Product. You have no idea if it's edible. 
-	There's also a book on mixology left behind by someone named Owen. It has a bunch of drink recipes. See [[Food Catalogue]] 
+	There's also a book on mixology left behind by someone named Owen. It has a bunch of drink recipes. See [[Drink Catalogue]] 
 		- Plasma Pucker
 		- Void's Embrace
 		- Nebula Nectar
 		- Titanium Sunrise
 		- Lunar Eclipse
 There's an open cookbook on the counter.
-	It was owned by someone on the crew right before you named Kellen. It's got a whole bunch of recipes in there that you might be able to cook. Someone was just reading it. See [[Food Catalogue]] for DCs. 
+	It was owned by someone on the crew right before you named Kellen. It's got a whole bunch of recipes in there that you might be able to cook. Someone was just reading it. See [[Drink Catalogue]] for DCs. 
 		- Jellyfish Pie
 		- Elysian Snake Steak
 		- Venusian Fire Pepper Salad

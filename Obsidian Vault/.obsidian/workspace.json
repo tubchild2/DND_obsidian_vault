@@ -4,11 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5c735845e662354b",
+        "id": "2757ee7450265829",
         "type": "tabs",
         "children": [
           {
-            "id": "9498ba7231793d3a",
+            "id": "e9607f98c54ce1fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Worldbuilding/Groups/House Galling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "House Galling"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1ba281685b2d8410",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64362f3f2e301487",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +40,23 @@
               "icon": "lucide-file",
               "title": "To-Do"
             }
+          },
+          {
+            "id": "bad4c7c5a9ef91e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Illeth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Illeth"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NON CAMPAIGN REFERENCES/To-Do.md",
+                "file": "NON CAMPAIGN REFERENCES/Session Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +152,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To-Do"
+              "title": "Backlinks for Session Planning"
             }
           },
           {
@@ -126,12 +161,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NON CAMPAIGN REFERENCES/To-Do.md",
+                "file": "Illeth.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To-Do"
+              "title": "Outgoing links from Illeth"
             }
           },
           {
@@ -176,54 +211,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9498ba7231793d3a",
+  "active": "bad4c7c5a9ef91e6",
   "lastOpenFiles": [
-    "Sessions/Session 1/Session 1.2 - Vivere Mori.md",
+    "Ratchet Gulliver (PC).md",
+    "Inquisitors.md",
+    "Worldbuilding/Places/Vivere Mori.md",
     "NON CAMPAIGN REFERENCES/To-Do.md",
-    "Sessions/Session 1/Outline 1.md",
-    "Sessions/Session 1/Session 1.1 - The Ship.md",
-    "Sessions/Session 1/Session 1.3 - Hangar 18.md",
-    "Worldbuilding/References/Catalogues/Formula Catalogue.md",
-    "Worldbuilding/References/Galactic Standards.md",
-    "Worldbuilding/Characters/Taure (PC).md",
-    "Worldbuilding/Groups/Phyrmus.md",
-    "Worldbuilding/References/Catalogues/Food Catalogue.md",
-    "Worldbuilding/Characters/Corvus (PC).md",
-    "Borgus.jpg",
-    "Worldbuilding/Things/Primordial.md",
-    "NON CAMPAIGN REFERENCES/Improved Character Creation Guide.md",
-    "NON CAMPAIGN REFERENCES/Brainstorm.md",
-    "Pictures/Creatures/Nethrium Lich.png",
-    "Pictures/Creatures/Sand Wraith.jpg",
-    "Pictures/Creatures/Primordial 2.jpg",
-    "Pictures/Creatures/Primordial.jpg",
-    "Pictures/Creatures/Mimic.png",
-    "Pictures/Creatures/Fernites.png",
-    "Pictures/Creatures/Embergiest.jpg",
-    "Pictures/Creatures/Basylisk (my version).jpg",
-    "Worldbuilding/Characters/Copper (PC).md",
-    "Worldbuilding/Characters/Gemini (PC).md",
-    "Worldbuilding/Characters/Bradford.md",
-    "Worldbuilding/Things/Incarnadine Gate.md",
-    "Worldbuilding/References/World History.md",
     "Worldbuilding/Groups/House Galling.md",
-    "NON CAMPAIGN REFERENCES/Wish list.md",
+    "Illeth.md",
+    "Worldbuilding/Groups/Doctrine of St. Galling.md",
     "Worldbuilding/Groups/Armstrong Initiative.md",
-    "Worldbuilding/Characters/Tessali.md",
-    "Worldbuilding/Characters/Pluto.md",
-    "Worldbuilding/Places/Caldwell's Field.md",
-    "Worldbuilding/Things/Nethrium.md",
-    "Pictures/Statblocks/yakuza.png",
-    "Pictures/PDF/Inventory Sheet.pdf",
+    "Worldbuilding/Things/Fernites.md",
+    "Worldbuilding/Groups/Federation.md",
+    "The Illeth 2.jpg",
+    "The inquisitors 1.jpg",
+    "The inquisitors.jpg",
+    "The Illeth.jpg",
+    "Worldbuilding/Places/Vivimus.md",
+    "Sessions/Session Planning.md",
+    "Worldbuilding/Things/Star Forge.md",
+    "Pictures/Things/Star forge 2.jpg",
+    "Worldbuilding/Characters/NPCs/Bradford.md",
+    "Worldbuilding/Places/Manor Galling.md",
+    "Worldbuilding/References/Catalogues/Item Catalogue.md",
+    "Worldbuilding/Characters/NPCs/Pluto.md",
+    "Worldbuilding/References/Catalogues/Weapon Catalogue.md",
+    "Worldbuilding/Characters/PCs/Copper (PC).md",
+    "Sessions/Session 0/Session 0.1 - The Cottage.md",
+    "Worldbuilding/Places/New Ship.md",
+    "Ratchet.jpg",
+    "Waforged in a suit.jpg",
+    "Pasted image 20250101171510.png",
+    "Ratchet (PC).md",
+    "Worldbuilding/Characters/NPCs/Dale Borland.md",
+    "Pictures/PDF/Wallet and Ammo.pdf",
     "Pictures/PDF/Character Sheet - Print Version.pdf",
+    "Pictures/PDF/Inventory Sheet.pdf",
+    "Worldbuilding/Characters/PCs/Corvus (PC).md",
+    "Pictures/Characters/Dale Borland.jpg",
+    "Worldbuilding/References/Catalogues/Armor Catalogue.md",
+    "Pictures/Logos/Cartel logo.jpg",
+    "Worldbuilding/Creatures",
+    "Worldbuilding/Characters/NPCs",
+    "Worldbuilding/Characters/PCs",
+    "Sessions/Session 2",
     "Worldbuilding/Races",
     "Worldbuilding/References/Catalogues",
     "SFX/Audio Tape 7.7.12024.wav",
-    "SFX/beacon 2.wav",
-    "SFX/SecurityFootageStartup.wav",
-    "Worldbuilding/Things",
-    "SFX/Saturn Noises.wav",
-    "SFX",
     "Untitled.canvas",
     "PANDORA SCRIPT OVERVIEW.canvas",
     "PANDORA DND Campaign.canvas",

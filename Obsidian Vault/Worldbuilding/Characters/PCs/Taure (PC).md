@@ -61,5 +61,23 @@ Saving throw proficiencies:
 - Goring Rush: After a dash, you can attack with your horns as a bonus action.
 - Hammering Horns: If you hit someone, you can use a bonus action to shove them. Roll 1d12 to determine how far they're pushed.
 - Labyrinthine Recall: You always know which direction is north. You also have advantage on navigation or tracking.
-- Greataxe: Melee attack for 1d12 + proficiency
-- Handaxe: Ranged attack for 1d6 + proficiency. Range 20ft. Cost: 1 Handaxe.
+
+Inventory:
+- Greataxe
+- Handaxe
+- Bag of Holding. 
+- Explorer's pack.
+- Flashlight.
+- [[Taure (PC)]] [[House Galling]] ID Card. 
+- [[House Galling]] uniform.
+- Laser Pistol (+2 to hit).
+- Plasmorb Shotgun. 
+
+Ammo Pouch:
+- 0 charges
+
+Wallet:
+- 1100c
+- 0cp
+- 0sp
+- 0gp

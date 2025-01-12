@@ -68,6 +68,35 @@ Saving throw proficiencies:
 - Dual Mind: Advantage to all wisdom saving throws
 - Cunning Action: Can use a bonus action to dash, disengage, hide, or sleight of hand check
 - Sneak Attack: Can deal 1d6 extra damage if undetected
-- Laser Pistol: Ranged attack for 1d6 + proficiency. Range: 80ft
-- Shortsword: Melee attack for 1d12 - 2 + proficiency
-- Twin Daggers: Melee attack for 2d4 + proficiency
+
+Inventory:
+- Laser Pistol
+- Laser Pistol (+2 to hit)
+- Twin Daggers
+- Yoichi Revolver
+- Yoichi Katana.
+- Thieves' tools
+- Burglar's pack
+- Janky flashlight
+- Universal translator
+- Food compass
+- Portable heat based radar
+- Leather armor
+- [[House Galling]] uniform
+- White tentacle. 
+- [[Pluto]]'s [[House Galling]] ID Card. 
+- [[Gemini (PC)]] [[House Galling]] ID Card.
+- 2 2d4 healing formulas
+- 2 aphrodisiac formulas
+- 2 +2 CHA formulas
+- 2 +2 DEX formulas
+- 2 2d4 harming formulas
+
+Ammo Pouch:
+- 33 charges
+
+Wallet:
+- 1730c
+- 0cp
+- 0sp
+- 0gp
