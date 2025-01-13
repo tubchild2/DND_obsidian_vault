@@ -52,14 +52,14 @@ The [[House Galling]] brand nutrient paste dispenser.
 	(AIDEN, DO A LUCK ROLL) anything a 7 jams it, pooling paste all over the floor. Otherwise, you get some nutrient paste. 
 There are some cabinets below the sink.
 	Inside are some cubic cans neatly stacked into big piles. They're labeled [[House Galling]] Meat Product. You have no idea if it's edible. 
-	There's also a book on mixology left behind by someone named Owen. It has a bunch of drink recipes. See [[Drink Catalogue]] 
+	There's also a book on mixology left behind by someone named Owen. It has a bunch of drink recipes. 
 		- Plasma Pucker
 		- Void's Embrace
 		- Nebula Nectar
 		- Titanium Sunrise
 		- Lunar Eclipse
 There's an open cookbook on the counter.
-	It was owned by someone on the crew right before you named Kellen. It's got a whole bunch of recipes in there that you might be able to cook. Someone was just reading it. See [[Drink Catalogue]] for DCs. 
+	It was owned by someone on the crew right before you named Kellen. It's got a whole bunch of recipes in there that you might be able to cook. Someone was just reading it. 
 		- Jellyfish Pie
 		- Elysian Snake Steak
 		- Venusian Fire Pepper Salad
@@ -137,7 +137,7 @@ You get on the computer and open up the ship's records. Could I get an investiga
 | 2-5                  | You intercept what sounds like a commercial for a Proxima Burger from Proxima Centauri B. "Eat like a winner!"                                                                                                                                                                             |
 | 6-10                 | You kind of hear what sounds like a robotic voice, but there's heavy interference cutting through it.                                                                                                                                                                                      |
 | 11-15                | You hear two Japanese men arguing, but it's too staticky to make things out.                                                                                                                                                                                                               |
-| 16-20                | You hear two Japanese men arguing. If you speak Japanese, you understand what they're saying. One says, "It's impossible! No one's found any of that in centuries!" The other says, "I know my equipment. Go tell the Gallings." You then hear some whining radio tuning, and it cuts out. |
+| 16-20                | You hear two Japanese men arguing. If you speak Japanese, you understand what they're saying. One says, "It's impossible! No one's found any of that in centuries!" The other says, "I know my equipment. Go tell [[House Galling\|the Gallings]]." You then hear some whining radio tuning, and it cuts out. |
 
 
 ### *Cabins*

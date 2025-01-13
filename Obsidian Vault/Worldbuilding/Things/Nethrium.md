@@ -1,7 +1,8 @@
 ![[Nethrium fragments.png]]
 # History
-- Can only be made by a [[Primordial]] at a weak spot in spacetime. It's important to note that [[Primordial]] entities will not attempt to exit the weak spot in spacetime unless it's already large and stable. Nethrium is only made when this process fails, so it cannot be farmed. 
-- Can be found inside of Theophanous entities, as they connect a [[Primordial]] to the physical world, and is typically the chosen material for themselves due to it being remarkably strong and easily producible for them. 
+- When boiled, it becomes a gate to [[Caldwell's Field]] proportionate to the volume of Nethrium boiled.
+- Can be found inside of [[Caldwell's Field|Primordial]] Avatars and Theophany.
+- Can only be made by a [[Caldwell's Field|Primordial]]. 
 # Physical Properties:
 - Appearance: solid black, with purple streaks through it. 
 - Density: 3g / cm^3
@@ -9,7 +10,7 @@
 	- It's true structure is beyond our plane of reality. 
 	- Can flex spacetime.
 	- Impossibly dense, leading to perfect energy distribution. I.E. indestructible and heat-resistant. 
-	- The only known material capable of interacting with [[Caldwell's Field]]. When boiled, it opens a tiny gateway. To open a sizeable one, you'd need several cubic feet of the stuff. 
+	- The only known material capable of interacting with [[Caldwell's Field]].
 
 # ETC:
 - Worth: ~2.853 million credits / gram
@@ -19,19 +20,9 @@
 
 # Temperature Information
 Solid:
-- Attracted to heat when below 35 degrees C.
-- Melts at 15,000,000 degrees C
+- Melts at 5,500 degrees Celsius
 Liquid:
-- Contains at minimum 28,486,507,500 joules per gram
-- 146 grams ~ Tsar Bomba
-- Instantly ionizes anything on contact. 
-- Boils at 110,052,100,981,490 degrees C
+- Boils at 150,000 degrees Celsius
 Gas:
-- Contains at minimum 208,999,999,999,998,140 joules per gram
-- 0.00000200191 grams ~ Tsar Bomba
-- This temperature is beyond impossible to reach
-- Ionizes at 807,430,885,310,570,600,000 degrees C
-Plasma:
-- Contains at minimum 1,533,392,398,008,747,200,000,000 joules per gram
-- This temperature is beyond impossible to reach
-- 0.00000000272859055 grams ~ Tsar Bomba
+- Forms a Gate
+- Ionizes at 3,000,000 degrees Celsius

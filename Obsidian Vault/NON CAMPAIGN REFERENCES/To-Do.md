@@ -14,7 +14,8 @@
 - Redo item cards. They should not have designs, as they're exchangeable. They should match items in the PC's digital inventories. Copy information off the catalogues. 
 - Design ability cards for Bjorn
 - Reprint all minis on fine, and securely store them. 
-- Make a page of DM Reminders so that you don't goof up.
+- Make a page for house rules
+- Make a page for DM reminders. 
 - Restock on tape, folders, index cards
 
 ### Some time

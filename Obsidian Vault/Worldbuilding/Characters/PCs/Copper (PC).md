@@ -56,7 +56,7 @@ Saving throw proficiencies:
 - Bardic inspiration: 2 uses per long rest. Giving inspiration lets them add 1d6 to any check once.
 - Cutting Words. Expend 1 Bardic Inspiration use. Roll 1d4, then subtract it from any check once. 
 
-[[Songs]] (see [[Songs]])
+[[Spins]] (see [[Spins]])
 - Vicious Mockery (Level 0 Song)
 - Healing Words (Level 1 Song)
 - Dancing Lights (Level 1 Song)
@@ -68,9 +68,9 @@ Saving throw proficiencies:
 
 Song statistics:
 - You can store 2 cantrips
-- You can store 6 [[songs]]
-- You can use lvl 1 [[songs]] 4 times per long rest
-- You can use lvl 2 [[songs]] 2 times per long rest
+- You can store 6 [[Spins]]
+- You can use lvl 1 [[Spins]] 4 times per long rest
+- You can use lvl 2 [[Spins]] 2 times per long rest
 
 Inventory:
 - Twin Daggers
