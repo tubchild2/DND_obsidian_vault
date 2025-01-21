@@ -1,7 +1,0 @@
-- Better folders for characters
-- Tasha's Cauldron of Everything
-- Monster Manual 2024
-- Mordenkainen Presents: Monsters of the Multiverse
-- Xanathar's Guide to Everything
-- Mythic Odysseys of Theros
-- Eberron: Rising from the Last War

@@ -7,28 +7,32 @@ aliases:
 ---
 # Hunt Planning Guide
 #### Lore Progression
-- The history of [[House Galling]] and their private dealings.
-- [[Bradford]]'s introduction.
-- The rivalry between [[House Galling]] and [[the Party]]
+- The history of [[House Galling]] and the [[Doctrine of St. Galling|CSG]]. 
+- [[Bradford]]'s introduction. Detached, strange history, clearly hiding something since he's 2000 years old. Yet, he doesn't care about anything besides that statue.
+- The rivalry between [[House Galling]] and [[the Party]] gets established
 - [[Pluto]]'s history, the impact of the heist. 
+
 - The [[Doctrine of St. Galling|DSG]] 
 - The [[Nethrium]] and the [[Mano di Dio]]. Beginning of [[Pluto]]'s research
 - Reveal of what [[Pluto]] actually stole / what the heist really was.
-- The [[Armstrong Initiative]] and the [[Tessali]]
-- [[Bradford]]'s life story* (exclude visons and [[Primordial|primordials]])
-- The final trials. Finale of [[Pluto]]'s research, his encounter with a [[Primordial]], reveal of what [[Bradford]] really wants with the [[Mano Di Dio]]. The true nature of the [[Tessali]], and the [[Primordial|Primordials]] is kept secret. 
-- The final resting place of the [[Mano Di Dio]], the [[Tessali]], and [[Pluto]]. [[Pluto]] wanted to destroy the [[Tessali]] and the [[Mano di Dio]], but lacked the power. 
+- The [[Armstrong Initiative]] and the [[Tessali]]'s history with them
+
+- [[Bradford]]'s life story* (exclude the deal with [[Primordial of Command|Tod]])
+- The final trials. Reveal of what happened on [[Merak-B]], reveal of what [[Bradford]] really wants with the [[Mano Di Dio]], and information about the [[Heretics]] and [[Pluto]] meeting on [[Merak-A]] for an immediate summons. 
+- [[Merak-A]], the [[Heretics|Heretic]] conflict, and the [[Tessali]]'s dungeon. 
+- Reveal of [[Caldwell's Field|Ether]], [[Caldwell's Field|Primordials]], and what the [[Tessali]] is. Reveal that [[Bradford]] has an arrangement with a [[Caldwell's Field|Primordial]], but he doesn't know that's what it is. 
+
+- [[Primordial of Command|Tod]]'s reveal? [[Primordial of Command|Tod]]'s plan succeeds? 
 
 #### Escalating Rivalrous Encounters
-- Rookie law enforcers.
-- Squadron of law enforcers.
+- Rookie law [[CSG and HG Soldiers|enforcers]].
+- Squadron of law [[CSG and HG Soldiers|enforcers]].
 - Battalion of soldiers with their commander.
-- Guns for hire.
-- Experimental weapons
-- [[Doctrine of St. Galling|DSG]]
-- Strike team of specialists.
+- Strike team / guns for hire. [[House Galling]]'s bounty hunting army.
+- The [[Inquisitors]]
 - Powerful beast hunting [[the party]].
-- The full army of [[House Galling]].
+- The full army of [[House Galling]] as commanded by the Keeper. 
+- [[Bradford]]'s personal advisors.
 - [[Bradford]]'s right hand man.
 - [[Bradford]] himself. 
 
@@ -42,7 +46,7 @@ aliases:
 
 # Session Concepts
 ### The Vengeance of [[Dale Borland]]
-**Date**: Any time past November 20th 2025
+**Date**: Session 5+
 
 **Plot**:
 He follows the tracks of [[the party]] onto the surface of [[Vivimus]]. He finds out about [[Pluto]]'s hunt and couldn't care less. He trails behind them, getting closer and closer. 
@@ -63,12 +67,10 @@ Investigating what destroyed Taure's village, and why it / they took the heirloo
 While on their way, they stop at Mt. Stinkus to stay with Taure's parents. They might even get involved in the conflict and help their little boy steal his money. They're really sweet sounding, but have some truly disturbing world views that passed down to Taure. 
 
 ### The Pride of the Kenku
-Investigating what caused Corvus' amnesia, and why? His people were involved in a rebellion against [[House Galling]]. They declared independence, and were massacred. Corvus was traumatized at a very young age, and doesn't remember any of it. 
-Corvus finds out what happened to his family
+Investigating what caused Corvus' amnesia, and why? His people were involved in a rebellion against the [[Doctrine of St. Galling|Church of Saint Galling]]. They declared independence, and were massacred by [[Inquisitors]]. Corvus was very young at the time, and barely remembers it. There are more Kenku out there, but they're rare, and scattered. 
 
 ### Leonin Genesis Evangel Lion 
-Investigating what created Copper, and why? He was involved with a subsect of the [[Armstrong Initiative]], and he managed to escape with an [[incarnadine gate]]. 
-He had something to do with [[Doctrine of St. Galling|DSG]]. 
+Investigating what created Copper, and why? He was involved with a subsect of the [[Armstrong Initiative]], and he managed to escape with an [[incarnadine gate]]. The scars are from experimentation.
 
 # Plot Concepts
 ### General:
@@ -116,7 +118,7 @@ He had something to do with [[Doctrine of St. Galling|DSG]].
 - Shapeshifter / Doppelgangers. 
 - Lemonade stand mafia
 - Quantum locked creatures. 
-- Triple illithid empires that wiped each other out. They have knowledge of the [[Primordial|primordials]], but only exist in tiny fractions in modern times. 
+- Triple illithid empires that wiped each other out. They have knowledge of the [[Caldwell's Field|primordials]], but only exist in tiny fractions in modern times. 
 ### NPCs:
 - Man with a pumpkin head
 - Pillsbury dough man

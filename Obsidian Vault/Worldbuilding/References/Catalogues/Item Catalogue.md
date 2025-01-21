@@ -1,3 +1,57 @@
+---
+aliases:
+  - Janky Flashlight
+  - Jank Flashlight
+  - Janky Flashlights
+  - Jank Flashlights
+  - Flashlight
+  - Flashlights
+  - House Galling Uniform
+  - House Galling Uniforms
+  - Exosuit
+  - Exosuits
+  - Fernite Vaccine
+  - Fernite Vaccines
+  - Fernite Vaccinations
+  - Fernite Vaccination
+  - Taure House Galling ID Card
+  - Corvus House Galling ID Card
+  - Copper House Galling ID Card
+  - Gemini House Galling ID Card
+  - Bjorn House Galling ID Card
+  - Pluto House Galling ID Card
+  - Pluto's Note
+  - Pluto's Cottage Maps
+  - Moon Boots
+  - Map of Pluto's Cottage
+  - Maps of Pluto's Cottage
+  - Pluto's Cottage Map
+  - Short range teleporter
+  - Universal translator
+  - Food compass
+  - Portable heat based radar
+  - Short range teleporters
+  - Universal Translators
+  - Food compasses
+  - Portable heat based radars
+  - Stuffed Glorby
+  - Stuffed Glorbies
+  - Portable Library
+  - Portable Libraries
+  - Screamo-10
+  - Mercury Sinking Boots
+  - Boots for sinking in mercury
+  - Ring of Frostbite
+  - Frostbite Ring
+  - Bow of Drunkenness
+  - Rings of Frostbite
+  - Frostbite Rings
+  - Bows of Drunkenness
+  - Yoichi Hairpiece
+  - Yoichi Hairpieces
+  - Illidium Dreadnave Arm
+  - Illidium Dreadnave Arms
+---
 ## Common
 - Janky Flashlight. Grants darkvision for 40ft, but imposes disadvantage on all investigation and perception checks. 
 - Flashlight. Grants darkvision for 40ft. 
@@ -6,11 +60,11 @@
 - [[Fernites|Fernite]] Vaccine. 200c. 
 
 ## Uncommon
-- [[Taure (PC)]] [[House Galling]] ID Card. "20121185: R1"
-- [[Corvus (PC)]] [[House Galling]] ID Card. "31518222119: R1"
-- [[Copper (PC)]] [[House Galling]] ID Card. "3151616518: R1"
-- [[Gemini (PC)]] [[House Galling]] ID Card. "75139149: R1"
-- [[Bjorn (PC)]] [[House Galling]] ID Card. "210151814: R1"
+- Taure [[House Galling]] ID Card. "20121185: R1"
+- Corvus [[House Galling]] ID Card. "31518222119: R1"
+- Copper [[House Galling]] ID Card. "3151616518: R1"
+- Gemini [[House Galling]] ID Card. "75139149: R1"
+- Bjorn [[House Galling]] ID Card. "210151814: R1"
 - [[Pluto]] [[House Galling]] ID Card. "1612212015: R331"
 - [[Pluto]]'s note. See [[Session 0.1 - The Cottage]]. 
 - [[Pluto]]'s cottage map. Displays his cottage, with a red X over the location of his secret basement entrance.
@@ -28,7 +82,7 @@
 
 ## Rare
 - Yoichi Hairpiece. A symbol of honor among the Yakuza. 
-## Legendary
-- [[Nethrium]] Vial. Contains 1 gram of pure [[Nethrium]]. 
-- White tentacle. The severed and drained tentacle of the [[Tessali]]. 
-- Cybernetic Arm. Gives one arm exactly 20 STR, and 20 DEX when used for a task. Does not grant the PC these stats, only this one arm. Replaces an actual arm on a medium humanoid. As an *additional* bonus action, you can make an attack action with this arm using any one handed weapon. This arm can make an unarmed strike for 1d20 + 10 bludgeoning damage. Worth 300,000.
+- [[Illidium]] [[CSG and HG Soldiers|Dreadnave]] Arm. 
+	- When equipped, it gives you another action each turn that can only use that arm. This action has advantage on all STR, DEX, and CON checks.
+	- Replaces an actual arm on a medium humanoid. . 
+	- This arm can make an unarmed strike for 2d12 + STR bludgeoning damage.

@@ -32,7 +32,7 @@
 | 16-20          | You know it immediately, you've avoided this planet your whole life. [[Vivimus]] is a horrifying place. Chemical rivers, fiery parasites, earth-shattering volcanoes, toxic fog, and some of the most hostile wildlife in the known galaxy. If you landed this crappy ship on its surface, you'd be eaten alive by the time the second sun rises.<br>You also recognize [[Vivere Mori]], the city it's trying to take you to. It's protected from the forces of nature, but it's the location of [[House Galling]] HQ, and is one of the seediest, most criminal infested cities in the known galaxy. |
 
 ### *Bathroom*
-The smell hits you first—a sour blend of disinfectant, rotten eggs, and [[Taure (PC)]]'s rancid craps. The cramped bathroom is a dingy shade of industrial green, with scuffed walls and a toilet that’s little more than a glorified portapotty. A faded digital display on the seat blinks: **"2 credits for 15 minutes"** in cheerful yellow letters.
+The smell hits you first—a sour blend of disinfectant, rotten eggs, and [[Taure (PC)]]'s rancid craps. The cramped bathroom is a dingy shade of industrial green, with scuffed walls and a toilet that’s little more than a glorified portapotty. A faded digital display on the seat blinks: **"2 [[Galactic Standards|credits]] for 15 minutes"** in cheerful yellow letters.
 
 On the wall, a glossy poster from **[[House Galling]]** beams down at you. It shows a cartoonish businessman giving a thumbs up with the slogan "WIPE THOROUGHLY ON COMPANY TIME."
 
@@ -48,7 +48,7 @@ The kitchen feels like something out of a forgotten era. The cracked, dirty whit
 
 
 The [[House Galling]] brand nutrient paste dispenser. 
-	There's a blinking yellow light demanding 2 credits per use. 
+	There's a blinking yellow light demanding 2 [[Galactic Standards|credits]] per use. 
 	(AIDEN, DO A LUCK ROLL) anything a 7 jams it, pooling paste all over the floor. Otherwise, you get some nutrient paste. 
 There are some cabinets below the sink.
 	Inside are some cubic cans neatly stacked into big piles. They're labeled [[House Galling]] Meat Product. You have no idea if it's edible. 
@@ -157,7 +157,7 @@ The room is sweltering, directly connected to the maintenance area, and the heat
 
 | Roll (perception) | Result                                                                                                                                                                                                                                                                                                                                     |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1-10              | Most of the crates are just full of uniforms, flashlights, nutrient paste, and canned meat. There doesn't seem to be anything interesting here.                                                                                                                                                                                            |
+| 1-10              | Most of the crates are just full of uniforms, and [[Item Catalogue\|flashlights]].                                                                                                                                                                                                                                                                             |
 | 11-20             | You notice a large wooden crate in the corner. It has the words "DO NOT OPEN" stamped on it in deep red lettering. It's splintering, damaged, and looks very old.<br>Its hinges are busted, and it looks like it was recently forced open. There's nothing inside but a few shreds of paper with the symbols "HG.AI-20" imprinted on them. |
 
 

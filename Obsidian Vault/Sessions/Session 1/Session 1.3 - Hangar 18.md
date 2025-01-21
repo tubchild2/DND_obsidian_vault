@@ -1,3 +1,4 @@
+![[Hangar 18 finished.png]]
 # Checkpoint 18
 **Ambience**:
 - https://open.spotify.com/playlist/6UEti90f4RT12zyDSDgl3v?si=2db071e6dc944b3c&pt=c1d84ecd24ece67b9c9c2f4904665558
@@ -35,13 +36,13 @@
 - He deactivates the barrier and you fly forward into the Hangar. 
 # Hangar 18 (Act 1)
 - You see some concrete platforms with roman numerals marking parking spots. A red hobgoblin exits his office in the cliff and begins waving your ship onto the first spot. You hear a loud clunk and some rattling as the landing gear engages, and the ship parks itself. What do you do?
-- As you're walking out, you see the hobgoblin examining your ship. He's squinting at some things, poking around, and then he effortlessly pulls a bolt out of the exterior of your ship and lets out this forced, wheezy, drawn out laugh. "I don't understand [[House Galling]]'s insistence on these crappy 30 year old ships. If you guys ever want a new ship, let me know. Ok... Entrance into the city is through that door." He points to a circular door in the cliff side. 
+- As you're walking out, you see the hobgoblin examining your ship. He's squinting at some things, poking around, and then he effortlessly pulls a bolt out of the exterior of your ship and lets out this forced, wheezy, drawn out laugh. "I don't understand [[House Galling]]'s insistence on these crappy 30 year old ships. If you guys ever want a [[new ship]], let me know. Ok... Entrance into the city is through that door." He points to a circular door in the cliff side. 
 	- He's named Chav Cymbeline. He's brash, bold, selfish, and loves the city, the violence, the greed, the action, and the abundance of customers. He got a bionic eye because his original eye was gouged out in combat. 
 		- He'll let them design it now with graph paper. 
-		- He says he'll have to put their ship through the system, so they should come back later to pay. He gives them a pager to let them know when their ship will be done. It'll be 20,000 credits, so make sure they have the money.
-			- 20 gold / 200 silver / 2,000 copper / 20,000 credits
+		- He says he'll have to put their ship through the system, so they should come back later to pay. He gives them a pager to let them know when their ship will be done. It'll be 20,000 [[Galactic Standards|credits]], so make sure they have the money.
+			- 20 gold / 200 silver / 2,000 copper / 20,000 [[Galactic Standards|credits]]
 			- If they offer him silver he scoffs, then gets offended. 
-				- "What is this? Is this a joke? You think because I'm a hobgoblin I use CSG currency? You think because I have eye implants I can't tell what's what? That's pretty racist man."
+				- "What is this? Is this a joke? You think because I'm a hobgoblin I use [[Doctrine of St. Galling|CSG]] currency? You think because I have eye implants I can't tell what's what? That's pretty racist man."
 
 # Hangar 18 (Act 3)
 ### Ambience
@@ -62,14 +63,14 @@ I'm going to need everyone to roll initiative
 ## References
 **Crates**:
 
-| Roll  | Result                                                                                                                                    |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Just a straight up dookie. Nothing else either, just a nice log neatly placed in a large crate.                                           |
-| 2-5   | It's a shipment of expired food packets. They're apple flavored.                                                                          |
-| 6-10  | Basic supplies like batteries, bolts, and wires.                                                                                          |
-| 11-15 | Blueprints for a stun baton.                                                                                                              |
-| 16-19 | You see wrapped plastic bags containing some kind of yellow powder (Overclock), as well as some delivery instructions from [[House Galling]]. |
-| 20    | You find a strange device that seems to be a portable heat based radar.                                                                   |
+| Roll  | Result                                                                                                                                            |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Just a straight up dookie. Nothing else either, just a nice log neatly placed in a large crate.                                                   |
+| 2-5   | It's a shipment of expired food packets. They're apple flavored.                                                                                  |
+| 6-10  | Basic supplies like batteries, bolts, and wires.                                                                                                  |
+| 11-15 | Blueprints for a stun baton.                                                                                                                      |
+| 16-19 | You see wrapped plastic bags containing some kind of yellow powder ([[Overclock]]), as well as some delivery instructions from [[House Galling]]. |
+| 20    | You find a strange device that seems to be a [[Item Catalogue\|portable heat based radar]].                                                       |
 
 
 ### Enemies

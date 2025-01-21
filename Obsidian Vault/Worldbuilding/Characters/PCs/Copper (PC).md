@@ -10,8 +10,9 @@ Max HP: 23
 AC: 10
 Speed: 35 
 Age: 24
-Spell Save DC: 12
-Spell Attack Mod: 4
+Song Save DC: 12
+Song Attack Mod: 4
+Song Mod: CHA
 
 Strength: 10 (0)
 Dexterity: 7 (-1)
@@ -51,10 +52,10 @@ Saving throw proficiencies:
 - Stupid
 
 ### Abilities:
-- Retractable Claws: Melee attack for (1d4 + strength modifier) damage
-- Daunting Roar: As a bonus action, roll a d20. As long as your roll is above their wisdom, you can instill fear in them until the end of the turn. 
-- Bardic inspiration: 2 uses per long rest. Giving inspiration lets them add 1d6 to any check once.
-- Cutting Words. Expend 1 Bardic Inspiration use. Roll 1d4, then subtract it from any check once. 
+- Retractable Claws.
+- Daunting Roar.
+- Bardic inspiration.
+- Cutting Words. 
 
 [[Spins]] (see [[Spins]])
 - Vicious Mockery (Level 0 Song)
@@ -73,12 +74,13 @@ Song statistics:
 - You can use lvl 2 [[Spins]] 2 times per long rest
 
 Inventory:
-- Twin Daggers
-- [[Nethrium]] Vial
+- 2 Daggers
+- [[Nethrium]] Vial (1g)
 - Saxophone
-- Janky Flashlight
+- [[Item Catalogue|Janky Flashlight]]
 - Entertainer's pack
-- [[House Galling]] uniform.
+- [[Item Catalogue|House Galling Uniform]]
+- Leather Armor
 
 Ammo pouch:
 - 0 charge

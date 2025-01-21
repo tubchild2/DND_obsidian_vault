@@ -67,11 +67,11 @@ Inventory:
 - Handaxe
 - Bag of Holding. 
 - Explorer's pack.
-- Flashlight.
+- [[Item Catalogue|Flashlight]].
 - [[Taure (PC)]] [[House Galling]] ID Card. 
-- [[House Galling]] uniform.
-- Laser Pistol (+2 to hit).
-- Plasmorb Shotgun. 
+- [[Item Catalogue|House Galling Uniform]]. 
+- [[Weapon Catalogue|Plasma Pistol]] (+2 to hit).
+- [[Weapon Catalogue|Plasmorb Shotgun]]. 
 
 Ammo Pouch:
 - 0 charges

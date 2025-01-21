@@ -61,7 +61,7 @@
 **Interior**
 - You guys walk in, and are immediately met with an overwhelming barrage of sensory input. A thick haze of smoke fills the air, swirling and dancing beneath the neon red lights. 
 - The room is massive, and split into a couple sections. There's a seating area, slot machines, a table playing some kind of wagering game, a bar, and a backdoor to the side of the bartender. What do you do?
-	- (Let them roleplay for a little while) Could I get a perception check from Gemini? Out of the corner of your eye you notice a Tanto (a Japanese knife) hanging in front of the back door. When you were in the Yakuza, people would use that as a warning against entering that room.
+	- (Let them roleplay for a little while) Could I get a perception check from Gemini? Out of the corner of your eye you notice a [[Weapon Catalogue|Tanto]] (a Japanese knife) hanging in front of the back door. When you were in the Yakuza, people would use that as a warning against entering that room.
 	- The bartender is named Chaz Grober. If you try to buy anything alcoholic, he sighs, pulls out a massive book, and asks for their species and age.
 		- Finding a way to distract the bartender and enter the backdoor gives you this. Behind the door is a cramped hallway that it doesn't look like Taure can fit into. The hallway leads to a single metal door marked with the symbol of [[House Galling]]. 
 			- Inside, you find a room constructed entirely from white tiles, and in the corner, you see a fire genasi slumped against the wall. She's lifeless, her eyes and mouth half-opened. Her clothes stretched and ripped. She died recently. 
@@ -109,16 +109,16 @@ Slot Machines (Standard)
 	- Lawrence Dumaine. He lives alone, hasn't been doing great since Evelyn left him, and eats expired yogurt for all 3 meals since it's all he can afford. His daughter won't speak to him, since they both found out he wasn't her real father. 
 - You can buy, sell, or appraise anything you want. 
 	- A compass that points to the nearest edible item. He bought this from a fat gnome he met on his last visit to Proxima Centauri B. 
-	- A stuffed Glorby. The Adventures of Glorby is an alien cartoon show popular on Kepler-22b. In each episode, Glorby faces a new bully who teaches him a new lesson about life. He uses his words to dismantle the situation, then engages the bully in gladiatorial combat. It's a different culture.
-	- A universal translator. Handy, pretty new, he bought it on his most recent visit to mars. 
-	- A portable library device. It resembles a flip-phone. It's pretty old. It was made back when the [[federation]] was trying to market the internet to the rest of [[the Galaxy]], who promptly denied it. 
-	- A hoverboard that gets faster the louder the user screams. Created as a training toy for kids on a planet called Screamo-10. Scream endurance is important to their culture.  
-	- A short range teleporter. It works once a day, and can teleport you up to 60ft. It was tinkered by some gnomes he met on a space station. It uses an enormous amount of energy because it uses FTL warp drive technology.  
+	- A [[Item Catalogue|stuffed Glorby]]. The Adventures of Glorby is an alien cartoon show popular on Kepler-22b. In each episode, Glorby faces a new bully who teaches him a new lesson about life. He uses his words to dismantle the situation, then engages the bully in gladiatorial combat. It's a different culture.
+	- A [[Item Catalogue|universal translator]]. Handy, pretty new, he bought it on his most recent visit to mars. 
+	- A [[Item Catalogue|portable library]] device. It resembles a flip-phone. It's pretty old. It was made back when the [[federation]] was trying to market the internet to the rest of [[the Galaxy]], who promptly denied it. 
+	- A hoverboard that gets faster the louder the user screams. Created as a training toy for kids on a planet called [[Item Catalogue|Screamo-10]]. Scream endurance is important to their culture.  
+	- A [[Item Catalogue|short range teleporter]]. It works once a day, and can teleport you up to 60ft. It was tinkered by some gnomes he met on a space station. It uses an enormous amount of energy because it uses FTL warp drive technology.  
 	- A pair of boots for sinking in liquid mercury. He traded them from someone for some Venusian pottery a couple months ago. 
-	- A ring of frostbite. Deals cold damage if worn too long. 
+	- A [[Item Catalogue|ring of frostbite]]. Deals cold damage if worn too long. 
 	- Moon shoes. Make you jump 20ft into the air. Unfortunately, you do still take 100% fall damage.
 	- Bow and arrow. Only shoots where you want it to when you're blackout drunk.
-	- Chekhov's Gun. It's a shockingly powerful revolver that's really old. However, no matter what Lawrence does, he can't get the dang thing to fire. It's 1c, since it's broken, but if you can fix it, he estimates it being powerful enough to vaporize someone. 
+	- [[Weapon Catalogue|Chekhov's Gun]]. It's a shockingly powerful revolver that's really old. However, no matter what Lawrence does, he can't get the dang thing to fire. It's 1c, since it's broken, but if you can fix it, he estimates it being powerful enough to vaporize someone. 
 		- It gets loaded whenever observed. It then waits a long time, before shooting when it's most dramatic. Deals 5d20 damage, but cannot be controlled by the user. Can fire once per session at maximum, but typically waits through entire campaigns. No one knows where it came from, but it can fly and typically moves when not observed to follow it's owner. 
 - If you show him the [[Nethrium]], he quietly gasps. He says to put it away. He says he doesn't want trouble, and tells them to leave. If they don't, he closes his shop and shuffles away. 
 ### The Obscura Athenaeum - Fumewood

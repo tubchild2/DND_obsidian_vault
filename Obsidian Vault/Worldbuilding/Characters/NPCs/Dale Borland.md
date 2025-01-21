@@ -1,34 +1,52 @@
+---
+aliases:
+  - The Reaper
+---
 ![[Dale Borland.jpg]]
 
 ### Stats
 Full Name: David Dale Borland
+Alias: The Reaper
 Age: 41
-Height: 5'10"
+Height: 5'11"
 
 Race: Human
 Max HP: 95
 AC: 18
 Speed: 35ft/s
 
-STR: 15
-DEX: 16
-CON: 17
-WIS: 13
-CHA: 19
+STR: 17
+DEX: 18
+CON: 20
+WIS: 11
+CHA: 14
 INT: 18
 
-Theme Song: https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz?si=7592ba0a11e54b79
-Time by Pink Floyd. 
+Theme Song: https://open.spotify.com/track/53xdABEP9hyvBwvuXpzeXG?si=3d8c18757ec14e2a
+The Winter Soldier
 
 Proficiencies:
-- Perception
 - Persuasion
+- Athletics
 - Stealth (EX)
+
+### Abilities
+- [[Illidium]] [[CSG and HG Soldiers|Dreadnave]] Arm. 
+	- When equipped, it gives you another action each turn that can only use that arm. This action has advantage on all STR, DEX, and CON checks.
+	- Replaces an actual arm on a medium humanoid. . 
+	- This arm can make an unarmed strike for 2d12 + STR bludgeoning damage. 
+	- Worth 300,000c.
+- 30% [[CSG and HG Soldiers|Dreadnave Serum]]
+	- +3 to all STR checks and saving throws.
+	- +3 to all DEX checks and saving throws.
+	- +3 to all CON checks and saving throws.
 
 ### Appearance and Personality:
 He dressed in a long brown trench coat that covered his weapons, a bandana to cover the damage to his mouth, a cowboy hat to hide his eyes, and spurred boots to alert people to his presence. 
 
-He had developed a slow, deep, southern accent. He's quiet, and doesn't talk much. He's genuinely a caring man, who refuses to harm anyone besides [[the party]]. He's still very fatherly, and cares deeply about protecting children and families. He sees no way of getting back what he lost, so he wants to avenge it before he dies. 
+He had developed a slow, deep, southern accent. He's quiet, and doesn't talk much. He's genuinely a caring man, who refuses to harm anyone besides [[the party]], known murderers, [[Bradford]], and [[CSG and HG Soldiers]]. He likes the [[Heretics]], since he hates [[House Galling]] and their branches. He's still very fatherly, and cares deeply about protecting children and families. He sees no way of getting back what he lost, so he wants to avenge it before he dies. 
+
+However, all of that goes away once he's near his target. He loses all emotion, enters a state of pure focus, and hunts. He doesn't make jokes, he doesn't talk, he just throws everything he has at his target until they drop. 
 
 ### Backstory (SOME HASN'T HAPPENED YET)
 On September 8th 12024, [[Taure (PC)]], [[Gemini (PC)]], and [[Corvus (PC)]] entered his gun store in the city of [[Vivere Mori]]. Dale and his family were on the eccentric side, but they were happy despite their unfortunate living conditions. Dale was shot twice by [[Gemini (PC)]] and collapsed on the ground. His 7 year old son Reed was the crushed and disemboweled in front of him by [[Taure (PC)]]. Not long after, his wife Alanna was hacked to pieces by [[Gemini (PC)]]. The stress caused her to give birth to their baby girl, who was then bisected by [[Gemini (PC)]]. 
@@ -39,15 +57,16 @@ From the 9th to the 13th, he sobered up, lived out of his ship, and began dwelli
 
 On September 14th, He began collecting parts and fabricating his own weapons out of his ship. His sobriety, focus, and expertise made him one of the most devastating weapon makers in [[The Galaxy|central plate]]. He spent all day every day honing his mind and body. After a month of rigorous discipline he had become a borderline unstoppable assassin. 
 
-On November 19th 2025, he broke into [[House Galling]]'s military reserves and stole a cybernetic arm, which he then modified to fit his needs. He then completed crafting a deadly arsenal of customized weapons. 
+On November 19th 2025, he hijacked an [[Armstrong Initiative]] shipment and stole 30% concentration [[CSG and HG Soldiers|dreadnave serum]], and an [[Illidium]] [[CSG and HG Soldiers|dreadnave]] arm. This made him significantly stronger, faster, tougher, and more precise. 
+
 
 ### Inventory
-- Bottomless Revolver x2
-- Bottomless Sniper Rifle
+- [[Weapon Catalogue|Bottomless Revolver]] x2
+- [[Weapon Catalogue|Bottomless Sniper Rifle]]
 - Cybernetic Arm
 - Dagger x2
-- Implanted Wrist Blade
-- Kunai x12
+- [[Weapon Catalogue|Implanted Wrist Blade]]
+- [[Weapon Catalogue|Kunai]] x12
 - Frag Grenade x4
-- Fire Grenade x4
-- Smoke Grenade x4
+- [[Weapon Catalogue|Fire Grenade]] x4
+- [[Weapon Catalogue|Smoke Grenade]] x4

@@ -25,7 +25,9 @@ Alignment: Chaotic Good
 Height: 5' 10"
 Weight: 140lbs
 Age: 22
-Theme Song: The Kraken from Pirates of the Caribbean: Dead Man's Chest. 
+
+Theme Song: Lure of Adventure from the Uncharted 4 OST
+Theme Playlist: https://open.spotify.com/playlist/2Eb0MarMoJjqUO7NS3eHGx?si=d8119196a8364329 
 
 
 
@@ -43,7 +45,8 @@ Theme Song: The Kraken from Pirates of the Caribbean: Dead Man's Chest.
 
 
 ---
-## Proficiencies
+## Skills and Proficiencies
+
 | Skill           | Inherits From | Proficiency | Bonus |
 | --------------- | ------------- | ----------- | ----- |
 | Acrobatics      | Dexterity     |             | +1    |
@@ -147,12 +150,13 @@ Wizard lvl 1 [[Spins]] (one use per long rest)
 - **Curious and Well Read.** Due to sailing with his parents, he spent his teen years travelling from manors to monasteries, making deals to access their libraries. He picked up a thing or two, and started tinkering with e-tech as a hobby. He was allowed to explore the towns they stayed in as long as he was careful and came back early. 
 - **Davy Jones' Locker.** His parents were going to dock in *Styxas*. While a day's journey off from *Nagoyor Port*, they spotted the black and Jacinth sails of pirates. They attempted to flee, but to the dismay of everyone on board, the Pirates were of a higher caliber than previously thought--they had a Kraken under their command. Its tentacles ripped his parents from the ship and pulled them into the waters below. The Pirates boarded the ship and began emptying it. Ratchet hid in a barrel, and peered through a small hole, where he spotted the captain. It was a horned dragonborn wearing a black leather outfit with a Jacinth eye on it. After returning to their ship the brigantine was smashed clean in two by the Kraken, and Ratchet plummeted into the *Ocean Wide*. Suddenly, he felt a flood of [[Caldwell's Field|Ether]] surge through him as his Folcryst Gland activated. Using mage hand and mending, he swam above the waves and fashioned a raft.  
 - **A New Home**. After floating to shore, he bought himself a small sloop to live out of. It's currently docked in *Nagoyor Port*. His sloop is called the Saline Tide after his parent's brigantine. It's been 2 years since the encounter with the kraken, and he's been exploring Styxas to further his plan.
-- **His Plan**. 
-	1. Research and find schematics for an anti-kraken weapon.
-	2. Unlock the secrets of e-tech and funneling by either partnering with, or stealing from the Folcrithian. 
-	3. Gain enough combat and adventuring experience to outmatch and solo a large group of people.
-	4. Learn the identities of the pirates. Find out why they raided them.
-	5. Kill their Kraken with the weapon, then take them out himself. 
+
+**Agenda**
+1. Research and find schematics for an anti-kraken weapon.
+2. Unlock the secrets of e-tech and funneling by either partnering with, or stealing from the Folcrithian. 
+3. Gain enough combat and adventuring experience to outmatch and solo a large group of people.
+4. Learn the identities of the pirates. Find out why they raided them.
+5. Kill their Kraken with the weapon, then take them out himself. 
 
 **Appearance**
 - Slim build.

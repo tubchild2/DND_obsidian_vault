@@ -4,7 +4,11 @@ aliases:
   - Church of the Doctrine of St. Galling
   - Church of St. Galling
   - CSG
+  - Church of Saint Galling
 ---
+## Location
+Located in northern [[Vivere Mori|Viviris]], inside of [[Vivere Mori]]. 
+
 ## Lessons
 The Doctrine of St. Galling revolves around strict principles regarding divinity, destiny, and hierarchy. They were meant to form a new church that was more connected to the roots of humanity.
 

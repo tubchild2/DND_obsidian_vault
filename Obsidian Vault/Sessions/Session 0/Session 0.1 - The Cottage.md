@@ -38,7 +38,7 @@ Storage room:
 	- 1: As you open the crate, a burst of mycelial spores enter your nose, eyes, mouth, and lungs. You're poisoned, and reduced to half hp. 
 	- 2 - 5: Nothing of note. Just some weathered papers and worms. 
 	- 6-10: Canned lithworms and other preserved meats and rations that are still good. 
-	- 11-15: A small pouch with 25 gp in it
+	- 11-15: A small pouch with 25 [[Galactic Standards|gp]] in it
 	- 16-19: A framed photo of [[Pluto]] with a large group of pirates.
 	- 20: You open the crate and see that 95% of it's space is just padding for what's in the middle. Remove the padding lets you find a small glass vial, with a fragment of inky purple steel inside.
 - If you're perceptive, you may notice an unusually shaped brass key. What it goes to you don't know.
@@ -54,7 +54,7 @@ Basement:
 - At the bottom of the stairs is a small muddy room, with a gold trimmed chest in the middle. There are handprints and claw marks in the walls. Was this dug by hand?
 - Inside the chest is a letter,
 	- To Whomever Finds This,
-		It has been four long decades since that fateful night—the night my crew and I plundered the secrets of [[House Galling]]. In my possession lies a treasure beyond comprehension: 404 billion credits worth of [[Nethrium]]. But this wealth has become a curse, a shackle binding me to shadows and whispers.
+		It has been four long decades since that fateful night—the night my crew and I plundered the secrets of [[House Galling]]. In my possession lies a treasure beyond comprehension: 404 billion [[Galactic Standards|credits]] worth of [[Nethrium]]. But this wealth has become a curse, a shackle binding me to shadows and whispers.
 		
 		This wasn’t what I thought. Something went wrong, and I now find myself burdened with a terrible responsibility. The weight of my guilt grows heavier each day, and the specters of my past are closing in. I barely escaped the clutches of one of their men, but I am no longer fit to carry this burden. The decades of running have worn me thin, and the pressure is suffocating.
 		

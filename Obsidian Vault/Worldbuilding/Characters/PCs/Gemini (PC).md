@@ -1,6 +1,6 @@
 ![[Gemini redone.png]]
 ### STATS
-Full Name: Gemeni #UNKNOWN
+Full Name: Gemeni Miamoto
 Race: Kalashtar
 	https://anyflip.com/rbal/zmrp/
 Level: 3
@@ -66,31 +66,35 @@ Saving throw proficiencies:
 - Mind Link: Can telepathically communicate with anything. Not passively though.
 - Mental Discipline: Resistance to psychic damage
 - Dual Mind: Advantage to all wisdom saving throws
-- Cunning Action: Can use a bonus action to dash, disengage, hide, or sleight of hand check
-- Sneak Attack: Can deal 1d6 extra damage if undetected
+- Cunning Action
+- Sneak Attack
+- Thieves' Cant
+- Weapon Mastery
+- Steady Aim
 
 Inventory:
-- Laser Pistol
-- Laser Pistol (+2 to hit)
-- Twin Daggers
-- Yoichi Revolver
-- Yoichi Katana.
+- [[Weapon Catalogue|Plasma Pistol]]
+- [[Weapon Catalogue|Plasma Pistol]] (+2 to hit)
+- 2 Daggers
+- [[Weapon Catalogue|Yoichi Revolver]]
+- [[Weapon Catalogue|Yoichi Katana]]
 - Thieves' tools
 - Burglar's pack
-- Janky flashlight
-- Universal translator
-- Food compass
-- Portable heat based radar
+- [[Item Catalogue|Janky flashlight]]
+- [[Item Catalogue|Universal translator]]
+- [[Item Catalogue|Food compass]]
+- [[Item Catalogue|Portable heat based radar]]
 - Leather armor
-- [[House Galling]] uniform
+- [[Item Catalogue|House Galling uniform]]
 - White tentacle. 
 - [[Pluto]]'s [[House Galling]] ID Card. 
 - [[Gemini (PC)]] [[House Galling]] ID Card.
-- 2 2d4 healing formulas
-- 2 aphrodisiac formulas
-- 2 +2 CHA formulas
-- 2 +2 DEX formulas
-- 2 2d4 harming formulas
+- [[Item Catalogue|Yoichi Hairpiece]]
+- 2 2d4 healing [[formulas]]
+- 2 aphrodisiac [[formulas]]
+- 2 +2 CHA [[formulas]]
+- 2 +2 DEX [[formulas]]
+- 2 2d4 harming [[formulas]]
 
 Ammo Pouch:
 - 33 charges

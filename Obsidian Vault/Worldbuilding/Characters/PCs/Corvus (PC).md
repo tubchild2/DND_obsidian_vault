@@ -2,7 +2,7 @@
 ### STATS
 Full Name: Corvus Corax
 Race: Kenku
-	https://archive.org/details/mordenkainen-presents-monsters-of-the-multiverse-dungeon-dragons-book-ocr/page/n23/mode/2up
+	https://online.anyflip.com/fgoih/myrh/mobile/index.html
 Level: 3
 Class: Rogue
 	https://www.dndbeyond.com/classes/2190883-rogue
@@ -51,34 +51,38 @@ Saving throw proficiencies:
 - JJ inspired
 
 ### Abilities:
-- Kenku Recall: Perfect memory. Before you roll, you can gain advantage on any check you're proficient in. 
-- Mimicry: Can mimic any sound or voice perfectly
-- Expert duplication: Can copy writing or craftwork with advantage
-- Cunning Action: Can use a bonus action to dash, disengage, hide, or sleight of hand check
-- Sneak Attack: Can deal 1d6 extra damage if undetected
+- Kenku Recall
+- Mimicry
+- Expert duplication
+- Cunning Action
+- Sneak Attack
+- Thieves' Cant
+- Weapon Mastery
+- Steady Aim
 
 ### Inventory:
-- Laser Pistol (+2 to hit)
-- Laster Pistol
-- Long neck rifle. 
-- Tanto
+- [[Weapon Catalogue|Plasma Pistol]] (+2 to hit)
+- [[Weapon Catalogue|Plasma Pistol]]
+- [[Weapon Catalogue|Long neck rifle]]. 
+- [[Weapon Catalogue|Tanto]]
 - Shortsword
 - Wakizashi (shortsword)
-- Twin Daggers
+- 2 Daggers
+- [[Weapon Catalogue|Chekhov's Gun]]
+- [[Weapon Catalogue|Plasmorb Shotgun]]
 - Thieves' tools
 - Burglar's pack. 
-- Janky flashlight.
-- Moon boots
-- Short range teleporter
-- Chekhov's Gun
-- Leather armor
-- [[House Galling]] Uniform. 
-- [[Pluto]]'s Note x2. 
+- [[Item Catalogue|Janky flashlight]].
+- [[Item Catalogue|Moon boots]]
+- [[Item Catalogue|Short range teleporter]]
 - Bag of holding. 
+- Leather armor
+- [[Item Catalogue|House Galling Uniform]]
+- [[Pluto]]'s Note x2. 
 - Pouch of [[overclock]].
-- 2 Canned lithworms
 - x2 1d4 healing potions
-- x2 +2AC defense potions
+- x2 +2AC defense potions (lasts 1 hour)
+- [[Weapon Catalogue|Stun Gun]] Blueprints
 
 Ammo pouch:
 - 20 charges

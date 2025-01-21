@@ -48,9 +48,9 @@ Saving Throw Proficiencies:
 - Laughs when lying
 
 ### Abilities
-- Unarmored Defense: While not wearing armor, your AC is 10 + DEX + CON
-- Reckless Attack: You can gain advantage on your first attack, but give any counterattacks advantage also
-- Rage (3 uses): As a bonus action, you can enter a rage that grants +2 damage, grants advantage on all strength checks, and it makes acrobatics, intimidation, perception, stealth, and survival all count as strength checks. Rage lasts until the end of the turn, unless you deal damage, or expend your bonus action.
+- Unarmored Defense
+- Reckless Attack
+- Rage
 - Astral Spark: When you hit with a simple or martial weapon, you can add 2 damage. You can do this (your proficiency bonus) times
 - Hippo Build: Advantage on STR checks and saving throws.
 - Firearms Mastery: Proficiency with all firearms. Infinite ammo. Infinite range. 
@@ -59,8 +59,8 @@ Inventory:
 - Greataxe
 - Handaxe
 - Explorer's pack
-- Janky flashlight
-- [[House Galling]] uniform
+- [[Item Catalogue|Janky Flashlight]]
+- [[Item Catalogue|House Galling uniform]]
 
 Ammo pouch:
 - 0 charges

@@ -1,5 +1,6 @@
+![[newship.png]]
 ### HISTORY
-- **September 8th, 12024** Purchased for 15,000 credits (25% off) by [[the party]].
+- **September 8th, 12024** Purchased for 15,000 [[Galactic Standards|credits]] (25% off) by [[the party]].
 - **September 8th, 12024** Designed by [[Gemini (PC)]]. 
 - **September 8th, 12024** Fabricated in [[Session 1.3 - Hangar 18]] inside of [[Vivere Mori]] on [[Vivimus]] by hobgoblin shipwright Chav Cymbeline.
 
@@ -22,7 +23,7 @@
 	- Contains 2 +2AC [[formulas]].
 	- Contains 6 survival knives.
 	- Contains 6 gas masks.
-	- Contains 5 tailored exosuits. 
+	- Contains 5 tailored [[Item Catalogue|exosuits]]. 
 	- Contains 6 bulk charge packs. They each contain 50 charges. 
 - Cabins (6). Contains a personal full-size bathroom, and is fully furnished. Also contains a large walk-in closet to store excess living and cleaning supplies. 
 	- [[Gemini (PC)]]. Has a tatami mat. 

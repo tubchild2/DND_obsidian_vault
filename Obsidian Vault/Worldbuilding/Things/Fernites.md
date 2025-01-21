@@ -14,7 +14,7 @@ Thermogeneticsynthesis in Fernites
 - Due to processing more air, they can collect water drops from the vapors in the air every day or two. 
 - Heat builds pressure, and too much pressure within the nuclei causes it to pop. 
 
-Life cycle
+Life Cycle
 - Spores. Typically 1-6 Fernites bound together via their nerve endings. They drift aimlessly.
 - Symbiosis. Upon hitting organic material, they latch and bond. Compatible hosts will have excess co2, and be warm. They'll enter the organism and spread as quickly as possible. If two spores are competing for one host, the smaller one will concede and be absorbed by the larger one. 
 - Networks. After firmly spreading throughout the host, they'll expand and form small vents in dead tissue to allow more air to enter. They'll begin building more heat within these vents than they can handle, leading to small explosions that shoot spores out. If the host has a nervous system, they'll likely begin to notice the ability to subtly influence the network, as if it were a muscle. 

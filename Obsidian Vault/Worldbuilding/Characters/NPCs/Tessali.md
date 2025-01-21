@@ -14,7 +14,7 @@
 - Does nothing with its time but tour [[the galaxy]], and observe stuff. 
 
 # History
-- The only known theophany to ever exist. It's the theophany of the [[Primordial]] of observation, which is in a bad spot, since it's too complex to be powerful, and too ancient to be really intelligent. Due to some luck, it managed to make itself a body. 
-- It wasn't hostile, and just kind of flew around until being discovered and captured by [[House Galling]]. 
-- It was tortured until 10024, where [[Pluto]] found and rescued it. Exhausted and thoroughly wounded, it was essentially braindead. The gate keeping the Theophany alive was barely kicking, and it'd take thousands of years to work it's way back. [[Pluto]] had to keep its barely functional body hidden with the rest of the treasure he stole. 
-- By 12024, it's starting to regain consciousness, but is still weak. 
+- The only known [[Caldwell's Field|theophany]] to ever exist. It's the [[Caldwell's Field|theophany]] of the [[Caldwell's Field|Primordial]] of observation, which is in a bad spot, since it's too complex to be powerful, and too ancient to be really intelligent. Due to some luck, it managed to make itself a body. 
+- It wasn't hostile, and just flew around until being discovered and captured by [[House Galling]]. 
+- It was tortured until 10024, where [[Pluto]] found and rescued it. Exhausted and thoroughly wounded, it was essentially braindead. The [[Caldwell's Field|Eathyst]] keeping the [[Caldwell's Field|Theophany]] alive was barely kicking, and it'd take thousands of years to work it's way back. [[Pluto]] had to keep its barely functional body hidden with the rest of the treasure he stole. 
+- In 12024, it's starting to regain consciousness.

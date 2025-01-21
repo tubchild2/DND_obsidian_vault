@@ -1,0 +1,63 @@
+### Session 2 Planning
+- Detail out all of the structures they could go to as session sections. Be careful to separate session information and location information. 
+	- [[Session 2.1a-Archer's Pass]]
+	- [[Session 2.2a-Carrion Keep]]
+	- [[Session 2.1b-Mistriven]]
+	- [[Session 2.2b-Fennhollow Pass]]
+	- [[Session 2.3-Chimera Crags]]
+	- [[Session 2.4-Wyrm's Rest]]
+	- [[Session 2.5-Ground Zero]]
+	- [[Session 2.6-Pluto's First Trial]]
+- Plan some monsters for them to fight, make some statblocks for them, and then make some battle maps. 
+	- Get cockatrice statblock
+	- Get carrion crawler statblock
+	- Get vine blight statblock 
+	- Make mutant bat statblock
+	- Get Ankheg statblock
+	- Make baby ankheg statblock
+### Session 2 Physical Work
+- Make [[Gemini (pc)]] a noble soul knife guy. 
+- Reprint all minis on fine, and securely store them. 
+	- Bjorn
+	- Copper
+	- Corvus
+	- Taure
+	- Gemini
+- Make a map of [[Vivimus]] to guide them. 
+### Some time
+- Separate lore from plot for [[Pluto's Cottage]]. (session 0.1)
+- Separate lore from plot for [[Vivere Mori]]. (session 1.2)
+- [[Bradford]] v5. Give him some dang abilities! How about, he's not that crazy physically, but he can mind control people and manifest [[CSG and HG Soldiers|dreadnaves]]. 
+- Make statblocks for
+	- [[CSG and HG Soldiers|Enforcers]]
+	- [[CSG and HG Soldiers|Inquisitors]]
+	- [[CSG and HG Soldiers|Dreadnaves]] ([[Federation]])
+	- [[CSG and HG Soldiers|Dreadnaves]] ([[House Galling]])
+	- [[CSG and HG Soldiers|Pundit]]
+	- Elite [[CSG and HG Soldiers|Dreadnave]]
+	- [[CSG and HG Soldiers|Templar]]
+	- [[CSG and HG Soldiers|Sanctumborne]] (specifically [[The Fist of House Galling]])
+		- All abilities of previous soldiers, but much better
+			- A crazy freaking arsenal, including [[Weapon Catalogue|the warknuckle]]
+			- Enhanced speed
+			- Enhanced strength x3
+			- Enhanced intelligence
+			- Enhanced defense
+			- Enhanced health
+			- A set of [[Caldwell's Field|Ether]] abilities that boost all previously mentioned abilities
+			- A set of purely offensive [[Caldwell's Field|Ether]] abilities
+- The Empires. 
+	- Each galactic plate is controlled by a different empire. The [[Federation]] / [[House Galling]] are in the same one. 
+	- Galactic conflicts are constant, and tensions are always high.
+	- Leaving your plate is a no-go unless you've got a REAL good reason to. 
+- [[Federation]]
+	- Who, or what is the emperor?
+	- What do they do?
+	- Why did the [[Federation]] form?
+	- Where do they operate?
+	- What are their laws?
+	- What conflicts have they been a part of?
+- [[Aalim Denzel]] needs more of a role. 
+- Add the [[CSG and HG Soldiers|dreadnave]] and other [[Doctrine of St. Galling|CSG]] and [[House Galling]] soldiers' armors, weapons, and items to the [[armor catalogue]], [[weapon catalogue]], and [[item catalogue]]. 
+	- Don't forget to add their aliases. 
+- Make [[Illidium]] variants of various weapons and armors. It's worth double. 
