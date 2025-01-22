@@ -36,7 +36,7 @@
 - He deactivates the barrier and you fly forward into the Hangar. 
 # Hangar 18 (Act 1)
 - You see some concrete platforms with roman numerals marking parking spots. A red hobgoblin exits his office in the cliff and begins waving your ship onto the first spot. You hear a loud clunk and some rattling as the landing gear engages, and the ship parks itself. What do you do?
-- As you're walking out, you see the hobgoblin examining your ship. He's squinting at some things, poking around, and then he effortlessly pulls a bolt out of the exterior of your ship and lets out this forced, wheezy, drawn out laugh. "I don't understand [[House Galling]]'s insistence on these crappy 30 year old ships. If you guys ever want a [[new ship]], let me know. Ok... Entrance into the city is through that door." He points to a circular door in the cliff side. 
+- As you're walking out, you see the hobgoblin examining your ship. He's squinting at some things, poking around, and then he effortlessly pulls a bolt out of the exterior of your ship and lets out this forced, wheezy, drawn out laugh. "I don't understand [[House Galling]]'s insistence on these crappy 30 year old ships. If you guys ever want a [[New Ship]], let me know. Ok... Entrance into the city is through that door." He points to a circular door in the cliff side. 
 	- He's named Chav Cymbeline. He's brash, bold, selfish, and loves the city, the violence, the greed, the action, and the abundance of customers. He got a bionic eye because his original eye was gouged out in combat. 
 		- He'll let them design it now with graph paper. 
 		- He says he'll have to put their ship through the system, so they should come back later to pay. He gives them a pager to let them know when their ship will be done. It'll be 20,000 [[Galactic Standards|credits]], so make sure they have the money.
@@ -75,10 +75,10 @@ I'm going to need everyone to roll initiative
 
 ### Enemies
 **Yakuza Boss: Okawa Yoichi**
-1. Orders his men to search for the [[Nethrium]]
-2. (if detected) Attempts to negotiate. He says, "this is your ship isn't it?" He'll let them live if they simply give "it" up. "It" doesn't belong to them. He means the [[Nethrium]]. His men detected it as soon as this ship landed. 
+1. Orders his men to search for the [[Exotic Metals|Nethrium]]
+2. (if detected) Attempts to negotiate. He says, "this is your ship isn't it?" He'll let them live if they simply give "it" up. "It" doesn't belong to them. He means the [[Exotic Metals|Nethrium]] His men detected it as soon as this ship landed. 
 	1. Recognizes Gemini. "Gemini?! Oh god this guy."
-3. (if rejected) He'll demand the [[Nethrium]] or he'll kill the tortle. He asks if they even know what it is. He appreciates the stones it takes to say no to the Yakuza. If they don't give it up, they won't just be messing with the Yakuza, but they'll be messing with [[House Galling]], and no one survives that. Hand it over!
+3. (if rejected) He'll demand the [[Exotic Metals|Nethrium]] or he'll kill the tortle. He asks if they even know what it is. He appreciates the stones it takes to say no to the Yakuza. If they don't give it up, they won't just be messing with the Yakuza, but they'll be messing with [[House Galling]], and no one survives that. Hand it over!
 4. (if rejected) He shoots the checkpoint officer, then sends his men after those he's aware of. He starts shooting from a distance. 
 5. (if his men die) He shoots the alcohol barrels and causes them to ignite. He continues shooting at them until they get up close. Then he uses his Katana. 
 

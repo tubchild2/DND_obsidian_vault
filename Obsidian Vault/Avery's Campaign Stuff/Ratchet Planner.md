@@ -54,12 +54,12 @@ Due to the rules, [[Spins|spellcasting]] classes no longer exist since we aren't
 2 Cantrips (human - magic initiate)
 - Spare the Dying
 - Guidance
-1 single use lvl 1 [[spins]] (human - magic initiate)
+1 single use lvl 1 [[Spins]] (human - magic initiate)
 - Find Familiar
 2 Cantrips (sage)
 - Shillelagh
 - Friends
-1 single use lvl 1 [[spins]] (sage)
+1 single use lvl 1 [[Spins]] (sage)
 - Healing Word
 
 ### Abilities

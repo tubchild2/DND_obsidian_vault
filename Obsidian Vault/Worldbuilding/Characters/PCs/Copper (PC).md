@@ -75,7 +75,7 @@ Song statistics:
 
 Inventory:
 - 2 Daggers
-- [[Nethrium]] Vial (1g)
+- [[Exotic Metals|Nethrium]] Vial (1g)
 - Saxophone
 - [[Item Catalogue|Janky Flashlight]]
 - Entertainer's pack

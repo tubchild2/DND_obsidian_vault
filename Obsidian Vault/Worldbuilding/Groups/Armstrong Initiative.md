@@ -19,16 +19,16 @@
 
 10020
 - They take notice of the [[Tessali]]'s healing factor. It wasn't eating or drinking, so where were those resources coming from? They called this extradimensional source "[[Caldwell's Field]]", and sought to access it. 
-- The [[Tessali]] had a strange material called [[Caldwell's Field|Eathyst]] in its body, but it was wrapped in a solid [[Nethrium]] shell. By carefully studying the makeup of the material, they could potentially replicate it. They'd need a lot of time, but it was possible. 
-- Around this time, they also observed strange phenomena coming from the [[Nethrium]] at high speeds. The more extreme the acceleration, the more this phenomena persisted. The signals it put off were almost akin to brainwaves. There was something intelligent on the other side!
-- They planned to communicate with it by spinning the [[Nethrium]], and establishing a telepathic connection with [[Bradford]]. 
-- He denied that anything happened during the experiment, but then, due to some vague religious reasons, began planning to open a much larger portal. The initiative didn't mind, because they believed that creating a machine to open a larger portal could create a sustainable infinite power source. [[Bradford]]'s faith was so great, that he and the [[Doctrine of St. Galling|DSG]] church willingly spent 404 billion [[Galactic Standards|credits]] of [[Nethrium]] (almost their family's whole supply) to create the statue. [[Bradford]] named it "the [[Mano di Dio]]"
+- The [[Tessali]] had a strange material called [[Caldwell's Field|Eathyst]] in its body, but it was wrapped in a solid [[Exotic Metals|Nethrium]] shell. By carefully studying the makeup of the material, they could potentially replicate it. They'd need a lot of time, but it was possible. 
+- Around this time, they also observed strange phenomena coming from the [[Exotic Metals|Nethrium]] at high speeds. The more extreme the acceleration, the more this phenomena persisted. The signals it put off were almost akin to brainwaves. There was something intelligent on the other side!
+- They planned to communicate with it by spinning the [[Exotic Metals|Nethrium]] and establishing a telepathic connection with [[Bradford]]. 
+- He denied that anything happened during the experiment, but then, due to some vague religious reasons, began planning to open a much larger portal. The initiative didn't mind, because they believed that creating a machine to open a larger portal could create a sustainable infinite power source. [[Bradford]]'s faith was so great, that he and the [[Doctrine of St. Galling|DSG]] church willingly spent 404 billion [[Galactic Standards|credits]] of [[Exotic Metals|Nethrium]] (almost their family's whole supply) to create the statue. [[Bradford]] named it "the [[Mano di Dio]]"
 
 10024
 	The Armstrong Initiative HQ beneath [[Manor Galling]] burns down during [[Pluto]]'s heist. During the heist, the [[Mano di Dio]] and the [[Tessali]] are stolen, locking [[Bradford]], the [[Doctrine of St. Galling|CSG]], and the Initiative out of their plans. They rebuild and move to a new complex in [[Grey Mire]], near the new [[The Royal Palace of House Galling|royal palace]]. 
 
 10065 
-	They successfully condensate a couple grams of [[Caldwell's Field|Eathyst]]. [[Caldwell's Field|Eathyst]] turned out to be a remarkably complex material that would require centuries to master. Unlike with [[Nethrium]], they kept the [[Caldwell's Field|Eathyst]] to themselves, because it took so long to make.
+	They successfully condensate a couple grams of [[Caldwell's Field|Eathyst]]. [[Caldwell's Field|Eathyst]] turned out to be a remarkably complex material that would require centuries to master. Unlike with [[Exotic Metals|Nethrium]], they kept the [[Caldwell's Field|Eathyst]] to themselves, because it took so long to make.
 	With a 0.5m gate left constantly open (which was the most they could afford), they could condensate ~0.5cm^3 of [[Caldwell's Field|Eathyst]] per day.
 
 11687

@@ -1,20 +1,48 @@
 ### Session 2 Planning
+- [[Caldwell's Field|Eathyst Alloys]]
+- Weaker metals
+- Lighter metals
+- Conductive metals
+- Special use metals
+- [[House Galling]] vehicles
+- Spacecrafts 
 - Detail out all of the structures they could go to as session sections. Be careful to separate session information and location information. 
-	- [[Session 2.1a-Archer's Pass]]
 	- [[Session 2.2a-Carrion Keep]]
+		- Descriptions
+			- Fun loot and stuff
+			- Maybe a puzzle that sets up later ones?
+		- Battle information
+			- Carrion Crawler statblock
+		- Battle map
 	- [[Session 2.1b-Mistriven]]
+		- Descriptions
+		- Battle information
+			- Cockatrice statblock
+		- Battle map
 	- [[Session 2.2b-Fennhollow Pass]]
+		- Description
+			- [[Illeth]] lore
+			- Fun loot and stuff
+			- Maybe a puzzle that sets up later ones?
+		- Battle information
+			- Vine Blight statblock
+			- Mutant bat statblock
+		- Battle map
 	- [[Session 2.3-Chimera Crags]]
+		- Descriptions
+		- Lava crossing mechanics?
+		- Short section
+		- Make it a black graveyard 
 	- [[Session 2.4-Wyrm's Rest]]
-	- [[Session 2.5-Ground Zero]]
-	- [[Session 2.6-Pluto's First Trial]]
-- Plan some monsters for them to fight, make some statblocks for them, and then make some battle maps. 
-	- Get cockatrice statblock
-	- Get carrion crawler statblock
-	- Get vine blight statblock 
-	- Make mutant bat statblock
-	- Get Ankheg statblock
-	- Make baby ankheg statblock
+		- Descriptions
+			- [[Beholder's Reach|Mutant hive]] horror lab or stone dungeon and caverns
+			- Darkness mechanics
+			- Puzzles
+			- Setup for the hunt
+			- Fun loot
+		- Battle info
+			- Ankheg statblock
+			- Baby ankheg statblock
 ### Session 2 Physical Work
 - Make [[Gemini (pc)]] a noble soul knife guy. 
 - Reprint all minis on fine, and securely store them. 
@@ -23,7 +51,18 @@
 	- Corvus
 	- Taure
 	- Gemini
+- Print new minis
+	- 2 Cockatrice
+	- 2 Twig Blight
+	- 1 Carrion Crawler
 - Make a map of [[Vivimus]] to guide them. 
+- Print out all the battle maps
+	- [[Archer's Pass]]
+	- [[Carrion Keep]]
+	- [[Gorviris|Mistriven]]
+	- [[Gorviris|Fennhollow Pass]]
+	- [[Beholder's Reach]]
+	- [[Beholder's Reach|Wyrm's Rest]]
 ### Some time
 - Separate lore from plot for [[Pluto's Cottage]]. (session 0.1)
 - Separate lore from plot for [[Vivere Mori]]. (session 1.2)

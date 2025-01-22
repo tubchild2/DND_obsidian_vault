@@ -2,7 +2,7 @@
 
 # Abilities
 - Can manipulate it's shape and size by moving parts of itself through the 4th dimension. 
-- Contains [[Nethrium]] blood.
+- Contains [[Exotic Metals|Nethrium]] blood.
 - Can interact with 4th dimensional materials as if they were 3D. 
 - Can grow all of it's vital organs outside of our tangible reality. 
 - Immortal

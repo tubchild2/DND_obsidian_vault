@@ -33,7 +33,7 @@ aliases:
 | Fast                        | Yes        |        |                   | Yes             | Yes       |         | Yes          |
 | [[Illidium]]                |            |        |                   |                 | Yes       |         | Yes          |
 | [[Caldwell's Field\|Ether]] |            |        |                   |                 |           | Yes     | Yes          |
-| [[Nethrium]]*               |            |        |                   |                 |           |         | Yes          |
+| [[Exotic Metals\|Nethrium]]*    |            |        |                   |                 |           |         | Yes          |
 *The Enforcer was excluded since it has none of these*
 
 
@@ -99,7 +99,7 @@ aliases:
 - Becoming one takes decades of conditioning, and 98% of applicants don't survive. They're made from lab-grown flesh and assembled perfectly. The [[CSG and HG Soldiers|Sanctumborne]] are the apex of everything they're worked towards.
 - They have the intelligence of the [[CSG and HG Soldiers|pundit]], the speed of the [[CSG and HG Soldiers|inquisitors]], the strength of the [[CSG and HG Soldiers|elite dreadnaves]], and the [[Caldwell's Field|Eathyst]] of the [[CSG and HG Soldiers|templars]]. They receive a 75% [[CSG and HG Soldiers|dreadnave]], 25% pure [[Caldwell's Field|Eathyst]] serum. 
 - They outclass all other units in every regard, but are remarkably rare.
-- They're the only units that *might* be given access to [[Nethrium]] weaponry, as they're bred to protect the highest authorities. 
+- They're the only units that *might* be given access to [[Exotic Metals|Nethrium]] weaponry, as they're bred to protect the highest authorities. 
 - 9ft tall. 
 
 ![[Sanctumborne.jpg]]

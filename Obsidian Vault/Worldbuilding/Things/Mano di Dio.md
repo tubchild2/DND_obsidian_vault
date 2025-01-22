@@ -4,7 +4,7 @@ aliases:
 ---
 ![[Mano di Dio.jpg]]
 ### Description
-- A 6" cubic machine of pure [[Nethrium]], engraved with various religious symbols from the [[Doctrine of St. Galling|CSG]]. 
+- A 6" cubic machine of [[Exotic Metals|Nethrium]] engraved with various religious symbols from the [[Doctrine of St. Galling|CSG]]. 
 
 ### History
 1. Created by [[Bradford]] from 10020-10024. It was designed to open a sustainable portal to [[Caldwell's Field]], and to efficiently distribute its heat. [[Bradford]] thought it was a means to cause the Rapture, the [[Armstrong Initiative]] saw it as a way to create an infinite power source, and the [[Doctrine of St. Galling|CSG]] saw it as a means to meet God. It's name translates to "The Hand of God"

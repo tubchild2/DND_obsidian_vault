@@ -29,7 +29,7 @@
 	- She doesn't want anyone to investigate, and if you keep asking questions she leaves.
 - Map (5c) (There are a few spots marked, but you can go anywhere in the city)
 	- Aria Arpeggio 
-		- A music store off Ether Enclave
+		- A music store off [[Caldwell's Field|Ether]] Enclave
 	- Cloak and Stagger
 		- A casino off Caustic Corner
 	- Larry's Pawn Shop and General Store
@@ -39,7 +39,7 @@
 	- Mercury Maw Armory
 		- An armory off Isopropyl Parkway
 
-### Aria Arpeggio - Ether Enclave
+### Aria Arpeggio - [[Caldwell's Field|Ether]] Enclave
 **Exterior**
 - You see a line of buildings up against the city's outer wall, each with flickering neon signs hanging off them. You see Aria Arpeggio, a damaged, and cheap looking music shop that was hastily adorned with a neon lime sign depicting an electric guitar 
 - A pure mercury canal flows sluggishly into the walls, its toxic sheen reflecting the dim, flickering lights of the streets. Along the bank, a rusted stake is driven into the ground, tethered to something unseen in the mercury. 
@@ -92,7 +92,7 @@ Slot Machines (Standard)
 			- Elysian Snake Steak
 			- Deep Rock Stew
 			- Inferno Shot
-			- Ether Bloom
+			- [[Caldwell's Field|Ether]] Bloom
 			- Bohrium Sunrise
 	- See [[Formulas]]
 		- (be all secret about it) We've got all the best stuff. What kind of [[Formulas|formula]] you lookin for? I'm sure our guys can whip something up. 
@@ -120,7 +120,7 @@ Slot Machines (Standard)
 	- Bow and arrow. Only shoots where you want it to when you're blackout drunk.
 	- [[Weapon Catalogue|Chekhov's Gun]]. It's a shockingly powerful revolver that's really old. However, no matter what Lawrence does, he can't get the dang thing to fire. It's 1c, since it's broken, but if you can fix it, he estimates it being powerful enough to vaporize someone. 
 		- It gets loaded whenever observed. It then waits a long time, before shooting when it's most dramatic. Deals 5d20 damage, but cannot be controlled by the user. Can fire once per session at maximum, but typically waits through entire campaigns. No one knows where it came from, but it can fly and typically moves when not observed to follow it's owner. 
-- If you show him the [[Nethrium]], he quietly gasps. He says to put it away. He says he doesn't want trouble, and tells them to leave. If they don't, he closes his shop and shuffles away. 
+- If you show him the [[Exotic Metals|Nethrium]] he quietly gasps. He says to put it away. He says he doesn't want trouble, and tells them to leave. If they don't, he closes his shop and shuffles away. 
 ### The Obscura Athenaeum - Fumewood
 **Exterior**
 - It looks very out of place. It's cut from dark stone, and has a gothic design and barred windows. 
@@ -131,7 +131,8 @@ Slot Machines (Standard)
 	- [[House Galling]]
 	- [[Federation]]
 	- [[Pluto]]
-	- [[Nethrium]]
+	- [[Exotic Metals|Nethrium]]
+	- [[Exotic Metals|Illidium]]
 	- [[Galactic Standards]]
 	- [[Formulas]]
 	- [[Spins]]

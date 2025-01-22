@@ -3,7 +3,7 @@
 **General**
 	A [[CSG and HG Soldiers|sanctumborne]], and the personal sentinel of [[Bradford|Bradford Galling]]. All of their humanity has been stripped away, and they were born from a cauldron of genetically modified organic matter. They're 9ft tall, and the product of 30 years of conditioning.
 	Faster, stronger, smarter, more durable, more *everything*. On top of that, they have much more [[Caldwell's Field|Eathyst]] than even the [[CSG and HG Soldiers|Templars]]. 
-	Wields [[Weapon Catalogue|the warknuckle]], a 947lbs, 644 million [[Galactic Standards|credit]], [[Nethrium]] / [[Caldwell's Field|Eathyst]] / [[Illidium]] warhammer. 
+	Wields [[Weapon Catalogue|the warknuckle]], a 947lbs, 644 million [[Galactic Standards|credit]], [[Exotic Metals|Nethrium]] / [[Caldwell's Field|Eathyst]] / [[Exotic Metals|Illidium]] warhammer. 
 
 **History**
 11994

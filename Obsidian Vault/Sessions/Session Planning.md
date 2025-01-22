@@ -13,7 +13,7 @@ aliases:
 - [[Pluto]]'s history, the impact of the heist. 
 
 - The [[Doctrine of St. Galling|DSG]] 
-- The [[Nethrium]] and the [[Mano di Dio]]. Beginning of [[Pluto]]'s research
+- The [[Exotic Metals|Nethrium]] and the [[Mano di Dio]]. Beginning of [[Pluto]]'s research
 - Reveal of what [[Pluto]] actually stole / what the heist really was.
 - The [[Armstrong Initiative]] and the [[Tessali]]'s history with them
 
@@ -22,19 +22,19 @@ aliases:
 - [[Merak-A]], the [[Heretics|Heretic]] conflict, and the [[Tessali]]'s dungeon. 
 - Reveal of [[Caldwell's Field|Ether]], [[Caldwell's Field|Primordials]], and what the [[Tessali]] is. Reveal that [[Bradford]] has an arrangement with a [[Caldwell's Field|Primordial]], but he doesn't know that's what it is. 
 
-- [[Primordial of Command|Tod]]'s reveal? [[Primordial of Command|Tod]]'s plan succeeds? 
+- [[Primordial of Command|Tod]]'s reveal
 
 #### Escalating Rivalrous Encounters
-- Rookie law [[CSG and HG Soldiers|enforcers]].
-- Squadron of law [[CSG and HG Soldiers|enforcers]].
-- Battalion of soldiers with their commander.
-- Strike team / guns for hire. [[House Galling]]'s bounty hunting army.
-- The [[Inquisitors]]
-- Powerful beast hunting [[the party]].
-- The full army of [[House Galling]] as commanded by the Keeper. 
-- [[Bradford]]'s personal advisors.
-- [[Bradford]]'s right hand man.
-- [[Bradford]] himself. 
+- A couple [[CSG and HG Soldiers|Inquisitors]]
+- A squadron of [[CSG and HG Soldiers|enforcers]].
+- A swarm of [[CSG and HG Soldiers|Inquisitors]] with [[CSG and HG Soldiers|pundit]] engineers. 
+- A strike team / guns for hire. [[House Galling]]'s bounty hunting army.
+- A [[CSG and HG Soldiers|Dreadnave]] and a group of [[CSG and HG Soldiers|Templars]]
+- A powerful beast hunting [[the party]]. Traps and weapons made by [[CSG and HG Soldiers|Pundits]].
+- A squadron of [[CSG and HG Soldiers|Dreadnaves]] with an [[CSG and HG Soldiers|Elite Dreadnave]].
+- The full army. [[CSG and HG Soldiers|Dreadnaves]], [[CSG and HG Soldiers|Enforcers]], [[CSG and HG Soldiers|Inquisitors]], [[CSG and HG Soldiers|Elite Dreadnaves]], [[CSG and HG Soldiers|Templars]], [[CSG and HG Soldiers|Pundit]] medics, [[CSG and HG Soldiers|Pundit]] engineers, [[CSG and HG Soldiers|Pundit]] advisors, and [[Aalim Denzel]]
+- [[The fist of House Galling]] and [[Bradford]]. 
+- [[Primordial of Command|Tod]] and his army
 
 #### Tests
 - Patience and Isolation
@@ -63,7 +63,7 @@ Investigating the cartel from Bjorn's past / what their motivations were. They w
 This leads Bjorn back to earth, where he encounters his parents, and subsequently tries to prove his worth to them. 
 
 ### The Lost Amulet of Blugler
-Investigating what destroyed Taure's village, and why it / they took the heirloom. The heirloom was [[Nethrium]], something nearby pirates saw as a means of establishing a positive relationship with [[House Galling]]. The village refused to turn it over, so he invaded the village and took it by force. 
+Investigating what destroyed Taure's village, and why it / they took the heirloom. The heirloom was [[Exotic Metals|Nethrium]] something nearby pirates saw as a means of establishing a positive relationship with [[House Galling]]. The village refused to turn it over, so he invaded the village and took it by force. 
 While on their way, they stop at Mt. Stinkus to stay with Taure's parents. They might even get involved in the conflict and help their little boy steal his money. They're really sweet sounding, but have some truly disturbing world views that passed down to Taure. 
 
 ### The Pride of the Kenku
