@@ -1,8 +1,12 @@
+---
+aliases:
+  - primordial of observation
+---
 ![[Tessali.png]]
 
 # Abilities
 - Can manipulate it's shape and size by moving parts of itself through the 4th dimension. 
-- Contains [[Exotic Metals|Nethrium]] blood.
+- An Ancient [[Caldwell's Field|Primordial]], meaning it has [[Exotic Metals|Nethrium]] inside of it. 
 - Can interact with 4th dimensional materials as if they were 3D. 
 - Can grow all of it's vital organs outside of our tangible reality. 
 - Immortal
@@ -14,7 +18,7 @@
 - Does nothing with its time but tour [[the galaxy]], and observe stuff. 
 
 # History
-- The only known [[Caldwell's Field|theophany]] to ever exist. It's the [[Caldwell's Field|theophany]] of the [[Caldwell's Field|Primordial]] of observation, which is in a bad spot, since it's too complex to be powerful, and too ancient to be really intelligent. Due to some luck, it managed to make itself a body. 
+- The [[Caldwell's Field|Primordial]] of Observation. A powerful and ancient [[Caldwell's Field|primordial]]. Was in the right place at the right time, and managed to form a [[Caldwell's Field|theophany]] out of a naturally occurring [[Caldwell's Field|gateway]]. 
 - It wasn't hostile, and just flew around until being discovered and captured by [[House Galling]]. 
-- It was tortured until 10024, where [[Pluto]] found and rescued it. Exhausted and thoroughly wounded, it was essentially braindead. The [[Caldwell's Field|Eathyst]] keeping the [[Caldwell's Field|Theophany]] alive was barely kicking, and it'd take thousands of years to work it's way back. [[Pluto]] had to keep its barely functional body hidden with the rest of the treasure he stole. 
+- It was tortured until 10024, where [[Pluto]] found and rescued it. Exhausted and thoroughly wounded, it was essentially braindead. The Tessali had expended almost all of its [[Caldwell's Field|Ether]] to produce the [[Exotic Metals|Nethrium]], and it'd take a long time to completely replenish it. 
 - In 12024, it's starting to regain consciousness.

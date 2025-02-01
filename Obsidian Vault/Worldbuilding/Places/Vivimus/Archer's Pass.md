@@ -1,5 +1,8 @@
 ![[Archer's Pass.jpg]]
 ![[Archer's Pass Battle Map.jpg]]
+### Ambience
+https://www.youtube.com/watch?v=Xi4DZOhHkI4
+
 ### Description
 The thick fog and ash makes the sky a hazy red. Ahead of you lies the chasm of [[Gorviris]], a toxin filled divider between the north and south of [[Vivimus]]. 
 A decrepit dark stone bridge runs across the chasm, and directly into the mountains of [[Beholder's reach]]. Rotten deformed skeletons lay piled around the edges of the bridge, their bodies riddled with arrows and stones. The air smells of rot and char, and an intense wind twirls the toxic gasses around the base of the bridge. 
@@ -15,6 +18,12 @@ What do you do?
 
 
 ### Combat Encounter
+You hear a thundering screech echo through the valley, followed by the heavy flapping of wings. Black silhouettes emerge from the cliffs, sending boulders tumbling down. It soars towards you, and as it gets closer you see in closer detail it's true form.
+
+A hideous hybrid of a lizard, bird, and bat swoops down and sends a plume of dirt and rocks up into the air as it strikes the ground. It lets out a disgusting mix of gargles and cries, before another lands behind you. 
+(If Twig Blights)
+The shrubs around you begins to twitch, before beginning to rise. Their roots pull out from the dirt, and twist together to form the visage of a man. They let out a deep growl, and clench their twisted fists.  
+
 Roll 1d4
 1: No Battle
 2: 1 Cockatrice

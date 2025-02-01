@@ -17,7 +17,7 @@ Prehistory
 	[[Federation]] scientists bioengineer the [[Fernites]] as an experimental bioweapon. It then becomes extremely effective, and breaches containment on [[Vivimus]]. It spreads throughout the planet, so they quickly destroy their research station and deny all accountability. 
 
 7096
-	Saint Finn Galling of pens the [[Doctrine of St. Galling]], and founds the [[Doctrine of St. Galling|Church of St. Galling]]. 
+	[[Doctrine of St. Galling|Saint]] Finn Galling of pens the [[Doctrine of St. Galling]], and founds the [[Doctrine of St. Galling|Church of St. Galling]]. 
 
 7100
 	[[House Galling]] is officially registered with the [[Federation]] to pass down leadership over the [[Doctrine of St. Galling|CSG]] to the male firstborn. 
@@ -35,10 +35,10 @@ Prehistory
 	Simeon discovers the [[Tessali]], and [[Exotic Metals|Nethrium]]. [[House Galling]] becomes the richest and most corrupt house in [[the galaxy]].
 
 10018 
-	Simeon Galling dies of old age, and his son [[Bradford]] is made Patriarch of [[House Galling]]. He was harassed and not respected. 
+	Simeon Galling dies of old age, and his son [[Bradford]] is made [[House Galling|Patriarch]] of [[House Galling]]. He was harassed and not respected. 
 
 10020
-	[[Bradford]] telepathically communicates with [[Primordial of Command|the primordial of command]]--[[Primordial of Command|Tod]], during an [[Armstrong Initiative]] test. It convinces him that it's god, and to build a large [[Caldwell's Field|gateway]] for him in exchange for power and respect. [[Bradford]] accepts and becomes the [[Caldwell's Field|Avatar]] of command. He then builds the [[Mano di Dio]] for opening the [[Caldwell's Field|Gateway]].
+	[[Bradford]] telepathically communicates with [[Primordial of Order|the primordial of command]]--[[Primordial of Order|Tod]], during an [[Armstrong Initiative]] test. It convinces him that it's god, and to build a large [[Caldwell's Field|gateway]] for him in exchange for power and respect. [[Bradford]] accepts and becomes the [[Caldwell's Field|Avatar]] of command. He then builds the [[Mano di Dio]] for opening the [[Caldwell's Field|Gateway]].
 
 10024 
 	[[Bradford]]'s wife convinced a rookie space-pirate named [[Pluto]] and his men execute a heist on [[Manor Galling]] for the [[Mano di Dio]], a 6ft [[Exotic Metals|Nethrium]] statue valued at over 404 billion [[Galactic Standards|credits]] built by [[Bradford]] and the [[Armstrong Initiative]]. [[Pluto]] discovers the [[Armstrong Initiative]], and the [[Tessali]], and derails the plan to free the captives and burn the building down. His men turn on him, and the heist devolves into a firefight. [[Pluto]] makes it out with [[Mano di Dio]] and the [[Tessali]]. [[Pluto]] vanishes without a trace. 
@@ -47,7 +47,7 @@ Prehistory
 	[[Pluto]] built a small cabin in [[The Deadwoods]] where he's been protecting the [[Tessali]] and the [[Exotic Metals|Nethrium]]. One of [[House Galling]]'s bounty hunters finds and nearly kills him. This prompts [[Pluto]] to attempt to find a replacement. He creates a set of trials, and hides the first clue in his cottage. 
 
 11970
-	[[House Galling]] and [[Doctrine of St. Galling|CSG]] are involved in multiple inquisitions and wars against weaker races due to them revolting, slandering, or threatening the house. These are mostly perpetuated by the keeper of the [[Doctrine of St. Galling|CSG]], as [[Bradford]] is preoccupied with finding the [[Mano di Dio]]. 
+	[[House Galling]] and [[Doctrine of St. Galling|CSG]] are involved in multiple inquisitions and wars against weaker races due to them revolting, slandering, or threatening the house. These are mostly perpetuated by the [[Doctrine of St. Galling|keeper]] of the [[Doctrine of St. Galling|CSG]], as [[Bradford]] is preoccupied with finding the [[Mano di Dio]]. 
 
 12000 
 	The [[Armstrong Initiative]] kidnaps and experiments on a 6 year old lion cub named [[Copper (PC)]]. They give him [[Caldwell's Field|Eathyst]], and he escapes before he's killed.

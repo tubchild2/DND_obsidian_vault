@@ -6,18 +6,19 @@ aliases:
 ---
 ### Nethrium
 **General Information**
-- Can be found inside of [[Caldwell's Field|Primordial]] [[Caldwell's Field|Avatars]] and [[Caldwell's Field|Theophany]].
-- Can only be made by a [[Caldwell's Field|Primordial]]. 
+- Can be found inside of ancient [[Caldwell's Field|Theophany]].
+- Requires an enormous amount of [[Caldwell's Field|Ether]] to form. 
 - Must be stored extremely carefully at high temperatures, as it can blind you or release ridiculous amounts of radiation.
-- Can only be destroyed by something impossibly hot, or by something else 4D
+- Appearance: solid black, with purple streaks through it. 
 
 **Properties**
 - Worth: ~285,300c / gram
-- Appearance: solid black, with purple streaks through it. 
+- Worth: ~95,000c / cm^3
 - Density: 3g / cm^3
 - 4D.
 	- It's true structure is beyond our plane of reality. 
-	- Impossibly dense, leading to perfect energy distribution. I.E. indestructible and heat-resistant.
+	- Impossibly dense, leading to perfect energy distribution. I.E. indestructible and heat-resistant. 
+	- Can only be destroyed by something impossibly hot, or by something else 4D
 - Melts at 5,600c
 - Boils at 150,000c
 - Ionizes at 3,000,000c
@@ -27,19 +28,35 @@ aliases:
 ---
 ### Illidium
 **General Information**
-- Exceptionally strong. It's significantly tougher than steel.
+- Exceptionally durable. It's significantly tougher than steel.
+- Heavy metal
+- Nonconductor
+- Noncorrosive
+- Effective insulator
 - Typically mined out of asteroids, and the [[Gorviris|great mines of Gorviris]]. 
 
 **Properties**
 - Melts at 1,260c
 - Density: 7.8 grams per cm^3
 - Worth: 30c per gram
+- Worth: 234c per cm^3
 
 
 
 ---
-### Worse than Illidium, better than steel
-Atomanium 
-Adamantite
+### Lirillium
+**General information**
+- Very light. 
+- Fairly durable. Akin to bronze.
+- Nonconductor
+- Noncorrosive
+
+**Properties**
+- Melts at 1,085c
+- Density: 2.8g/cm^3
+- Worth: 16.8c per gram
+- Worth: 6c per cm^3
+
+
 
 ---

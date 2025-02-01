@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "80034791832e95b8",
+        "id": "dea1ae211937e2b6",
         "type": "tabs",
         "children": [
           {
-            "id": "cb1ca7a62df5085e",
+            "id": "d3a229a48ab86a43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worldbuilding/Things/Exotic Metals.md",
+                "file": "Avery's Campaign Stuff/Ratchet Gulliver (PC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exotic Metals"
-            }
-          },
-          {
-            "id": "f40b441fc3554bdf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "References/To-Do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To-Do"
-            }
-          },
-          {
-            "id": "b5aa5d443c5f1b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Worldbuilding/Caldwell's Field.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Caldwell's Field"
+              "title": "Ratchet Gulliver (PC)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -136,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worldbuilding/Things/Exotic Metals.md",
+                "file": "Worldbuilding/Groups/House Galling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Exotic Metals"
+              "title": "Backlinks for House Galling"
             }
           },
           {
@@ -155,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "References/To-Do.md",
+                "file": "Avery's Campaign Stuff/Ratchet Gulliver (PC).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To-Do"
+              "title": "Outgoing links from Ratchet Gulliver (PC)"
             }
           },
           {
@@ -205,44 +177,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f40b441fc3554bdf",
+  "active": "d3a229a48ab86a43",
   "lastOpenFiles": [
-    "Worldbuilding/Things/Exotic Metals.md",
-    "Worldbuilding/Caldwell's Field.md",
-    "References/Wish list.md",
-    "References/DM Reminders.md",
+    "Avery's Campaign Stuff/Ether Reference Table.md",
+    "Avery's Campaign Stuff/Ratchet Gulliver (PC).md",
+    "CHARACTER NAME.md",
+    "Avery's Campaign Stuff/Ratchet Planner.md",
     "References/To-Do.md",
+    "Worldbuilding/Groups/House Galling.md",
+    "Pictures/PDF/Spin Sheet.pdf",
+    "Worldbuilding/Characters/NPCs/Bradford.md",
+    "Worldbuilding/Groups/Doctrine of St. Galling.md",
+    "Worldbuilding/Characters/NPCs/Aalim Denzel.md",
+    "Worldbuilding/Places/Vivimus/Grey Mire.md",
+    "Worldbuilding/References/CSG and HG Soldiers.md",
+    "Worldbuilding/Characters/NPCs/Primordial of Order.md",
+    "Worldbuilding/Characters/NPCs/Dale Borland.md",
+    "Worldbuilding/References/Catalogues/Item Catalogue.md",
+    "Worldbuilding/Characters/NPCs/Aaron Haynes.md",
+    "Worldbuilding/Groups/Armstrong Initiative.md",
+    "Worldbuilding/Caldwell's Field.md",
+    "Worldbuilding/Characters/PCs/Sven (PC).md",
+    "Worldbuilding/Places/Vivimus/Mistriven.md",
+    "Worldbuilding/Places/Vivimus/Fennhollow Pass.md",
+    "Worldbuilding/Places/Vivimus/Carrion Keep.md",
+    "Worldbuilding/Places/Vivimus/Archer's Pass.md",
+    "Sessions/Session 2/Session 2 Outline.md",
+    "Sessions/Session Planning.md",
+    "Worldbuilding/References/Galactic Standards.md",
+    "Pictures/Characters/PCs/Sven Sallow.jpg",
+    "Worldbuilding/Groups/Heretics.md",
+    "Pictures/Places/Vivimus/Mistriven.jpg",
+    "Pictures/Papers and Maps/B1 Carrion Keep.png",
+    "Pictures/Papers and Maps/F3 Carrion Keep_49x26.png",
+    "Pictures/Papers and Maps/F2 Carrion Keep_58x40.png",
+    "Pictures/Papers and Maps/F1 Carrion Keep_83x47.png",
+    "Worldbuilding/Characters/PCs.zip",
+    "Worldbuilding/Characters/PCs.7z",
+    "Pictures/Places/Caldwell's Field.jpg",
+    "Pictures/Places/Vivimus/Carrion Well.jpg",
     "Pictures/Things/The incarnadine Gate.jpeg",
     "Pictures/Things/Ether 2.jpg",
-    "Pictures/Things/Star forge 2.jpg",
-    "Pictures/Things/Overclock.jpg",
-    "Pictures/Things/Nethrium fragments.png",
-    "Pictures/Things/Mano di Dio.jpg",
-    "Pictures/Things/Illidium.jpg",
-    "Worldbuilding/Spins.md",
-    "Worldbuilding/Places/Vivimus/Carrion Keep.md",
-    "Worldbuilding/Groups/Armstrong Initiative.md",
-    "Worldbuilding/References/CSG and HG Soldiers.md",
-    "Worldbuilding/Groups/House Galling.md",
-    "Worldbuilding/Things/Mano di Dio.md",
-    "Worldbuilding/Characters/NPCs/Pluto.md",
-    "Sessions/Session 0/Session 0.1 - The Cottage.md",
-    "Sessions/Session 1/Session 1.2 - Vivere Mori.md",
-    "Sessions/Session 1/Session 1.3 - Hangar 18.md",
-    "Sessions/Session Planning.md",
-    "Worldbuilding/References/World History.md",
-    "Worldbuilding/Characters/NPCs/The Fist of House Galling.md",
-    "Worldbuilding/Characters/NPCs/Tessali.md",
-    "Worldbuilding/Things/Star Forge.md",
-    "Worldbuilding/Characters/PCs/Copper (PC).md",
-    "Worldbuilding/Characters/NPCs/Bradford.md",
-    "Worldbuilding/Places/Vivimus/Gorviris.md",
-    "Worldbuilding/Places/Vivimus/Archer's Pass.md",
-    "Worldbuilding/Things/Illidium.md",
-    "Sessions/Session 2/Session 2 Outline.md",
-    "Pictures/Statblocks/Carrion Crawler.png",
-    "Pictures/Statblocks/twig blight.png",
-    "Pictures/Statblocks/cockatrice statblock.png",
     "Pictures/Characters/PCs",
     "Pictures/Characters/NPCs",
     "Pictures/Places/Vivimus",
@@ -250,9 +225,6 @@
     "Pictures/PDF/Inventory Sheet.pdf",
     "Pictures/PDF/Wallet and Ammo.pdf",
     "Pictures/PDF/Weapon Sheet.pdf",
-    "Pictures/PDF/Song Sheet.pdf",
-    "Worldbuilding/Creatures",
-    "primordial of death.monster",
     "Untitled.canvas",
     "PANDORA SCRIPT OVERVIEW.canvas",
     "PANDORA DND Campaign.canvas",

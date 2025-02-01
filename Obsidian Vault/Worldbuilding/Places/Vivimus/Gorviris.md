@@ -7,9 +7,6 @@ aliases:
   - 7 Mines of House Galling
   - 7 Great Mines of Gorviris
   - Great Mines of Gorviris
-  - Mistriven
-  - Fennhollow
-  - Fennhollow Pass
 ---
 ![[Gorviris.jpg]]
 
@@ -38,20 +35,14 @@ aliases:
 - See [[Archer's Pass]] 
 
 --- 
-[[Carrion Keep]]
-- See [[Carrion Keep]]
+[[Carrion Keep]] / [[Carrion Well]]
+- See [[Carrion Keep]] and [[Carrion Well]]
 
 
 ---
-**Mistriven**
-- A large [[Illeth]] village to the east of [[Carrion Keep]], and just Northeast of Fennhollow. 
-- A city dug into the earth, that used canals to redirect the toxic mists and chemical rivers. It's relatively small, only about a half mile in diameter. 
-- Wiped out by [[Inquisitors]] thousands of years ago. Some [[Illeth]] rebels recently camped here, as their flag is planted in the soil. Dead [[Inquisitors]] are piled around the flag, suggesting a recent conflict.  
-
+[[Mistriven]]
+- See [[Mistriven]]
 
 ---
-![[Fennhollow.jpg]]
-**Fennhollow Pass**
-- An imposing, half-mile high cliff face. The extreme winds and steam vents cause a thick cloud of fog to envelop the upper half of climb. 
-- Several watchtowers and stone stairs were put in place to guard Mistriven from invading mutants. Unfortunately, the steam vents have left large gaps that require creative thinking to get around. 
-- As you climb higher, you'll encounter more and more life forms, especially birds and plants, as this is one of the few places that regularly dispenses and collects water. The shade from the cloud keeps some of the cliffs relatively cool.  
+[[Fennhollow Pass]]
+- See [[Fennhollow Pass]]

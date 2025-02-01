@@ -51,6 +51,7 @@ aliases:
   - Yoichi Hairpieces
   - Illidium Dreadnave Arm
   - Illidium Dreadnave Arms
+  - Illeth Translation Guide
 ---
 ## Common
 - Janky Flashlight. Grants darkvision for 40ft, but imposes disadvantage on all investigation and perception checks. 
@@ -58,6 +59,8 @@ aliases:
 - [[House Galling]] uniform. Can be worn over armor and imposes no disadvantages. 
 - Exosuit. Can be worn over armor. Prevents contact or aerial poison inflictions as long as the integrity of the suit isn't compromised.  
 - [[Fernites|Fernite]] Vaccine. 200c. 
+- [[Caldwell's Field|E-Tech]] tools. 
+- [[Illeth]] Translation Guide. Allows you to translate [[Illeth]] into common.
 
 ## Uncommon
 - Taure [[House Galling]] ID Card. "20121185: R1"
@@ -82,7 +85,7 @@ aliases:
 
 ## Rare
 - Yoichi Hairpiece. A symbol of honor among the Yakuza. 
-- [[Illidium]] [[CSG and HG Soldiers|Dreadnave]] Arm. 
+- [[Exotic Metals|Illidium]] [[CSG and HG Soldiers|Dreadnave]] Arm. 
 	- When equipped, it gives you another action each turn that can only use that arm. This action has advantage on all STR, DEX, and CON checks.
 	- Replaces an actual arm on a medium humanoid. . 
-	- This arm can make an unarmed strike for 2d12 + STR bludgeoning damage.
+	- This arm can make an unarmed strike for 2d8 + STR bludgeoning damage.

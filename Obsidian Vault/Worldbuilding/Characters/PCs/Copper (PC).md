@@ -57,7 +57,7 @@ Saving throw proficiencies:
 - Bardic inspiration.
 - Cutting Words. 
 
-[[Spins]] (see [[Spins]])
+[[Caldwell's Field|Spins]] (see [[Caldwell's Field|Spins]])
 - Vicious Mockery (Level 0 Song)
 - Healing Words (Level 1 Song)
 - Dancing Lights (Level 1 Song)
@@ -69,9 +69,9 @@ Saving throw proficiencies:
 
 Song statistics:
 - You can store 2 cantrips
-- You can store 6 [[Spins]]
-- You can use lvl 1 [[Spins]] 4 times per long rest
-- You can use lvl 2 [[Spins]] 2 times per long rest
+- You can store 6 [[Caldwell's Field|Spins]]
+- You can use lvl 1 [[Caldwell's Field|Spins]] 4 times per long rest
+- You can use lvl 2 [[Caldwell's Field|Spins]] 2 times per long rest
 
 Inventory:
 - 2 Daggers

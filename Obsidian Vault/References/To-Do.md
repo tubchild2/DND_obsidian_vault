@@ -1,38 +1,22 @@
 ### Session 2 Planning
-- [[Caldwell's Field|Eathyst Alloys]]
-- Weaker metals
-- Lighter metals
-- Conductive metals
-- Special use metals
-- [[House Galling]] vehicles
-- Spacecrafts 
+- Changes. 
+	- The [[Doctrine of St. Galling|CSG]] teachings need to be more specified. Where did they come from? How do they change Christianity? Who was their founder? 
+	- [[Pluto]] never directly communicates to [[the party]]. He gives vague clues and trinkets to tell people where to go next, and relies heavily on other means of communication. He's playing his cards close to his chest. Make it a hunt, not a railroad. 
+	- The Empires of [[the Galaxy]] need to be defined. [[Primordial of Order|Tod]] is manipulating people in all of them. Each Galactic plate has its own Empire. 
+	- The reveal of [[Primordial of Order|Tod]]'s deal with [[Bradford]] happens towards the end in a Uncharted-bunker-esc section. 
 - Detail out all of the structures they could go to as session sections. Be careful to separate session information and location information. 
-	- [[Session 2.2a-Carrion Keep]]
+	- [[Mistriven]]
 		- Descriptions
-			- Fun loot and stuff
-			- Maybe a puzzle that sets up later ones?
-		- Battle information
-			- Carrion Crawler statblock
-		- Battle map
-	- [[Session 2.1b-Mistriven]]
-		- Descriptions
-		- Battle information
-			- Cockatrice statblock
-		- Battle map
-	- [[Session 2.2b-Fennhollow Pass]]
+		- Battle map of the center of the village, or the mountains, or the docks. 
+	- [[Fennhollow Pass]]
 		- Description
 			- [[Illeth]] lore
 			- Fun loot and stuff
 			- Maybe a puzzle that sets up later ones?
-		- Battle information
-			- Vine Blight statblock
-			- Mutant bat statblock
-		- Battle map
-	- [[Session 2.3-Chimera Crags]]
+		- Battle map of about halfway through the climb
+	- [[Beholder's Reach|Chimera Crags]]
 		- Descriptions
-		- Lava crossing mechanics?
-		- Short section
-		- Make it a black graveyard 
+		- Camping.
 	- [[Session 2.4-Wyrm's Rest]]
 		- Descriptions
 			- [[Beholder's Reach|Mutant hive]] horror lab or stone dungeon and caverns
@@ -40,30 +24,32 @@
 			- Puzzles
 			- Setup for the hunt
 			- Fun loot
-		- Battle info
-			- Ankheg statblock
-			- Baby ankheg statblock
+- Add ambience to all of them
 ### Session 2 Physical Work
 - Make [[Gemini (pc)]] a noble soul knife guy. 
 - Reprint all minis on fine, and securely store them. 
 	- Bjorn
-	- Copper
-	- Corvus
-	- Taure
-	- Gemini
 - Print new minis
 	- 2 Cockatrice
-	- 2 Twig Blight
+	- 2 Twig Blights
 	- 1 Carrion Crawler
-- Make a map of [[Vivimus]] to guide them. 
-- Print out all the battle maps
+- Print out all the battle maps and stuff
 	- [[Archer's Pass]]
-	- [[Carrion Keep]]
 	- [[Gorviris|Mistriven]]
 	- [[Gorviris|Fennhollow Pass]]
-	- [[Beholder's Reach]]
 	- [[Beholder's Reach|Wyrm's Rest]]
+
+### Session 2 list
+- Minis
+- Stapler
+- Character sheets
+- Books
+- Laptop and charger
+- DM Screen
+- All the dice
+
 ### Some time
+- [[Primordial of Order|Tod]] is working with many more people, and is setting up the fall of the Empires. He really needs [[Mano di Dio|the Mano di Dio]] though.
 - Separate lore from plot for [[Pluto's Cottage]]. (session 0.1)
 - Separate lore from plot for [[Vivere Mori]]. (session 1.2)
 - [[Bradford]] v5. Give him some dang abilities! How about, he's not that crazy physically, but he can mind control people and manifest [[CSG and HG Soldiers|dreadnaves]]. 
@@ -85,10 +71,6 @@
 			- Enhanced health
 			- A set of [[Caldwell's Field|Ether]] abilities that boost all previously mentioned abilities
 			- A set of purely offensive [[Caldwell's Field|Ether]] abilities
-- The Empires. 
-	- Each galactic plate is controlled by a different empire. The [[Federation]] / [[House Galling]] are in the same one. 
-	- Galactic conflicts are constant, and tensions are always high.
-	- Leaving your plate is a no-go unless you've got a REAL good reason to. 
 - [[Federation]]
 	- Who, or what is the emperor?
 	- What do they do?
@@ -96,7 +78,11 @@
 	- Where do they operate?
 	- What are their laws?
 	- What conflicts have they been a part of?
+	- There are several houses that oversee majority of the [[Federation]]'s Territory. They're offshoots of things we know today.
 - [[Aalim Denzel]] needs more of a role. 
 - Add the [[CSG and HG Soldiers|dreadnave]] and other [[Doctrine of St. Galling|CSG]] and [[House Galling]] soldiers' armors, weapons, and items to the [[armor catalogue]], [[weapon catalogue]], and [[item catalogue]]. 
 	- Don't forget to add their aliases. 
 - Make [[Illidium]] variants of various weapons and armors. It's worth double. 
+- Spacecraft law, history, type, and modifications. 
+- [[House Galling]] war vehicles, and just standard vehicles. What does [[Bradford]] drive? What class of vehicle does [[House Galling]] use?
+- https://www.youtube.com/watch?v=R9mQ-yXtl04&t=191s

@@ -2,7 +2,7 @@
 
 ---
 ## General Information
-Race: Human - Magic Initiate (Cleric)
+Race: Human - [[Caldwell's Field|Magic]] Initiate (Cleric)
 Class and Level: Lvl 1 Artificer (Artillerist Eventually)
 Background: Sage
 Speed: 30ft
@@ -15,10 +15,22 @@ Initiative: 0
 Proficiency Bonus: +2
 AC: 15
 
-[[Spins]] Save DC: 15
-[[Spins]] Attack Mod: 7
-[[Spins]] Ability Modifier: 5
-LVL 1 [[Spins]] Slots: 2
+[[Caldwell's Field|Spins]] Save DC: 15
+[[Caldwell's Field|Spins]] Attack Mod: 7
+[[Caldwell's Field|Spins]] Ability Modifier: 5
+
+| Level | Slots (Ammo) | Slots Used | Total Prepared |
+| ----- | ------------ | ---------- | -------------- |
+| 0     | -            | -          | 2              |
+| 1     | 2            | 0          | 2*             |
+| 2     |              |            |                |
+| 3     |              |            |                |
+| 4     |              |            |                |
+| 5     |              |            |                |
+| 6     |              |            |                |
+| 7     |              |            |                |
+| 8     |              |            |                |
+| 9     |              |            |                |
 
 Full Name: Ratchet Dorian Gulliver
 Alignment: Chaotic Good
@@ -33,39 +45,39 @@ Theme Playlist: https://open.spotify.com/playlist/2Eb0MarMoJjqUO7NS3eHGx?si=d811
 
 ---
 ## Ability Scores
-| Ability      | Points  | Modifier | Saving Throw Proficiency |
-| ------------ | ------- | -------- | ------------------------ |
-| Strength     | 2       | -4       |                          |
-| Dexterity    | 13      | +1       |                          |
-| Constitution | 16      | +3       | Yes                      |
-| Intelligence | 19 (+2) | +5       | Yes                      |
-| Wisdom       | 20 (+1) | +5       |                          |
-| Charisma     | 6       | -2       |                          |
+| Ability      | Points  | Modifier | Proficient? |
+| ------------ | ------- | -------- | ----------- |
+| Strength     | 2       | -4       |             |
+| Dexterity    | 13      | +1       |             |
+| Constitution | 16      | +3       | Yes         |
+| Intelligence | 19 (+2) | +5       | Yes         |
+| Wisdom       | 20 (+1) | +5       |             |
+| Charisma     | 6       | -2       |             |
 
 
 
 ---
 ## Skills and Proficiencies
+| Skill           | Inherits From | Proficient? | Modifier |
+| --------------- | ------------- | ----------- | -------- |
+| Acrobatics      | Dexterity     |             | +1       |
+| Animal Handling | Wisdom        |             | +5       |
+| Arcana          | Intelligence  | Yes         | +7       |
+| Athletics       | Strength      |             | -4       |
+| Deception       | Charisma      |             | -2       |
+| History         | Intelligence  | Yes         | +7       |
+| Insight         | Wisdom        |             | +5       |
+| Intimidation    | Charisma      |             | -2       |
+| Investigation   | Intelligence  | Yes         | +7       |
+| Medicine        | Wisdom        |             | +5       |
+| Nature          | Intelligence  |             | +7       |
+| Perception      | Wisdom        | Yes         | +7       |
+| Performance     | Charisma      |             | -2       |
+| Persuasion      | Charisma      |             | -2       |
+| Religion        | Intelligence  |             | +7       |
+| Stealth         | Dexterity     |             | +1       |
+| Survival        | Wisdom        |             | +5       |
 
-| Skill           | Inherits From | Proficiency | Bonus |
-| --------------- | ------------- | ----------- | ----- |
-| Acrobatics      | Dexterity     |             | +1    |
-| Animal Handling | Wisdom        |             | +5    |
-| Arcana          | Intelligence  | Yes         | +7    |
-| Athletics       | Strength      |             | -4    |
-| Deception       | Charisma      |             | -2    |
-| History         | Intelligence  | Yes         | +7    |
-| Insight         | Wisdom        |             | +5    |
-| Intimidation    | Charisma      |             | -2    |
-| Investigation   | Intelligence  | Yes         | +7    |
-| Medicine        | Wisdom        |             | +5    |
-| Nature          | Intelligence  |             | +7    |
-| Perception      | Wisdom        | Yes         | +7    |
-| Performance     | Charisma      |             | -2    |
-| Persuasion      | Charisma      |             | -2    |
-| Religion        | Intelligence  |             | +7    |
-| Stealth         | Dexterity     |             | +1    |
-| Survival        | Wisdom        |             | +5    |
 Tool Proficiencies
 - Thieves' tools. Picking locks, disarming traps, etc.
 - Tinker's tools. Crafting muskets, pistols, traps, locks, etc.
@@ -84,10 +96,13 @@ Weapon / Armor Proficiencies
 ---
 ## Equipment
 Weapons
-- Dagger
-- Light Hammer
-- Light Crossbow w/ 20 bolts. 
-- Quarterstaff
+
+| Name           | Damage | Type | Properties | Range | Ammo |
+| -------------- | ------ | ---- | ---------- | ----- | ---- |
+| Dagger         |        |      |            |       |      |
+| Light Hammer   |        |      |            |       |      |
+| Light Crossbow |        |      |            |       |      |
+| Quarterstaff   |        |      |            |       |      |
 
 Armor
 - Scale Mail
@@ -100,34 +115,38 @@ ETC
 - Robe
 - Dungeoneer's Pack
 
+Ammo
+- 20 crossbow bolts
+
+Wallet
+- 8gp
 
 
 ---
-## Abilities, Cantrips, and [[Spins]]
+## Abilities, [[Caldwell's Field|Cantrips]], and [[Spins]]
 Funneling
 - He falls under the category of a minder. He's a supportive character, who's more inclined toward utility. 
-- He has a 50% utility, 40% healing, 10% offensive spin split. 
+- He has a 50% utility, 40% healing, 10% offensive [[Caldwell's Field|spin]] split. 
 Abilities:
 - Heroic Inspiration at the beginning of each long rest. Lets you reroll a dice roll once.
-- Magical Tinkering. I can make a tiny nonmagical item do some random stuff that's almost exclusively helpful in roleplay. 
+- [[Caldwell's Field|Magical]] Tinkering. I can make a tiny nonmagical item do some random stuff that's almost exclusively helpful in roleplay. 
 
-Cantrips:
-- Mage Hand
-- Mending
-- Spare the Dying
-- Guidance
-- Shillelagh
-- Friends
-
-Level 1 [[Spins]]:
-- Cure Wounds
-- False Life
-
-Cleric lvl 1 [[Spins]] (one use per long rest)
+Cleric lvl 1 [[Caldwell's Field|Spins]] (one use per long rest)
 - Find Familiar
 
-Wizard lvl 1 [[Spins]] (one use per long rest)
+Wizard lvl 1 [[Caldwell's Field|Spins]] (one use per long rest)
 - Healing Word
+
+| Name            | Level | Effect                                                                                                                                                                                                                                                   |
+| --------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mage Hand       | 0     | Pick up a thingy that's less than 5lbs with an invisible hand                                                                                                                                                                                            |
+| Mending         | 0     | Fix up cracks and stuff                                                                                                                                                                                                                                  |
+| Spare the Dying | 0     | Stabilize someone making death saving throws                                                                                                                                                                                                             |
+| Guidance        | 0     | You touch a creature and choose a skill. Until the [[Caldwell's Field\|spin]] ends, <br>(it lasts 1 minute) they add 1d4 to any ability check they <br>make using that skill.                                                                            |
+| Shillelagh      | 0     | A club or quarterstaff that you are holding is imbued with <br>nature's power. For the duration (1 [[Caldwell's Field\|minu]]te), you can use your <br>[[Caldwell's Field\|spin]] ability mod instead of STR for the attack AND damage <br>rolls.        |
+| Friends         | 0     | The target must succeed a wisdom saving throw or have the<br>charmed condition for the duration (1 minute). It succeeds<br>automatically if the target isn't humanoid, if you're fighting it, <br>or if you've used this on it within the past 24 hours. |
+| Cure Wounds     | 1     | A creature you touch regains a number of HP equal to 2d8 + your<br>[[Caldwell's Field\|spin]] ability modifier. The healing increases by 2d8 for each higher <br>level slot used above 1.                                                                |
+| False Life      | 1     | Gain 2d4 + 4 temporary HP. Gain 5 additional THP for each higher <br>level slot used above 1.                                                                                                                                                            |
 
 
 
@@ -147,13 +166,13 @@ Wizard lvl 1 [[Spins]] (one use per long rest)
 **Backstory**
 - **A Family of Merchants.** Ratchet was born aboard his parents brigantine in the *Great Saline Sea*. Ratchet's parents were merchants that would buy and resell regional objects to other kingdoms for a handsome profit. Due to travelling so much, they weren't attached to any kingdom, and spent most of their time on the sea in their brigantine. Their ship (and business) was called the Saline Tide. It was an old weathered ship that had seen better days. It was 3 generations old at this point, meaning it needed frequent repairs.
 - **Ma and Pa**. Ratchet's father was a stout man who enjoyed fishing and sailing, while his mother was a free-spirited and curious woman that enjoyed reading and travelling. He picked up an appreciation for all these things from a young age. They made their own fun aboard the ship. They told legends, read books, went fishing, collected trinkets, and played games. It was a simple life. They weren't rich rich by any means, but were mostly self-reliant. 
-- **Curious and Well Read.** Due to sailing with his parents, he spent his teen years travelling from manors to monasteries, making deals to access their libraries. He picked up a thing or two, and started tinkering with e-tech as a hobby. He was allowed to explore the towns they stayed in as long as he was careful and came back early. 
+- **Curious and Well Read.** Due to sailing with his parents, he spent his teen years travelling from manors to monasteries, making deals to access their libraries. He picked up a thing or two, and started tinkering with [[Caldwell's Field|e-tech]] as a hobby. He was allowed to explore the towns they stayed in as long as he was careful and came back early. 
 - **Davy Jones' Locker.** His parents were going to dock in *Styxas*. While a day's journey off from *Nagoyor Port*, they spotted the black and Jacinth sails of pirates. They attempted to flee, but to the dismay of everyone on board, the Pirates were of a higher caliber than previously thought--they had a Kraken under their command. Its tentacles ripped his parents from the ship and pulled them into the waters below. The Pirates boarded the ship and began emptying it. Ratchet hid in a barrel, and peered through a small hole, where he spotted the captain. It was a horned dragonborn wearing a black leather outfit with a Jacinth eye on it. After returning to their ship the brigantine was smashed clean in two by the Kraken, and Ratchet plummeted into the *Ocean Wide*. Suddenly, he felt a flood of [[Caldwell's Field|Ether]] surge through him as his Folcryst Gland activated. Using mage hand and mending, he swam above the waves and fashioned a raft.  
 - **A New Home**. After floating to shore, he bought himself a small sloop to live out of. It's currently docked in *Nagoyor Port*. His sloop is called the Saline Tide after his parent's brigantine. It's been 2 years since the encounter with the kraken, and he's been exploring Styxas to further his plan.
 
 **Agenda**
 1. Research and find schematics for an anti-kraken weapon.
-2. Unlock the secrets of e-tech and funneling by either partnering with, or stealing from the Folcrithian. 
+2. Unlock the secrets of [[Caldwell's Field|e-tech]] and funneling by either partnering with, or stealing from the Folcrithian. 
 3. Gain enough combat and adventuring experience to outmatch and solo a large group of people.
 4. Learn the identities of the pirates. Find out why they raided them.
 5. Kill their Kraken with the weapon, then take them out himself. 

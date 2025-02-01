@@ -1,1 +1,0 @@
-- Battle with 1d4 Vine Blights while climbing the cliff face, as well as some mutant bats (they're just bats). 

@@ -10,9 +10,7 @@ aliases:
   - Gateway
   - Gateways
   - Envoy
-  - Avatar
   - Envoys
-  - Avatars
   - Theophany
   - Spins
   - Spin
@@ -23,31 +21,39 @@ aliases:
   - Spells
   - Eathyst Alloy
   - Eathyst Alloys
+  - Ether tech
+  - Eathyst tech
+  - Ether technology
+  - Eathyst technology
+  - e-tech
+  - Ether users
+  - Cantrips
+  - Cantrip
 ---
 
 ![[Caldwell's Field.jpg]]
 
 ### Reference Table
 
-| Ether Unit | Pytes | [[Spins]] | Feeder Debt  | Eathyst  | Effect Scale | Grade |
-| ---------- | ----- | --------- | ------------ | -------- | ------------ | ----- |
-| Pyte       | 1     |           |              |          | Cell<br>     | I     |
-| Bipyte     | 2     |           |              |          | Hair         | II    |
-| Tetrapyte  | 4     |           |              |          | Grain        | III   |
-| Octopyte   | 8     |           |              | Grain    | Pebble       | IV    |
-| Hexapyte   | 16    | 0-1       |              | Pebble   | Stone        | V     |
-| Kilopyte   | 2^10  | 2-4       |              | Shard    | Boulder      | VI    |
-| Millapyte  | 2^20  | 5-6       |              | Gem      | House        | VII   |
-| Billapyte  | 2^30  | 7         | Cibus Minor  | Node     | Village      | VIII  |
-| Trillapyte | 2^40  | 8         | Cibus Medius | Crag     | City         | IX    |
-| Quadrapyte | 2^50  | 9         | Cibus Major  | Monolith | Country      | X     |
+| Ether Unit | Pytes | Spins | Feeder Debt  | Eathyst  | Effect Scale | Grade |
+| ---------- | ----- | ----- | ------------ | -------- | ------------ | ----- |
+| Pyte       | 1     |       |              |          | Cell<br>     | I     |
+| Bipyte     | 2     |       |              |          | Hair         | II    |
+| Tetrapyte  | 4     |       |              |          | Grain        | III   |
+| Octopyte   | 8     |       |              | Grain    | Pebble       | IV    |
+| Hexapyte   | 16    | 0-1   |              | Pebble   | Stone        | V     |
+| Kilopyte   | 2^10  | 2-4   |              | Shard    | Boulder      | VI    |
+| Millapyte  | 2^20  | 5-6   |              | Gem      | House        | VII   |
+| Billapyte  | 2^30  | 7     | Cibus Minor  | Node     | Village      | VIII  |
+| Trillapyte | 2^40  | 8     | Cibus Medius | Crag     | City         | IX    |
+| Quadrapyte | 2^50  | 9     | Cibus Major  | Monolith | Country      | X     |
 
 > [!READING THIS TABLE]
 > *The Ether Unit column provides a unit of Ether measurement that equals the amount of Pytes in the second column.*
 > 
 > *The Pytes column provides an amount of Pytes which everything else scales around.*
 > 
-> *The [[Spins]] column shows which level [[Spins]] can be performed with said amount of Pytes.* 
+> *The Spins column shows which level Spins can be performed with said amount of Pytes.* 
 > 
 > *The Feeder debt column shows whether usage of said amount of Pytes could create a Feeder.* 
 > 
@@ -61,7 +67,7 @@ aliases:
 
 ---
 ### The Field
-Caldwell's Field is a universe devoid of matter, and energy. It's a completely empty space meant to store the thoughts of life. 
+Caldwell's Field is a universe devoid of matter, and energy. It's a completely empty space meant to store the thoughts of life. It's a 1x1 scale copy of our universe, except it's completely empty.
 Theme: https://www.youtube.com/watch?v=t3Tbvah7waU
 
 
@@ -69,7 +75,7 @@ Theme: https://www.youtube.com/watch?v=t3Tbvah7waU
 ---
 ### The Particles of the Field
 **Ether**
-	Ether is a fundamental particle that's native to [[Caldwell's Field]]. It exists as a physical manifestation of an idea. Whenever someone thinks, they produce Ether in [[Caldwell's Field]] that carries the meaning of that idea. The Ether flows through the emptiness, splitting and grouping by meaning. 
+	Ether is a fundamental particle that's native to [[Caldwell's Field]]. It exists as a physical manifestation of an idea. Whenever someone thinks, they produce Ether in [[Caldwell's Field]] that carries the meaning of that idea. The Ether flows through the emptiness, splitting and grouping by meaning. The idea of an Ether particle can only be changed by another sentient being with the means to interact with it. 
 
 1. Whenever Ether enters our world, it manifests its idea into matter, and energy.
 2. Whenever matter or energy enters Caldwell's Field, it deconstructs into Ether.
@@ -85,36 +91,37 @@ Theme: https://www.youtube.com/watch?v=t3Tbvah7waU
 
 
 ---
+### Gateways
+Gateways can be made by creating a remarkably energy dense point. It's borderline impossible to do this without [[Exotic Metals|Nethrium]], which can be boiled or accelerated to borderline lightspeed. Maintaining this point is borderline impossible. 
+The size of the gateway formed is equal to the size of the high energy material. For example, 1ft of [[Exotic Metals|Nethrium]] produces a 1ft gateway. 2ft of [[Exotic Metals|Nethrium]] produces a 2ft gateway. etc. 
+Anything beyond 10ft in diameter allows the formation of Theophany. 
+
+
+
+---
 ### Primordials
 **General Information**
 	The points where similar Ether collects forms Primordials, which are born not of matter, but of *meaning*. They are manifested ideas. Each Primordial thus has a central idea that they are the representative of. This is called their "thesis." Once a primordial forms, it collects all of the Ether that thesis yields. 
-	The Ether that forms a Primordial is what they have to work with. If they run out of Ether, they lose meaning and collapse in on themselves. This means that the primary way to kill a Primordial is to forget its thesis, or the exhaust it.
+	The Ether that forms a Primordial is what they have to work with. If they run out of Ether, they lose meaning and collapse in on themselves. This means that the primary way to kill a Primordial is to forget its thesis, or to exhaust it.
+	Primordials are extremely spread out, and the chances of them running into each other are slim to none. There are a ton of Primordials, but the universe is just far too big of a place.
+	Primordials can read the information off Ether. If it formed them, or they interact with it, they can learn where it came from and why it formed. 
 
 **Archaic and Complex Primordials**
 	The thesis of a primordial determines everything about their appearance, agenda, intelligence, and power. They typically fall on a spectrum between two extremes.
-	Archaic, fundamental theses carry immense Ether, and make the Primordial stronger. However, due to their inherent simplicity, they're unintelligent. Some aren't even aware of their own existence. Their power is measured in quadrapytes. 
-	Complex, new theses allow carry intelligence, and make the Primordial smarter. Though weaker, they can manipulate, plan, and bargain to get what they want. Their power, though significantly weaker, is still nothing to scoff at. Typically measured in the upper trillapytes. 
+	Archaic, fundamental theses carry immense Ether, and make the Primordial stronger. However, due to their inherent simplicity, they're unintelligent. Some aren't even aware of their own existence. They're capable of creating [[Exotic Metals|Nethrium]]. 
+	Complex, new theses allow carry intelligence, and make the Primordial smarter. Though weaker, they can manipulate, plan, and bargain to get what they want. Their power, though significantly lesser, is still nothing to scoff at. 
 
 **Propagation**
 	They all serve to propagate the thesis that birthed them. For instance, the Primordial of sticks would want to create and defend sticks, because that would cause more people to think about it, granting it more Ether. 
 
-**Envoys**
-	Forming a telepathic link with a primordial allows the inherently psychological being to implant its thesis into your mind. This process causes vivid hallucinations, and causes loud voices in your mind that tempt you to carry out the function of the primordial. They'll feel an overwhelming urge to propagate the thesis.
-
-**Avatars**
-	If one were to bargain with a primordial, they may become an Envoy with benefits, or an avatar. They are given a paired Eathyst implant to grant them access to the Primordials' Ether.
-	The terms of these arrangements differ from Primordial to Primordial. 
-		- Archaic primordials tend to grant immense, uncontrollable power. They give them unwavering access of a large sum of their power. However, Archaic primordials will constantly drill their thesis into the mind of the avatar. From their perspective, it feels like someone is constantly yelling in your ear to do something. 
-		- Complex primordials tend to grant focused, precise power, with other specified costs, and take frequent use of their ability to communicate to tell the Avatar what to do. They also might not even give the Avatar full control of its power, instead opting to be more hands-on and control it themselves.
-	If you fail, and end up costing more ether than you propagate, your Eathyst is unpaired, and reverted back to standard raw Eathyst.
+**Gateway Interaction**
+	Gateways form on both sides, meaning Primordials can interact with them. They can use their Ether to manifest matter, energy, and thoughts in our world. However, they're greatly limited until the gateways they interact with are quite large (about 10ft in diameter). Anything they attempt to do before this threshold forms Eathyst in various quantities (see Eathyst).
 
 **Theophany**
-	In extraordinarily rare cases, there might exist a gateway that was simultaneously large, fortified, and stable. Primordials cannot physically leave Caldwell's Field because their bodies are made of Ether, and Ether manifests into matter, energy, and thought as soon as it enters our world. However, they can create a physical body that they puppet FROM Caldwell's Field.
-	The formation of a Theophany has 4 stages. 
-		First, the Primordial creates a gateway that connects them to the body. 
-		Second, the Primordial places it in a node of Eathyst. 
-		Third, the Primordial coats it in [[Exotic Metals|Nethrium]] to defend it.
-		Fourth, the Primordial forms a physical body around it that they can control.
+- In extraordinarily rare cases, there might exist a gateway that was simultaneously large, fortified, and stable. Primordials cannot physically leave Caldwell's Field because their bodies are made of Ether, and Ether manifests into matter, energy, and thought as soon as it enters our world. 
+- However, they gain full control with gateways exceeding 10ft in diameter. After this, they can form a Theophany, which a mobile gateway they can use as a puppet to give them a physical body. They have full access to our world in this form, and can use 100% of their Ether if they wish. 
+- An important note is that ancient Theophany have enough excess Ether to form [[Exotic Metals|Nethrium]] in their bodies, which is a remarkably dense 4D organic material that's borderline indestructible. 
+- Primordials can alter their Ether’s meaning, allowing them to do various things, but they are far more proficient in their thesis. While they _could_ act outside it, doing so is inefficient and unnatural, making them disinclined to try.
 
 
 
@@ -139,16 +146,12 @@ Theme: https://www.youtube.com/watch?v=t3Tbvah7waU
 
 
 ---
-### Gateways
-Creating a gateway between two worlds requires a material that's remarkably energy dense, such as [[Exotic Metals|Nethrium]]. Whenever materials like this move, they flex spacetime ever so slightly. It's not really noticeable until you accelerate to speeds near the speed of light. Then, the rifts left behind become much larger and more notable. By spinning this material in a circle at those speeds, you can open gateway. However, maintaining this speed requires an immense amount of energy. 
-
-
-
----
 ### Eathyst
 **General Information**
-- Eathyst is an organic compound that can contain a gateway. Eathyst grows naturally in the vicinity of open gateways. The larger the gateway, the more Eathyst grows.
-- Eathyst resembles a semi-transparent metal root. 
+- Eathyst is an organic compound that can contain a gateway. 
+- Eathyst secretes in the vicinity of gateways. The larger the gateway, the more Eathyst grows.
+- Raw Eathyst resembles a copper root with yellow golden gems inside of it. 
+- Processed Eathyst is a light tan color, and glows golden. 
 - Eathyst responds to electrical stimuli and releases Ether which manifests inside of or around its source. 
 - The release of Ether from the gateway grows the Eathyst ever so slightly. This causes it to grow in strength like a muscle when used. This process is slow, and it's much for efficient to condensate. 
 - If the internal structure of the Eathyst is compromised, its gateway instantly breaks.
@@ -170,6 +173,7 @@ Creating a gateway between two worlds requires a material that's remarkably ener
 - Eathyst farms consist of a gate that's kept open and stable 24/7. Over time, the immediate area around the gates will begin to accumulate Eathyst.
 - A gate will produce an amount of Eathyst equal to 1% of the total size of the gate per day. 
 - For example, a 1m gate would produce 1cm^3 per day. A 2m gate would produce 2cm^3 per day. A 0.5m gate would produce 0.5cm^3 per day. Etc. 
+- 3m is roughly max size for a gateway (for farming purposes), as anything larger risks forming a theophany. 
 
 **Eathyst Pairing**
 - Eathyst can be paired to a primordial only with its permission. 
@@ -192,9 +196,31 @@ Creating a gateway between two worlds requires a material that's remarkably ener
 ---
 ### Eathyst Alloys
 **General Information**
-	By mixing liquid Eathyst with another liquified metal, you create an alloy that has a combination of the properties of the metal and the Eathyst.
-**Rules**
-- Eathyst grade is preserved and unchanged.
+	By mixing liquid Eathyst with another liquified metal, you create an Eathyst alloy. Eathyst grade is preserved and unchanged by this process unless specified. Although, it's physical form and properties change to match the metal they're paired with.
+**Examples:**
+	*E-Copper.* Becomes extra conductive.
+	*E-Uranium.* Becomes radioactive, and reactive to radiation. 
+	*E-Potassium.* Becomes highly reactive to water. Explodes on contact with water.
+	*E-Mercury.* Becomes a liquid at room temperature. 
+	*E-[[Exotic Metals|Illidium]].* Becomes borderline indestructible.
+	*E-[[Exotic Metals|Nethrium]]*. Indestructible, and capable of storing mass amounts of energy. 
+
+
+
+---
+### Ether Technology (E-Tech for short)
+**General Information**
+	Proficiency with E-Tech requires extensive study or training, and an INT of at least 17. It's remarkably complex, given the heavy reliance on microscopic particles and wormholes.
+	E-Tech is any machine in which a device (such as a microcomputer) sends electrical signals into Eathyst to generate a predictable response.
+	E-Tech can be used to store a spin if its grade is equal to or above the requires Pytes. 
+**Artisan's Tools**
+	You need E-Tech tools to create or work with E-Tech. These tools allow you to do the following (given you have the materials)
+	- Create an Eathyst farm
+	- Perform Eathyst transference
+	- Build Eathyst devises to perform a spin you know
+	- Create Eathyst implants
+	- Forge Eathyst alloys
+	- ETC. 
 
 
 

@@ -41,7 +41,7 @@ aliases:
 ---
 ### Individual Units
 **Inquisitors**
-	Creatures bred for their speed and numbers. They're genetically engineered and are born in pits. 
+	Creatures bred for their speed and numbers. They're genetically engineered and are born in pits. They have no faces, are 8ft tall, have disproportionately large hands and appendages, and they can run and climb 45ft per second.
 ![[The inquisitors.jpg]]
 
 ---
@@ -53,7 +53,7 @@ aliases:
 ---
 **Dreadnaves ([[Federation]])**
 	They're humans with the dreadnave serum, and permanently attached power armor. They're remarkably efficient soldiers due to extensive, borderline torturous training and brainwashing. 
-	They received a 50% concentration dreadnave serum.
+	They received a 30% concentration dreadnave serum.
 	7ft tall.
 
 ![[FED Dreadnave.jpg]]
@@ -62,9 +62,23 @@ aliases:
 **Dreadnave Serum**
 	A serum that granted the Dreadnaves additional organs, rapid healing, and enhanced physical abilities. Higher volumes and concentrations of the serum tend to produce more genetic aberrations, and can be inconsistent. 
 
+| Concentration | STR | DEX | CON | CON Saving Throw | Price      |
+| ------------- | --- | --- | --- | ---------------- | ---------- |
+| 0-19%         | +3  | +3  | +3  | DC15             | 5,000c     |
+| 20-29%        | +4  | +4  | +4  | DC16             | 10,000c    |
+| 30-39%        | +5  | +5  | +5  | DC17             | 20,000c    |
+| 40-49%        | +6  | +6  | +6  | DC18             | 40,000c    |
+| 50-59%        | +7  | +7  | +7  | DC19             | 80,000c    |
+| 60-69%        | +8  | +8  | +8  | DC20             | 160,000c   |
+| 70-79%        | +9  | +9  | +9  | DC23             | 320,000c   |
+| 80-89%        | +10 | +10 | +10 | DC26             | 640,000c   |
+| 90-100%       | +11 | +11 | +11 | DC30             | 1,280,000c |
+
+
+
 ---
 **Dreadnaves ([[House Galling]])**
-	They're genetically engineered creatures born from [[Grey Mire|Inquisitor pits]]. They're stronger, faster, and more obedient than normal humans, but still receive the same 50% concentration dreadnave serum.
+	They're genetically engineered creatures born from [[Grey Mire|Inquisitor pits]]. They're stronger, faster, and more obedient than normal humans, but still receive the same 40% concentration dreadnave serum.
 	7ft tall.
 
 ![[HG Dreadnave.jpg]]
@@ -80,7 +94,7 @@ aliases:
 ---
 **Elite Dreadnave**
 	A combination Pundit and Dreadnave. They're bred to be leaders of dreadnave battalions.
-	They're given a 75% concentration dreadnave serum, making them rare due to the initial poisoning this incurs. 
+	They're given a 50% concentration dreadnave serum, making them rare due to the initial poisoning this incurs. 
 	Given [[Illidium]] power armor and [[Caldwell's Field|Eathyst]] infused specialty weapons. 
 	8ft tall. 
 

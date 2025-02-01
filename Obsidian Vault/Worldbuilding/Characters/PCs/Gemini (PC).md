@@ -36,11 +36,11 @@ Saving throw proficiencies:
 ### Background:
 - A Japanese YouTube streamer who dreams of adventure
 - His parents are extremely rich streamer cosplayers
-- Some unknown burned their house down
-- The government kept his inheritance since he's young
-- Took his Dad's cosplay armor, and mom's weapons. Overtime converted them to real gear.
-- Tried to become a bounty hunter, but accidentally killed an innocent man.
-- Tried to be an assistant to the Yakuza, but they mistreated him so he quit. 
+- Some unknown force burned their house down
+- The government (The [[Federation]]) kept his inheritance since he's young
+- Took his Dad's cosplay armor, and mom's weapons. Over time, he converted them to real gear.
+- Tried to become a bounty hunter, but accidentally killed an innocent man. (Apu?)
+- Tried to be an assistant to the Yakuza, but they hated him so he quit. 
 
 ### Appearance:
 - Japanese Male

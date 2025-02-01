@@ -1,5 +1,5 @@
 Alignment: Chaotic Good
-Race: Human (Magic Initiate-Cleric)
+Race: Human ([[Caldwell's Field|Magic]] Initiate-Cleric)
 Class: Artificer - Artillerist (eventually)
 Background: Sage 
 LVL: 1
@@ -41,22 +41,22 @@ AC:
 - Investigation
 
 ---
-### Cantrips and [[Spins]]
-2 Artificer Cantrips
+### [[Caldwell's Field|Cantrips]] and [[Spins]]
+2 Artificer [[Caldwell's Field|Cantrips]]
 - Mage Hand
 - Mending
 2 Artificer lvl 1 [[Spins]]
 - Cure Wounds
 - False Life
 
-Due to the rules, [[Spins|spellcasting]] classes no longer exist since we aren't using magic. So these no longer have to be cleric and wizard respectfully.
+Due to the rules, [[Spins|spellcasting]] classes no longer exist since we aren't using [[Caldwell's Field|magic]]. So these no longer have to be cleric and wizard respectfully.
 
-2 Cantrips (human - magic initiate)
+2 [[Caldwell's Field|Cantrips]] (human - [[Caldwell's Field|magic]] initiate)
 - Spare the Dying
 - Guidance
-1 single use lvl 1 [[Spins]] (human - magic initiate)
+1 single use lvl 1 [[Spins]] (human - [[Caldwell's Field|magic]] initiate)
 - Find Familiar
-2 Cantrips (sage)
+2 [[Caldwell's Field|Cantrips]] (sage)
 - Shillelagh
 - Friends
 1 single use lvl 1 [[Spins]] (sage)
@@ -66,7 +66,7 @@ Due to the rules, [[Spins|spellcasting]] classes no longer exist since we aren't
 **Human**
 - Heroic Inspiration at the beginning of every long rest. This lets him reroll any dice roll once.
 **Artificer**
-- Magical tinkering. I can make a tiny nonmagical item do some useless stuff. I can make it into a light, I can make it play a recorded message, I can make it emit a sound or odor, and I can make a static visual effect appear on its surface.
+- [[Caldwell's Field|Magical]] tinkering. I can make a tiny nonmagical item do some useless stuff. I can make it into a light, I can make it play a recorded message, I can make it emit a sound or odor, and I can make a static visual effect appear on its surface.
 
 ### Starting Equipment
 **Artificer**

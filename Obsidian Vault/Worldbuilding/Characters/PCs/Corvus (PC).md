@@ -49,6 +49,7 @@ Saving throw proficiencies:
 
 ### Personality:
 - JJ inspired
+- Likes guns
 
 ### Abilities:
 - Kenku Recall

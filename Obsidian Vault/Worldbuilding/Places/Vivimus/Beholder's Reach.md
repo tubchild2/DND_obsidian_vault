@@ -1,7 +1,5 @@
 ---
 aliases:
-  - Chimera Crags
-  - The Chimera Crags
   - Ground Zero
   - Wyrm's Rest
   - Mutant Hive
@@ -11,15 +9,13 @@ aliases:
   - Trial 1
   - The First Trial
 ---
-![[Chimera Crags.jpg]]
+
 **General**
 - Located on [[Vivimus]]
 - Nestled between 6 volcanoes, its a massive network of magma rivers. 
-**Chimera Crags**
-- A series of charred red stone pinnacles peeking from magma.
-- Ruined stone bridges lie scattered and crumbled. 
-- The sky is dark due to the hazy red and purple sun, as well as the volcanic ash. 
-- Formerly an [[Illeth]] settlement, but it was destroyed during the [[Fernites|Fernite]] infestation of 7082. 
+
+**[[Chimera Crags]]**
+- See [[Chimera Crags]]
 
 
 

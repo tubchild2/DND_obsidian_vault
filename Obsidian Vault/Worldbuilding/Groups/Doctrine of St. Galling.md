@@ -5,6 +5,25 @@ aliases:
   - Church of St. Galling
   - CSG
   - Church of Saint Galling
+  - Saint
+  - St.
+  - Cardinal
+  - Cardinals
+  - Judge
+  - Judges
+  - Archbishop
+  - Archbishops
+  - Priest
+  - Priests
+  - Minister
+  - Ministers
+  - Deacon
+  - Deacons
+  - Scorned
+  - Bishop
+  - Bishops
+  - Exarch
+  - Exarchs
 ---
 ## Location
 Located in northern [[Vivere Mori|Viviris]], inside of [[Vivere Mori]]. 
@@ -38,4 +57,16 @@ The Doctrine of St. Galling revolves around strict principles regarding divinity
 - **Respect for Those Above You**. In the presence of someone notably above you on the hierarchy, it's seen as disrespectful to speak unless given permission to do so. 
 - **Dedication Trial**. To become a priest of the CSG, you must undergo a trial to determine your knowledge of DSG teachings, your dedication to the CSG, and your history of sin. 
 - **Wardship of the Weak**. As a priest, it is your responsibility to educate, and guide those beneath you regardless of their status. You must obey the doctrine in your own life, and you must seize all possible opportunities to spread the doctrine to those around you. Failure to do these things will result in loss of privileges, as well as a sinful debt you must pay off. Good behavior could result in a promotion to a higher rank.
-- 
+
+### Organization
+1. Saint. A figure set apart by God for holy purposes.
+2. [[House Galling|The Patriarch]]. The current male monarch of [[House Galling]]. The highest active role. Inherited only.
+3. The Exarch. The current elected leader of the [[Doctrine of St. Galling|DSG]] Church. Responsible for interpreting and upholding the faith in all aspects. Elected only. 
+4. Cardinal. Advisors to the exarch and [[House Galling|patriarch]] on [[Doctrine of St. Galling|DSG]] teachings. They handle public relations and communications on behalf of the exarch and [[House Galling|Patriarch]]. Cardinals can sit on the high court at will, and order the Archbishops. 
+5. Judge. A title given to the members of the high court of [[House Galling]]. They make judicial decisions and rulings for the exarch and the [[House Galling|Patriarch]], unless they rule otherwise. Can collectively order the archbishops. 
+6. Archbishop. Overseers of multiple bishops and regions. 
+7. Bishop. Supervisors of multiple churches within a designated area.
+8. Priest. A leader of an individual church.
+9. Minister. An ally of the church. 
+10. Deacon. An assistant to a priest.
+11. The Scorned. A sinner. Someone who deserves no respect, shouldn't speak, and must work to pay off their debts. Often slaves.

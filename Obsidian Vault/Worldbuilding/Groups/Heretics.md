@@ -7,6 +7,8 @@ aliases:
   - Siff
   - Siff Grax
   - Grax
+  - Illeth rebel
+  - Illeth rebels
 ---
 ![[Heretics.jpg]]
 

@@ -17,12 +17,14 @@ aliases:
 - Reveal of what [[Pluto]] actually stole / what the heist really was.
 - The [[Armstrong Initiative]] and the [[Tessali]]'s history with them
 
-- [[Bradford]]'s life story* (exclude the deal with [[Primordial of Command|Tod]])
+- [[Bradford]]'s life story* (exclude the deal with [[Primordial of Order|Tod]])
 - The final trials. Reveal of what happened on [[Merak-B]], reveal of what [[Bradford]] really wants with the [[Mano Di Dio]], and information about the [[Heretics]] and [[Pluto]] meeting on [[Merak-A]] for an immediate summons. 
 - [[Merak-A]], the [[Heretics|Heretic]] conflict, and the [[Tessali]]'s dungeon. 
 - Reveal of [[Caldwell's Field|Ether]], [[Caldwell's Field|Primordials]], and what the [[Tessali]] is. Reveal that [[Bradford]] has an arrangement with a [[Caldwell's Field|Primordial]], but he doesn't know that's what it is. 
 
-- [[Primordial of Command|Tod]]'s reveal
+- [[Primordial of Order|Tod]]'s reveal
+- [[Primordial of Order|Tod]]'s other activities.
+- [[Primordial of Order|Tod]]'s plot to cripple the Empires and create a power vacuum he can fill with his [[Caldwell's Field|Primordials]], with him at the helm.
 
 #### Escalating Rivalrous Encounters
 - A couple [[CSG and HG Soldiers|Inquisitors]]
@@ -34,7 +36,7 @@ aliases:
 - A squadron of [[CSG and HG Soldiers|Dreadnaves]] with an [[CSG and HG Soldiers|Elite Dreadnave]].
 - The full army. [[CSG and HG Soldiers|Dreadnaves]], [[CSG and HG Soldiers|Enforcers]], [[CSG and HG Soldiers|Inquisitors]], [[CSG and HG Soldiers|Elite Dreadnaves]], [[CSG and HG Soldiers|Templars]], [[CSG and HG Soldiers|Pundit]] medics, [[CSG and HG Soldiers|Pundit]] engineers, [[CSG and HG Soldiers|Pundit]] advisors, and [[Aalim Denzel]]
 - [[The fist of House Galling]] and [[Bradford]]. 
-- [[Primordial of Command|Tod]] and his army
+- [[Primordial of Order|Tod]] and his army
 
 #### Tests
 - Patience and Isolation
@@ -81,7 +83,7 @@ Investigating what created Copper, and why? He was involved with a subsect of th
 - Plotting, and executing a heist for some item or person to rescue. 
 - A time bomb / real time challenge
 - High stakes gambling for something [[the party]] needs.
-- Wish magic based on player sketches.
+- Wish [[Caldwell's Field|magic]] based on player sketches.
 - FFA Hunger Games esc. scenario. 
 - A localized anomaly is causing a time loop. They get caught in it, and need to undo it to escape. 
 - Body swapping PCs. 
@@ -91,8 +93,7 @@ Investigating what created Copper, and why? He was involved with a subsect of th
 - Surviving a crazy game show from a malevolent and powerful Mr. Beast inspired lunatic. 
 - They've angered the wrong people, and now their ship is under attack. They need to use the ship's systems to defend themselves, and keep them from entering the cockpit. 
 ### Lore Specific:
-- [[Bradford]] has a "guard dog" character. A fiercely loyal warforged that genuinely wants to be around [[Bradford]]. It's the only "person" [[Bradford]] has a real connection with. He's a big, clumsy, intimidating robot (or an illithid with his own faction, or maybe a beholder) who wants nothing more but to follow the orders of [[Bradford]]. This character is heavily involved in overseeing the [[Armstrong Initiative]].
-- Rebellions against the [[Federation]] and or [[House Galling]] / [[Bradford]] have formed and are attempting something that requires help from [[the party]]. 
+- The [[Heretics]] need help from [[the party]]. 
 - There's a bizarro version of [[the party]] that acts as a foil. They grow in power at the same rate, are just as capable, and reflect altered versions of the each party member's traits. 
 
 
@@ -113,7 +114,7 @@ Investigating what created Copper, and why? He was involved with a subsect of th
 - A dragon haven. Dive into the dragon lineage. 
 ### Groups:
 - Superintelligence hive mind or the ADAM / EVE network
-- Chicken cultist
+- Chicken cult
 - Lightning creatures
 - Shapeshifter / Doppelgangers. 
 - Lemonade stand mafia
