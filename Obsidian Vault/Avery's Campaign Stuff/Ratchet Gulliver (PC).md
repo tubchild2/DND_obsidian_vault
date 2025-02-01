@@ -97,12 +97,12 @@ Weapon / Armor Proficiencies
 ## Equipment
 Weapons
 
-| Name           | Damage | Type | Properties | Range | Ammo |
-| -------------- | ------ | ---- | ---------- | ----- | ---- |
-| Dagger         |        |      |            |       |      |
-| Light Hammer   |        |      |            |       |      |
-| Light Crossbow |        |      |            |       |      |
-| Quarterstaff   |        |      |            |       |      |
+| Name           | Count | Damage          | Type             | Properties                 | Range  | Ammo   |
+| -------------- | ----- | --------------- | ---------------- | -------------------------- | ------ | ------ |
+| Dagger         | 2     | 1d4 Piercing    | Simple<br>Melee  | Finesse<br>Light<br>Thrown | 20/60  | Itself |
+| Light Hammer   | 1     | 1d4 Bludgeoning | Simple<br>Melee  | Light<br>Thrown            | 20/60  | Itself |
+| Light Crossbow | 1     | 1d8 Piercing    | Simple<br>Ranged | Loading<br>Two-Handed      | 80/320 | 1 Bolt |
+| Quarterstaff   | 1     | 1d6 Bludgeoning | Simple<br>Melee  | Versatile (1d8)            | -      | -      |
 
 Armor
 - Scale Mail
