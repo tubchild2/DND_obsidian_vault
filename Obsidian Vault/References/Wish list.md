@@ -1,7 +1,0 @@
-- Dice tower for dramatic rolls
-- Monster Manual 2024
-- Mordenkainen Presents: Monsters of the Multiverse
-- Tasha's Cauldron of Everything
-- Eberron: Rising from the Last War
-- Mythic Odysseys of Theros
-- Xanathar's Guide to Everything
