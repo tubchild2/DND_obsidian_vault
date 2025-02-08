@@ -9,7 +9,7 @@ Speed: 35ft
 
 Max HP: 21
 Proficiency Bonus: +2
-AC: 10 + DEX + CON
+AC: 18
 
 Full Name: Thunderbolt the Disjointed
 Alignment: Chaotic Neutral
@@ -133,7 +133,6 @@ ETC
 
 **Divine Fury**
 - On each of your turns while your rage is active, the first creature you hit with a weapon or an unarmed strike takes extra damage equal to 1d6 plus half your Barbarian level (round down).
-- The damage is necrotic or radiant. You choose.
 
 **Warrior of the Gods**
 - You have a pool of four d12s that you can spend to heal yourself.

@@ -27,10 +27,10 @@ The air grows _wrong_, charged with something sickly and unnatural. At first, it
 With a chorus of splintering wood and guttural growls, the creatures lurch forward. **You're surrounded.** It's an ambush!
 
 Roll 1d4
-1: 1 Cockatrice
-2: 2 Cockatrice 
-3: 2 Cockatrice and 1 Twig Blight
-4: 2 Cockatrice and 2 Twig Blights 
+1: 2 Cockatrice
+2: 3 Cockatrice 
+3: 3 Cockatrice and 1 Twig Blight
+4: 3 Cockatrice and 2 Twig Blights 
 
 ![[cockatrice statblock.png]]
 

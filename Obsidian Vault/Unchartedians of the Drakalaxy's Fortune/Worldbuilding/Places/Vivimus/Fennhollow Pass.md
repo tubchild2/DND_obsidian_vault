@@ -69,8 +69,8 @@ aliases:
 - You see the exit to [[Chimera Crags|The Chimera Crags]], but it looks like a landslide happened. The tunnel is large enough to travel through, but a giant rocky nest has been made from the rubble. 
 
 Roll 1d4
-1-2: 2 Cockatrice
-3-4: 2 Cockatrice and 2 Twig Blights
+1-2: 3 Cockatrice
+3-4: 3 Cockatrice and 2 Twig Blights
 
 (If they already fought the cockatrices in [[Mistriven]])
 	The nest is completely empty. 

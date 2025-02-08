@@ -4,11 +4,15 @@ aliases:
   - Illidium
   - Lirillium
   - Dravium
+  - Uthine
+  - Ravite
+  - Umbraphyl
+  - Exotic Metal
 ---
 ---
 ### Nethrium
 **General Information**
-- Can be found inside of 4D creatures
+- Can be found inside of [[Hyperbeings|4D creatures]]
 - Must be stored extremely carefully at high temperatures, as it can blind you or release ridiculous amounts of radiation.
 - Appearance: solid black, with purple streaks through it. 
 - Conductor.
@@ -65,3 +69,66 @@ aliases:
 
 ---
 ### Dravium
+**General Information**
+- Average weight.
+- Fairly durable. Akin to bronze.
+- Emits a constant golden light when exposed to air. It slowly sublimates in open air, losing mass over time. It takes about a year of constant exposure for a cm^3 to sublimate.  
+- Nonconductor
+- Noncorrosive
+
+**Properties**
+- Melts at ~1,100c
+- Density: ~8.2 g/cm^3
+- Worth (per gram): ~9.2c
+- Worth (per cm^3): ~75.44c
+
+
+
+---
+### Umbraphyl 
+**General Information**
+- Light weight
+- Not very durable. Compare to gold.
+- Very efficiently absorbs all forms of light and radiation. Pitch black. Invisible in darkness.
+- Nonconductor
+- Noncorrosive
+
+**Properties**
+- Melts at ~1,064c
+- Density: ~1.9 g/cm^3
+- Worth (per gram): ~50c
+- Worth (per cm^3): ~95c
+
+
+
+---
+### Ravite
+**General Information**
+- Heavy light-orange steel
+- Highly durable. Comparable to steel.
+- Conductor
+- Noncorrosive
+- Can absorb heat, electricity, light, radiation, and force, before expelling them later in a powerful burst.
+
+**Properties**
+- Melts at ~1,500c
+- Density: 7g / cm^3
+- Worth (per gram): ~79c
+- Worth (per cm^3): 553c
+
+
+
+---
+### Uthine
+**General Information**
+- Medium weight toxic green metal
+- Low durability.
+- Conductor.
+- Noncorrosive.
+- Has antigravitational properties. Can increase its weight when heated, and vice versa.
+
+**Properties**
+- Melts at ~850c
+- Density: ~5.4g / cm^3
+- Worth (per gram): 80c
+- Worth (per cm^3): 432c

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e01f695c2c81f285",
+        "id": "5e6493090d619929",
         "type": "tabs",
         "children": [
           {
-            "id": "64d2b0d05c85b46f",
+            "id": "7d29fb172ec34cdb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accesories/To-Do.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To-Do"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 200
   },
   "right": {
     "id": "7efababeab0f1b4b",
@@ -127,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accesories/To-Do.md",
+                "file": "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/AAH121 (PC).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To-Do"
+              "title": "Outgoing links from AAH121 (PC)"
             }
           },
           {
@@ -177,8 +173,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64d2b0d05c85b46f",
+  "active": "75bb62ce5edb6dc7",
   "lastOpenFiles": [
+    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/Thunderbolt (PC).md",
+    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/AAH121 (PC).md",
+    "Accesories/To-Do.md",
+    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Things/Exotic Metals.md",
+    "Avery's Campaign Stuff/Ratchet Gulliver (PC).md",
+    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/NPCs/Dale Borland.md",
+    "Unchartedians of the Drakalaxy's Fortune/Pictures/Characters/NPCs/Dale Borland Full.jpg",
+    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/Sven (PC).md",
+    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/References/Catalogues/Weapon Catalogue.md",
+    "Unchartedians of the Drakalaxy's Fortune/Pictures/Characters/PCs/AAH121.jpg",
+    "Accesories/Links.md",
+    "Unchartedians of the Drakalaxy's Fortune/Sessions/Session 2/Session 2 Outline.md",
+    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Fennhollow Pass.md",
+    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Mistriven.md",
+    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Archer's Pass.md",
+    "Unchartedians of the Drakalaxy's Fortune/Sessions/Session Planning.md",
     "Accesories/PDF.zip",
     "Accesories/PDF/Weapon Sheet.pdf",
     "Accesories/PDF/Character Sheet - Print Version.pdf",
@@ -187,14 +199,10 @@
     "Accesories/PDF/Song Sheet.pdf",
     "Avery's Campaign Stuff/Spin Sheet.pdf",
     "Unchartedians of the Drakalaxy's Fortune/Pictures/Things/Illeth Translation Guide.png",
-    "Accesories/To-Do.md",
     "Accesories/DM Reminders.md",
     "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/Gemini (PC).md",
     "Accesories/Improved Character Creation Guide.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/Thunderbolt (PC).md",
     "Unchartedians of the Drakalaxy's Fortune/Pictures/Characters/PCs/Thunderbolt.jpg",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/Sven (PC).md",
-    "Avery's Campaign Stuff/Ratchet Gulliver (PC).md",
     "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/References/Galactic Standards.md",
     "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/Taure (PC).md",
     "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/References/CSG and HG Soldiers.md",
@@ -204,27 +212,15 @@
     "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Races/Hyperbeings.md",
     "Impromptu Campaign/Characters/NPCs/Byron Carver.md",
     "Impromptu Campaign/Characters/PC/Mason McNeil.md",
-    "Impromptu Campaign/Characters/PC/Skyler Hagen.md",
-    "Impromptu Campaign/Characters/PC/Aiden Zee Goehry.md",
-    "Nathaneil Monroe.md",
     "Impromptu Campaign/Characters/NPCs",
     "Impromptu Campaign/Characters/PC",
     "Impromptu Campaign/Characters",
-    "Impromptu Campaign",
-    "Unchartedians of the Drakalaxy's Fortune/Sessions/Session 2/Session 2 Outline.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Archer's Pass.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Vivimus.md",
     "Unchartedians of the Drakalaxy's Fortune/Pictures/Places/Vivimus/Archer's Pass.jpg",
     "Unchartedians of the Drakalaxy's Fortune/Pictures/Papers and Maps/Battlemaps/Archer's Pass Battlemap.jpg",
-    "Sessions/Session 2/Session 2.4-Wyrm's Rest.md",
     "Unchartedians of the Drakalaxy's Fortune/Pictures/Characters/NPCs/The Benefactor 2.jpg",
     "Unchartedians of the Drakalaxy's Fortune/Pictures/Characters/NPCs/The Benefactor.jpg",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Chimera Crags.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Fennhollow Pass.md",
     "Unchartedians of the Drakalaxy's Fortune/Pictures/Papers and Maps/Battlemaps/Chimera Crags Bridge.jpg",
     "Unchartedians of the Drakalaxy's Fortune/Pictures/Papers and Maps/Battlemaps/Cockatrice Nest 2.jpg",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Statblocks/Magma Mephit statblock.png",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Papers and Maps/Vivimus 8k.jpg",
     "Untitled.canvas",
     "PANDORA SCRIPT OVERVIEW.canvas",
     "PANDORA DND Campaign.canvas",

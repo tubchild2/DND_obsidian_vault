@@ -32,8 +32,8 @@ Roll initiative.
 
 Roll 1d4
 1-2: No Battle
-3: 2 Cockatrice
-4: 2 Cockatrice and 2 Twig Blights
+3: 3 Cockatrice
+4: 3 Cockatrice and 2 Twig Blights
 
 ![[cockatrice statblock.png]]
 ![[twig blight.png]]

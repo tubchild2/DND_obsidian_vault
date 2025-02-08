@@ -34,11 +34,13 @@ aliases:
   - Warknuckle
   - Warknuckles
   - The Warknuckles
+  - Plasma Rifle
 ---
 ## Common
 | Weapon              | Damage            | Type              | Cost  | Ammo         | Range  | Properties                                   |
 | ------------------- | ----------------- | ----------------- | ----- | ------------ | ------ | -------------------------------------------- |
-| Plasma<br>Pistol    | 1d6 Fire          | Simple<br>Ranged  | 2500c | 1 Charge     | 320ft  | Light<br>Loading                             |
+| Plasma<br>Pistol    | 1d6 Fire          | Simple<br>Ranged  | 2500c | 1 Charge     | 320ft  | Light<br>Loading<br>(VEX)                    |
+| Plasma Rifle        | 1d8 Fire          | Martial<br>Ranged | 3500c | 1 Charge     | 600ft  | Two Handed<br>Loading<br>(SLOW)              |
 | Long Neck<br>Rifle  | 1d8<br>Piercing   | Martial<br>Ranged | 5000c | 2 Charges    | 1000ft | Two-Handed<br>Loading                        |
 | Kunai               | 1d4<br>Piercing   | Simple<br>Ranged  | 50c   | Itself       | 60ft   | Finesse<br>Light                             |
 | Fire <br>Grenade    | 0                 | Simple<br>Ranged  | 150c  | Itself       | 60ft   | Fire fills a<br>25ft sphere<br>Light         |

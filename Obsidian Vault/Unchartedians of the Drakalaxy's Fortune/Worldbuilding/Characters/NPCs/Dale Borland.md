@@ -3,6 +3,7 @@ aliases:
   - The Reaper
 ---
 ![[Dale Borland.jpg]]
+![[Dale Borland Full.jpg]]
 
 ### Stats
 Full Name: Daniel "Dale" Borland
@@ -22,11 +23,11 @@ WIS:
 CHA: 
 INT: 
 
-Theme Song: https://open.spotify.com/track/53xdABEP9hyvBwvuXpzeXG?si=3d8c18757ec14e2a
-The Winter Soldier
+Theme Playlist: https://open.spotify.com/playlist/1hRNuBYweZKvxFgDnplDLS?si=dbce65498fae4b97&pt=10a3afa5c9ddf4dc2d59613901ae9826
+- Father And Son
+- The Winter Soldier
+- You Are My Son
 
-Favorite Song: https://open.spotify.com/track/4LXv4HFzR2YqqbsnQAsLWu?si=fb0283ab86df457b
-You Are My Son, by Brian David Gilbert.
 
 Proficiencies:
 - Persuasion
