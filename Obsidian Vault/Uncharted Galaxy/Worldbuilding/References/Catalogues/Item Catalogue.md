@@ -1,0 +1,93 @@
+---
+aliases:
+  - Janky Flashlight
+  - Jank Flashlight
+  - Janky Flashlights
+  - Jank Flashlights
+  - Flashlight
+  - Flashlights
+  - House Galling Uniform
+  - House Galling Uniforms
+  - Exosuit
+  - Exosuits
+  - Fernite Vaccine
+  - Fernite Vaccines
+  - Fernite Vaccinations
+  - Fernite Vaccination
+  - Taure House Galling ID Card
+  - Corvus House Galling ID Card
+  - Copper House Galling ID Card
+  - Gemini House Galling ID Card
+  - Bjorn House Galling ID Card
+  - Pluto House Galling ID Card
+  - Pluto's Note
+  - Pluto's Cottage Maps
+  - Moon Boots
+  - Map of Pluto's Cottage
+  - Maps of Pluto's Cottage
+  - Pluto's Cottage Map
+  - Short range teleporter
+  - Universal translator
+  - Food compass
+  - Portable heat based radar
+  - Short range teleporters
+  - Universal Translators
+  - Food compasses
+  - Portable heat based radars
+  - Stuffed Glorby
+  - Stuffed Glorbies
+  - Portable Library
+  - Portable Libraries
+  - Screamo-10
+  - Mercury Sinking Boots
+  - Boots for sinking in mercury
+  - Ring of Frostbite
+  - Frostbite Ring
+  - Bow of Drunkenness
+  - Rings of Frostbite
+  - Frostbite Rings
+  - Bows of Drunkenness
+  - Yoichi Hairpiece
+  - Yoichi Hairpieces
+  - Dreadnave Arm
+  - Dreadnave Arms
+  - Illeth Translation Guide
+---
+## Common
+- Janky Flashlight. Grants darkvision for 40ft, but imposes disadvantage on all investigation and perception checks. 
+- Flashlight. Grants darkvision for 40ft. 
+- [[House Galling]] uniform. Can be worn over armor and imposes no disadvantages. 
+- Exosuit. Can be worn over armor. Prevents contact or aerial poison inflictions as long as the integrity of the suit isn't compromised.  
+- [[Fernites|Fernite]] Vaccine. 200c. 
+- [[Eathyst and E-Tech|E-tech]] tools. 
+- [[Illeth]] Translation Guide. Allows you to translate [[Illeth]] into common.
+
+## Uncommon
+- Taure [[House Galling]] ID Card. "20121185: R1"
+- Corvus [[House Galling]] ID Card. "31518222119: R1"
+- Copper [[House Galling]] ID Card. "3151616518: R1"
+- Gemini [[House Galling]] ID Card. "75139149: R1"
+- Bjorn [[House Galling]] ID Card. "210151814: R1"
+- [[Pluto]] [[House Galling]] ID Card. "1612212015: R331"
+- [[Pluto]]'s note. See [[Session 0.1 - The Cottage]]. 
+- [[Pluto]]'s cottage map. Displays his cottage, with a red X over the location of his secret basement entrance.
+- Moon boots. Lets you jump 20ft in the air. Doesn't negate fall damage. 
+- Short range teleporter. Can teleport up to 15ft as a bonus action to an unoccupied space that you can see. Works once per long rest due to leveraging FTL tech. 
+- Universal translator. Translates into common alien languages. Alters perception on all nearby creatures, so they all appear to be speaking common.
+- Food compass. Points to the nearest edible object. Alters diet based on the user's species. 
+- Portable heat based radar. Shows your surroundings from a top-down view point in shades of green. It first calculates the average temperature of the area, and then displays anomalies. This can detect nearby creatures, people, or unnaturally hot or cold objects. 
+- Stuffed Glorby. The Adventures of Glorby is a children's cartoon on Kepler-22b. Gladiatorial combat mixed with sweet messages about family.
+- Portable Library Device. Resembles a flip phone. Made back when the [[Federation]] was attempting to market the internet to [[The Galaxy]], who promptly denied it.
+- Screamo-10. A hoverboard that gets faster the louder you scream. Made for kids.
+- Mercury boots. Dense enough to cause the wearer to sink in mercury.
+- Ring of Frostbite. Deals cold damage if worn for too long.
+- Bow of Drunkenness. Only aims correctly if the user is drunk, and never otherwise. 
+
+## Rare
+- Yoichi Hairpiece. A symbol of honor among the Yakuza. 
+- [[CSG and HG Soldiers|Dreadnave]] Arm. 
+	- Built from [[Exotic Metals|Illidium]] and [[Exotic Metals|Ravite]].
+	- When equipped, it gives you another action each turn that can only use that arm. This action has advantage on all STR, DEX, and CON checks.
+	- Replaces an actual arm on a medium humanoid.
+	- Extremely durable, and borderline indestructible. 
+	- This arm can make an unarmed strike for 2d8 + STR bludgeoning damage.

@@ -1,5 +1,5 @@
 Lvl 2 Human
-HP: 0
+HP: X
 
 | Ability      | Score | Modifier | Proficient Saving Throw? |
 | ------------ | ----- | -------- | ------------------------ |

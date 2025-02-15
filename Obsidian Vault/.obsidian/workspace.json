@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5e6493090d619929",
+        "id": "b7f51fcda58eaea9",
         "type": "tabs",
         "children": [
           {
-            "id": "7d29fb172ec34cdb",
+            "id": "bac2e93c543b8277",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Accesories/To-Do.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "To-Do"
+            }
+          },
+          {
+            "id": "2e8cb55721b495c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Uncharted Galaxy/Worldbuilding/Places/Vivimus/Wyrm's Rest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wyrm's Rest"
             }
           }
         ]
@@ -74,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 301.5
   },
   "right": {
     "id": "7efababeab0f1b4b",
@@ -104,17 +122,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Others.md",
+                "file": "Unchartedians of the Drakalaxy's Fortune/Sessions/Session 3/Session 3 Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Others"
+              "title": "Backlinks for Session 3 Outline"
             }
           },
           {
@@ -123,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/AAH121 (PC).md",
+                "file": "Accesories/To-Do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AAH121 (PC)"
+              "title": "Outgoing links from To-Do"
             }
           },
           {
@@ -173,55 +191,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75bb62ce5edb6dc7",
+  "active": "bac2e93c543b8277",
   "lastOpenFiles": [
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/Thunderbolt (PC).md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/AAH121 (PC).md",
+    "Uncharted Galaxy/Worldbuilding/Places/Vivimus/Wyrm's Rest.md",
     "Accesories/To-Do.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Things/Exotic Metals.md",
-    "Avery's Campaign Stuff/Ratchet Gulliver (PC).md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/NPCs/Dale Borland.md",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Characters/NPCs/Dale Borland Full.jpg",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/Sven (PC).md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/References/Catalogues/Weapon Catalogue.md",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Characters/PCs/AAH121.jpg",
-    "Accesories/Links.md",
-    "Unchartedians of the Drakalaxy's Fortune/Sessions/Session 2/Session 2 Outline.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Fennhollow Pass.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Mistriven.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Archer's Pass.md",
-    "Unchartedians of the Drakalaxy's Fortune/Sessions/Session Planning.md",
-    "Accesories/PDF.zip",
-    "Accesories/PDF/Weapon Sheet.pdf",
-    "Accesories/PDF/Character Sheet - Print Version.pdf",
+    "Uncharted Galaxy/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
+    "Uncharted Galaxy/Sessions/Session 3/Session 3 Outline.md",
+    "Uncharted Galaxy/Worldbuilding/References/Exotic Metals.md",
+    "Uncharted Galaxy/Worldbuilding/Characters/NPCs/Pluto.md",
+    "Uncharted Galaxy/Worldbuilding/Characters/NPCs/Bradford.md",
+    "Uncharted Galaxy/Worldbuilding/References/World History.md",
+    "Uncharted Galaxy/Worldbuilding/Characters/PCs/Copper (PC).md",
+    "Uncharted Galaxy/Worldbuilding/References/CSG and HG Soldiers.md",
+    "Uncharted Galaxy/Worldbuilding/Groups/Armstrong Initiative.md",
+    "Uncharted Galaxy/Worldbuilding/Groups/House Galling.md",
+    "Uncharted Galaxy/Worldbuilding/Characters/NPCs/The Fist of House Galling.md",
+    "Uncharted Galaxy/Worldbuilding/Characters/NPCs/Aaron Haynes.md",
+    "Uncharted Galaxy/Worldbuilding/Characters/NPCs/Aalim Denzel.md",
+    "Uncharted Galaxy/Worldbuilding/Characters/NPCs/Primordial of Order.md",
+    "Will of Tod (sequel to Uncharted Galaxy)/General Concept.md",
+    "Uncharted Galaxy/Worldbuilding/Races/Hyperbeings.md",
+    "Uncharted Galaxy/Class Changes.md",
+    "Uncharted Galaxy/Worldbuilding/Ethology/Ether Users.md",
+    "Uncharted Galaxy/Worldbuilding/Ethology/Ether and Unether.md",
+    "Uncharted Galaxy/Worldbuilding/Ethology/Primordials and Feeders.md",
+    "Uncharted Galaxy/Worldbuilding/Places/The Galaxy.md",
+    "Will of Tod (sequel to Uncharted Galaxy)",
+    "Uncharted Galaxy/Sessions/Session Planning.md",
+    "Uncharted Galaxy/Worldbuilding/Groups/The Vaerith Province.md",
+    "Uncharted Galaxy/Worldbuilding/Groups/The United Clans of Ur-Ghural.md",
+    "Uncharted Galaxy/Pictures/Places/Galaxy Plates.jpg",
+    "Uncharted Galaxy/Pictures/Places/The Bunker of Wyrm's rest.webp",
+    "Wyrm's Rest 2.jpg",
+    "Unchartedians of the Drakalaxy's Fortune/Pictures/Places/Vivimus/Wyrm's Rest.jpg",
+    "Frog Land/Pasted image 20250212124022.png",
     "Accesories/PDF/Inventory Sheet.pdf",
-    "Accesories/PDF/nonmagic Sheet.pdf",
+    "Accesories/PDF/Weapon Sheet.pdf",
     "Accesories/PDF/Song Sheet.pdf",
+    "Accesories/PDF/nonmagic Sheet.pdf",
+    "Frog Land",
+    "Frog Land/Pasted image 20250212123005.png",
+    "Frog Land/Pasted image 20250212123052.png",
+    "Uncharted Galaxy/Pictures/Logos/Ur-Ghural Flag 2.jpg",
+    "Uncharted Galaxy/Pictures/Logos/House Galling Flag.jpg",
+    "Uncharted Galaxy/Pictures/Logos/Armstrong Initiative Flag.png",
+    "Uncharted Galaxy/Sessions/Session 3",
+    "Accesories/PDF.zip",
+    "Accesories/PDF/Character Sheet - Print Version.pdf",
     "Avery's Campaign Stuff/Spin Sheet.pdf",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Things/Illeth Translation Guide.png",
-    "Accesories/DM Reminders.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/Gemini (PC).md",
-    "Accesories/Improved Character Creation Guide.md",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Characters/PCs/Thunderbolt.jpg",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/References/Galactic Standards.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/PCs/Taure (PC).md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/References/CSG and HG Soldiers.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Wyrm's Rest.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Places/Vivimus/Beholder's Reach.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Characters/NPCs/The Benefactor.md",
-    "Unchartedians of the Drakalaxy's Fortune/Worldbuilding/Races/Hyperbeings.md",
-    "Impromptu Campaign/Characters/NPCs/Byron Carver.md",
-    "Impromptu Campaign/Characters/PC/Mason McNeil.md",
-    "Impromptu Campaign/Characters/NPCs",
-    "Impromptu Campaign/Characters/PC",
-    "Impromptu Campaign/Characters",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Places/Vivimus/Archer's Pass.jpg",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Papers and Maps/Battlemaps/Archer's Pass Battlemap.jpg",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Characters/NPCs/The Benefactor 2.jpg",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Characters/NPCs/The Benefactor.jpg",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Papers and Maps/Battlemaps/Chimera Crags Bridge.jpg",
-    "Unchartedians of the Drakalaxy's Fortune/Pictures/Papers and Maps/Battlemaps/Cockatrice Nest 2.jpg",
-    "Untitled.canvas",
     "PANDORA SCRIPT OVERVIEW.canvas",
     "PANDORA DND Campaign.canvas",
     "Supply Chain FitnessApp(tm).canvas",
