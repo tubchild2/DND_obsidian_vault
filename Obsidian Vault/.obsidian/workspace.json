@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6874cca4376325d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accesories/To-Do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To-Do"
-            }
-          },
-          {
             "id": "60f3e77982996b1d",
             "type": "leaf",
             "state": {
@@ -141,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accesories/To-Do.md",
+                "file": "UNCHARTED GALAXY/Sessions/Session 3/Session 3 Outline.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To-Do"
+              "title": "Outgoing links from Session 3 Outline"
             }
           },
           {
@@ -191,19 +177,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6874cca4376325d2",
+  "active": "60f3e77982996b1d",
   "lastOpenFiles": [
+    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest.md",
+    "UNCHARTED GALAXY/Worldbuilding/Characters/NPCs/Dale Borland.md",
+    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Caverns.md",
     "UNCHARTED GALAXY/Sessions/Session 3/Session 3 Outline.md",
     "Accesories/To-Do.md",
     "UNCHARTED GALAXY/Worldbuilding/References/World History.md",
-    "UNCHARTED GALAXY/Worldbuilding/Characters/NPCs/Dale Borland.md",
     "Hangar 18.md",
-    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Caverns.md",
     "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Surface.md",
     "UNCHARTED GALAXY/Sessions/Session 1/Session 1.3 - Hangar 18.md",
     "UNCHARTED GALAXY/Sessions/Session 2/Session 2 Outline.md",
     "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Vivere Mori.md",
-    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest.md",
     "UNCHARTED GALAXY/Worldbuilding/References/Exotic Metals.md",
     "UNCHARTED GALAXY/Worldbuilding/Things/Mano di Dio.md",
     "UNCHARTED GALAXY/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",

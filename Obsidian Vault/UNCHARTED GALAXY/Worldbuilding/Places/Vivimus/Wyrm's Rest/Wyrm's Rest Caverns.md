@@ -10,6 +10,7 @@ Ambience:
 Room 1
 	You step into a small hand-carved room. In it lies a single small golden chest on a table, and a sealed door on the opposite side of the room. Below the table the chest sits on is an extremely deep pit. You can't see the bottom. 
 		- (inside the chest is [[Pluto]]'s second letter)
+		- (the pit requires a sacrifice of an item of immense personal value to progress)
 
 Room 2
 	Moving through the door, you find yourselves in awe of the 24 square foot statue of pure [[Exotic Metals|Nethrium]]. It's perfectly made, and has no damage to it. It has a shiny purple metallic finish, and weighs next to nothing for something of its size. It's in PERFECT condition. Piled around it is a bunch of loot. 
@@ -24,16 +25,9 @@ Room 2
 
 **[[Pluto]]'s Second Note**
 > My Dear Travelers,
-> - I know working your way through [[Vivimus]] was challenging, but it was the only way to guarantee no one found this place for a very long time. Oh I pray you didn't go through that bunker to get here. That place was awful I didn't know that was here. Anyways... THE TREASURE! The 404 billion [[Galactic Standards|credits]] of solid [[Exotic Metals|Nethrium]]! The treasure I offered is... well it has certain properties. I understand it's value better than anyone--I went through hell to steal it after all! Well there were other factors to me getting it but that's besides the point. 
-> - 
-> - As a seasoned pirate, what I'm about to tell you goes completely against my entire being, but unfortunately, the circumstances require it. The statue isn't what I thought it was. It was worth the full 404 billion [[Galactic Standards|credits]] but at the time I didn't know what it was. No one did, really.
-> - 
-> - I need you to destroy it. I don't mean give it to someone else, I don't mean hide it, I mean truly, utterly delete it. Any remnants of [[Exotic Metals|Nethrium]] left unchecked are dangerous. I understand the restraint I'm asking of you, but It's not an exaggeration to say that your actions moving forward could have cataclysmic consequences. That's why I'm choosing to leave it's true nature to myself. Knowing anything more could lead you to making dangerous decisions, and I can't risk that. 
-> - 
-> - I've spent the past 40 or so years attempting to do just that. I've hit it, crushed it, set it on fire, nuked it, thrown it in the sun, and yet... none of it did anything! It's still in mint condition! I know it's possible to damage it: [[House Galling]] cast it somehow! The technology is beyond my access, but in a few thousand years it probably won't be. That's why I hid it here of all places. No one goes here. It's proximity to the bunker freaks even the native creatures out. All I can do is wait, and pray that someone finally has the means to erase it. 
-> - 
-> - What's terrifying, is that the decision is ultimately yours. You could choose to ignore me, and I'd be too dead to stop you. So... I beg of you... if your intentions are anything beyond utter and complete selflessness, turn and run. Get yourself as far away from this place as possible. Leave it here, and tell no one of its existence. For the love of all that is holy do not give it back to [[House Galling]]. There are some secrets best left forgotten. 
-> - 
-> - To progress, and attain the treasure for yourself, you must prove your commitment. I need to know you aren't in this for the money. There should be a large pit in the center of the room. If you want to progress, you need to sacrifice something you really care about. This is going to become your top priority. 
-> - 
-> - P.S. Avoid the man in the suit. Don't panic, but he's probably in the room right now. Don't look at him, don't give him anything, don't acknowledge him at all. I'm not entirely sure what he is but he keeps showing up whenever I do this stuff. I wish I could say he was a ghost or some other entity like that, but truthfully I have no idea where to even begin with that thing.
+> - I write to you now with a matter of grave importance. The subject matter of this letter and its subsequent trial requires nothing less than absolute selflessness, as your actions moving forward could have potentially cataclysmic consequences.
+> - I offer you not treasure, but a quest. A quest of immense important that I'm unable to complete in my era. 
+> - I need you to prove your commitment by sacrificing something important to you, take [[Mano di Dio|the Mano Di Dio]], and destroy it. I don't mean give it to someone else, I don't mean hide it, I mean truly, absolutely delete it. Any fragments of the statue--or of [[Exotic Metals|Nethrium]] in general--must be reduced to atoms.
+> - I didn't understand what the statue was before I stole you. I'd explain all of the forces at play here, but I fear that knowledge like that could lead to dangerous decisions and complicate a simple mission. 
+> - Unfortunately, the decision is yours. You could choose to give it right back to [[House Galling]] if you wish, and I'll be too dead to stop you. The best I can do is warn you, and beg you to please treat this matter with the same gravitas as I do.
+> - Additionally, there's a chance you may have begun having encounters with a man in a suit. I don't know what he is, but he keeps showing up. There's a good chance he's in the room right now. Ignore everything he says or does! Do not listen to him!

@@ -1,6 +1,6 @@
 ### Session 3 Prep
 1. Character Progression
-	1. Level 4 Updates:
+	1. Level 4 Feats:
 		1. Luca: ?
 		2. Landon: ?
 		3. Skyler: ?
@@ -13,7 +13,6 @@
 	3. Origin Updates:
 		1. JJ: Charlatan
 		2. Landon ?
-	4. Fix everyone's health
 
 ### Worldbuilding (Uncharted Galaxy)
 - HOLY CRAP fix the stupid plan for [[Pluto]]. All of that can go out the window. He never worked with the [[Heretics]], he never built an elaborate set of hunts, he didn't tell anyone about anything. He made one trial, and that's it. Everything else is up to the players to uncover. [[Merak-A]] and [[Merak-B]] are barren planets. The [[Heretics]] paid [[Pluto]] to do the heist but that was it since he went rogue with what he stole and uncovered what it was for during the heist. He knows everything! The whole [[session planning]] thing is out the window. It's up to the players to decide where to go next. 
