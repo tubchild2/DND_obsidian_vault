@@ -1,7 +1,6 @@
 ---
 aliases:
   - Sven Sallow
-  - Sven
 ---
 ![[Sven Sallow.jpg]]
 
@@ -25,9 +24,9 @@ Max HP: 18
 Proficiency Bonus: +2
 AC: 17
 
-Flux Save DC: 13
-Flux Attack Mod: 5
-Flux Ability Mod: 3 (Wisdom)
+[[Ether Users|Flux]] Save DC: 13
+[[Ether Users|Flux]] Attack Mod: 5
+[[Ether Users|Flux]] Ability Mod: 3 (Wisdom)
 
 Current HP: 18
 Current THP: 0
@@ -102,7 +101,7 @@ Abilities
 - Shape Changer. As an action, change your appearance and voice. 
 - Savage Attacker. Once per turn, reroll damage dice and take either roll.
 
-LVL 1 Fluxes (3 uses, 4 prepared)
+LVL 1 [[Ether Users|Fluxes]] (3 uses, 4 prepared)
 - Longstrider
 	Touch a creature. Their speed increases by 10ft for an hour.
 - Jump

@@ -4,6 +4,7 @@ aliases:
   - Unether
   - Negative Matter
   - Negative Energy
+  - Ethology
 ---
 ![[Ether and Unether.jpg]]
 

@@ -127,7 +127,6 @@ Armors:
 - Has been homeless for 23 years
 
 **Agenda**
-- Cure super aids
 - Get money to buy an apartment / fentanyl
 
 **Appearance**

@@ -121,14 +121,15 @@ aliases:
 ---
 ### Uthine
 **General Information**
-- Medium weight toxic green metal
+- Green metal.
+- Has a negative weight when electrified.
 - Low durability.
 - Conductor.
 - Noncorrosive.
-- Has antigravitational properties. Can alter its weight.
 
 **Properties**
 - Melts at ~850c
-- Density: ~5.4g / cm^3
+- Density (normal): 4g/cm
+- Density (electrified): -4g/cm
 - Worth (per gram): 80c
 - Worth (per cm^3): 432c

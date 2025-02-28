@@ -49,8 +49,6 @@ aliases:
   - Bows of Drunkenness
   - Yoichi Hairpiece
   - Yoichi Hairpieces
-  - Dreadnave Arm
-  - Dreadnave Arms
   - Illeth Translation Guide
 ---
 ## Common
@@ -85,9 +83,3 @@ aliases:
 
 ## Rare
 - Yoichi Hairpiece. A symbol of honor among the Yakuza. 
-- [[CSG and HG Soldiers|Dreadnave]] Arm. 
-	- Built from [[Exotic Metals|Illidium]] and [[Exotic Metals|Ravite]].
-	- When equipped, it gives you another action each turn that can only use that arm. This action has advantage on all STR, DEX, and CON checks.
-	- Replaces an actual arm on a medium humanoid.
-	- Extremely durable, and borderline indestructible. 
-	- This arm can make an unarmed strike for 2d8 + STR bludgeoning damage.

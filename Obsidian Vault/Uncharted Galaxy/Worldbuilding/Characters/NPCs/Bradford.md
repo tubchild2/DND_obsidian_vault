@@ -26,7 +26,10 @@ Alignment: Chaotic Neutral
 Height: 6' 3"
 Weight: 200lbs
 Age: 2024
-Theme Song: https://open.spotify.com/track/1QGQ7wB1KZfpbbWNFCaVGm?si=130040028d41493b
+Theme Songs:
+https://open.spotify.com/track/1QGQ7wB1KZfpbbWNFCaVGm?si=130040028d41493b
+
+https://open.spotify.com/track/6awsYAefJczdOMMZp13RYZ?si=86db7a83bec84733
 
 
 

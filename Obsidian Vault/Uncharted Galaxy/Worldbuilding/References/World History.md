@@ -55,14 +55,17 @@ Prehistory
 
 
 ---
-September 7th, 12024
-	[[Outline 0]]: [[Gemini (PC)]], [[Corvus (PC)]], [[Copper (PC)]], and [[Taure (PC)]], get hired by [[House Galling]] as "general purpose assistants". They were hired to look for [[Pluto]]'s treasure, and [[Exotic Metals|Nethrium]], but they weren't told this. They find [[Pluto's Cottage]], and a note from [[Pluto]] informing them of his trials. They lie to [[House Galling]] and say they didn't find anything. 
+September 7th, 12024 (**SESSION 0**)
+	[[Gemini (PC)]], [[Corvus (PC)]], [[Copper (PC)]], and [[Taure (PC)]], get hired by [[House Galling]] as "general purpose assistants". They were hired to look for [[Pluto]]'s treasure, and [[Exotic Metals|Nethrium]], but they weren't told this. They find [[Pluto's Cottage]], and a note from [[Pluto]] informing them of his trials. They lie to [[House Galling]] and say they didn't find anything. 
 
-September 8th, 12024
-	[[Outline 1]]: [[Gemini (PC)]], [[Corvus (PC)]], [[Copper (PC)]], [[Taure (PC)]], and [[Bjorn (PC)]] land at [[Vivere Mori]] to stock up on supplies due to it's proximity to the coordinates provided by [[Pluto]]. While there, the [[Exotic Metals|Nethrium]] they found at [[Pluto]]'s Cottage is detected by the Yakuza, a force controlled by [[House Galling]]. They're observed by the Yakuza while gambling, stocking up on supplies, and exploring the city. While attempting to buy a ship, the hangar is attacked by the Yakuza, and their ship is trashed. They battle the Yakuza and win, and design their own ship. They return to the city while it's being fabricated. Then, [[Gemini (PC)]] and [[Taure (PC)]] shoot, mutilate, bisect, crush, and disembowel the entire family of a gun store owner, including the father ([[Dale Borland]]), the 7 year old son, the pregnant mother, and her newborn. [[Corvus (PC)]] did nothing to stop them.
+September 8th, 12024 **(SESSION 1)**
+	[[Gemini (PC)]], [[Corvus (PC)]], [[Copper (PC)]], [[Taure (PC)]], and [[Bjorn (PC)]] land at [[Vivere Mori]] to stock up on supplies due to it's proximity to the coordinates provided by [[Pluto]]. While there, the [[Exotic Metals|Nethrium]] they found at [[Pluto]]'s Cottage is detected by the Yakuza, a force controlled by [[House Galling]]. They're observed by the Yakuza while gambling, stocking up on supplies, and exploring the city. While attempting to buy a ship, the hangar is attacked by the Yakuza, and their ship is trashed. They battle the Yakuza and win, and design their own ship. They return to the city while it's being fabricated. Then, [[Gemini (PC)]] and [[Taure (PC)]] shoot, mutilate, bisect, crush, and disembowel the entire family of a gun store owner, including the father ([[Dale Borland]]), the 7 year old son, the pregnant mother, and her newborn. [[Corvus (PC)]] did nothing to stop them.
 
-September 9th, 12024
-	Heist. Xavi's One Shot.
+September 9-12th, 12024 **(SESSION 1.1)**
+	Xavi's One Shot. [[Thunderbolt (PC)]] joined [[The Party]].	[[AAH121 (PC)]] joined [[The Party]]. [[Sven (PC)]] joined [[The Party]]. [[Sven (PC)]] immediately left [[The Party]]. They assaulted and killed a wealthy advisor of [[House Galling]], and stole all of his stuff. They're now all wanted. 
 
-September 10th, 12024
-	Travelling to [[Wyrm's Rest]].
+September 13th, 12024 **(SESSION 2)**
+	[[The Party]] took [[FRED]] to [[Mistriven]], where they fought some baby cockatrice. They then proceeded into [[Fennhollow Pass|Fennhollow]] Pass, where [[Gemini (PC)]] nearly killed himself for a ceremonial dagger on a skeleton. They passed through a cockatrice nest, and realized they'd been killing babies. After this, [[Taure (PC)]] and [[Thunderbolt (PC)]] moved out into [[Chimera Crags]], and very briefly caught a glimpse of a well dressed man observing [[Taure (PC)]] from a distance. There was no evidence he was ever there. They then read a book from an [[Illeth]] scribe about the [[Illeth]] genocide and enslavement. 
+
+September 14th - 15th, 12024
+	[[Dale Borland]] is recovered and active by the time they get back to [[Vivere Mori]]. 

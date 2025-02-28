@@ -13,24 +13,25 @@ Temporary HP: 0
 Initiative: 0
 
 Proficiency Bonus: +2
-AC: 11
+AC: 14 (+2 with shield)
 
 Spin Save DC: 15
 Spin Attack Mod: 7
 Spin Ability Modifier: 5
 
-| Level | Slots (Ammo) | Slots Used | Total Prepared |
-| ----- | ------------ | ---------- | -------------- |
-| 0     | -            | -          | 2              |
-| 1     | 2            | 0          | 2*             |
-| 2     |              |            |                |
-| 3     |              |            |                |
-| 4     |              |            |                |
-| 5     |              |            |                |
-| 6     |              |            |                |
-| 7     |              |            |                |
-| 8     |              |            |                |
-| 9     |              |            |                |
+| Level     | Slots (Ammo) | Slots Used | Total Prepared |
+| --------- | ------------ | ---------- | -------------- |
+| 0         | -            | -          | 2              |
+| 1         | 2            | 0          | 2*             |
+| 2         |              |            |                |
+| 3         |              |            |                |
+| 4         |              |            |                |
+| 5         |              |            |                |
+| 6         |              |            |                |
+| 7         |              |            |                |
+| 8         |              |            |                |
+| 9         |              |            |                |
+| Infusions | 2            | 0          | 4              |
 
 Full Name: Ratchet Dorian Gulliver
 Alignment: Chaotic Good
@@ -98,12 +99,24 @@ Weapon / Armor Proficiencies
 ## Equipment
 Weapons
 
-| Name | Count | Damage | Type | Properties | Range | Ammo |
-| ---- | ----- | ------ | ---- | ---------- | ----- | ---- |
+| Name           | Count | Damage | Type | Properties | Range | Ammo |
+| -------------- | ----- | ------ | ---- | ---------- | ----- | ---- |
+| Light Hammer   | 1     |        |      |            |       |      |
+| Dagger         | 3     |        |      |            |       |      |
+| Quarterstaff   | 1     |        |      |            |       |      |
+| Light Crossbow | 1     |        |      |            |       |      |
 
 Armor
+- Shield
+- Chain shirt
 
-ETC
+Tools:
+- Guard's shirt
+- Guard's pants
+- Tinker's Tools
+- 3 days of water
+- 30lbs of Eathyst
+- Map of Styxas
 
 Ammo
 
@@ -119,7 +132,7 @@ Funneling
 Abilities:
 - Heroic Inspiration at the beginning of each long rest. Lets you reroll a dice roll once.
 - Magical Tinkering. I can make a tiny nonmagical item do some random stuff that's almost exclusively helpful in roleplay. I can make lights, odors, text, audio recordings, etc. 
-- Primitive Infusion. A homebrew artificer ability in which I can create a primitive piece of E-Tech that can perform a cantrip once before falling apart. 
+- Primitive Infusion. A homebrew artificer ability in which I can create a primitive piece of E-Tech that can perform a cantrip once before falling apart. Takes a long or short rest.
 
 Cleric lvl 1 Spin (one use per long rest)
 - Find Familiar
@@ -127,7 +140,7 @@ Cleric lvl 1 Spin (one use per long rest)
 Wizard lvl 1 Spin (one use per long rest)
 - Healing Word
 
-| Name            | Level | Effect                                                                                                                                                                                                                                                   |
+| Spin Name       | Level | Effect                                                                                                                                                                                                                                                   |
 | --------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Mage Hand       | 0     | Pick up a thingy that's less than 5lbs with an invisible hand                                                                                                                                                                                            |
 | Mending         | 0     | Fix up cracks and stuff                                                                                                                                                                                                                                  |
@@ -137,6 +150,14 @@ Wizard lvl 1 Spin (one use per long rest)
 | Friends         | 0     | The target must succeed a wisdom saving throw or have the<br>charmed condition for the duration (1 minute). It succeeds<br>automatically if the target isn't humanoid, if you're fighting it, <br>or if you've used this on it within the past 24 hours. |
 | Cure Wounds     | 1     | A creature you touch regains a number of HP equal to 2d8 + your<br>spin ability modifier. The healing increases by 2d8 for each higher <br>level slot used above 1.                                                                                      |
 | False Life      | 1     | Gain 2d4 + 4 temporary HP. Gain 5 additional THP for each higher <br>level slot used above 1.                                                                                                                                                            |
+
+| Infusion Name      | Effect                                                                                               |
+| ------------------ | ---------------------------------------------------------------------------------------------------- |
+| Enhanced Weapon    | A weapon gains a +1 bonus to attack and damage rolls made with it. This increases to +2 at level 10. |
+| Homunculus Servant | Requires a gem or crystal worth at least 100gp<br>Creates a homunculus servant.                      |
+| Enhanced Defense   | A suit of armor or shield gets a +1 to it's AC. This increases to +2 at level 10.                    |
+| Returning Weapon   | +1 to attack and damage rolls, and it returns to the user after use.                                 |
+![[Pasted image 20250215195717.png]]
 
 
 

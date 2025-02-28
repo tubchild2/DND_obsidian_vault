@@ -1,7 +1,7 @@
 ![[newship.png]]
 ### STATS
-Anti-Semitic Hitler AI. 
-
+Anti-[[Illish]] [[Doctrine of St. Galling|CSG]] Coded Hitler AI. 
+Fascist Racist Energetic Dude (F.R.E.D.)
 
 HP: 600
 Cannons do 1d20 fire damage on a hit. They have no modifiers to hit, it's a flat D20 roll.
