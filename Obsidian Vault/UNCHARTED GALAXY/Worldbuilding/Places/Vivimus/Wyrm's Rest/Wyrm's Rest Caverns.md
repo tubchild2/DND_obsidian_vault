@@ -6,6 +6,12 @@ Ambience:
 - (If you're coming from the hatch) You climb down and down for like 20 minutes before you reach the bottom. You're standing on a ledge, and there's a giant steel door to your right, but it looks deactivated. 
 	Stepping out into the caverns, you're met with a vast opening, and a wave of humid air. The caverns are immense, stretching down and further than you can grasp. In the distance, the slick purple stone is unearthed by towering red-root monoliths that pierce the ceiling. Their scale is impossible, and absolute. You follow a staircase down into the caverns, constantly tracking the coordinates to ensure you're on track. The deeper you go, the more you notice a certain rhythm to the caverns. A low rhythmic beat sounds through the walls, the sprawling red roots swell like arteries, and the tunnels seem to constrict as you pass through them. You continue following the path over vast ravines complimented by the wail of creatures unknown. The [[Fernites]] were an insult to nature: they were meant to rip ecosystems apart... and yet they've formed an ecosystem unlike anything else in [[The Galaxy]]. Following the low beeping of your [[Item Catalogue|exosuit]], you hike a quarter mile off course, arrive just a few feet from the coordinates supposed location. A chalky red boulder blocks your path. What do you do? 
 
+- (Moving the rock)
+	- You find a hand-carved stone door.
+		- (if not done earlier) Could I get a perception check?
+			- You know that feeling you get when you're home alone, and you see a door closed with the light on? Or when you get home after a long day and notice something moved. It's not a thought, it's more primal than that. It's an awareness. You can feel someone there, just out of sight. It's instinct: primal anxiety. With no evidence, no reason, no logic, you feel there's someone on the other side. 
+
+
 **[[Wyrm's Rest]] Trial**
 Room 1
 	You step into a small hand-carved room. In it lies a single small golden chest on a table, and a sealed door on the opposite side of the room. Below the table the chest sits on is an extremely deep pit. You can't see the bottom. 
