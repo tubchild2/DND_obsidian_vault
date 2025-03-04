@@ -32,8 +32,8 @@ Room 2
 **[[Pluto]]'s Second Note**
 > My Dear Travelers,
 > - I write to you now with a matter of grave importance. The subject matter of this letter and its subsequent trial requires nothing less than absolute selflessness, as your actions moving forward could have potentially cataclysmic consequences.
-> - I offer you not treasure, but a quest. A quest of immense important that I'm unable to complete in my era. 
-> - I need you to prove your commitment by sacrificing something important to you, take [[Mano di Dio|the Mano Di Dio]], and destroy it. I don't mean give it to someone else, I don't mean hide it, I mean truly, absolutely delete it. Any fragments of the statue--or of [[Exotic Metals|Nethrium]] in general--must be reduced to atoms.
-> - I didn't understand what the statue was before I stole you. I'd explain all of the forces at play here, but I fear that knowledge like that could lead to dangerous decisions and complicate a simple mission. 
-> - Unfortunately, the decision is yours. You could choose to give it right back to [[House Galling]] if you wish, and I'll be too dead to stop you. The best I can do is warn you, and beg you to please treat this matter with the same gravitas as I do.
+> - I offer you not treasure, but a quest. A quest of immense importance that I'm unable to complete in my era. 
+> - I need you to prove your commitment by sacrificing something important to you, take [[Mano di Dio|the Mano Di Dio]], and destroy it. I don't mean give it to someone else, I don't mean hide it, I mean truly, absolutely delete it. Any fragments of the statue--or of [[Exotic Metals|Nethrium]] in general--must be reduced to molecules.
+> - I didn't understand what the statue was before I stole it. I'd explain all of the forces at play here, but I fear that knowledge like that could lead to dangerous decisions and complicate a simple mission. 
+> - Unfortunately, the decision *is* yours. You could choose to give it right back to [[House Galling]] if you wish, and I'd be too dead to stop you. The best I can do is warn you, and beg you to please treat this matter with the same gravitas as I do.
 > - Additionally, there's a chance you may have begun having encounters with a man in a suit. I don't know what he is, but he keeps showing up. There's a good chance he's in the room right now. Ignore everything he says or does! Do not listen to him!

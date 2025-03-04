@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "efc1207588bad791",
+        "id": "83812ac2fa7a8bd1",
         "type": "tabs",
         "children": [
           {
@@ -22,35 +22,21 @@
             }
           },
           {
-            "id": "f1ba461b4cca7230",
+            "id": "ac27900d9b61d014",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNCHARTED GALAXY/Sessions/Session 3/Session 3 Outline.md",
+                "file": "UNCHARTED GALAXY/Worldbuilding/Characters/NPCs/Dale Borland.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 3 Outline"
+              "title": "Dale Borland"
             }
           },
           {
-            "id": "ecbb838d249736b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wyrm's Rest"
-            }
-          },
-          {
-            "id": "bda75c029fb05cdb",
+            "id": "7faf909329b33be9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,21 +50,21 @@
             }
           },
           {
-            "id": "da2fccf150033aa5",
+            "id": "ca3ebb13c1f945cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B2.md",
+                "file": "Accesories/DM Reminders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wyrm's Rest Bunker B2"
+              "title": "DM Reminders"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Caverns.md",
+                "file": "UNCHARTED GALAXY/Worldbuilding/Characters/NPCs/Dale Borland.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wyrm's Rest Caverns"
+              "title": "Outgoing links from Dale Borland"
             }
           },
           {
@@ -234,13 +220,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bda75c029fb05cdb",
+  "active": "ac27900d9b61d014",
   "lastOpenFiles": [
-    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B2.md",
+    "the arbiter 3.png",
+    "Accesories/DM Reminders.md",
     "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Caverns.md",
-    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest.md",
-    "UNCHARTED GALAXY/Sessions/Session 3/Session 3 Outline.md",
+    "UNCHARTED GALAXY/Worldbuilding/Characters/NPCs/Dale Borland.md",
     "Accesories/To-Do.md",
+    "UNCHARTED GALAXY/Sessions/Session 3/Session 3 Outline.md",
+    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest.md",
+    "UNCHARTED GALAXY/Pictures/Statblocks/the arbiter 2.png",
+    "UNCHARTED GALAXY/Pictures/Statblocks/the arbiter statbkicj.png",
+    "UNCHARTED GALAXY/Worldbuilding/References/The Multiverse.md",
+    "UNCHARTED GALAXY/Worldbuilding/Ethology/Ether and Unether.md",
+    "UNCHARTED GALAXY/Pictures/Places/The cataclysm.jpg",
+    "UNCHARTED GALAXY/Worldbuilding/Ethology/Eathyst and E-Tech.md",
+    "UNCHARTED GALAXY/Worldbuilding/Ethology/Ether Users.md",
+    "UNCHARTED GALAXY/Worldbuilding/Ethology/Ethology Reference Table.md",
+    "UNCHARTED GALAXY/Worldbuilding/Ethology/Gateways.md",
+    "UNCHARTED GALAXY/Worldbuilding/Ethology/Primordials and Feeders.md",
+    "UNCHARTED GALAXY/Worldbuilding/Ethology/Caldwell's Field.md",
+    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B2.md",
     "UNCHARTED GALAXY/Worldbuilding/Factions/Heretics.md",
     "UNCHARTED GALAXY/Worldbuilding/Characters/NPCs/Pluto.md",
     "UNCHARTED GALAXY/Worldbuilding/Characters/NPCs/Bradford.md",
@@ -249,27 +249,15 @@
     "UNCHARTED GALAXY/Worldbuilding/Characters/NPCs/Tessali.md",
     "UNCHARTED GALAXY/Sessions/Session Planning.md",
     "UNCHARTED GALAXY/Worldbuilding/Places/Merak-A.md",
-    "UNCHARTED GALAXY/Worldbuilding/Characters/NPCs/Dale Borland.md",
     "UNCHARTED GALAXY/Worldbuilding/References/World History.md",
     "Hangar 18.md",
-    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Surface.md",
-    "UNCHARTED GALAXY/Sessions/Session 1/Session 1.3 - Hangar 18.md",
-    "UNCHARTED GALAXY/Sessions/Session 2/Session 2 Outline.md",
-    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Vivere Mori.md",
-    "UNCHARTED GALAXY/Worldbuilding/References/Exotic Metals.md",
-    "UNCHARTED GALAXY/Worldbuilding/Things/Mano di Dio.md",
     "UNCHARTED GALAXY/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
-    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B3.md",
-    "Campaign 1 Uncharted Galaxy/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Trial.md",
-    "UNCHARTED GALAXY/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B1.md",
-    "UNCHARTED GALAXY/Worldbuilding/Characters/NPCs/Mikhail Volkov.md",
     "UNCHARTED GALAXY/Pictures/Statblocks/Mikhail volkov statblock 2.png",
     "Sebastian Hayes.png",
     "UNCHARTED GALAXY/SFX/windambience.wav",
     "UNCHARTED GALAXY/SFX/bass Wyrms.wav",
     "Uncharted Galaxy/SFX/nobass Wyrms.wav",
     "UNCHARTED GALAXY/SFX/Mikhail Echoes/echo5.wav",
-    "UNCHARTED GALAXY/Pictures/Statblocks/the arbiter statbkicj.png",
     "Mason's Visit Session",
     "UNCHARTED GALAXY/SFX/Mikhail Echoes/echo8.wav",
     "UNCHARTED GALAXY/SFX/Mikhail Echoes/echo7.wav",
@@ -281,8 +269,6 @@
     "UNCHARTED GALAXY/Pictures/Characters/NPCs/Mikhail Volkov post Fernites.jpg",
     "Campaign 1 Uncharted Galaxy/Pictures/Statblocks/mikhail volkov statblock.png",
     "UNCHARTED GALAXY/Pictures/Characters/NPCs/Mikhail Volkov Pre Fernites.png",
-    "Uncharted Galaxy/Pictures/Characters/NPCs/Mikhail Volkov Post Fernites.png",
-    "Avery's Campaign Stuff/Pasted image 20250215195717.png",
     "PANDORA SCRIPT OVERVIEW.canvas",
     "PANDORA DND Campaign.canvas",
     "Supply Chain FitnessApp(tm).canvas",

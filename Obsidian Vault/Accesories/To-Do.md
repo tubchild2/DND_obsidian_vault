@@ -1,34 +1,24 @@
-### Session 3 Prep
-1. Character Progression
-	1. Level 4 Feats:
-		1. Luca: ?
-		2. Landon: ?
-		3. Skyler: ?
-		4. JJ: Telekinetic
-		5. Xavi: Telekinetic
-		6. London: ?
-	2. Subclass Updates: Landon
-		1. JJ: Thief
-		2. Landon: Berserker
-	3. Origin Updates:
-		1. JJ: Charlatan
-		2. Landon ?
+### Session 3 Stuff
+- Fix [[Pluto]]'s Letter. 
+	- Longer. More poetic. 
+- Make physical copy of [[Pluto]]'s Letter.
+	- Print it
+	- Rip it
+	- Stain it
+	- Texture it
 
 ### Worldbuilding (Uncharted Galaxy)
-- [[Primordials and Feeders|Primordials]] have monopolies on their topics. They're functionally gods. There should be a way for someone to channel their power. 
-	- The ability to produce [[Ether and Unether|Ether]] is limited. A creature can only produce a set amount. As they gain skill and proficiency, their focus increases, allowing them to more efficiently tap into their latent [[Ether and Unether|Ether]] abilities. As abstractions, [[Primordials and Feeders|Primordials]] can produce far greater quantities. They don't form from it anymore. 
-	- As a resource, the ability to produce [[Ether and Unether|Ether]] can be exchanged. 
-	- [[Ether and Unether|Ether]] use isn't acquired through [[Eathyst and E-Tech|Eathyst]]. It's something that can be learned. All intelligent life produces [[Ether and Unether|Ether]], but they have the ability to produce it in the real world. It just takes an skill, practice, and dedication to do it efficiently. It's not something for the faint of heart.
-	- [[Eathyst and E-Tech|Eathyst]] ideological conductivity works especially well with written language. Engraving text on it, or attaching it to a book works great. 
+- As a resource, the ability to produce [[Ether and Unether|Ether]] can be exchanged. Power can be given, and [[Eathyst and E-Tech|Eathyst]] can increase in power. 
 - [[Primordial of Order|Tod]] is manipulating people throughout [[The Galaxy]].
 	- Has his hooks into [[Bradford]], and by proxy [[House Galling]], and by proxy the [[Federation]]. Via [[Bradford]] he has a direct say in [[Federation]] matters. Earned [[Bradford]]'s trust by exploiting his faith and fear.
 	- The Rest of the Empires
-- Time is cyclical. Creation happened, then at some point in the far future, a cataclysmic event disrupts the fabric between realities enough to reset everything back to its basic form. Each iteration of the universe recycles what was already there, and occasionally adds new stuff. We're on cycle 1 (that's the second one, because of cycle 0, which is our real world). [[Hyperbeings]], [[Primordials and Feeders|Primordials]], and other extra-dimensional beings are aware of this. The Cataclysm is a prophesied event that people try to prevent. It's typically caused by something of immense power tearing up space-time. In this cycle, it'll likely be caused by [[Primordial of Order|Tod]] leading [[Primordials and Feeders|primordials]] into our world by opening millions of high powered [[gateways]]. The eras following cataclysms in which the universe is reset are the [[Primordials and Feeders|primordial]] chaos. The difference between idea and reality are blurred as reality patches itself, leading to some crazy stuff happening. 
-- The multiverse isn't created by decisions. Instead, each universe is a separate creation with a purpose, akin to heaven. [[Caldwell's Field]] is for abstraction. The Universe is for life. 
+- [[Primordial of Order|Tod]] hated the [[The Multiverse|cataclysm]] despite being a [[Primordials and Feeders|primordial]]. He seeks to control our world, not bring it into chaos. 
+- [[The Uncatchable Man|The Man in the Fog]] is a [[Hyperbeings|hyperbeing]], and he despises the [[The Multiverse|cataclysm]]. [[Primordial of Order|Tod]] will likely cause the [[The Multiverse|cataclysm]] while trying to avoid it, so he wants to do everything he can to help [[the party]] destroy what he needs. 
+- [[The uncatchable man]] is the [[Tessali]] post-recovery. They want to help [[the party]] but can't really risk getting involved because they're the key to what [[Primordial of Order|Tod]] needs. 
 
 
 ### Next Campaign
-- Cycle 2. 
+- Cycle 3. 
 - Smaller detailed world.
 - Reoccurring characters.
 - Fantastical world that takes full advantage of the PHB, DMG, and MM. 

@@ -11,6 +11,7 @@ Full Name: Daniel "Dale" Borland
 Alias: The Arbiter
 Age: 37
 Height: 5'11"
+HP: --
 
 Theme Playlist: https://open.spotify.com/playlist/1hRNuBYweZKvxFgDnplDLS?si=dbce65498fae4b97&pt=10a3afa5c9ddf4dc2d59613901ae9826
 ### Lore and Roleplay
@@ -69,6 +70,7 @@ September 15th
 - Kill [[The Party]] (Or their families)
 - Ruin [[House Galling]]
 - Kill [[Bradford]]
+- Kill killers
 - Die
 
 **Appearance**
@@ -76,4 +78,4 @@ September 15th
 - He's standing far away in the center of a town
 - D&D 5e full body colored sketch artwork
 
-![[the arbiter statbkicj.png]]
+![[the arbiter 3.png]]

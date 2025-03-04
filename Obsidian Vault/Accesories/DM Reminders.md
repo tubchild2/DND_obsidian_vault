@@ -6,16 +6,12 @@
 **Goal for Next Session**
 At the end of each session, gather notes on what you want the players to do next game. 
 
-### Attack Rolls
-| Type           | Rolling to Hit                          |
-| -------------- | --------------------------------------- |
-| Melee Weapon   | 1d20 + STR + *proficiency bonus*        |
-| Finesse Weapon | 1d20 + STR or DEX + *proficiency bonus* |
-| Ranged Weapon  | 1d20 + DEX + *proficiency bonus*        |
-
-### Damage Rolls
-The damage you deal is equal to the weapon's damage, plus the modifier you used to make the attack. 
-
+### Attack and Damage Roll Guide
+| Type           | Rolling to Hit                          | Damage                     |
+| -------------- | --------------------------------------- | -------------------------- |
+| Melee Weapon   | 1d20 + STR + *proficiency bonus*        | *damage dice* + STR        |
+| Finesse Weapon | 1d20 + STR or DEX + *proficiency bonus* | *damage dice* + STR or DEX |
+| Ranged Weapon  | 1d20 + DEX + *proficiency bonus*        | *damage dice* + DEX        |
 
 
 **Don't be Violent**

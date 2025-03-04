@@ -23,8 +23,8 @@ aliases:
 **General Information**
 - **Eathyst Leaks [[Ether and Unether|Ether]].** Eathyst is a crystalline substance that leaks unprogrammed [[Ether and Unether|Ether]]. It does this because it contains millions of subatomic puncture points in spacetime. They're not even close to being big or stable enough to be considered [[Gateways]].
 - **Eathyst Forms Around Weak Points.** Around [[Gateways]] or other weak points in space time, nearly infinitely small puncture points form. These occasionally leak [[Ether and Unether|Ether]], which manifests to form a golden crystalline structure.
-- **[[Ether and Unether|Ether]] Stabilization.** The local pocket of bent space time allows [[Ether and Unether|Ether]] to temporarily resist manifesting until outside of the Eathyst.
-- **Electrical Response.** Eathyst is highly conductive, and will leak [[Ether and Unether|Ether]] when exposed to electricity. Advanced computers can send extremely precise signals that emulate brainwaves, and essentially program the [[Ether and Unether|Ether]]'s idea.
+- **[[Ether and Unether|Ether]] Stabilization.** The local pocket of bent spacetime allows [[Ether and Unether|Ether]] to temporarily resist manifesting until outside of the Eathyst.
+- **Electrical Response.** Eathyst is highly conductive, and will leak [[Ether and Unether|Ether]] when exposed to electricity. 
 - **[[Ethology Reference Table|Pyte]]-Rate (PPH) and Grade.** The [[Ethology Reference Table|Pytes]] of [[Ether and Unether|Ether]] Eathyst produces is called its [[Ethology Reference Table|Pyte]] Rate, and is measured in [[Ethology Reference Table|Pytes]] per Hour (PPH). The scale at which it manages [[Ether and Unether|Ether]] is called its "Grade," which ranges from 1-10. 
 - **Raw PPH.** By default, Raw Eathyst has a set PPH / Grade based on its size. (See [[Ethology Reference Table]].)
 
@@ -37,9 +37,8 @@ aliases:
 - Fragile
 - Semi-Transparent
 
-**PPH Alterations**
-- **PPH Transference.** The PPH of Eathyst can be transferred to and from units of Eathyst, but it cannot be created using this process. When liquified, the Eathyst becomes agitated. If two liquified units of Eathyst are mixed, their puncture points merge together. If liquid Eathyst contacts solid Eathyst, the [[Gateways|gateway]] within the liquid will transfer to it, since it's more stable. However you do it, you can combine Eathyst PPH to create higher *grade* Eathyst. (See [[Ethology Reference Table]].)
-- **PPH Increases.** The PPH of Eathyst increases very slowly with use. Most E-Tech only uses the Eathyst a couple times per hour due to the slower PPHs in common Eathyst, making this process mostly irrelevant to their tech. However, [[Ether Users]] constantly stimulate their Eathyst, making the process much faster and more integral to their development. 
+**PPH Transference.** 
+	The PPH of Eathyst can be transferred to and from units of Eathyst, but it cannot be created using this process. When liquified, the Eathyst becomes agitated. If two liquified units of Eathyst are mixed, their puncture points merge together. If liquid Eathyst contacts solid Eathyst, the [[Gateways|gateway]] within the liquid will transfer to it, since it's more stable. However you do it, you can combine Eathyst PPH to create higher *grade* Eathyst. (See [[Ethology Reference Table]].)
 
 **Eathyst Farming**
 - **Near [[Gateways]].** Eathyst grows much faster around [[Gateways]]. The amount of Eathyst grown per day (in ft^3) is a number equal to half the diameter the nearby [[Gateways|gateway]] (in feet). I.E. a 2ft [[Gateways|gateway]] would produce 1ft^3 of Eathyst per day. A 6ft [[Gateways|gateway]] would produce 3ft^3 of Eathyst per day.
@@ -63,8 +62,6 @@ Capacitors.
 **Other Alloys**
 Non-Conductive Metals. 
 	The PPH of the Eathyst is halved, but it gains the physical properties of the metal. 
-Ideological Conductor
-	The Eathyst no longer leaks unprogrammed [[Ether and Unether|Ether]]. Instead, it programs itself based on the thoughts of those in its immediate vicinity, with a heavy bias to anyone touching it. 
 
 
 
@@ -83,6 +80,8 @@ Ideological Conductor
 4. Grade (see [[Ether and Unether|Ether]] reference table). A shorthand method of denoting [[Ether and Unether|Ether]] quantity. Can be used to represent conductivity (I.E. how much [[Ether and Unether|Ether]] an alloy can handle), or also how much [[Ether and Unether|Ether]] a unit of Eathyst produces per hour.
 
 **Methods of [[Ether and Unether|Ether]] Programming**
-1. **Ideological Programming**. By making use of an ideological conductor, you can surround the [[Ether and Unether|Ether]] with similar ideas for it to conduct when manifesting. It'll conduct ideas in close proximity to it best, so physically attaching the Eathyst to what you want can help. 
-2. **Quantum Programming**. By making use of unprogrammed [[Ether and Unether|Ether]], you can manually reprogram it with a quantum supercomputer, and nothing less.
-3. **Biological Programming**. Intelligent life can use Eathyst connected to their bodies to program it via their thought (ala [[Ether Users]]). By genetically modifying something that can think one thought, you could have it consistently produce a desired outcome.
+#1 Quantum Programming
+	By making use of unprogrammed [[Ether and Unether|Ether]], you can manually reprogram it with a quantum supercomputer, and nothing less. This process is expensive, but it allows you to program very complex ideas.
+
+#2 Ideological Programming
+	Unprogrammed [[Ether and Unether|Ether]] conducts nearby concepts. This can be inconsistent unless the [[Ether and Unether|Ether]] directly contacts something containing the desired concept. There are a few major ways to do this. Engraving shorthand onto a series of layered E-Conductor plates is the industry standard, but a more archaic method involves attaching an [[Ether and Unether|Ether]] circuit to a book.
