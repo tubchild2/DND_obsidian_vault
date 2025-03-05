@@ -27,13 +27,19 @@ Room 2
 			- Spiked [[Exotic Metals|Ravite]] Shield. +2 AC, but you can't use two-handed weapons. As an action or bonus action, you can shield bash an enemy for 1d6 bludgeoning. If you were hit after the start of the previous round, you deal 2d8 fire damage instead.
 			- Studded Leather Armor. 12 + DEX
 			- Scale Mail. AC = 14 + DEX (max 2)
-			- [[Exotic Metals|Illidium]] Warhammer. Deals 2d8 Bludgeoning Damage. Heavy (16+). Two-Handed.
+			- [[Exotic Metals|Illidium]] Warhammer. Deals 3d8 Bludgeoning Damage. Heavy (16+). Two-Handed.
 
 **[[Pluto]]'s Second Note**
-> My Dear Travelers,
-> - I write to you now with a matter of grave importance. The subject matter of this letter and its subsequent trial requires nothing less than absolute selflessness, as your actions moving forward could have potentially cataclysmic consequences.
-> - I offer you not treasure, but a quest. A quest of immense importance that I'm unable to complete in my era. 
-> - I need you to prove your commitment by sacrificing something important to you, take [[Mano di Dio|the Mano Di Dio]], and destroy it. I don't mean give it to someone else, I don't mean hide it, I mean truly, absolutely delete it. Any fragments of the statue--or of [[Exotic Metals|Nethrium]] in general--must be reduced to molecules.
-> - I didn't understand what the statue was before I stole it. I'd explain all of the forces at play here, but I fear that knowledge like that could lead to dangerous decisions and complicate a simple mission. 
-> - Unfortunately, the decision *is* yours. You could choose to give it right back to [[House Galling]] if you wish, and I'd be too dead to stop you. The best I can do is warn you, and beg you to please treat this matter with the same gravitas as I do.
-> - Additionally, there's a chance you may have begun having encounters with a man in a suit. I don't know what he is, but he keeps showing up. There's a good chance he's in the room right now. Ignore everything he says or does! Do not listen to him!
+Dear Traveler,
+
+The work you’ve put in to earn a chance at what I’m offering is worthy of praise, but that alone won’t get you the statue. The quest I’m about to offer you demands nothing but absolute selflessness. It’s not an exaggeration to say that the fate of our reality lies in the balance.
+
+When I stole the Mano Di Dio from House Galling, I was ignorant to its true nature, and it cost me everything. Owning this statue has bound me to a life on the run from House Galling, a life of sworn secrecy, a life of loneliness. House Galling took my family because of what I took. I’m not saying that will happen to you but know that carrying something of this importance has consequences.
+
+I understand the irritation that must come with not knowing what the statue is better than anyone. However, that’d be akin to offering you a nuclear bomb with an instruction manual. It’s not a WMD, but it is dangerous.
+
+With all of that said, I offer the following quest: destroy the Mano di Dio. I don’t mean hide it, I don’t mean sell it, and I don’t mean damage it beyond repair. Any molecule of Nethrium left in existence puts you and I at risk of utter annihilation. I’ve spent 40 years looking for a means to destroy it, but the technology just doesn’t exist in my time.
+
+Unfortunately, there’s no way for me to stop you from selling the statue or giving it back to House Galling. So, as compensation for your cooperation, you’ll receive a small fortune.
+
+The trial itself is simple. The room contains a pit and a door. To open the door, you need to prove your dedication by hurling an item of great personal value into the pit. The trial will test your resolve, but if you succeed, the _Mano di Dio_ will be yours, and so too will the fate of our reality be in your hands.

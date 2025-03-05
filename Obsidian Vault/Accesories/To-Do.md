@@ -1,24 +1,18 @@
-### Session 3 Stuff
-- Fix [[Pluto]]'s Letter. 
-	- Longer. More poetic. 
-- Make physical copy of [[Pluto]]'s Letter.
-	- Print it
-	- Rip it
-	- Stain it
-	- Texture it
+### Pre Session 3
+- Print [[CSG and HG Soldiers|inquisitors]] x6
+- Print [[CSG and HG Soldiers|enforcers]] x3
+
+### TO PACK
+- MINIS
+- [[Pluto]]'s Second note
+- Big Minis (in case of [[CSG and HG Soldiers|dreadnaves]])
 
 ### Worldbuilding (Uncharted Galaxy)
 - As a resource, the ability to produce [[Ether and Unether|Ether]] can be exchanged. Power can be given, and [[Eathyst and E-Tech|Eathyst]] can increase in power. 
-- [[Primordial of Order|Tod]] is manipulating people throughout [[The Galaxy]].
-	- Has his hooks into [[Bradford]], and by proxy [[House Galling]], and by proxy the [[Federation]]. Via [[Bradford]] he has a direct say in [[Federation]] matters. Earned [[Bradford]]'s trust by exploiting his faith and fear.
-	- The Rest of the Empires
-- [[Primordial of Order|Tod]] hated the [[The Multiverse|cataclysm]] despite being a [[Primordials and Feeders|primordial]]. He seeks to control our world, not bring it into chaos. 
-- [[The Uncatchable Man|The Man in the Fog]] is a [[Hyperbeings|hyperbeing]], and he despises the [[The Multiverse|cataclysm]]. [[Primordial of Order|Tod]] will likely cause the [[The Multiverse|cataclysm]] while trying to avoid it, so he wants to do everything he can to help [[the party]] destroy what he needs. 
-- [[The uncatchable man]] is the [[Tessali]] post-recovery. They want to help [[the party]] but can't really risk getting involved because they're the key to what [[Primordial of Order|Tod]] needs. 
+- There are creatures that are part of [[The True Nature of Existence|the Sleeper]]. They act as caretakers, overseers, and keep things operational. If [[Primordials and Feeders|primordials]] are something like Greek or Roman gods, these things are like angels. They outclass the [[Primordials and Feeders|primordials]] like it's not even funny. [[The True Nature of Existence|The Sleeper]] is like the Christian God power-level wise. Though canonically, he's not even close to God power-wise because he's just a person who's asleep. 
 
-
-### Next Campaign
-- Cycle 3. 
+### The Next Campaign
+- A different cycle
 - Smaller detailed world.
 - Reoccurring characters.
 - Fantastical world that takes full advantage of the PHB, DMG, and MM. 

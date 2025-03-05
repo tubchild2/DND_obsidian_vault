@@ -116,24 +116,22 @@ Prehistory
 - The de facto leader of the [[Primordials and Feeders|primordial]]. They listened to him in the field whenever he encountered them.
 
 10020
-- Tod was following the [[Armstrong Initiative]] from [[Caldwell's Field]] As soon as he got the chance, he formed a [[Primordials and Feeders|Theophany]] and flew away to investigate the brand new world he found himself in.
-- He realized that directly assaulting the empires would never work, as they're far too great in number. If he wanted to destroy them, he'd need to weaken them from the inside, and he'd need more [[Primordials and Feeders|Theophany]] to fight their armies. 
-- Returning to the [[Armstrong Initiative]], he was shocked to see that they had already dismantled and sold the components to the [[Gateways|gateway]].
-- Late at night, he built his physical body and appeared outside [[Bradford]]'s bedroom door. He woke him up, and the two had a private conversation. Tod told [[Bradford]] that he was an angel, and that he needed [[Bradford]]'s help. 
-- Tod said that he'd make the world a better place. With his abilities, he could make a world with no stress, no unfair treatment, no nothing! No one would ever suffer. He'd tear down the current systems and make a new one in which culture and life would flourish. He just needs [[Bradford]]'s help to build another [[Gateways|Gateway]]. [[Bradford]]'s faith was unshakable, and he agreed to work with him.
+- Tod was following a strange phenomenon happening around a random moving point in [[Caldwell's Field]]. When it unexpectedly opened a [[Gateways|gateway]], he formed a [[Primordials and Feeders|Theophany]] and flew away to investigate the brand new world he found himself in, and to discover what had happened.
+- He began formulating a plan to conquer everything right off the bat. However, while investigating the place he formed in, he discovered the [[Tessali]]. The two briefly talked, but Tod quickly felt the presence of [[the Chronicle of the Sleeper]]. After removing it from the [[Tessali]] and reading, it became clear where he'd gone to, and what his goal was. 
+- Late at night, he appeared outside [[Bradford]]'s bedroom door. He woke him up, and the two had a private conversation. Tod told [[Bradford]] that he was an angel, and that he needed [[Bradford]]'s help. 
+- Tod said that he'd make the world a better place. With his abilities, he could make a world with no stress, no unfair treatment, no nothing! No one would ever suffer. He'd tear down the current systems and make a new one in which culture and life would flourish. He just needs [[Bradford]]'s [[Exotic Metals|Nethrium]]. Actually, all of [[Bradford]]'s [[Exotic Metals|Nethrium]]. [[Bradford]]'s faith was unshakable, so he agreed. 
 
 10024
-- [[Mano di Dio|The Mano di Dio]] (the key ingredient in making a larger [[Gateways|gateway]]) was stolen by [[Pluto]]. With no way to produce [[Exotic Metals|Nethrium]] without the [[Tessali]] (which was also stolen), Tod's plans were ruined.
+- [[Mano di Dio|The Mano di Dio]] (the key ingredient in making a larger [[Gateways|gateway]]) was stolen by [[Pluto]]. With no way to produce [[Exotic Metals|Nethrium]] without the [[Tessali]] (which was also stolen), Tod's plans were ruined. He became furious with [[Bradford]]. He'd keep him alive until he recovered the statue. In the meantime, Tod would grow in power to make himself a [[The True Nature of Existence|Key Item]]. 
 
 12024
-	He's spent 2000 years forcing [[Bradford]] to comb [[The Galaxy]] for [[Mano di Dio|the Mano di Dio]]. Tod additionally established a network of followers throughout [[The Galaxy]], and is poised to begin crumbling it from the inside. He's also continued increasing the scale of [[House Galling]]'s armies to prepare for galactic conquest. 
+	He's spent 2000 years forcing [[Bradford]] to comb [[The Galaxy]] for [[Mano di Dio|the Mano di Dio]].
 
 **Agenda**
-1. Put cracks in the empires, and establish a network of followers.
-2. Find the [[Tessali]], a [[Hyperbeings|Hyperbeing]], or the [[Mano di Dio|the Mano di Dio]]
-3. Use [[Mano di Dio|the Mano di Dio]] to build many more [[Primordials and Feeders|theophany]], then use them to assert his control over [[The Galaxy]].
-4. Crumble the empires, and fill the power vacuum with his own order. 
-5. Create a world in which he is in absolute control of everything everyone does.
+1. Become as powerful as physically possible to become a [[The True Nature of Existence|Key Item]]. 
+2. Use [[Exotic Metals|Nethrium]] to open as many [[gateways]] and form as many [[Primordials and Feeders|Theophany]] as possible.
+3. Cause and survive [[The True Nature of Existence|the cataclysm]], and rebuild the new cycle from the ground up.
+4. Bring about an ultimate order.
 
 **Appearance**
 - A being made of smoky black tendrils.

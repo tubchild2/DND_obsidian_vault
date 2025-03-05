@@ -21,8 +21,8 @@ aliases:
 
 ### Eathyst
 **General Information**
-- **Eathyst Leaks [[Ether and Unether|Ether]].** Eathyst is a crystalline substance that leaks unprogrammed [[Ether and Unether|Ether]]. It does this because it contains millions of subatomic puncture points in spacetime. They're not even close to being big or stable enough to be considered [[Gateways]].
-- **Eathyst Forms Around Weak Points.** Around [[Gateways]] or other weak points in space time, nearly infinitely small puncture points form. These occasionally leak [[Ether and Unether|Ether]], which manifests to form a golden crystalline structure.
+- **Eathyst Leaks [[Ether and Unether|Ether]].** Eathyst is a semi-organic crystalline substance that leaks unprogrammed [[Ether and Unether|Ether]]. It has the ability to "think" to produce the [[Ether and Unether|ether]]. Then--due to containing millions of subatomic puncture points in spacetime--trap the [[Ether and Unether|Ether]] in our reality. The puncture points are not even close to being big or stable enough to be considered [[Gateways]].
+- **Eathyst Forms Around Weak Points.** Near [[Gateways]] or other weak points in space time, nearly infinitely small puncture points form. These occasionally leak [[Ether and Unether|Ether]], which can manifest to grow the semi-organic crystal itself. 
 - **[[Ether and Unether|Ether]] Stabilization.** The local pocket of bent spacetime allows [[Ether and Unether|Ether]] to temporarily resist manifesting until outside of the Eathyst.
 - **Electrical Response.** Eathyst is highly conductive, and will leak [[Ether and Unether|Ether]] when exposed to electricity. 
 - **[[Ethology Reference Table|Pyte]]-Rate (PPH) and Grade.** The [[Ethology Reference Table|Pytes]] of [[Ether and Unether|Ether]] Eathyst produces is called its [[Ethology Reference Table|Pyte]] Rate, and is measured in [[Ethology Reference Table|Pytes]] per Hour (PPH). The scale at which it manages [[Ether and Unether|Ether]] is called its "Grade," which ranges from 1-10. 

@@ -2,7 +2,7 @@
 
 ### General Information
 - Located on [[Vivimus]], in [[Beholder's Reach]]
-- Contains a bunker operated by the [[Armstrong Initiative]] several thousand years ago. Was a prime location for horrific experimentation on kids to produce soldiers capable of rivalling the local alien empires. It also gave way to the [[The Multiverse|creation]] of the [[Fernites]], which completely wiped out the planet. They mutated everything, bonded DNA across creatures, and completely upturned the biology of the planet ([[Vivimus]])
+- Contains a bunker operated by the [[Armstrong Initiative]] several thousand years ago. Was a prime location for horrific experimentation on kids to produce soldiers capable of rivalling the local alien empires. It also gave way to the [[The True Nature of Existence|creation]] of the [[Fernites]], which completely wiped out the planet. They mutated everything, bonded DNA across creatures, and completely upturned the biology of the planet ([[Vivimus]])
 
 ### Tips for the Session (GIVEN THEY GO TO THE BUNKER)
 1. **Fear of the Unknown.** Keep players in the dark about what is going on, and don't show the monster for awhile. Show the impacts of the monster, and build up questions about what they are, let suspense build, make it unclear what their motives are, etc. 

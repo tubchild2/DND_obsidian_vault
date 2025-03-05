@@ -1,26 +1,22 @@
 ---
 aliases:
   - primordial of observation
+  - The Uncatchable Man
+  - The Man in the Fog
+  - The Benefactor
 ---
 ![[The Tessali.jpg]]
+![[G-Man.jpg]]
+![[The Man in the Fog.jpg]]
+
 ### General Information
 - A [[Hyperbeings|Hyperbeing]].
-- Prefers to take on a more monstrous appearance.
-- Isn't keen on influencing time, prefers to act as an observer.
-- Impossibly old.
-
-### Abilities
-- A 4D [[Hyperbeings|Hyperbeing]], meaning it has [[Exotic Metals|Nethrium]] inside of it.
-- Can interact with 4th dimensional materials as if they were 3D. 
-- Can grow all of it's vital organs outside of our tangible reality. 
-
-### Other Traits
-- Impossibly old
-- Does nothing with its time but tour [[The Galaxy]], and observe stuff. 
-
 ### History
-- ???
-- Started exploring [[The Galaxy]]
-- It wasn't hostile, and just flew around until being wounded by [[House Galling]] in 10012
-- It was tortured until 10024, where [[Pluto]] found and rescued it. Exhausted and thoroughly wounded, it was essentially braindead. It'd take a long time before it recovered.
-- In 12024, it's starting to regain consciousness.
+- Grew millions of years ago. Was one of the first and few [[Hyperbeings]]. 
+- Started exploring [[The Galaxy]] as a passive observer. 
+- Discovered [[The Chronicle of the Sleeper]]
+- Was wounded by [[House Galling]] in 10012
+- Tortured for its [[Exotic Metals|Nethrium]] until 10024, where [[Pluto]] found and rescued it. Exhausted and thoroughly wounded, it was essentially braindead. 
+- In 10035, it regained consciousness and took on the appearance of a businessman to blend in. Helped [[Pluto]] build his Trial and attempt to destroy the [[Exotic Metals|Nethrium]]. 
+- Before [[Pluto]]'s death, the Tessali reacquired [[the Chronicle of the Sleeper]]
+- Knowing what [[House Galling]] is planning, but being unable to interfere without risking it, it's observing [[the party]] to ensure the mission goes according to plan. 

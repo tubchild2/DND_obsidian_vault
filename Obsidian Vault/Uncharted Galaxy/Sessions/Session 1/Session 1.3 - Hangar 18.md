@@ -33,7 +33,7 @@
 	- Are you planning on exploring the surface?
 		- Listen, I can't intervene in any actions you take beyond letting you in and out of the city. But... outside these walls is nothing but chaos. In the 60 years I've run this checkpoint, I've seen countless people try their luck and die out there. Just... make sure you're ready for what's out there.
 	- Alright, you're approved for city entrance. I told you it wasn't so bad. Before you go, though, just... be careful alright? You seem like a decent bunch, but this isn't the kind of place you mess around in. There are certain groups you avoid, and they're all here. Keep your heads down, keep out of trouble, and watch your back. Good luck out there kids.  
-- He deactivates the barrier and you fly forward into the Hangar. 
+- He deactivates [[The True Nature of Existence|the barrier]] and you fly forward into the Hangar. 
 # Hangar 18 (Act 1)
 - You see some concrete platforms with roman numerals marking parking spots. A red hobgoblin exits his office in the cliff and begins waving your ship onto the first spot. You hear a loud clunk and some rattling as the landing gear engages, and the ship parks itself. What do you do?
 - As you're walking out, you see the hobgoblin examining your ship. He's squinting at some things, poking around, and then he effortlessly pulls a bolt out of the exterior of your ship and lets out this forced, wheezy, drawn out laugh. "I don't understand [[House Galling]]'s insistence on these crappy 30 year old ships. If you guys ever want a [[FRED]], let me know. Ok... Entrance into the city is through that door." He points to a circular door in the cliff side. 

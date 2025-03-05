@@ -19,3 +19,5 @@ It's clear that this group tends to be a bit more graphic when describing how th
 
 **Encourage Players and Roleplay**
 A simple "hell yeah" goes a long way. If they do something you like, say you like it, and (if it's really good) give them inspiration. 
+
+**Narrate Slow**

@@ -3,9 +3,6 @@ aliases:
   - The Benefactor
   - The Man in the Fog
 ---
-![[G-Man.jpg]]
-![[The Man in the Fog.jpg]]
-![[The Man in the Fog 2.jpg]]
 ### General Information
 - A [[Hyperbeings|hyperbeing]]
 - Interested in [[The Party]]

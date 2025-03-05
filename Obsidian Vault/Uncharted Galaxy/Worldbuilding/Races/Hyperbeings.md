@@ -18,9 +18,7 @@ aliases:
 
 ---
 ### General Information
-The others (also called hyperbeings) are enigmatic, 4D entities that exist beyond our natural laws. Their nature is largely unknown, and their motives remain inscrutable. They avoid getting involved in the flow of events.
-
-
+The hyperbeings are enigmatic, 4D entities that exist beyond our natural laws. Their nature is largely unknown, and their motives remain inscrutable.
 
 ---
 ### Abilities
@@ -31,15 +29,12 @@ The others (also called hyperbeings) are enigmatic, 4D entities that exist beyon
 	- Awareness. They can look through the 4th dimension, giving them a 6th sense, which is better than standard vision, is in all directions, and can see through objects.
 	- Phasing. They can become intangible by moving in the 4th axis.
 	- Inconceivable Form. The true scale of their bodies exist outside of our perception, meaning what you see could be a hollow sac of skin, rather than containing vital organs. They can store an impossible amount of matter inside their bodies in a pocket dimension.
+	- Telekinesis. They can use their massive 4D bodies to interact with our world in ways we can't perceive. This is significantly more effective than physically attempting to do things. It allows them to make any STR or DEX check with advantage from a distance less than or equal to 60ft. 
 - Shapeshifting. 
-	- Limitations. They can alter and manipulate their organic matter, and do not experience aging due to overwriting their cells. However, they're always physically weak, and lightweight, no matter their size or appearance.
+	- Limitations. They can alter and manipulate their organic matter, and do not experience aging due to overwriting their cells. However, they're always physically weak and lightweight, no matter their size or appearance.
 	- Chameleon Mechanism. They shapeshift into whatever best suits the information they have about a given point in space and time to blend in. This process takes half a second. 
 	- Reproduction. They can reproduce via mitosis. They shapeshift and split into a second hyperbeing, which manifests in the general proximity of the hyperbeing.
-- Telekinesis. They can use their massive 4D bodies to interact with our world in ways we can't perceive. This is significantly more effective than physically attempting to do things. It allows them to make any STR or DEX check with advantage from a distance less than or equal to 60ft. 
-
-
 
 ---
 ### Notable Hyperbeings
 - The [[Tessali]]
-- [[The Uncatchable Man]]
