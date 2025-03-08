@@ -23,8 +23,8 @@
 	- (investigating the map) There are 3 floors, each with a distinctly marked power station. 
 	- (door 1 (smaller)) It seems to leave into a series of dorms.  
 	- (door 2 (larger)) The door is reinforced with heavy steel plating. A terminal is built into the wall beside it, but its screen remains lifeless. You notice an engraving above the doorframe that simply reads: **"Caverns."**
-		- (investigating the heavy duty door). The door is easily 2 feet thick. It'd take a lot of power to get that thing to move.
-		- (note to DM) it requires Power Stations Alpha, Beta, Gamma, and Delta to open. 
+		- (investigating the heavy duty door). The door is easily 2 feet thick. You'd probably need some power to get that think to move. .
+		- (note to DM) it requires Power Stations Alpha, Beta, or Gamma to open. 
 
 **Flooded Cafeteria**
 - (NOW start the ambience)
@@ -65,13 +65,7 @@
 **Power Station Alpha**
 - Climbing up the ladder, you emerge into a cobweb-filled room where towering generators loom like silent monoliths. Thick pipes snake along the walls, some leaking faint hisses of steam, while others groan under unseen pressure. The stale air carries the faint metallic tang of rust and ozone, and your footsteps echo dully against the grated floor. A large control panel stands against the far wall, its switches caked in grime and dust. 
 	- (pulling the switch and alerting Mikhail)
-		- (Switch 1) The first switch locks into place. A low hum rumbles through the room as the generators sputter to life. Weak vibrations shudder up through the floor, and a faint glow flickers in the overhead bulbs .Somewhere distant, you hear a _clink..._ 
-			- (25% Mikhail was alerted)
-		- (Switch 2) - The second switch engages. and the hum deepens into a steady drone. Overhead, the lights brighten slightly, casting long, distorted shadows that shift as the machinery comes to life. Pipes rattle as pressure builds, and you catch a faint hissing noise from the far corner of the room. 
-			- (50% Mikhail was alerted)
-		- (Switch 3) The third switch activates, followed by the rhythmic thudding of machinery deep within the facility. The lights stabilize, casting a cold, clinical glow over the dark room. The hum of the generators is now a steady roar, and a breathy wail echoes through the facility. 
-			- (75% Mikhail was alerted)
-		- (Switch 4) The final switch engages with a sharp _snap_, and the generators roar at full capacity. The lights blaze to full brightness, revealing every detail of the room. You hear a deafening screech, followed by thunderous footsteps approaching your location. 
+		- The switch engages with a sharp _snap_, and the generators roar at full capacity. The lights blaze to full brightness, revealing every detail of the room. You hear a deafening screech echoing through the halls. 
 			- (Mikhail was alerted)
 
 **Communications Room**
@@ -85,4 +79,4 @@
 	- (machine pieces) Wires, endoskeleton pieces, containers with a radioactive green fluid, synthetic organs, etc.
 	- (PROJECT [[CSG and HG Soldiers|DREADNAVE]]) You peer into the crate and see a hulking, 4.5ft cybernetic arm. It's extremely heavy, and sitting atop 15 bars of solid [[Exotic Metals|Illidium]]. You cannot lift the crate. 
 		- (History check [[CSG and HG Soldiers|Dreadnave]]) [[CSG and HG Soldiers|Dreadnaves]] are the soldiers of [[Federation|the Federation]], and (more recently) of [[House Galling]]. 
-		- (History check [[Exotic Metals|Illidium]]) A metal native to Vivimus. It's extremely durable, but very heavy. 
+		- (History check [[Exotic Metals|Illidium]]) A metal native to [[Vivimus]]. It's extremely durable, but very heavy. 

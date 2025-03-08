@@ -53,9 +53,9 @@ aliases:
 	Simeon Galling dies, and [[Bradford|Bradford Galling]] is made Patriarch. 
 
 10020 
-	The [[Armstrong Initiative]] noted strange, almost portal-like phenomena exhibited by [[Exotic Metals|Nethrium]] when extremely energized. They created a huge [[Gateways|gateway]], and nothing of note happened. (They didn't know they created a [[Primordials and Feeders|Theophany]] for [[Primordial of Order|Tod]])
+	The [[Armstrong Initiative]] noted strange, almost portal-like phenomena exhibited by [[Exotic Metals|Nethrium]] when extremely energized. They created a huge [[Portals|gateway]], and nothing of note happened. (They didn't know they created a [[Primordials|Theophany]] for [[Primordial of Order|Tod]])
 	A few nights later, [[Bradford]] agreed to work with [[Primordial of Order|Tod]] (under the belief he was an angel). [[Bradford]] is now working for [[Primordial of Order|Tod]].
-	[[Bradford]] convinces the [[Doctrine of St. Galling|CSG]] and the [[Armstrong Initiative]] to work with him to produce a larger, more stable [[Gateways|gateway]]. They'd create a [[Exotic Metals|Nethrium]] statue called [[Mano di Dio|the Mano di Dio]], and use it to create a [[Gateways|gateway]] stable enough to satisfy [[Primordial of Order|Tod]]. They agreed for their own reasons. 
+	[[Bradford]] convinces the [[Doctrine of St. Galling|CSG]] and the [[Armstrong Initiative]] to work with him to produce a larger, more stable [[Portals|gateway]]. They'd create a [[Exotic Metals|Nethrium]] statue called [[Mano di Dio|the Mano di Dio]], and use it to create a [[Portals|gateway]] stable enough to satisfy [[Primordial of Order|Tod]]. They agreed for their own reasons. 
 	All [[Exotic Metals|Nethrium]] sales were halted by [[Bradford]], to the dismay of [[the galaxy]].
 
 10024

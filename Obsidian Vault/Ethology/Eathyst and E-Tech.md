@@ -21,12 +21,15 @@ aliases:
 
 ### Eathyst
 **General Information**
-- **Eathyst Leaks [[Ether and Unether|Ether]].** Eathyst is a semi-organic crystalline substance that leaks unprogrammed [[Ether and Unether|Ether]]. It has the ability to "think" to produce the [[Ether and Unether|ether]]. Then--due to containing millions of subatomic puncture points in spacetime--trap the [[Ether and Unether|Ether]] in our reality. The puncture points are not even close to being big or stable enough to be considered [[Gateways]].
-- **Eathyst Forms Around Weak Points.** Near [[Gateways]] or other weak points in space time, nearly infinitely small puncture points form. These occasionally leak [[Ether and Unether|Ether]], which can manifest to grow the semi-organic crystal itself. 
-- **[[Ether and Unether|Ether]] Stabilization.** The local pocket of bent spacetime allows [[Ether and Unether|Ether]] to temporarily resist manifesting until outside of the Eathyst.
-- **Electrical Response.** Eathyst is highly conductive, and will leak [[Ether and Unether|Ether]] when exposed to electricity. 
-- **[[Ethology Reference Table|Pyte]]-Rate (PPH) and Grade.** The [[Ethology Reference Table|Pytes]] of [[Ether and Unether|Ether]] Eathyst produces is called its [[Ethology Reference Table|Pyte]] Rate, and is measured in [[Ethology Reference Table|Pytes]] per Hour (PPH). The scale at which it manages [[Ether and Unether|Ether]] is called its "Grade," which ranges from 1-10. 
-- **Raw PPH.** By default, Raw Eathyst has a set PPH / Grade based on its size. (See [[Ethology Reference Table]].)
+- **Eathyst Produces [[Ether]].** Eathyst is a semi-organic substance made of crystalized [[Ether]] mixed with a variety of other random chemicals. It meets the bare minimum requirements to "think" and produce unprogrammed [[Ether]] without being actually organic. 
+- **Forms From Sources of Unprogrammed [[Ether]].** Things like [[Portals]], certain E-Tech devices, or [[Ether]] users with cleared minds produce raw Eathyst. Fun Fact: to produce high-grade Eathyst, creatures made of Eathyst have to sacrifice some of their power until the Eathyst is reabsorbed. 
+- **Electrical Response.** The structure of Eathyst resembles neurons. When exposed to electricity, the Eathyst will produce unprogrammed [[Ether]].
+- **Raw Eathyst.** Unprocessed Eathyst produces a set amount of [[Ethology Reference Table|Pytes]] per hour when exposed to electricity. See "[[Ethology Reference Table]]" for more information. 
+
+**Measurements**
+- [[Ethology Reference Table|Pyte]]-Total. An integer denoting how many [[Ethology Reference Table|Pytes]] of [[Ether]] are contained within the unit of Eathyst. 
+- [[Ethology Reference Table|Pyte]]-Rate. Measured in [[Ethology Reference Table|Pytes]] per hour. 
+- Grade. A shorthand method for denoting the [[Ethology Reference Table|Pyte]]-Total of a unit of Eathyst. 
 
 **Properties**
 - Melts at 1,084c
@@ -38,50 +41,44 @@ aliases:
 - Semi-Transparent
 
 **PPH Transference.** 
-	The PPH of Eathyst can be transferred to and from units of Eathyst, but it cannot be created using this process. When liquified, the Eathyst becomes agitated. If two liquified units of Eathyst are mixed, their puncture points merge together. If liquid Eathyst contacts solid Eathyst, the [[Gateways|gateway]] within the liquid will transfer to it, since it's more stable. However you do it, you can combine Eathyst PPH to create higher *grade* Eathyst. (See [[Ethology Reference Table]].)
-
-**Eathyst Farming**
-- **Near [[Gateways]].** Eathyst grows much faster around [[Gateways]]. The amount of Eathyst grown per day (in ft^3) is a number equal to half the diameter the nearby [[Gateways|gateway]] (in feet). I.E. a 2ft [[Gateways|gateway]] would produce 1ft^3 of Eathyst per day. A 6ft [[Gateways|gateway]] would produce 3ft^3 of Eathyst per day.
-- **Near Weak Points in Spacetime.** A weak point is something extremely energy dense but not approaching reality bending levels, such as a supernova, or a neutron star. Eathyst without a [[Gateways|gateway]] accretes at a much lower rate. For every cubic meter of energy dense material, 1cm^3 of Eathyst secretes per day. This makes Eathyst naturally occurring, but remarkably rare. 
+	The PPH of Eathyst can be transferred to and from units of Eathyst, but it cannot be created using this process. When melted, the structure of the Eathyst becomes unstable (and unusable). If it were to come into contact with another unit of Eathyst that's more stable, the [[Ether]] would transfer into it, increasing its [[Ethology Reference Table|Pyte]]-Total. 
 
 
 
 ---
 ### Eathyst Alloys
 **Forming Eathyst Alloys**
-	By mixing liquified Eathyst with another liquified metal, you can create an Eathyst alloy. Eathyst alloys have the physical traits of the metal, with the PPH of the Eathyst. The trick is to use small Eathyst with a high PPH to preserve as much of the metal as possible. 
+	By mixing liquified Eathyst with another liquified metal, you can create an Eathyst alloy. Eathyst alloys have the physical traits of the metal, with the PPH of the Eathyst.
 
 **E-Tech Components**
 Conductors and Resistors
-	Won't produce [[Ether and Unether|Ether]], but will function as an [[Ether and Unether|Ether]] conductor. [[Ether and Unether|Ether]] flows from positive to negative depending on the voltage. [[Ether and Unether|Ether]] has resistance and will cause heat build up, and eventual voltage decay. The amount of [[Ether and Unether|Ether]] the metal can handle without resisting and heating is equal to its grade.
+	Won't produce [[Ethology/Ether|Ether]], but will function as an [[Ethology/Ether|Ether]] conductor. [[Ethology/Ether|Ether]] flows from positive to negative depending on the voltage. [[Ethology/Ether|Ether]] has resistance and will cause heat build up, and eventual voltage decay. The amount of [[Ethology/Ether|Ether]] the metal can handle without resisting and heating is equal to its grade.
 Capacitors. 
-	Won't produce [[Ether and Unether|Ether]], but will function as an [[Ether and Unether|Ether]] battery. [[Ether and Unether|Ether]] directed inside of it is held indefinitely. Will leak [[Ether and Unether|Ether]] if exposed to electricity. If the amount of [[Ether and Unether|Ether]] stored is above its grade, it melts.
-4D Metals. 
-	The PPH of the Eathyst doubles due to bypassing local spacetime restrictions. I.E. the puncture points can get away with leaking much more [[Ether and Unether|Ether]].
+	Won't produce [[Ethology/Ether|Ether]], but will function as an [[Ethology/Ether|Ether]] battery. [[Ethology/Ether|Ether]] directed inside of it is held indefinitely. Will leak [[Ethology/Ether|Ether]] if exposed to electricity. If the amount of [[Ethology/Ether|Ether]] stored is above its grade, it melts.
 
 **Other Alloys**
 Non-Conductive Metals. 
-	The PPH of the Eathyst is halved, but it gains the physical properties of the metal. 
+	The Eathyst gains the physical properties of the metal. 
 
 
 
 ---
 ### E-Tech
 **The Basics**
-	1. **Power Source.** An electrical charge passes into the power source (I.E. Eathyst), which then begins producing [[Ether and Unether|Ether]]. 
-	2. **E-Conductor.** To prevent the [[Ether and Unether|Ether]] from erupting from the Eathyst, the [[Ether and Unether|Ether]] from the power source is moved into an [[Ether and Unether|Ether]] conductive alloy. The [[Ether and Unether|Ether]] will flow from positive to negative in the circuit.
-	3. **Programmer**. The [[Ether and Unether|Ether]] is programmed via some replicable means.
-	4. **Exit Point.** The [[Ether and Unether|Ether]] flows to its desired point, at which it begins to manifest. 
+	1. **Power Source.** An electrical charge passes into the power source (I.E. Eathyst), which then begins producing [[Ethology/Ether|Ether]]. 
+	2. **E-Conductor.** To prevent the [[Ethology/Ether|Ether]] from erupting from the Eathyst, the [[Ethology/Ether|Ether]] from the power source is moved into an [[Ethology/Ether|Ether]] conductive alloy. The [[Ethology/Ether|Ether]] will flow from positive to negative in the circuit.
+	3. **Programmer**. The [[Ethology/Ether|Ether]] is programmed via some replicable means.
+	4. **Exit Point.** The [[Ethology/Ether|Ether]] flows to its desired point, at which it begins to manifest. 
 
 **Systems of Measurement**
-1. Voltage. The amount of hypothetical pressure pushing the [[Ether and Unether|Ether]] to move through the circuit.
-2. Amperage. The amount of [[Ether and Unether|Ether]] moving.
+1. Voltage. The amount of hypothetical pressure pushing the [[Ethology/Ether|Ether]] to move through the circuit.
+2. Amperage. The amount of [[Ethology/Ether|Ether]] moving.
 3. Wattage. The amperage multiplied by the voltage. Represents the amount of "power" you have to work with.
-4. Grade (see [[Ether and Unether|Ether]] reference table). A shorthand method of denoting [[Ether and Unether|Ether]] quantity. Can be used to represent conductivity (I.E. how much [[Ether and Unether|Ether]] an alloy can handle), or also how much [[Ether and Unether|Ether]] a unit of Eathyst produces per hour.
+4. Grade (see [[Ethology/Ether|Ether]] reference table). A shorthand method of denoting [[Ethology/Ether|Ether]] quantity. Can be used to represent conductivity (I.E. how much [[Ethology/Ether|Ether]] an alloy can handle), or also how much [[Ethology/Ether|Ether]] a unit of Eathyst produces per hour.
 
-**Methods of [[Ether and Unether|Ether]] Programming**
+**Methods of [[Ethology/Ether|Ether]] Programming**
 #1 Quantum Programming
-	By making use of unprogrammed [[Ether and Unether|Ether]], you can manually reprogram it with a quantum supercomputer, and nothing less. This process is expensive, but it allows you to program very complex ideas.
+	By making use of unprogrammed [[Ethology/Ether|Ether]], you can manually reprogram it with a quantum supercomputer, and nothing less. This process is expensive, but it allows you to program very complex ideas.
 
 #2 Ideological Programming
-	Unprogrammed [[Ether and Unether|Ether]] conducts nearby concepts. This can be inconsistent unless the [[Ether and Unether|Ether]] directly contacts something containing the desired concept. There are a few major ways to do this. Engraving shorthand onto a series of layered E-Conductor plates is the industry standard, but a more archaic method involves attaching an [[Ether and Unether|Ether]] circuit to a book.
+	Unprogrammed [[Ethology/Ether|Ether]] conducts nearby concepts. This can be inconsistent unless the [[Ethology/Ether|Ether]] directly contacts something containing the desired concept. There are a few major ways to do this. Engraving shorthand onto a series of layered E-Conductor plates is the industry standard, but a more archaic method involves attaching an [[Ethology/Ether|Ether]] circuit to a book.

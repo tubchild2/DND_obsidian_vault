@@ -8,16 +8,25 @@ aliases:
 ---
 ![[Ether user.jpg]]
 
-### General Information
-- **Definition:** All intelligent life can become [[Ether and Unether|Ether]] users, as all intelligent life produces [[Ether and Unether|Ether]]. The major challenge is learning to form [[Ether and Unether|Ether]] in the physical world, rather than in [[Caldwell's Field]]. It requires a challenging amount of focus to pull off, as you need to think of exactly what you wish to do and then will the [[Ether and Unether|Ether]] into existence. Additionally, it won't work unless [[The True Nature of Existence|the Barrier]] between realms has low enforcement. 
-- **[[Ether and Unether|Ether]] Potential:** Some races and cultures have higher potential for [[Ether and Unether|Ether]] use than others. However, there's no skill ceiling, meaning even those with lower potential originally can bypass this given practice.
-### 5e Changes for [[Ether and Unether|Ether]] Users
-- **No Magic**. Magic doesn't exist. Spiritism is impossible, and all traditional 5e magic is replaced by being an [[Ether and Unether|Ether]] user. Spells are still exclusive to certain classes.
-- **Terminology changes**:
+**General Information**
+- An [[Ether]] User is any being (abstract or physical) that has ready access to [[Ether]] and uses it regularly. 
+- It's impossible to be an [[Ether]] if you're in a physical [[The True Nature of Existence|realm]] due to [[Ether]] not being produced and immediately manifesting. 
+- More powerful thoughts (emotionally charged, influential, unique, etc.) produce more [[Ether]]. 
+- [[Ether]]-potent creatures (abstract creatures, very intelligent creatures, creatures that think very fast, are very skilled and experienced with [[Ether]], etc.) produce more [[Ether]]. External factors like [[Eathyst and E-Tech|Eathyst]] can also increase your [[Ether]]-potency. 
+
+
+**5e Changes for [[Ether]] Users**
+- Spiritism is impossible, and all traditional 5e magic is replaced by being an [[Ether]] users. Class specific spells still apply. 
+- Terminology changes:
 	- Spells -> Fluxes
 	- Spellcasting -> Fluxing
 	- Metamagic -> Tuning
-- **Class Flavor Changes.** All classes* are [[Ether and Unether|Ether]] users, but their abilities differ as a result of their methods, personalities, and religious or technological affinities. 
-	- **CLERICS, WARLOCKS, AND PALADINS**. An important note is that there is no direct communication between the entity clerics, paladins, and warlocks choose to work with / worship. Their existence is ambiguous, but sticking to their religious code absolutely influences their [[Ether and Unether|Ether]] abilities. 
-	- **SORCERERS**. Sorcerers are species with higher [[Ether and Unether|Ether]] potential. 
-	- **ARTIFICERS**. Artificers are [[Ether and Unether|Ether]] users that can produce [[Eathyst and E-Tech|E-Tech]]. The only item that physically requires the appropriate amount of [[Eathyst and E-Tech|Eathyst]] in-game is a spell-storing item (flux-storing item).
+- Class flavor changes:
+	- **CLERICS, WARLOCKS, AND PALADINS**. An important note is that there is no direct communication between the entity clerics, paladins, and warlocks choose to work with / worship. Their existence is ambiguous, but sticking to their religious code absolutely influences their [[Ethology/Ether|Ether]] abilities.
+	- **ARTIFICERS**. Artificers are [[Ethology/Ether|Ether]] users that manage [[Eathyst and E-Tech|E-Tech]]. 
+
+5e Additions:
+- Being in a liminal or abstract [[The True Nature of Existence|realm]] removes all fluxing requirements. For example, you can use "Wish" infinite times, since the laws of physics are so loose and you're producing so much [[Ether]].
+- "Produce [[Eathyst and E-Tech|Eathyst]]" is a level 9 Flux. It allows you to produce a node of [[Eathyst and E-Tech|Eathyst]] from nothing. You can create a node of [[Eathyst and E-Tech|Eathyst]] of a grade determined by rolling 1d6. 
+- "Use [[Eathyst and E-Tech|Eathyst]]" is a new action. Depending on its grade (see [[Ethology Reference Table]]) you can give yourself an additional flux slot. The [[Eathyst and E-Tech|Eathyst]] takes 1 hour to recharge, and you cannot give yourself a flux slot above what its grade is capable of.
+

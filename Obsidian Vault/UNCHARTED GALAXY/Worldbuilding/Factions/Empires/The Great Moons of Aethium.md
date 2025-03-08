@@ -25,3 +25,5 @@ aliases:
 4. **Sylvalis**. A moon of Aethium. A barren moon used for farming. It's much less populated than the other Elven territories. The surface is covered in large glass spherical greenhouses. 
 5. **Elarion**. A moon of Aethium. Made up of rolling meadows, gentle hills, and peaceful coastal towns. A spiritual and artistic hub. A place of creation, reflection, and peace.
 6. **Presley**. A moon of Aethium. An industrial moon that powers Elven society. They mine, refine, and produce raw materials of the highest standards. For an industrial moon, it's beautiful and extremely efficient. 
+
+![[Aethium Cityt.png]]

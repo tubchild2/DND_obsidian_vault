@@ -1,8 +1,8 @@
 ???
-	[[Caldwell's Field]] and the [[Primordials and Feeders|Primordials]] are created. 
+	[[Mythraama]] and the [[Primordials|Primordials]] are created. 
 
 Prehistory
-	The [[Tessali|Primordial of observation]] manages to create a [[Primordials and Feeders|Theophany]] called the [[Tessali]], and it begins exploring and observing [[The Galaxy]]. 
+	The [[Tessali|Primordial of observation]] manages to create a [[Primordials|Theophany]] called the [[Tessali]], and it begins exploring and observing [[The Galaxy]]. 
 
 6680
 	Humanity organizes into the [[Federation]] after WWXI. They represent and oversee all human governments with absolute control. 
@@ -38,7 +38,7 @@ Prehistory
 	Simeon Galling dies of old age, and his son [[Bradford]] is made [[House Galling|Patriarch]] of [[House Galling]]. He was harassed and not respected. 
 
 10020
-	[[Bradford]] telepathically communicates with [[Primordial of Order|the primordial of command]]--[[Primordial of Order|Tod]], during an [[Armstrong Initiative]] test. It convinces him that it's god, and to build a large [[Gateways|gateway]] for him in exchange for power and respect. [[Bradford]] accepts and becomes the avatar of command. He then builds the [[Mano di Dio]] for opening the [[Gateways|gateway]].
+	[[Bradford]] telepathically communicates with [[Primordial of Order|the primordial of command]]--[[Primordial of Order|Tod]], during an [[Armstrong Initiative]] test. It convinces him that it's god, and to build a large [[Portals|gateway]] for him in exchange for power and respect. [[Bradford]] accepts and becomes the avatar of command. He then builds the [[Mano di Dio]] for opening the [[Portals|gateway]].
 
 10024 
 	[[Bradford]]'s wife convinced a rookie space-pirate named [[Pluto]] and his men execute a heist on [[Manor Galling]] for the [[Mano di Dio]], a 6ft [[Exotic Metals|Nethrium]] statue valued at over 404 billion [[Galactic Standards|credits]] built by [[Bradford]] and the [[Armstrong Initiative]]. [[Pluto]] discovers the [[Armstrong Initiative]], and the [[Tessali]], and derails the plan to free the captives and burn the building down. His men turn on him, and the heist devolves into a firefight. [[Pluto]] makes it out with [[Mano di Dio]] and the [[Tessali]]. [[Pluto]] vanishes without a trace. 

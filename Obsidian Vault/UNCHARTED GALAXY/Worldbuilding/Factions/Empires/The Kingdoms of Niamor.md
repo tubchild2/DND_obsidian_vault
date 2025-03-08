@@ -16,3 +16,4 @@ aliases:
 ### Primary Territories
 - Kragknull. A mountainous planet with deep oceans, frigid forests, and towering mountains. It's a colder, rockier, and tougher version of the pacific northwest, with much larger mountain ranges. Their capital is the underground city of Novroma. 
 	- Home to the Moon Bat, Rabbick, and Phaang
+![[Dwarven City.png]]

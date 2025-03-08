@@ -13,11 +13,11 @@ At the end of each session, gather notes on what you want the players to do next
 | Finesse Weapon | 1d20 + STR or DEX + *proficiency bonus* | *damage dice* + STR or DEX |
 | Ranged Weapon  | 1d20 + DEX + *proficiency bonus*        | *damage dice* + DEX        |
 
-
 **Don't be Violent**
-It's clear that this group tends to be a bit more graphic when describing how they kill their victims, which may make others uncomfortable. 
+It's clear that this group tends to be a bit more graphic when describing how they kill their victims, which may make others uncomfortable. Save violence for impactful moments like important victories or deaths. 
 
 **Encourage Players and Roleplay**
 A simple "hell yeah" goes a long way. If they do something you like, say you like it, and (if it's really good) give them inspiration. 
 
 **Narrate Slow**
+For impactful moments, slow down and let the words come to you.

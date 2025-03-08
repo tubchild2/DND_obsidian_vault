@@ -37,11 +37,5 @@
 **Power Station Gamma**
 - You enter a room with several bioelectric generators, and a large switch. There's also a staircase that leads very far underground.
 	- (pulling the switch and alerting Mikhail)
-		- (Switch 1) The first switch locks into place. A low hum rumbles through the room as the generators sputter to life. Weak vibrations shudder up through the floor, and a faint glow flickers in the overhead bulbs .Somewhere distant, you hear a _clink..._ 
-			- (25% Mikhail was alerted)
-		- (Switch 2) - The second switch engages. and the hum deepens into a steady drone. Overhead, the lights brighten slightly, casting long, distorted shadows that shift as the machinery comes to life. Pipes rattle as pressure builds, and you catch a faint hissing noise from the far corner of the room. 
-			- (50% Mikhail was alerted)
-		- (Switch 3) The third switch activates, followed by the rhythmic thudding of machinery deep within the facility. The lights stabilize, casting a cold, clinical glow over the dark room. The hum of the generators is now a steady roar, and a breathy wail echoes through the facility. 
-			- (75% Mikhail was alerted)
-		- (Switch 4) The final switch engages with a sharp _snap_, and the generators roar at full capacity. The lights blaze to full brightness, revealing every detail of the room. You hear a deafening screech, followed by thunderous footsteps approaching your location. 
+		- The switch engages with a sharp _snap_, and the generators roar at full capacity. The lights blaze to full brightness, revealing every detail of the room. You hear a deafening screech echoing through the halls. 
 			- (Mikhail was alerted)

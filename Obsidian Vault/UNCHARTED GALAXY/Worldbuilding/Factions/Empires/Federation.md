@@ -5,6 +5,7 @@ aliases:
   - Federation of the Humans
   - Halfling Federation
   - Federation of the Halflings
+  - The Federation of Humanity
 ---
 ![[Federation Flag.jpg]]
 

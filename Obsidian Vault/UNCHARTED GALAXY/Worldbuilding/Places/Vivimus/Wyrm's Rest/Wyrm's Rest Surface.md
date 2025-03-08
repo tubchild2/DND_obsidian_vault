@@ -18,7 +18,7 @@
 		- As you stand there, a strange, pulsing noise emanates from your suit. It’s faint at first, but then it grows louder. The suit’s built-in radio is picking up something nearby.
 	- (investigating the radio)
 		- You're standing roughly in the clearing. You're pretty far from [[Chimera Crags]] at this point, so its dark. You can't really see more than 15, 30 feet in front of you.
-		- Your [[Item Catalogue|exosuit]] begins honing in on the signal. After a few seconds, it gets a lock on it's position and frequency.
+		- Your [[Item Catalogue|exosuit]] begins honing in on the signal. After a few seconds, it's figured out its frequency and the position of its source.
 		- Play ![[bass Wyrms.wav]]
 		- It's repeating over and over. You know nothing about how long its been there or what it is. As your [[Item Catalogue|exosuit]] displays, the source is about a half mile north east from here. 
 	- (investigating the hatch)

@@ -14,11 +14,68 @@ Pre game monologue:
 	- Session 1.2: Xavi's Slavery One Shot
 	- Session 2: The Wilderness of [[Vivimus]]
 
-Content:
+##### **BASIC CONTENT**:
 - Exploring [[Wyrm's Rest]]. 
-- They're also wanted by [[House Galling]] for multiple counts of murder, theft, possession of illegal substances, and a whole lot of other things. They one they're really stressing is that they went on the surface without a permit. That's what they think is the most important. 
+- They're also wanted by [[House Galling]] for multiple counts of murder, theft, possession of illegal substances, and a whole lot of other things. They one they're really stressing is that they went on the surface without a permit. That's what they think is the most important. [[CSG and HG Soldiers|Inquisitors]] will likely apprehend them if they do too much.
+- Use dungeon generator: https://watabou.github.io/one-page-dungeon/?seed=1795118367&tags=large,chaotic,single-level,secret,crumbling,tomb,winding
 
-### [[Dale Borland]] Arc:
+##### **INTERROGATION ARC**
+Phase 1: Whoops!
+- If they do something stupid and public, they get attacked by a swarm of [[CSG and HG Soldiers|inquisitors]].
+	- Failure: Phase 2
+	- Success: Phase 3
+
+Phase 2: Interrogation
+- The [[CSG and HG Soldiers|inquisitors]] knock them unconscious and lead them to a jail cell in the basement of [[House Galling]] HQ.
+- They're interrogated by the supervisor about what they've been up to. They're wanted for murder, theft, possession of illicit substances, and especially for going onto the surface without a permit. 
+- Split the players up and ask them what they were doing on the surface and why. Try to split them up by saying that people were saying bad things about each other. 
+
+Phase 3: On the run
+- They're pursued by more and more [[CSG and HG Soldiers|inquisitors]] as they attempt to escape the city. 
+- Eventually, a [[CSG and HG Soldiers|dreadnave]] is sent after them. That's how they know they're really screwed. It's dispatched to track down [[Mano di Dio|the Mano di Dio]] (if they have it).
+- If they get onto their ship, they might have to do some ship combat. 
+##### **LEAVIN THE PLANET**
+- Quick Guide:
+	- Tiefling
+		- Empire Name: [[Greater Covenul]]. 
+		- Planets: Covenul, Drakmir
+		- Basic Information: One planet is half ruined due to nuclear conflict. The other is an icy wasteland. There are three races of Tiefling, each with their own clans. 
+	- Aasimar
+		- Empire Name: [[The Vaerith Province]]
+		- Planets: Vaerith, and Seraphin
+		- Basic Information: The two nicest planets you'll ever see. One is a gorgeous grassland, and the other is a cloud world with floating islands. 
+	- Human / Halfling
+		- Empire Name: [[Federation|The Federation]] of Humanity
+		- Planets: The Solar System
+		- Basic Information: The planets closer to earth are extremely overdeveloped. They hold an enormous amount of territory, not including the territory conquered by their houses.
+	- Goliath
+		- Empire Name: [[Kurthaal]]
+		- Planets: Drakthar
+		- Basic Information: Steampunk Great Britain with giant people. Drakthar is very cloudy, has very deep and cold oceans, and steep cliffsides with intricate caverns. 
+	- Gnome
+		- Empire Name: [[Morgalith]]
+		- Planets: Ythrum
+		- Basic Information: By far the most whimsical and fairytale like planet you'll ever see. The wildlife is a combination of Hyper Light Drifter, the Hallow, and a rainforest. Most of the architecture is stone, and very few Gnomes live outside of the capital city. Most architecture is very ingrained with nature, as nature and technology are very important to them. 
+	- Elf
+		- Empire Name: [[The Great Moons of Aethium]]
+		- Planets: Aethium, Elythra, Eldamar, Sylvalis, Elarion, Presley. 
+		- Basic Information: A utopian super society with 5 moons used for farming resources. They're kind of racist to outsiders.
+	- Dwarf
+		- Empire Name: [[The Kingdoms of Niamor]]
+		- Planets: Kragknull
+		- Basic Information: A snowy mountainous planet with deep oceans, cold forests, and an ungodly amount of natural metals. Their capital is the underground city of Novroma. 
+	- Dragonborn
+		- Empire name: [[The Malfaust Republic]]
+		- Planets: Malfaust.
+		- Basic Information: Split into 4 major continents. Acrius, Straticus, Articus, and Thunor. Each one holds a separate dragonborn race, as well as a boat load of dragons. There are more dragons here than anywhere else.
+	- Orc
+		- Empire Name: [[The United Clans of Ur-Ghural]]
+		- Planets: Varaknum, Aridia
+		- Basic Information: There's a swampy forest planet with bulkier more aggressive orcs, and a drier desert planet that's mostly dominated by nomadic orcs. 
+- A niche but nonetheless well-known arms dealer named Sill resides on a planet of their choosing. Don't tell them this until they pick a destination. 
+	- Sill will custom build them weapons at a steep price. 5k per signature weapon. His weapons are unique because they grow in power with use. Work with the DM to figure out how the weapon works. 
+
+##### **[[DALE BORLAND]] ARC**
 Phase 1: Dread
 - It's pouring rain. 
 - Room full of criminal bodies. "A life for a life."
@@ -44,6 +101,7 @@ Phase 3: Confrontation
 - Dale begins chasing them. 
 	- HE DOESNT SAY A WORD
 	- He punches through doors, he hucks heavy objects, he slaughters animals or weaker enemies, and leaps great distances. Make it clear that this guy can and will kill them. 
+	- Whenever he punches Gemini, he breaks his nose. 
 - The fight isn't about beating him, it's about escaping him. HE DOESNT SAY A WORD
 	- Loss Condition: If Gemini and Taure die. He'll beat and snap their corpses, and then calmly walk off. 
 	- Stalling Condition: You hear like pattering on the rooftops and alleyways, and suddenly a group of 5 or 6 [[CSG and HG Soldiers|inquisitors]] pounce [[Dale Borland|the Arbiter]]. He punches one and snaps its neck, but the others are attempting to restrain him. You're ambushed by a group of [[CSG and HG Soldiers|inquisitors]] as well. 

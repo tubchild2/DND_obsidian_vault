@@ -27,9 +27,9 @@ aliases:
 - Simeon Galling brings the Initiative the injured body of a creature he hit. He had no clue what it was, but it was remarkably durable, and potentially something they could learn from. They quickly discovered that it contained [[Exotic Metals|Nethrium]], and after some testing, began farming and selling it.
 
 10020
-- They take notice of the [[Tessali]]'s healing factor. It wasn't eating or drinking, so where were those resources coming from? They called this extradimensional source "[[Caldwell's Field]]", and sought to access it. 
-- Around this time, they also noted strange, almost portal-like phenomena exhibited by [[Exotic Metals|Nethrium]] when highly energized. They temporarily expended a large amount of their [[Exotic Metals|Nethrium]] supply to create a large [[Gateways|gateway]]. Nothing of note happened.
-- A few weeks later, [[Bradford]] spoke with the [[Doctrine of St. Galling|CSG]] and the Armstrong Initiative to produce [[Mano di Dio|the Mano di Dio]], which was a [[Exotic Metals|Nethrium]] statue meant to create a larger, more stable [[Gateways|gateway]]. The Armstrong Initiative agreed, since they saw it as a potential means to create an infinite energy source. 
+- They take notice of the [[Tessali]]'s healing factor. It wasn't eating or drinking, so where were those resources coming from? They called this extradimensional source "[[Mythraama]]", and sought to access it. 
+- Around this time, they also noted strange, almost portal-like phenomena exhibited by [[Exotic Metals|Nethrium]] when highly energized. They temporarily expended a large amount of their [[Exotic Metals|Nethrium]] supply to create a large [[Portals|gateway]]. Nothing of note happened.
+- A few weeks later, [[Bradford]] spoke with the [[Doctrine of St. Galling|CSG]] and the Armstrong Initiative to produce [[Mano di Dio|the Mano di Dio]], which was a [[Exotic Metals|Nethrium]] statue meant to create a larger, more stable [[Portals|gateway]]. The Armstrong Initiative agreed, since they saw it as a potential means to create an infinite energy source. 
 
 10024
 	The Armstrong Initiative HQ beneath [[Manor Galling]] burns down during [[Pluto]]'s heist. During the heist, the [[Mano di Dio]] and the [[Tessali]] are stolen, locking [[Bradford]], the [[Doctrine of St. Galling|CSG]], and the Initiative out of their plans. They rebuild and move to a new complex in [[Grey Mire]], near the new [[The Royal Palace of House Galling|royal palace]]. 

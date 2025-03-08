@@ -15,12 +15,12 @@ aliases:
 - The [[Doctrine of St. Galling|DSG]] 
 - The [[Exotic Metals|Nethrium]] and the [[Mano di Dio]]. Beginning of [[Pluto]]'s research
 - Reveal of what [[Pluto]] actually stole / what the heist really was. 
-- The [[Armstrong Initiative]] and the [[Tessali]] nature / history with them. Reveal [[Ether and Unether|Ether]].
+- The [[Armstrong Initiative]] and the [[Tessali]] nature / history with them. Reveal [[Ethology/Ether|Ether]].
 
 - [[Bradford]]'s life story* (exclude the deal with [[Primordial of Order|Tod]])
 - The final trials. Reveal of what happened on [[Merak-B]], reveal of what [[Bradford]] really wants with the [[Mano di Dio]], and information about the [[Heretics]] and [[Pluto]] meeting on [[Merak-A]] for an immediate summons. 
 - [[Merak-A]], the [[Heretics|Heretic]] conflict, and the [[Tessali]]'s dungeon. 
-- Reveal of the [[Primordials and Feeders|Primordials]]. Reveal that [[Bradford]] has an arrangement with a [[Primordials and Feeders|primordial]], but he doesn't know that's what it is. 
+- Reveal of the [[Primordials|Primordials]]. Reveal that [[Bradford]] has an arrangement with a [[Primordials|primordial]], but he doesn't know that's what it is. 
 
 - [[Primordial of Order|Tod]]'s reveal. Uncharted bunker esc. 
 - [[Primordial of Order|Tod]]'s other activities.
@@ -96,7 +96,7 @@ Investigating what created Copper, and why? He was involved with a subsect of th
 - Shapeshifter / Doppelgangers. 
 - Lemonade stand mafia
 - Quantum locked creatures. 
-- Triple illithid empires that wiped each other out. They have knowledge of the [[Primordials and Feeders|primordials]], but only exist in tiny fractions in modern times. 
+- Triple illithid empires that wiped each other out. They have knowledge of the [[Primordials|primordials]], but only exist in tiny fractions in modern times. 
 ### NPCs:
 - Man with a pumpkin head
 - Pillsbury dough man

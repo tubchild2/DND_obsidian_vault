@@ -9,5 +9,5 @@ aliases:
 - Has a [[Exotic Metals|Uthine]] core that makes it weigh only like 20 ish pounds. 
 
 ### History
-1. Created by [[Bradford]] from 10020-10024. It was designed to open a sustainable portal to [[Caldwell's Field]], and to efficiently distribute its heat.
+1. Created by [[Bradford]] from 10020-10024. It was designed to open a sustainable portal to [[Mythraama]], and to efficiently distribute its heat.
 2. Immediately after being completed, it was stolen from its exhibition by [[Pluto]]. 
