@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "89032e9f03d3fe39",
-        "type": "tabs",
-        "dimension": 49.685534591194966,
-        "children": [
-          {
-            "id": "61c11a82a5c2ad82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UNCHARTED GALAXY or Campaign 1/Sessions/Session 4/Session 4 Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 4 Outline"
-            }
-          }
-        ]
-      },
-      {
         "id": "b2f9168f8dd6e999",
         "type": "tabs",
-        "dimension": 50.314465408805034,
         "children": [
           {
             "id": "90e8b01c708dae83",
@@ -145,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UNCHARTED GALAXY or Campaign 1/Sessions/Session 4/Session 4 Outline.md",
+                "file": "Accesories/To-Do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 4 Outline"
+              "title": "Outgoing links from To-Do"
             }
           },
           {
@@ -195,54 +173,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "61c11a82a5c2ad82",
+  "active": "90e8b01c708dae83",
   "lastOpenFiles": [
+    "Campaign 1 (Uncharted Galaxy)/Sessions/Session 4/Session 4 Outline.md",
+    "Campaign 2",
     "Accesories/To-Do.md",
-    "UNCHARTED GALAXY or Campaign 1/Sessions/Session 4/Session 4 Outline.md",
-    "Video Game Project",
-    "UNCHARTED GALAXY or Campaign 1/Pictures/tod (weakened).png",
-    "UNCHARTED GALAXY or Campaign 1/Pictures/Manor Galling Final.png",
-    "UNCHARTED GALAXY or Campaign 1/Ethology/The True Nature of Existence.md",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Characters/NPCs/Bradford.md",
+    "A Video Game Project",
+    "Campaign 1 (Uncharted Galaxy)/Pictures/tod (weakened).png",
+    "Campaign 1 (Uncharted Galaxy)/Pictures/Manor Galling Final.png",
+    "Campaign 1 (Uncharted Galaxy)/Ethology/The True Nature of Existence.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Characters/NPCs/Bradford.md",
     "Bradford Galling Statblock 1.png",
     "shield guardian statblock 1.png",
-    "UNCHARTED GALAXY or Campaign 1/Pictures/Bradford Galling Statblock.png",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Characters/NPCs/Dale Borland.md",
+    "Campaign 1 (Uncharted Galaxy)/Pictures/Bradford Galling Statblock.png",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Characters/NPCs/Dale Borland.md",
     "shield guardian statblock.png",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Characters/NPCs/Primordial of Order.md",
-    "UNCHARTED GALAXY or Campaign 1/Why I'm Ending Campaign 1.md",
-    "UNCHARTED GALAXY or Campaign 1/Sessions/Session Planning.md",
-    "Video Game Project/The Project.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Characters/NPCs/Primordial of Order.md",
+    "Campaign 1 (Uncharted Galaxy)/Why I'm Ending Campaign 1.md",
+    "Campaign 1 (Uncharted Galaxy)/Sessions/Session Planning.md",
+    "A Video Game Project/The Project.md",
     "Accesories/DM Reminders.md",
     "Avery's Campaign Stuff/Ratchet Gulliver (PC).md",
-    "UNCHARTED GALAXY or Campaign 1/Sessions/Session 4",
+    "Campaign 1 (Uncharted Galaxy)/Sessions/Session 4",
     "Accesories/Wish list.md",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/References/World History.md",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Factions/Empires/Federation.md",
-    "UNCHARTED GALAXY or Campaign 1/Pictures/Papers and Maps/pluto's cottage map.png",
-    "UNCHARTED GALAXY or Campaign 1/Sessions/Session 0/Session 0.1 - The Cottage.md",
-    "UNCHARTED GALAXY or Campaign 1/Sessions/Session 0/Outline 0.md",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B1.md",
-    "UNCHARTED GALAXY or Campaign 1/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B2.md",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B3.md",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest.md",
-    "UNCHARTED GALAXY or Campaign 1/Sessions/Session 3/Session 3 Outline.md",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Surface.md",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Factions/Empires/The Vaerith Province.md",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Factions/Empires/Greater Covenul.md",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Factions/Empires/The United Clans of Ur-Ghural.md",
-    "UNCHARTED GALAXY or Campaign 1/Pictures/Dwarven City.png",
-    "UNCHARTED GALAXY or Campaign 1/Pictures/Aethium Cityt.png",
-    "UNCHARTED GALAXY or Campaign 1/Pictures/Morgalith Architecture.png",
-    "UNCHARTED GALAXY or Campaign 1/Worldbuilding/Factions/Empires",
-    "UNCHARTED GALAXY or Campaign 1/Pictures/Places/Planet Views",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/References/World History.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Factions/Empires/Federation.md",
+    "Campaign 1 (Uncharted Galaxy)/Pictures/Papers and Maps/pluto's cottage map.png",
+    "Campaign 1 (Uncharted Galaxy)/Sessions/Session 0/Session 0.1 - The Cottage.md",
+    "Campaign 1 (Uncharted Galaxy)/Sessions/Session 0/Outline 0.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B1.md",
+    "Campaign 1 (Uncharted Galaxy)/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B2.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B3.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest.md",
+    "Campaign 1 (Uncharted Galaxy)/Sessions/Session 3/Session 3 Outline.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Surface.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Factions/Empires/The Vaerith Province.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Factions/Empires/Greater Covenul.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Factions/Empires/The United Clans of Ur-Ghural.md",
+    "Campaign 1 (Uncharted Galaxy)/Pictures/Dwarven City.png",
+    "Campaign 1 (Uncharted Galaxy)/Pictures/Aethium Cityt.png",
+    "Campaign 1 (Uncharted Galaxy)/Pictures/Morgalith Architecture.png",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Factions/Empires",
+    "Campaign 1 (Uncharted Galaxy)/Pictures/Places/Planet Views",
     "Ethology Revised",
-    "UNCHARTED GALAXY or Campaign 1/SFX/windambience.wav",
-    "UNCHARTED GALAXY or Campaign 1/SFX/bass Wyrms.wav",
+    "Campaign 1 (Uncharted Galaxy)/SFX/windambience.wav",
+    "Campaign 1 (Uncharted Galaxy)/SFX/bass Wyrms.wav",
     "Uncharted Galaxy/SFX/nobass Wyrms.wav",
-    "UNCHARTED GALAXY or Campaign 1/SFX/Mikhail Echoes/echo5.wav",
-    "Mason's Visit Session",
+    "Campaign 1 (Uncharted Galaxy)/SFX/Mikhail Echoes/echo5.wav",
     "PANDORA SCRIPT OVERVIEW.canvas",
     "PANDORA DND Campaign.canvas",
     "Supply Chain FitnessApp(tm).canvas",
