@@ -1,0 +1,11 @@
+![[Ether 2.jpg]]
+**General Information**
+- **A Byproduct of Thought.** Ether is the abstract counterpart to matter. Ether is produced as a byproduct of thought, as it contains an idea rather than physical properties. (see "[[Ether Users]]" for information on Ether potency.)
+- **Contains Quantum Soup.** Each particle contains a soup of compressed subatomic particles in a superposition between matter and energy that carries an ideological charge. A single particle can store petabytes of data. 
+- **Ideological Gravity.** Ether particles charged with similar ideas attract each other and vice versa.
+- **Ether Manifestation Across [[The True Nature of Existence|Realms]].** Each [[The True Nature of Existence|Realm]] has different laws of physics, and they enforce them with different levels of enforcement. Depending on how strict the difference between reality and imagination is, Ether behaves different. 
+	- **Physical [[The True Nature of Existence|Realms]]:** Ether does not naturally occur. Upon entering this [[The True Nature of Existence|realm]], the Ether's superposition collapses and manifests whatever idea it was storing to the best of its ability. 
+	- **Fantastical [[The True Nature of Existence|Realms]]:** Ether naturally occurs as a byproduct of thought. It requires training to be an [[Ether Users|Ether user]]. Ether manifestation can be slowed by [[Ether Users]], but after a few seconds Ether will manifest whatever idea it was storing. 
+	- **Liminal [[The True Nature of Existence|Realms]]:** Ether gushes from the minds in these [[The True Nature of Existence|realms]]. Matter can be easily deconstructed to Ether, and Ether can easily manifest into physical matter. 
+	- **Abstract [[The True Nature of Existence|Realms]]:** Matter cannot exist in this [[The True Nature of Existence|realm]] and it immediately tries to deconstruct into Ether. Everything is Ether, and a single thought carries an immense amount of power. Depending on how abstract the [[The True Nature of Existence|realm]] is, [[Eathyst and E-Tech|Eathyst]] might be able to exist. 
+- **Measurements.** Ether is measured in [[Ethology Reference Table|Pytes]]. See the "[[Ethology Reference Table]]" for more information.

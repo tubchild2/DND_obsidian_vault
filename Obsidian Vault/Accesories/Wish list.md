@@ -8,6 +8,7 @@ D&D Specific Stuff
 - Xanathar's Guide to Everything
 
 ETC
+- Keyboard that plugs into my PC
 - PS3 with the Uncharted Games, Minecraft, and LBP 1 & 2. 
 - Super Metroid poster
 - Drawing tablet to save on paper and draw better

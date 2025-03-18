@@ -3,7 +3,7 @@
 ---
 ## General Information
 Race: Human - Magic Initiate (Cleric)
-Class and Level: Lvl 1 Artificer (Artillerist Eventually)
+Class and Level: Lvl 2 Artificer (Artillerist Eventually)
 Background: Sage
 Speed: 30ft
 

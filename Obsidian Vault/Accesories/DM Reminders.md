@@ -21,3 +21,6 @@ A simple "hell yeah" goes a long way. If they do something you like, say you lik
 
 **Narrate Slow**
 For impactful moments, slow down and let the words come to you.
+
+**THE ROLE OF THE DICE**
+While yes you can fudge dice rolls, your responsibility is to see what the narrative consequences of the mistake are, not how to cushion the blow.  

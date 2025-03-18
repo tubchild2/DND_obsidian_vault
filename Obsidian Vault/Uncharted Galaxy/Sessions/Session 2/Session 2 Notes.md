@@ -1,7 +1,0 @@
-- Gray and London Joined
-- Immersion seems to be the name of the game when it comes to my [[Session Planning|sessions]]. Detailed writing, ambience, consistency, realism, and unsettling themes have led to the best moments so far.
-- They went on a brief side quest helmed by Xavi. They worked with [[Sven (PC)|Sven]] (PC), [[AAH121 (PC)]], and [[Thunderbolt (PC)]] for the first times. They killed and robbed a wealthy [[House Galling]] official.
-- Returning to [[Vivere Mori]], they chose to travel through [[Mistriven]] and through [[Fennhollow Pass|Fennhollow]] Pass. Xavi nearly got himself killed on multiple occasions. They passes through the nest of the queen cockatrice, and moved into [[Chimera Crags]]. 
-- While camping in [[Chimera Crags]], they noticed [[The Uncatchable Man]] observing them through a nearby window for one second. He left no evidence he was there, and had no discernable emotion.
-- They read an [[Illeth]] scribe book, which gave them information about [[House Galling]]'s relationship with the [[Illeth]].
-- Named the ship [[FRED]]. Which is an acronym for something racist. The ship's AI has a thick German accent. 
