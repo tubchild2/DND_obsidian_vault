@@ -82,3 +82,12 @@ Non-Conductive Metals.
 
 #2 Ideological Programming
 	Unprogrammed [[Ether|Ether]] conducts nearby concepts. This can be inconsistent unless the [[Ether|Ether]] directly contacts something containing the desired concept. There are a few major ways to do this. Engraving shorthand onto a series of layered E-Conductor plates is the industry standard, but a more archaic method involves attaching an [[Ether|Ether]] circuit to a book.
+
+
+
+# BIG CHANGES TO CANONIZE
+- You program [[Eathyst and E-Tech|Eathyst]] with "escript," which is a shorthand logical language akin to [[Galactic Standards|C]]#.
+- [[Eathyst and E-Tech|E-Tech]] components. They let you program new spells functionally
+	- Voltage. The range of the effect. The [[Ether]] pressure.
+	- Amperage. The amount of [[Ether]]. The power source.
+	- Charge. The idea the [[Ether]] conducts. The effect. Also changes to the effect. 

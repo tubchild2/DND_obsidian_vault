@@ -18,4 +18,3 @@ aliases:
 - Before Gnomes can earn their licenses in their trade, they need to be stress tested with extensive tests with rigorous requirements. Even the gnomes struggle with it.
 ### Primary Territories
 - Ythrum. By far the most whimsical and fairytale like planet you'll ever see. The wildlife is a combination of Hyper Light Drifter, the Hallow, and a rainforest. Most of the architecture is stone, and very few Gnomes live outside of the capital city. Most architecture is very ingrained with nature, as nature and technology are very important to them. 
-![[Morgalith Architecture.png]]

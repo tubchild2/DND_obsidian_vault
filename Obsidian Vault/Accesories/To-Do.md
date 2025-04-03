@@ -1,22 +1,36 @@
+### Campaign -2 (Styxas)
+- Gimmick for Ratchet to fall back on
+- Scars from the kraken battle
+- Give him a hobby
+
+### DM Resources
+- Revise the DM rules
+- Make a Session Packing List
+
+
+### Campaign 1 (Uncharted Galaxy)
+- Set up date and time
+
+### Campaign 2 ([[Vaerith]])
+**Session 0**
+**[[Character Creation]]**
+1. Work with each player to ensure that they make characters that fit the world, are fun to play, and will play well off everyone else.
+2. They can worldbuild the locations that they're from. If multiple people choose the same location, they can worldbuild it together. 
+3. Finalize and document summaries of each player
+	- Skyler
+	- Xavi
+	- JJ
+	- London
+	- Luca
+	- Grey (Gray?)
+	- Landon?
+
+**Session 1**
+- Figure out the plot hooks based on the characters they've created
+
 ### Worldbuilding
-- You program [[Eathyst and E-Tech|Eathyst]] with "escript," which is a shorthand logical language akin to [[Galactic Standards|C]]#.
-- [[Eathyst and E-Tech|E-Tech]] components. They let you program new spells functionally
-	- Voltage. The range of the effect. The [[Ether]] pressure.
-	- Amperage. The amount of [[Ether]]. The power source.
-	- Charge. The idea the [[Ether]] conducts. The effect. Also changes to the effect. 
-### Finale
-- Map of [[Manor Galling]]. 
+- The Aasimar are attempting to destabilize the nations of the world to gain the upper hand.
 
-### Campaign 2
-- Tone and General Vibes
-- Character creation guide for campaign 2
-	- Include multiclassing
-
-### The Next Campaign Concept
-- More in depth character creation process. I want to take inspiration from what Avery did.
-- A different cycle
-- Smaller detailed world.
-- Reoccurring characters.
-- [[Ether|Ethology]] is common, but not everyone uses it. 
-- Sandbox approach, in which players make their own goals based off their characters. 
-- See "[[Why I'm Ending Campaign 1]]"
+### Study
+- Study improv
+- Observe improv

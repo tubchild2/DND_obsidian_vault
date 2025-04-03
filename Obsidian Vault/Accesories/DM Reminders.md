@@ -24,3 +24,9 @@ For impactful moments, slow down and let the words come to you.
 
 **THE ROLE OF THE DICE**
 While yes you can fudge dice rolls, your responsibility is to see what the narrative consequences of the mistake are, not how to cushion the blow.  
+
+**Players are Cool**
+If the players come up with something that's so much cooler than what you had planned, you can *sparingly* change some things. 
+
+**Implement Battlefield Actions**
+Battlefield actions actions happen at the end of the monster's turn, and provide a tell for what they're going to do next turn. This gives the players a chance to adapt and dynamically interact with them to neutralize the action. They come in many shapes and sizes. 

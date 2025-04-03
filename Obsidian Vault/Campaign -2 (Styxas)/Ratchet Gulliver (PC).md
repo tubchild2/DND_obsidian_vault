@@ -140,16 +140,16 @@ Cleric lvl 1 Spin (one use per long rest)
 Wizard lvl 1 Spin (one use per long rest)
 - Healing Word
 
-| Spin Name       | Level | Effect                                                                                                                                                                                                                                                   |
-| --------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mage Hand       | 0     | Pick up a thingy that's less than 5lbs with an invisible hand                                                                                                                                                                                            |
-| Mending         | 0     | Fix up cracks and stuff                                                                                                                                                                                                                                  |
-| Spare the Dying | 0     | Stabilize someone making death saving throws                                                                                                                                                                                                             |
-| Guidance        | 0     | You touch a creature and choose a skill. Until the spin ends, <br>(it lasts 1 minute) they add 1d4 to any ability check they <br>make using that skill.                                                                                                  |
-| Shillelagh      | 0     | A club or quarterstaff that you are holding is imbued with <br>nature's power. For the duration (1 minute), you can use your spin ability mod instead of STR for the attack AND damage <br>rolls.                                                        |
-| Friends         | 0     | The target must succeed a wisdom saving throw or have the<br>charmed condition for the duration (1 minute). It succeeds<br>automatically if the target isn't humanoid, if you're fighting it, <br>or if you've used this on it within the past 24 hours. |
-| Cure Wounds     | 1     | A creature you touch regains a number of HP equal to 2d8 + your<br>spin ability modifier. The healing increases by 2d8 for each higher <br>level slot used above 1.                                                                                      |
-| False Life      | 1     | Gain 2d4 + 4 temporary HP. Gain 5 additional THP for each higher <br>level slot used above 1.                                                                                                                                                            |
+| Spin Name                    | Level | Effect                                                                                                                                                                                                                                                   |
+| ---------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mage Hand                    | 0     | Pick up a thingy that's less than 5lbs with an invisible hand                                                                                                                                                                                            |
+| Mending                      | 0     | Fix up cracks and stuff                                                                                                                                                                                                                                  |
+| Spare the Dying              | 0     | Stabilize someone making death saving throws                                                                                                                                                                                                             |
+| Guidance                     | 0     | You touch a creature and choose a skill. Until the spin ends, <br>(it lasts 1 minute) they add 1d4 to any ability check they <br>make using that skill.                                                                                                  |
+| Shillelagh<br>(shuh-lay-luh) | 0     | A club or quarterstaff that you are holding is imbued with <br>nature's power. For the duration (1 minute), you can use your spin ability mod instead of STR for the attack AND damage <br>rolls.                                                        |
+| Friends                      | 0     | The target must succeed a wisdom saving throw or have the<br>charmed condition for the duration (1 minute). It succeeds<br>automatically if the target isn't humanoid, if you're fighting it, <br>or if you've used this on it within the past 24 hours. |
+| Cure Wounds                  | 1     | A creature you touch regains a number of HP equal to 2d8 + your<br>spin ability modifier. The healing increases by 2d8 for each higher <br>level slot used above 1.                                                                                      |
+| False Life                   | 1     | Gain 2d4 + 4 temporary HP. Gain 5 additional THP for each higher <br>level slot used above 1.                                                                                                                                                            |
 
 | Infusion Name      | Effect                                                                                               |
 | ------------------ | ---------------------------------------------------------------------------------------------------- |
@@ -164,15 +164,17 @@ Wizard lvl 1 Spin (one use per long rest)
 ---
 ## Lore and Roleplay
 **Personality**
-- **Determined**. Doesn't like improvising, and sticks to his plans. Wants to accomplish them more than anything, and though he will deviate according to his conscience, he wants to hurry and find ways to progress ASAP. 
+- **Determined and Busy**. Doesn't like improvising. He wants to stick to his plans, but will deviate according to his conscience. He doesn't like wasting time. 
 - **Curious**: Loves learning and doesn't like unanswered questions. Naturally investigative. 
 - **Good hearted**: He has a good sense of morality and wants to help people where possible. 
 - **Bookish**: Loves reading books and wants to learn more about his craft and the world around him. 
 - **Sailor:** Grew up sailing, and finds it quite relaxing. 
 - **Collector:** Likes collecting trinkets and various weapons. 
-- **Book Smart**. Isn't very street smart. Spent most of his life travelling from place to place, being isolated, or reading. However, he's fairly knowledgeable about the world, and very knowledgeable when it comes to ether. 
+- **Book Smart**. Spent most of his life travelling from place to place, being isolated, or reading. However, he's fairly knowledgeable about the world, and very knowledgeable when it comes to ether. 
 - **Detached**. Isn't loyal to a flag or creed. I.E. He's free spirited. He prefers to focus on the individual, and is typically unaware of larger conflicts. He stays out of them unless he can realistically make a difference. Because of this, he's bad with money, since he never took it crazy seriously in the first place. He was more of a self-sufficient type of guy anyways. 
 - **Empathetic**. He doesn't kill, unless the people are murderers. He's always willing to negotiate though, and won't kill unless people either attack him, refuse to negotiate, or if they're pirates.
+- **Naïve and Soft**. Always assumes the best, and is too trusting. He's a pushover. People can take advantage of him with very little effort. Doesn't like to be assertive. 
+- **Analysis Paralysis.** Prefers to tackle obstacles tactically, so he might get caught up in thought. 
 
 **Backstory**
 - **A Family of Merchants.** Ratchet was born aboard his parents brigantine in the *Great Saline Sea*. Ratchet's parents were merchants that would buy and resell regional objects to other kingdoms for a handsome profit. Due to travelling so much, they weren't attached to any kingdom, and spent most of their time on the sea in their brigantine. Their ship (and business) was called the Saline Tide. It was an old weathered ship that had seen better days. It was 3 generations old at this point, meaning it needed frequent repairs.

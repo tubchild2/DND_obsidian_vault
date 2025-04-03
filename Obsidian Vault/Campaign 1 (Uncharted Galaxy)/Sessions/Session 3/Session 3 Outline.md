@@ -42,7 +42,7 @@ Phase 3: On the run
 		- Basic Information: One planet is half ruined due to nuclear conflict. The other is an icy wasteland. There are three races of Tiefling, each with their own clans. 
 	- Aasimar
 		- Empire Name: [[The Vaerith Province]]
-		- Planets: Vaerith, and Seraphin
+		- Planets: Vaerithh, and Seraphin
 		- Basic Information: The two nicest planets you'll ever see. One is a gorgeous grassland, and the other is a cloud world with floating islands. 
 	- Human / Halfling
 		- Empire Name: [[Federation|The Federation]] of Humanity
