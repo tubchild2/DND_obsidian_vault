@@ -40,6 +40,7 @@ Weight: 140lbs
 Age: 26
 
 Theme Song: Lure of Adventure from the Uncharted 4 OST
+Fight Song: https://open.spotify.com/track/1LaCW0R8Q7oIY3tKtDgZOw?si=48a001de44404af5
 Theme Playlist: https://open.spotify.com/playlist/2Eb0MarMoJjqUO7NS3eHGx?si=d8119196a8364329 
 
 
@@ -99,12 +100,12 @@ Weapon / Armor Proficiencies
 ## Equipment
 Weapons
 
-| Name           | Count | Damage | Type | Properties | Range | Ammo |
-| -------------- | ----- | ------ | ---- | ---------- | ----- | ---- |
-| Light Hammer   | 1     |        |      |            |       |      |
-| Dagger         | 3     |        |      |            |       |      |
-| Quarterstaff   | 1     |        |      |            |       |      |
-| Light Crossbow | 1     |        |      |            |       |      |
+| Name           | Count | Damage          | Type          | Properties                 | Range  | Ammo |
+| -------------- | ----- | --------------- | ------------- | -------------------------- | ------ | ---- |
+| Light Hammer   | 1     | 1d4 Bludgeoning | Simple Melee  | Light<br>Thrown            | 20/60  |      |
+| Dagger         | 3     | 1d4 Piercing    | Simple Melee  | Finesse<br>Light<br>Thrown | 20/60  |      |
+| Quarterstaff   | 1     | 1d6 Bludgeoning | Simple Melee  | Versatile (1d8)            |        |      |
+| Light Crossbow | 1     | 1d6 Piercing    | Simple Ranged | Two-Handed                 | 80/320 |      |
 
 Armor
 - Shield
