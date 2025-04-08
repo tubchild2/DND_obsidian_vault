@@ -1,6 +1,6 @@
 ![[Lunfall Basin.png]]
 ### Description
-Contrary to [[Lunfall]], Covenul is a dark, acid ridden wasteland. It's highly ether potent due to [[Moonwrought]], but the place they live in sucks. It's metallic, cramped, and riddled with factories and remnants of industry.
+Contrary to [[Lunfall]], Covenul is dark, acid-ridden, and riddled with molten metals. It’s a horrible place for most everyone except the native species. It's highly ether potent due to being so close to [[moonwrought]], maybe too close. 
 
 ### History
 The canyon was formed when [[Moonwrought]] fell to the earth. The impact was so grand that it created a mountain range, and exploded the entire region. Due to the nature of [[Moonwrought]], this, and the surrounding region's flora and fauna ([[Lunfall]] and The [[High Forest]]) were granted high ether potency. 

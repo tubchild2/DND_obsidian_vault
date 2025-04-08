@@ -3,7 +3,7 @@
 ![[Elythra 2.png]]
 
 ### Description
-Located in central [[Vaerith]], Elythra is a vast temperate plain. Small forests dot the landscape of rolling verdant hills. 
+The plains of Elythra are a vast expanse of grassy hills, ponds, and small forests. Dotted throughout the fields and rolling hills lie several small towns and independent kingdoms. Located in central [[Vaerith]].
 
 ### History 
 The civilizations of Elythra aren't united under a single flag. Instead, several independent towns and cities dot the landscape.

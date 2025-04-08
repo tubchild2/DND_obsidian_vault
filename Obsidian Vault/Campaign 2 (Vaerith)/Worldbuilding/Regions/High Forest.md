@@ -1,7 +1,6 @@
 ![[High Forest.png]]
 ### Description
-It’s a colorful rainforest dotted with the remnants of ancient stone architecture. But don’t be fooled by its whimsical appearance; it’s home to some of the most dangerous flora and fauna out there. Deceptively intelligent, horrifically capable, and older than you’d ever expect; these creatures are benders of reality and some of the last things you’d want to fight. Thankfully, _most_ of them are intelligent enough to not be aggressive, but that doesn’t even come close to removing the threat.
-
+It’s a colorful rainforest dotted with the remnants of ancient stone architecture. But don’t be fooled by its whimsical appearance; it’s home to some of the most dangerous flora and fauna out there. Deceptively intelligent, horrifically capable, and older than you’d ever expect; these creatures are benders of reality and some of the last things you’d want to fight. Thankfully, _most_ of them are intelligent enough to not be aggressive, but that doesn’t even come close to making the high forest safe.
 A beautiful and whimsical rainforest dotted with the remnants of high elf and rock gnome architecture. It's somewhere between Hyper Light Drifter, the Hallow, and the amazon rainforest. It's teeming with Ether potent plants and animals due to the mutations of [[Moonwrought]]. 
 
 ### History
