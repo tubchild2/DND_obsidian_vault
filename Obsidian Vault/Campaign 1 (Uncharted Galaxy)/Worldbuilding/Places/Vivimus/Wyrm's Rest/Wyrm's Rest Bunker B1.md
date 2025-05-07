@@ -70,7 +70,7 @@
 
 **Communications Room**
 - There's an array of 70s era computers that have been completely deactivated. One of them is connected to a different wire heading into the wall, and is still active. A door on the far wall leads into "power station alpha." There's a ladder in the corner of the room that's covered by bags of trash and spare parts. 
-	- (investigating the terminal) The terminal [[links]] to the radio tower, and has been playing the same message over and over. It's been counting iterations, and the total met it's cap at 5 billion. The message is 30 seconds long. 
+	- (investigating the terminal) The terminal [[Links to References]] to the radio tower, and has been playing the same message over and over. It's been counting iterations, and the total met it's cap at 5 billion. The message is 30 seconds long. 
 	- (is played)![[bass Wyrms.wav]]
 	- (ladder) Takes you to the records room. 
 **Supply Room**

@@ -1,7 +1,7 @@
 # Basics of Eterology
 **Origins of Eterology**
-- Power in Vaerith comes not from strength, not from wealth, and not from armies, but from the knowledge of Ether. Dating back to 3500 BCE, eterology is one of the oldest and most volatile scientific disciplines. While its study is common, not everyone uses it—and those who do use it struggle to understand it.
-- It all began when the ancient, scattered tribes of Vaerith noticed strange occurrences—moments when reality seemed to bend in the favor of one’s thoughts or dreams. At first these events were dismissed as coincidences, but one day, by chance, a man noticed the flora and fauna forming matter and energy from nothing. He then questioned if the strange phenomena his tribe had been experiencing had something to do with these animals’ abilities. He began experimenting and discovered ether. The world was never the same.
+- Power in [[Vaerith]] comes not from strength, not from wealth, and not from armies, but from the knowledge of Ether. Dating back to 3500 BCE, eterology is one of the oldest and most volatile scientific disciplines. While its study is common, not everyone uses it—and those who do use it struggle to understand it.
+- It all began when the ancient, scattered tribes of [[Vaerith]] noticed strange occurrences—moments when reality seemed to bend in the favor of one’s thoughts or dreams. At first these events were dismissed as coincidences, but one day, by chance, a man noticed the flora and fauna forming matter and energy from nothing. He then questioned if the strange phenomena his tribe had been experiencing had something to do with these animals’ abilities. He began experimenting and discovered ether. The world was never the same.
 
 **Ether and the Nature of Reality**
 - But what is Ether? Ether is a particle that contains a soup of compressed atoms that have been charged with an idea. Whenever anything of any intelligence thinks, ether particles form as a byproduct. All ether particles are charged with the thought that formed them.
@@ -17,7 +17,7 @@ To use Ether, it’s important to understand how much Ether you produce and how 
 - Sense of Self. How troubled your conscience is; how guilty or righteous you feel.
 - Emotional State. Extreme emotions can inflame and power ether use.
 - Reasoning Ability. Your ability to process and adapt to information.
-- Alertness / Lucidity. Being wide awake boosts ether potency and lucid dreaming doubles it.
+- Alertness / Lucidity. Being wide awake boosts ether potency but being lucid / drunk doubles it.
 
 **Ether in Nature**
 - Ether is a byproduct of life, so, consequently, all plants and animals produce _some_ ether. Some produce more than others. For example, a dragon would likely produce more than an acorn.
@@ -31,9 +31,6 @@ To use Ether, it’s important to understand how much Ether you produce and how 
 - The difficult part about making ether items is finding an ether power source. In the past, eterologists have used plants, animals, monsters, cross-bred organic material, slime mold, insect hives, and more. The challenge is keeping the material alive and in control; that’s why plants are the most common. The flora in the High Forest is known to be very ether potent, making it very effective for this kind of thing.
 
 # Ether in Play
-**“Magic” and Terminology Changes**
-Magic as you picture it doesn’t exist in Vaerith. Specifically, spiritism is strictly impossible. All “magic” will therefore be science that people don’t understand. With that said, I did create the science for magic, and it will play a massive role in the world. Here are the changes to the terminology:
-
 | Original Term    | New Term                        |
 | ---------------- | ------------------------------- |
 | Magic            | Eterology (or) Ether            |
@@ -47,36 +44,27 @@ Magic as you picture it doesn’t exist in Vaerith. Specifically, spiritism is s
 | Magic Item       | Ether Item                      |
 
 **Classes of Eterology**
-These disciplines are for your actual ether users. They may occasionally dip into the scientific aspects of eterology, but not always. Like stated earlier, you don’t need to understand how it works to use it.
+These disciplines are for your actual ether users and practitioners. They may occasionally dip into the scientific aspects of eterology, but not always. Like stated earlier, you don’t need to understand how it works to use it.
 1. Artificers. Artificers are ether users that rely on crafted tools, weapons, and gadgets to supplement their low ether potency.
 2. Bards. Bards are ether users that use music, poetry, and performance as a source of inspiration.
 3. Clerics. Clerics are ether users that draw strength from structured, life-centered faiths. They focus on healing, protection, and divine guidance.
 4. Druids. Druids are ether users that are deeply connected to nature.
 5. Paladins. Paladins are devout warriors who wield ether and balance martial prowess with divine conviction. 
 6. Rangers. Rangers are survivalists and trackers that use ether practically.
-7. Sorcerers (_alt: conduit_). Sorcerers are ether users that are naturally ether potent.
-8. Warlocks (_alt: fanatic_). Warlocks are ether users bound by fanatical religions. They typically have unique requirements or tasks they need to do for their faiths.
-9. Wizards (_alt: scholar_). Wizards are ether users that earned their ether potency through study and discipline.
+7. Sorcerers (_alt: conduits_). Sorcerers are ether users that are naturally ether potent.
+8. Warlocks (_alt: fanatics_). Warlocks are ether users bound by fanatical religions. They typically have unique requirements or tasks they need to do for their faiths.
+9. Wizards (_alt: scholars_). Wizards are ether users that earned their ether potency through study and discipline.
 
 **Branches of Eterology**
-Not everyone in the world wants to be an ether user, though. The science of eterology itself has split into several core branches that are used all throughout Vaerith. These branches are for your college students, your tradesmen, and your scientists. They make or use ether items since they don’t necessarily use ether themselves.
-1. Aethotics. The study and application of ether-infused technology.
+Not everyone in the world wants to be an ether user, though. The science of eterology itself has split into several core branches that are used all throughout Vaerith. These branches are for your academics, your tradesmen, and your scientists. They make or use ether items since they don’t necessarily use ether themselves.
+1. Aethotics. The study and application of ether-infused technology. Most common in Lunfall, but practiced elsewhere by experts.
+	1. Golemancy. The use of preserved brains as Ether programmers.
 2. Bioeterology. The study and augmentation of ether in nature and of ether sources.
-3. Ethegrafting. Dangerously implanting objects to increase your ether potency.
-4. Ethellurgy. Forging ether potent alloys for tools, weapons, etc.
+	1. Ethegrafting. The study of unnatural Ether augmentation.
+	2. Ethepathology. The study of ether in the body; disorders, medicines, and exercises.
+	3. Somnology. A difficult practice using lucid dreams to enhance ether abilities.
+3. Ethellurgy. Forging ether potent alloys for tools, weapons, etc.
+4. Liquithergy. Brewing and fermenting ether potent drinks.
 5. Literography. Scribes that use shorthand and Ether books to convey ideas and produce effects.
-6. Somnology. A difficult practice using lucid dreams to enhance ether abilities.
-7. Symphology. Using music and art to inspire focus for more powerful ether use.
-8. Theochemy. The practice of cooperative ether use. Typically tied to religious practices.
-9. Golemancy. Using a preserved brain (or multiple brains) to power artificial bodies using Ether.
-
-# Advanced Eterology
-### Aethotics
-### Bioeterology
-### Ethegrafting
-### Ethellurgy
-### Literography
-### Somnology
-### Theochemy
-### Golemancy
-- Golems cannot gain new memories, but they can simulate their senses.
+	1. Symphology. Using music and art to inspire focus for more powerful ether use.
+6. Theochemy. The practice of cooperative ether use. Typically tied to religious practices.

@@ -1,0 +1,110 @@
+**Objectives**:
+- Pursue
+- Acquire
+- Defend
+- Investigate
+- Compete
+- Confront
+- Deliver
+- Rescue
+- Escape
+
+**Themes**:
+- Adventurous
+- Mysterious
+- Thrilling
+- Light-hearted
+- Spooky
+- Horror
+
+**Locations**:
+- Snow
+	- Laboratory
+	- Temple
+	- Mountain Cave
+	- Blizzard
+	- Frozen Lake
+	- Abandoned Outpost
+	- Frigid Forest
+	- Snowfield Battlefield
+- Fire
+	- Volcano
+	- Molten Chasm
+	- Fortress
+	- Ruins
+	- Forest Fire
+	- Ashen Village
+- Underground
+	- Forgotten Catacombs
+	- Crystal Cavern
+	- Bat Infested Cave
+	- Subterranean Lake
+	- Mushroom Forest
+	- Collapsed Mine
+	- Underground River
+- Forest
+	- Ancient Grove
+	- Dark Thicket
+	- Overgrown Swamp
+	- Canopy Walk
+	- Eagle's Nest
+- High Forest
+	- Tower Library
+	- Golem Industrial Center
+	- Hidden Encampments
+- Town / City
+	- Market Square
+	- Tavern District
+	- Outskirts
+	- Castle
+	- Mansion
+	- Theater
+	- Jail
+	- Fight Club
+	- Royal Quarter
+	- Industrial Ward
+	- Undercity
+	- Sewers
+	- Academy
+	- Clocktower
+- Sky
+	- Airship
+	- Floating Islands
+	- Sky Temple
+	- Hidden in the Clouds
+- Ocean
+	- Coral Reef
+	- Sunken Ship
+	- Diving in Tropical Waters
+	- Open Ocean
+	- Whale Graveyard
+	- Underwater Trench
+	- Shipwreck Cove
+	- Bioluminescent Waters
+- Desert
+	- Sand Dunes
+	- Oasis
+	- Buried Temple
+	- Desert Cave
+	- Ruins
+	- Canyons
+	- Sandstorm
+	- Parts of the Desert that've been turned to glass
+	- Scorpion Nest
+- Coast
+	- Cliffside
+	- Fishing Village
+	- Tidepools
+	- Docks
+	- Storm
+	- Lighthouse
+	- Sea Cave
+	- Smuggler's Cache
+	- Deadly Rocks
+	- Seafood Restaurant 
+- Hills
+	- Windy Ridge
+	- Stone Circle
+	- Shepherd's Pass
+	- Foggy Highlands
+	- Windmill Hills

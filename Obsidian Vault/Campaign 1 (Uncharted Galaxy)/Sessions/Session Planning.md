@@ -67,7 +67,7 @@ Investigating what created Copper, and why? He was involved with a subsect of th
 - Wish-[[Ether Users|magic]] based on player sketches.
 - FFA Hunger Games esc. scenario. 
 - A localized anomaly is causing a time loop. They get caught in it, and need to undo it to escape. 
-- Body swapping [[PCs]]. 
+- Body swapping
 - A distress call is requesting immediate assistance on a derelict space station. 
 - A legendary monster has something / is causing some issue, and needs to be hunted. 
 - Some valuable cargo needs to be transported through some volatile location / route. 

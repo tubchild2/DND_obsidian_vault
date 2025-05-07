@@ -1,94 +1,59 @@
 
 ### Constants of Vaerith
 - Ethology is common, but not everyone uses it, and fewer understand it. The rules are loose and flexible.
-- A lighter, more adventurous tone with space for emotion. Party is not on a quest that could dictate the fate of the universe.
+- A lighter, more adventurous tone with space for emotion. Party is not on a quest that could dictate the fate of the universe. Stakes escalate as they gain levels.
 - [[The Eye of Seraephin|The moon]] has a giant hole in it.
-- Each hex on the world map is roughly 4 miles. 
-- Vaerith is approximately 440 miles long and 176 miles across. It's latitude ranges from approximately Seattle WA to Willow Creek CA. It's Longitude is approximately where Oregon is.
+- Each hex on the world map is roughly 4 miles. Vaerith is approximately 440 miles long and 324 miles across. It's approximately. It's latitude ranges from approximately Seattle WA to Willow Creek CA. It's Longitude is approximately where Oregon is.
+	- 142560sq miles total area
+	- 95607sq miles total ocean
+	- 46953sq miles total land
+- There are ~974,000 people in Vaerith. 
+
 ### World Map
 - https://inkarnate.com/maps/edit/17003616
 
-### [[Eterology]] and Native Species Information
-**Aridia and Blisterwalk** (9% Eterologists) (Deserts)
-- Theochemy (rare)
-- Brass Dragonborn
-- Gold Dragonborn
-- Red Dragonborn
-- Fire Goliath
-- Infernal Tiefling
-- Human
-- Orc
+### Climates of Vaerith
 
-**Jade Coast, Brinetide Cay, Tempest Isle, and Sunbeat Lagoon** (18% Eterologists) (Tropics)
-- Theochemy
-- Ethegrafting (rare)
-- Blue Dragonborn
-- Bronze Dragonborn
-- Storm Goliath
-- Human
-- Orc
+| Climate          | Regions                                                       | Native Species                                                                                                                         |
+| ---------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Plains           | [[Elythra]]<br>Gulliver's Field<br>Tideshaw                   | Hill Goliath<br>Halfling<br>Human<br>Orc<br>Vulpin<br>Mapach<br>Jerbeen<br>Hedge<br>Cervan                                             |
+| Plains Mt.       | Zenith Rock<br>Sylvalis                                       | Dwarves<br>Hill Goliath<br>Stone Goliath<br>Halfling<br>Human<br>Orc<br>Vulpin<br>Mapach<br>Jerbeen<br>Hedge<br>Cervan                 |
+| Tropics          | Jade Coast<br>Brinetide Cay<br>Tempest Isle<br>Sunbeat Lagoon | Blue Dragonborn<br>Bronze Dragonborn<br>Storm Goliath<br>Human<br>Orc<br>[[Mycellimorph]]                                                |
+| Ocean            | The Great Sea                                                 |                                                                                                                                        |
+| Swamp            | Gloomcove Thicket                                             | Green Dragonborn<br>Abyssal Tiefling<br>Human<br>Orc<br>[[Mycellimorph]]                                                                 |
+| Forest           | Mistfall<br>The Driftwoods                                    | Wood Elves<br>Forest Gnomes<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig<br>[[Mycellimorph]]                           |
+| Forest Mt.       | Yoata Falls<br>Niamor Terrace                                 | Dwarves<br>Wood Elves<br>Forest Gnomes<br>Stone Goliath<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig                 |
+| Cold Plains      | The Pale Wastes                                               | Silver Dragonborn<br>White Dragonborn<br>Frost Goliath<br>Human<br>Orc<br>Chthonic Tiefling                                            |
+| Cold Forest      | Archer's Glade                                                | Silver Dragonborn<br>White Dragonborn<br>Frost Goliath<br>Human<br>Orc<br>Chthonic Tiefling                                            |
+| Cold Mt.         | Kragknull Ridge<br>Watcher's Bluff                            | Silver Dragonborn<br>White Dragonborn<br>Dwarves<br>Frost Goliath<br>Stone Goliath<br>Human<br>Orc<br>Chthonic Tiefling                |
+| Desert           | Aridia<br>Blisterwalk                                         | Brass Dragonborn<br>Gold Dragonborn<br>Red Dragonborn<br>Fire Goliath<br>Human<br>Orc<br>Infernal Tiefling                             |
+| Desert Mt.       | Windcrag Steppe<br>Maulfaust Crest<br>Redwake Ridge           | Brass Dragonborn<br>Gold Dragonborn<br>Red Dragonborn<br>Dwarves<br>Fire Goliath<br>Stone Goliath<br>Human<br>Orc<br>Infernal Tiefling |
+| Underground      | [[Underdark]]                                           | Dwarves<br>Drow<br>[[Umbra\|Umbra]]<br>[[Mycellimorph]]                                                                                                 |
+| Ether Forest     | The [[High Forest]]                                           | High Elves<br>Rock Gnomes<br>[[Mycellimorph]]                                                                                                |
+| Ether Mt.        | Crescent of Ceres                                             | High Elves<br>Rock Gnomes                                                                                                              |
+| Acid             | [[Covenul]]                                                   | Black Dragonborn<br>Copper Dragonborn                                                                                                  |
+| Floating Islands | [[Lunfall]]                                                   | Aasimar                                                                                                                                |
 
-**The Pale Wastes, and Archer's Glade** (27% Eterologists) (Arctic)
-- Theochemy
-- Symphology
-- Ethegrafting (rare)
-- Silver Dragonborn
-- White Dragonborn
-- Frost Goliath
-- Chthonic Tiefling
-- Human
-- Orc
+### Nations of the World
 
-**Mistfall, The Driftwoods, and Gloomcove Thicket** (27% Eterologists) (Forests)
-- Theochemy
-- Symphology
-- Wood Elves
-- Forest Gnome
-- Human
-- Orc
+| Name                        | Location            | Population | Primary Species                             | Government            | Eterologist% |
+| --------------------------- | ------------------- | ---------- | ------------------------------------------- | --------------------- | ------------ |
+| Province<br>of<br>Seraephin | [[Lunfall]]         | 204540     | Aasimar                                     | Fascist               | 50%          |
+| [[Arbiter's Rest]]          | [[Elythra]]         | ~1500      | Hill Goliath<br>Halflings<br>Humans<br>Orcs | Merchant<br>Republic  | 5%           |
+| Vivek                       | [[High Forest]]     |            | High Elves                                  | Classical<br>Monarchy | 33%          |
+| Yavhrim                     | [[High Forest]]     |            | Rock Gnomes                                 | Oligarchy             | 33%          |
+| [[The Coven]]               | [[Underdark]] | ~2000      | [[Umbra\|Umbra]]                        | Theocracy             | 99%          |
 
-**[[Elythra]], Gulliver's Field, and Tideshaw** (36% Eterologists) (Plains)
-- Symphology
-- Literography
-- Theochemy
-- Hill Goliath
-- Halfling
-- Human
-- Orc
+Dwarves:
+- Borhum
+- Nag Furum
+- Dagmari
+- Bem Doruhl
+- Vael'Ruun
 
-**Kragknull Ridge, Watcher's Bluff, and Niamor Terrace** (36% Eterologists) (Mountains)
-- Ethellurgy
-- Golemancy
-- Symphology
-- Dwarves
-- Drow
-- Stone Goliath
-- Human
-- Orc
-
-**[[High Forest]]** (45% Eterologists) (Enchanted Forest)
-- Bioeterology
-- Literography
-- Somnology (rare)
-- Golemancy
-- High Elves
-- Rock Gnomes
-
-**[[Covenul]]** (54% Eterologists) (Dark and Acidic)
-- Golemancy
-- Bioeterology
-- Ethegrafting
-- Black Dragonborn
-- Copper Dragonborn
-- Green Dragonborn
-- Abyssal Tiefling
-
-**[[Lunfall]]** (63% Eterologists) (Wind, Clouds, Floating Islands)
-- Golemancy
-- Theochemy
-- Aethotics
-- Bioeterology
-- Literography
-- Symphology
-- Somnology (rare)
-- Aasimar
+Elvish:
+- Stillwake
+- Vashka
+- Gaia
+- Ephen
+- Kaa
