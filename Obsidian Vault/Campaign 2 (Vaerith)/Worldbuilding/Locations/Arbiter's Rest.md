@@ -28,9 +28,6 @@ Features of Arbiter's Rest:
 	- Abandoned estates
 	- Sinkholes
 	- Sewers
-- Far Outer City--Siege
-	- Walls
-	- Anti-air weapons
 - Helmhorn Lake (outside of the walls)
 	- Docks
 	- Helmhorn Lake Watchtower
@@ -38,4 +35,4 @@ Features of Arbiter's Rest:
 - Everywhere
 	- Two Aasimar law enforcers searching for Azrael. 
 	- Something involving Aethotics for Maje
-
+	- Bird that keeps taunting Rhulk

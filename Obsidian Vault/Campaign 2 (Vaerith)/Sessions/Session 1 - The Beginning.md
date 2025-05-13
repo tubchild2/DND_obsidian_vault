@@ -15,10 +15,17 @@ Hooks (plot, emotion, and finance)
 - **Plot.** Some strange men have been spotted around town. They're Aasimar enforcers that are hunting [[PCs Vaerith|Azrael]]. They're covert assassins that can't risk full public confrontation in the town without backup. But... they don't need it.
 - **Plot + Finance.** An important Literographer went missing 28 miles northwest, somewhere in the mountains of Sylvalis. He was searching for something. Maybe he found what he was looking for: an abandoned outpost supposedly containing a map to the location of the [[Dream Machine|DM-77]], as well as a good amount of cash.
 - **Emotion.** There's a little boy who keeps following everyone around. He's amazed by everyone and praises them constantly. He's very trusting, stupid, and vulnerable. He wants to fight and go on adventures. In other words, he's going to get himself in danger. He can die, so don't let him get hurt!
-- **Emotion.** There is a bird that keeps taunting [[PCs Vaerith|Creeble]]. He won't stop.
+- **Emotion.** There is a bird that keeps taunting [[PCs Vaerith|Rhulk]]. He won't stop.
 - **Plot.** [[The Eye of Seraephin|The moon]] has a very large hole in it.
+
+
+
+
+- [ ] You telling me a shrimp fried this rice?
 
 Plot connections:
 - A+B. The Aasimar enforcers will burn down the town which would destroy their only lead.
 - A+C. The Aasimar enforcers manipulate the young boy to get information.
 - B+C. The little boy is interested in going on the quest. The reason he's so adventurous is because the lost literographer was his father. He thinks he's OK, and because of his absence he's the man of the house despite being 12. He's trying to step up and be a man, but he's a kid so he doesn't know what that means.
+
+### INTRODUCTION

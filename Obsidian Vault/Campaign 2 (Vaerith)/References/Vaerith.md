@@ -14,25 +14,25 @@
 
 ### Climates of Vaerith
 
-| Climate          | Regions                                                       | Native Species                                                                                                                         |
-| ---------------- | ------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Plains           | [[Elythra]]<br>Gulliver's Field<br>Tideshaw                   | Hill Goliath<br>Halfling<br>Human<br>Orc<br>Vulpin<br>Mapach<br>Jerbeen<br>Hedge<br>Cervan                                             |
-| Plains Mt.       | Zenith Rock<br>Sylvalis                                       | Dwarves<br>Hill Goliath<br>Stone Goliath<br>Halfling<br>Human<br>Orc<br>Vulpin<br>Mapach<br>Jerbeen<br>Hedge<br>Cervan                 |
-| Tropics          | Jade Coast<br>Brinetide Cay<br>Tempest Isle<br>Sunbeat Lagoon | Blue Dragonborn<br>Bronze Dragonborn<br>Storm Goliath<br>Human<br>Orc<br>[[Mycellimorph]]                                                |
-| Ocean            | The Great Sea                                                 |                                                                                                                                        |
-| Swamp            | Gloomcove Thicket                                             | Green Dragonborn<br>Abyssal Tiefling<br>Human<br>Orc<br>[[Mycellimorph]]                                                                 |
-| Forest           | Mistfall<br>The Driftwoods                                    | Wood Elves<br>Forest Gnomes<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig<br>[[Mycellimorph]]                           |
-| Forest Mt.       | Yoata Falls<br>Niamor Terrace                                 | Dwarves<br>Wood Elves<br>Forest Gnomes<br>Stone Goliath<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig                 |
-| Cold Plains      | The Pale Wastes                                               | Silver Dragonborn<br>White Dragonborn<br>Frost Goliath<br>Human<br>Orc<br>Chthonic Tiefling                                            |
-| Cold Forest      | Archer's Glade                                                | Silver Dragonborn<br>White Dragonborn<br>Frost Goliath<br>Human<br>Orc<br>Chthonic Tiefling                                            |
-| Cold Mt.         | Kragknull Ridge<br>Watcher's Bluff                            | Silver Dragonborn<br>White Dragonborn<br>Dwarves<br>Frost Goliath<br>Stone Goliath<br>Human<br>Orc<br>Chthonic Tiefling                |
-| Desert           | Aridia<br>Blisterwalk                                         | Brass Dragonborn<br>Gold Dragonborn<br>Red Dragonborn<br>Fire Goliath<br>Human<br>Orc<br>Infernal Tiefling                             |
-| Desert Mt.       | Windcrag Steppe<br>Maulfaust Crest<br>Redwake Ridge           | Brass Dragonborn<br>Gold Dragonborn<br>Red Dragonborn<br>Dwarves<br>Fire Goliath<br>Stone Goliath<br>Human<br>Orc<br>Infernal Tiefling |
-| Underground      | [[Underdark]]                                           | Dwarves<br>Drow<br>[[Umbra\|Umbra]]<br>[[Mycellimorph]]                                                                                                 |
-| Ether Forest     | The [[High Forest]]                                           | High Elves<br>Rock Gnomes<br>[[Mycellimorph]]                                                                                                |
-| Ether Mt.        | Crescent of Ceres                                             | High Elves<br>Rock Gnomes                                                                                                              |
-| Acid             | [[Covenul]]                                                   | Black Dragonborn<br>Copper Dragonborn                                                                                                  |
-| Floating Islands | [[Lunfall]]                                                   | Aasimar                                                                                                                                |
+| Climate          | Regions                                                       | Native Species                                                                                                                                        |
+| ---------------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Plains           | [[Elythra]]<br>Gulliver's Field<br>Tideshaw                   | Hill Goliath<br>Halfling<br>Human<br>Orc<br>Vulpin<br>Mapach<br>Jerbeen<br>Hedge<br>Cervan                                                            |
+| Plains Mt.       | Zenith Rock<br>Sylvalis                                       | Dwarves<br>Hill Goliath<br>Stone Goliath<br>Halfling<br>Human<br>Orc<br>Vulpin<br>Mapach<br>Jerbeen<br>Hedge<br>Cervan                                |
+| Tropics          | Jade Coast<br>Brinetide Cay<br>Tempest Isle<br>Sunbeat Lagoon | Blue Dragonborn<br>Bronze Dragonborn<br>Storm Goliath<br>Human<br>Orc<br>[[Mushi]]                                                                    |
+| Ocean            | The Great Sea                                                 |                                                                                                                                                       |
+| Swamp            | Gloomcove Thicket                                             | Green Dragonborn<br>Abyssal Tiefling<br>Human<br>Orc<br>[[Mushi]]                                                                                     |
+| Forest           | Mistfall<br>The Driftwoods                                    | Wood Elves<br>Forest Gnomes<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig<br>[[Mushi]]                                               |
+| Forest Mt.       | Yoata Falls<br>Niamor Terrace                                 | Dwarves<br>Wood Elves<br>Forest Gnomes<br>Stone Goliath<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig                                |
+| Cold Plains      | The Pale Wastes                                               | Silver Dragonborn<br>White Dragonborn<br>Frost Goliath<br>Human<br>Orc<br>Chthonic Tiefling                                                           |
+| Cold Forest      | Archer's Glade                                                | Silver Dragonborn<br>White Dragonborn<br>Frost Goliath<br>Human<br>Orc<br>Chthonic Tiefling                                                           |
+| Cold Mt.         | Kragknull Ridge<br>Watcher's Bluff                            | Silver Dragonborn<br>White Dragonborn<br>Dwarves<br>Frost Goliath<br>Stone Goliath<br>Human<br>Orc<br>Chthonic Tiefling                               |
+| Desert           | Aridia<br>Blisterwalk                                         | Brass Dragonborn<br>Gold Dragonborn<br>Red Dragonborn<br>Fire Goliath<br>Human<br>Orc<br>Infernal Tiefling<br>[[Ashkara]]                             |
+| Desert Mt.       | Windcrag Steppe<br>Maulfaust Crest<br>Redwake Ridge           | Brass Dragonborn<br>Gold Dragonborn<br>Red Dragonborn<br>Dwarves<br>Fire Goliath<br>Stone Goliath<br>Human<br>Orc<br>Infernal Tiefling<br>[[Ashkara]] |
+| Underground      | [[Underdark]]                                                 | Dwarves<br>Drow<br>[[Umbra\|Umbra]]<br>[[Mushi]]                                                                                                      |
+| Ether Forest     | The [[High Forest]]                                           | High Elves<br>Rock Gnomes<br>[[Mushi]]                                                                                                                |
+| Ether Mt.        | Crescent of Ceres                                             | High Elves<br>Rock Gnomes                                                                                                                             |
+| Acid             | [[Covenul]]                                                   | Black Dragonborn<br>Copper Dragonborn<br>[[Ashkara]]                                                                                                  |
+| Floating Islands | [[Lunfall]]                                                   | Aasimar                                                                                                                                               |
 
 ### Nations of the World
 
