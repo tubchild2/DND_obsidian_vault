@@ -28,10 +28,10 @@ You are permanently blind, but you can see via a cloud of continuously yet subco
 - You can see through and around small cracks
 
 **Regrowth**
-Once per long rest, as an action, regain a number of hit points equal to a number of d8s equal to your proficiency bonus.
+Once per long rest, as an action, regain a number of hit points equal to double your level. In forests, rainforests, grottos, or other locations in which fungal growth is common (nutrient dense, damp, warm) the healing dice increases to a number of d4s equal to your level.
 
 **Rooted Rest**
-Instead of sleeping, you enter a dormant, inert state in a fixed spot for 4-6 hours to regain strength and restore abilities. You are fully conscious during this time.
+Instead of sleeping, you enter a dormant, inert state in a fixed spot for 4 or 6 hours to regain strength and restore abilities. You are fully conscious during this time.
 
 ---
 ### Appearance

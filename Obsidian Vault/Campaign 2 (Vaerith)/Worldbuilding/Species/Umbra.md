@@ -28,7 +28,7 @@ As an action, Umbra can create a number of floating hands made of dust and loose
 | 17-20 | +6                    | 6     | 60                       | 200                | 1d6 + 1                 | 6d6 + 6                          |
 
 **Umbral Meditation**
-Once per short rest, Umbra can meditate to unlock their full potential. They enter this trance with an action. It lasts for the following 3 turns (ending early if you're hit, or if you end it with a bonus action) and it grants the following effects:
+Once per short rest, Umbra can meditate to unlock their full potential. They enter this trance with an action. It lasts for the following 3 turns (ending early if you're hit, moved, or if you end it with a bonus action) and it grants the following effects:
 - **Immobile.** You cannot move or be moved, take actions, or take bonus actions. The only thing you can do is use telekinesis, or end the meditation. All attacks rolls against you have advantage, as your awareness is completely withdrawn.
 - **Fragile.** Your body becomes unstable and exposed. You are vulnerable to physical damage (double damage from bludgeoning, piercing, and slashing).
 - **Dangerous.** While in this trance, your telekinetic abilities are supercharged. You gain double the number of hands, can lift twice the weight per hand, and your maximum distance is doubled.

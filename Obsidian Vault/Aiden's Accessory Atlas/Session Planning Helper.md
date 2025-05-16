@@ -1,3 +1,6 @@
+**Creating Cities**
+	Cities should be simple, and distinctly themed with a visual component, that's gameplay first. It should be filled with cool themed experiences that appeal to your players (not all shops). Don't worry too much about details or realism unless they relate to gameplay.
+
 **Objectives**:
 - Pursue
 - Acquire
@@ -42,13 +45,14 @@
 	- Mushroom Forest
 	- Collapsed Mine
 	- Underground River
+	- Sewer System
 - Forest
 	- Ancient Grove
 	- Dark Thicket
 	- Overgrown Swamp
 	- Canopy Walk
 	- Eagle's Nest
-- High Forest
+- [[High Forest]]
 	- Tower Library
 	- Golem Industrial Center
 	- Hidden Encampments

@@ -1,13 +1,19 @@
 
 ### Constants of Vaerith
 - Ethology is common, but not everyone uses it, and fewer understand it. The rules are loose and flexible.
-- A lighter, more adventurous tone with space for emotion. Party is not on a quest that could dictate the fate of the universe. Stakes escalate as they gain levels.
 - [[The Eye of Seraephin|The moon]] has a giant hole in it.
 - Each hex on the world map is roughly 4 miles. Vaerith is approximately 440 miles long and 324 miles across. It's approximately. It's latitude ranges from approximately Seattle WA to Willow Creek CA. It's Longitude is approximately where Oregon is.
 	- 142560sq miles total area
 	- 95607sq miles total ocean
 	- 46953sq miles total land
 - There are ~974,000 people in Vaerith. 
+
+### The Tone
+- Peaceful. Doesn't involve the fate of the world.
+- Fantastical. Industrial Era Adventure Time.
+- Sincere. Doesn't poke fun at itself.
+- Light. Friendship, family, love, kindness, selflessness, self-respect.
+- Emotional. Doesn't shy from making people feel things.
 
 ### World Map
 - https://inkarnate.com/maps/edit/17003616
@@ -21,8 +27,8 @@
 | Tropics          | Jade Coast<br>Brinetide Cay<br>Tempest Isle<br>Sunbeat Lagoon | Blue Dragonborn<br>Bronze Dragonborn<br>Storm Goliath<br>Human<br>Orc<br>[[Mushi]]                                                                    |
 | Ocean            | The Great Sea                                                 |                                                                                                                                                       |
 | Swamp            | Gloomcove Thicket                                             | Green Dragonborn<br>Abyssal Tiefling<br>Human<br>Orc<br>[[Mushi]]                                                                                     |
-| Forest           | Mistfall<br>The Driftwoods                                    | Wood Elves<br>Forest Gnomes<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig<br>[[Mushi]]                                               |
-| Forest Mt.       | Yoata Falls<br>Niamor Terrace                                 | Dwarves<br>Wood Elves<br>Forest Gnomes<br>Stone Goliath<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig                                |
+| Forest           | Mistfall<br>The Driftwoods                                    | Wood Elves<br>Forest Gnomes<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig<br>[[Mushi]]<br>Rattatosk                                  |
+| Forest Mt.       | Yoata Falls<br>Niamor Terrace                                 | Dwarves<br>Wood Elves<br>Forest Gnomes<br>Stone Goliath<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig<br>Rattatosk                   |
 | Cold Plains      | The Pale Wastes                                               | Silver Dragonborn<br>White Dragonborn<br>Frost Goliath<br>Human<br>Orc<br>Chthonic Tiefling                                                           |
 | Cold Forest      | Archer's Glade                                                | Silver Dragonborn<br>White Dragonborn<br>Frost Goliath<br>Human<br>Orc<br>Chthonic Tiefling                                                           |
 | Cold Mt.         | Kragknull Ridge<br>Watcher's Bluff                            | Silver Dragonborn<br>White Dragonborn<br>Dwarves<br>Frost Goliath<br>Stone Goliath<br>Human<br>Orc<br>Chthonic Tiefling                               |

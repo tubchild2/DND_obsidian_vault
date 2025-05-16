@@ -3,7 +3,6 @@ Styxas
 - [ ] Artificer was a bad choice for Ratchet.
 
 [[Character Creation]]
-- [ ] Incorporate character worldbuilding into the wiki.
 - [ ] Figure out what you want to do with each character.
 
 [[Vaerith]]

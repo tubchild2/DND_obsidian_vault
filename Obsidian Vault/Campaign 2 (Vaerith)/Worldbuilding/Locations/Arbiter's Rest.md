@@ -32,7 +32,15 @@ Features of Arbiter's Rest:
 	- Docks
 	- Helmhorn Lake Watchtower
 	- Cove
-- Everywhere
-	- Two Aasimar law enforcers searching for Azrael. 
-	- Something involving Aethotics for Maje
-	- Bird that keeps taunting Rhulk
+
+### Upper City
+Helmhorn Keep
+- Looming stone castle
+- Everything is tall dark and stone
+- A little gothic
+Noble's Estates
+- A little gothic
+- Standard rich people stuff
+War Memorial
+- Statue of a man with no hand wielding a bow
+- Evren Wulf
