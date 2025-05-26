@@ -13,4 +13,5 @@
 - [ ] Laptop Charger
 - [ ] PHB
 - [ ] MM
+- [ ] Snacks
 - [ ] A Good Attitude

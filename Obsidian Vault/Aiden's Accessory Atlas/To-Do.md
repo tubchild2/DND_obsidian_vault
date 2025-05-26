@@ -3,8 +3,6 @@ Worldbuilding
 - [[Advanced Eterology]]
 Arc
 - Plan for Samkin
-Sessions
-- Session 1 Battle Map
 
 #### [[Arcohaem]]
 Worldbuilding
