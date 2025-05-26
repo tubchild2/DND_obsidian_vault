@@ -3,7 +3,7 @@
 - [ ] Reread Rules
 - [ ] Reread DM's Guide
 **Packing List**
-- [ ] Character Sheets (?)
+- [ ] Character Sheets (?) (maybe more!)
 - [ ] Dice
 - [ ] DM Screen
 - [ ] Dice Tray
@@ -13,5 +13,4 @@
 - [ ] Laptop Charger
 - [ ] PHB
 - [ ] MM
-- [ ] DMG
 - [ ] A Good Attitude

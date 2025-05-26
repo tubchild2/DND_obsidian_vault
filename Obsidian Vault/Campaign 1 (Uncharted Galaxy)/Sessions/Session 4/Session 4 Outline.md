@@ -18,8 +18,6 @@ Combat Encounter #1
 	- Go to "LOSS" section
 ![[Bradford Galling Statblock.png]]
 
-
-
 Drawing Room description:
 - You enter a private living room that's been emptied out. It's dirty and covered in wires and machine parts. At the far end lies [[Mano di Dio|the Mano di Dio]] hooked up to some kind of machine. It looks like it's charging.
 - In front of it is a slouched figure with a complex crown made up of 20 horns. It's wearing a dark regal outfit, and is standing weakly in the distance, operating the machine.

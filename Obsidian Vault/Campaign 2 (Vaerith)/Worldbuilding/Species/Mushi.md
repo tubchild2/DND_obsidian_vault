@@ -11,7 +11,7 @@ This species due to its unique fungal nature is not like any normal animal and i
 ### DND Abilities
 **Traits**
 - Age. They live indefinitely if fed and watered. Especially if kept in damp, nutrient-rich environments.
-- Size. Small or medium humanoids. They vary in appearance; some are stocky mushroom-capped forms and some are wiry hyphae-wrapped figures.
+- Size. Small or medium humanoids. 
 - Speed. Your base walking speed is 30ft.
 - Weight. You weigh about 16 pounds per foot of height.
 - Dense. +2 constitution, -1 intelligence.
@@ -21,14 +21,14 @@ This species due to its unique fungal nature is not like any normal animal and i
 - Proficiencies. You are proficient in perception.
 
 **Spore Sight**
-You are permanently blind, but you can see via a cloud of continuously yet subconsciously emitted spores. It functions similarly to LiDAR; the spores map your surroundings in a 100ft (20 tile) radius by detecting surfaces they touch, allowing you to perceive shapes, distances, and movement, but not text, color, texture, or shadows. The spores can drift around objects, allowing you to perceive your entire environment at once. You can see perfectly fine in the dark. In game, this grants you:
-- Advantage on all sight related checks within 100ft.
-- Disadvantages on all sight related checks beyond 100ft, or in environments not suitable for spores (too hot, too cold, water, acid, strong wind.)
+You are permanently blind, but you can see via a cloud of continuously yet subconsciously emitted spores. It functions similarly to LiDAR; the spores map your surroundings in a 30ft (6 tile) radius by detecting surfaces they touch, allowing you to perceive shapes, distances, and movement, but not text, color, texture, or shadows. The spores can drift around objects, allowing you to perceive your entire environment at once. You can see perfectly fine in the dark. In game, this grants you:
+- Advantage on all sight related checks within 30ft. You lose this ability in environments not suitable for spores (too hot, too cold, water, acid, strong wind)
 - You can see perfectly in the dark.
 - You can see through and around small cracks
 
 **Regrowth**
-Once per long rest, as an action, regain a number of hit points equal to double your level. In forests, rainforests, grottos, or other locations in which fungal growth is common (nutrient dense, damp, warm) the healing dice increases to a number of d4s equal to your level.
+Once per long rest, as an action, regain a number of hit points equal to (2 x level) + constitution modifier. 
+If you finish a long rest in a forest, rainforest, a grotto, or other location in which fungal growth is common (nutrient dense, damp, warm) you gain two uses instead of the typical one.  
 
 **Rooted Rest**
 Instead of sleeping, you enter a dormant, inert state in a fixed spot for 4 or 6 hours to regain strength and restore abilities. You are fully conscious during this time.

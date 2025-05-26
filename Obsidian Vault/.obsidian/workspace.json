@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7e44bd4c2e69b3c",
+        "id": "6a54a0f72cb2974b",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
-            "id": "16c28df88c4a0037",
+            "id": "b31e48194768c43f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,59 +20,8 @@
               "icon": "lucide-file",
               "title": "To-Do"
             }
-          },
-          {
-            "id": "1500e986a1814849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign 2 (Vaerith)/Sessions/Session 1 - The Beginning.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 1 - The Beginning"
-            }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "75bd23c8e386a788",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "2b8f33d0223fdfca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign 2 (Vaerith)/References/Vaerith.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vaerith"
-            }
-          },
-          {
-            "id": "1751cd2ebe95927a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign 2 (Vaerith)/References/PCs Vaerith.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "PCs Vaerith"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -141,22 +89,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7946af4dae5739d8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "21fec4d8354d0936",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accesories/To-Do.md",
+                "file": "Campaign 2 (Vaerith)/References/PCs Vaerith.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To-Do"
+              "title": "Backlinks for PCs Vaerith"
             }
           },
           {
@@ -175,41 +113,46 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Campaign 2 (Vaerith)/Sessions/Session 1 - The Beginning.md",
+                "file": "Aiden's Accessory Atlas/To-Do.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 1 - The Beginning"
+              "title": "Outgoing links from To-Do"
             }
           },
           {
-            "id": "0538de0749272bdc",
+            "id": "25bfdb41e9da4a76",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "5118995533a272fb",
+            "id": "37ec5b7720b7acbc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worldbuilding/References/Catalogues/Weapon Catalogue.md"
+                "file": "Vaerith One Shot.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Weapon Catalogue"
+              "title": "Outline of Vaerith One Shot"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,45 +168,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1500e986a1814849",
+  "active": "b31e48194768c43f",
   "lastOpenFiles": [
-    "amateur eterologist.png",
+    "Aiden's Accessory Atlas/Packing List.md",
+    "Aiden's Accessory Atlas/To-Do.md",
+    "Campaign 2 (Vaerith)/Sessions/Session 1 (outline).md",
+    "Campaign 2 (Vaerith)/References/Vaerith.md",
     "Campaign 2 (Vaerith)/References/PCs Vaerith.md",
     "Campaign 2 (Vaerith)/Sessions/Session 1 - The Beginning.md",
-    "Campaign 2 (Vaerith)/References/Vaerith.md",
     "Aiden's Accessory Atlas/Session Planning Helper.md",
     "Campaign 2 (Vaerith)/Worldbuilding/Locations/Arbiter's Rest.md",
-    "Campaign 2 (Vaerith)/Worldbuilding/Things/Dream Machine.md",
-    "Aiden's Accessory Atlas/DM's Guide.md",
-    "Aiden's Accessory Atlas/To-Do.md",
-    "Campaign 2 (Vaerith)/Worldbuilding/Species/Mushi.md",
-    "Campaign 2 (Vaerith)/Worldbuilding/Groups/Province of Seraephin.md",
-    "Aiden's Accessory Atlas/Aiden's Code of Conduct.md",
-    "Aiden's Accessory Atlas/Links to References.md",
     "Campaign 2 (Vaerith)/Worldbuilding/Species/Umbra.md",
-    "Rhulk.md",
+    "Vaerith One Shot.md",
+    "Campaign 1 (Uncharted Galaxy)/Sessions/Session 4/Session 4 Outline.md",
+    "Campaign 2 (Vaerith)/Pictures/Helmhorn Regional.png",
+    "Campaign 2 (Vaerith)/References/World History.md",
+    "Campaign 2 (Vaerith)/Worldbuilding/Groups/Province of Seraephin.md",
+    "Campaign 2 (Vaerith)/Worldbuilding/Species/Mushi.md",
+    "Pasted image 20250522180611.png",
+    "Campaign 1 (Uncharted Galaxy)/Sessions/Session Planning.md",
+    "Maje.md",
+    "Pavement.md",
+    "Campaign -2 (Styxas)/Ratchet Respec.md",
+    "Campaign -2 (Styxas)/Pasted image 20250215195717.png",
+    "Aiden's Accessory Atlas/Wish list.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B2.md",
+    "Campaign 1 (Uncharted Galaxy)/Worldbuilding/Places/Vivimus/Wyrm's Rest/Wyrm's Rest Bunker B3.md",
+    "B-Game Concepts/High Stakes Librarian/Stat Tracking System (HSL).md",
+    "Aiden's Accessory Atlas/DM's Guide.md",
+    "Campaign 2 (Vaerith)/References/Eterology.md",
+    "Campaign 3 (Arcohaem)/Arcohaem.md",
+    "B-Game Concepts/Talekin.md",
+    "Campaign -2 (Styxas)/Spin Sheet.pdf",
+    "Campaign 2 (Vaerith)/Pictures/Helmhorn Regional.jpg",
+    "Campaign 2 (Vaerith)/Pictures/amateur eterologist.png",
+    "Untitled 1",
+    "Campaign 3 (Arcohaem)",
     "Campaign 2 (Vaerith)/Pictures/Void Soul.jpg",
     "Campaign 2 (Vaerith)/Pictures/void soul 2.png",
-    "Campaign 2 (Vaerith)/Worldbuilding/Species/Void Soul.md",
     "Campaign 2 (Vaerith)/Pictures/void soul.png",
-    "Campaign -2 (Styxas)/Ratchet Gulliver (PC).md",
-    "Campaign 2 (Vaerith)/References/A.E. (TEST) 2.md",
-    "Campaign 2 (Vaerith)/Worldbuilding/Species/Ashkara.md",
-    "Drax.md",
     "Campaign 2 (Vaerith)/Pictures/Ashkara 4.png",
-    "Vaerith One Shot.md",
     "One Shot 1 (Sylvalis)",
     "Campaign 2 (Vaerith)/Pictures/Ashkara 2.jpg",
-    "Campaign 2 (Vaerith)/Pictures/Umbra 3.jpg",
-    "Campaign 2 (Vaerith)/Pictures/Umbra 2.jpg",
-    "Campaign 2 (Vaerith)/Pictures/Umbra 1.png",
-    "Campaign 2 (Vaerith)/Pictures/Umbra.png",
-    "Campaign 2 (Vaerith)/Worldbuilding/NPCs/The Eye of Seraephin.md",
-    "Campaign 2 (Vaerith)/Pictures/Moon temporary.jpg",
-    "Campaign 2 (Vaerith)/Worldbuilding/Things/Moonwrought.md",
-    "Campaign 2 (Vaerith)/References/World History.md",
-    "Campaign 2 (Vaerith)/Worldbuilding/Locations/Underdark.md",
-    "Campaign 2 (Vaerith)/References/Eterology.md",
     "Campaign 2 (Vaerith)/Worldbuilding/Species",
     "Campaign 2 (Vaerith)/PCs",
     "B-Game Concepts/High Stakes Librarian",
@@ -271,9 +217,6 @@
     "Campaign 1 (Uncharted Galaxy)/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
     "Campaign -3",
     "B-Game Concepts",
-    "Campaign 2 (Vaerith)/PCs",
-    "Campaign 2 (Vaerith)/References/Welcome to Vaerith.pdf",
-    "Campaign -2 (Styxas)/Spin Sheet.pdf",
     "PANDORA SCRIPT OVERVIEW.canvas",
     "PANDORA DND Campaign.canvas",
     "Supply Chain FitnessApp(tm).canvas",

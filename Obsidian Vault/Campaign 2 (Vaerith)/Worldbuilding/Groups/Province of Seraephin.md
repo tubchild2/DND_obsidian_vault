@@ -83,6 +83,7 @@
 -        Ceres’ regime uses eyes, wings, heads, children, rings, books, and bows as common symbols.
 -        The architecture is like dark academia + steampunk + old New York. They make frequent usage of towers, gardens, libraries, relief sculptures, grand windows, and airships.
 -        The formal greeting is a hand on the heart, up to the forehead, before a quick bow in one continuous motion.
+-        They commonly use duality as an aesthetic to represent the sun and [[The Eye of Seraephin|the moon]].
 
 **Social Structure**
 1. Seraephin (the Sun)

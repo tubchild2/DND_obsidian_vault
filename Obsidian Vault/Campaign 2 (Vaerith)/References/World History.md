@@ -1,11 +1,13 @@
 ### History
+~150,000,000 BCE
+- The dream begins.
+
 ~66,000,000 BCE
 - A fragment of [[The Eye of Seraephin|the moon]] (later named "[[Moonwrought]]" by native Aasimar) lands and wipes out the dinosaurs. [[Moonwrought]] landed in northwestern [[Vaerith]], creating a massive crater ([[Lunfall]] and [[Covenul]]), and the Crescent of Ceres. It also brought with it [[Umbra]], which were buried near the center of the earth ([[Underdark]]).
 - [[Moonwrought]] spreads its Ether potent organic matter to the nearby plants, which then transfer to the native animals. This creates the [[High Forest]], and is the source of all Ether potency in plants and animals.
 
 ~4,000 BCE
-- Adam, Eve, and their species counterparts are created throughout the world. 
-- They sin, resulting in the greater loss of perfection.
+- Most species form from nothing. They begin the dream
 
 ~3,500 BCE
 - Basic [[Eterology]] is discovered.

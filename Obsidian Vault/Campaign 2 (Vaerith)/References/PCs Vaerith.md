@@ -11,40 +11,13 @@ aliases:
   - Pavement
   - Dhrakz
 ---
+ 
 
-
-| Player | Name                   | Species          | Class     | Gimmick                                                                                | Goal                                                    | Theme                            |
-| ------ | ---------------------- | ---------------- | --------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------------------- |
-| Xavi   | Azrael<br>Vellorin     | Aasimar          | Cleric    | Antiestablishmentarianism<br>Religious Code<br>Neutral Good                            | Power<br>Revenge<br>Atonement<br>Start a Religion       | *City of Tears*                  |
-| Luca   | Maje                   | Jerbeen          | Artificer | Fried Rice Ordering                                                                    | [[Dream Machine]]<br>Remember Past                      | *Le Mans 66*                     |
-| London | Rhulk<br>Umbrex        | [[Umbra\|Umbra]] | Scholar   | Cowardly<br>Schizophrenic<br>Overconfident                                             | Attain Power<br>Research [[Lunfall]]<br>Terrorize Elves | *What Am I*                      |
-| Skyler | Dhrakz'gulth<br>(Drax) | [[Ashkara]]      | Paladin   | Honorable<br>Experienced<br>Chaotic Neutral/bad methods<br>Practical<br>Loves battle   | Money<br>Revenge<br>Reinstatement                       | *Leaving Caladan*                |
-| Gray   | Pavement               | [[Mushi]]        | Ranger    | Business Mindset<br>Kind<br>Fears and Knows Disease<br>Dislikes Ether<br>Plush Cow Hat | Acquire Money<br>Start Company<br>Cows<br>              | *Bloopin*                        |
-| JJ     | Samkin                 | Rattatosk        | Ranger    |                                                                                        |                                                         | TEMPORARY<br>*Fractured Shrines* |
-33/36
-
-Azrael
-- I want to give him means of acquiring power
-- I want to give him people to preach to
-- I want to give him people who hate him for what he did
-
-Maje
-- I want to give him absolutely no fried rice until the end
-- I want to set him on a quest to acquire the [[Dream Machine|DM-77]]
-
-Rhulk
-- I want to give him reoccurring animals that taunt him
-- I want to motivate him by taking his cool rock
-- I want to give him means of acquiring more power
-- I want to set him on a quest to terrorize Elves
-
-Dhrakz
-- I want to offer him means of acquiring money
-- I want to set him on a quest to get revenge on the Aasimar and to find his brother
-
-Pavement
-- I want to offer him means of acquiring money
-- I want to offer him business deals that are risky
-- I want to place him in locations with cows
-
-Samkin
+| Player | Name                   | Species          | Class     | Gimmick                                                                            | Goal                                                        | Theme             |
+| ------ | ---------------------- | ---------------- | --------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------- | ----------------- |
+| Xavi   | Azrael<br>Vellorin     | Aasimar          | Cleric    | Antiestablishmentarianism<br>Religious Code<br>Neutral Good<br>                    | Revenge<br>Atonement<br>Start a Religion                    | *City of Tears*   |
+| Luca   | Maje                   | Jerbeen          | Artificer | Sensitive<br>Perceptive<br>Forgetful<br>Maybe a little naïve<br>Heart of the Group | [[Dream Machine]]<br>Cook the finest fried rice             | *Le Mans 66*      |
+| London | Rhulk<br>Umbrex        | [[Umbra\|Umbra]] | Scholar   | Cowardly<br>Schizophrenic<br>Respects Life                                         | Attain Power<br>Research [[Lunfall]]<br>Terrorize Elves     | *What Am I*       |
+| Skyler | Dhrakz'gulth<br>(Drax) | [[Ashkara]]      | Paladin   | Honorable<br>Experienced<br>Practical<br>Loves battle                              | Money<br>Revenge<br>Reinstatement                           | *Leaving Caladan* |
+| Gray   | Pavement               | [[Mushi]]        | Fighter   | Business Mindset<br>Kind<br>Loyal<br>Overconfident<br>Straight Man of the Group    | Start a Large Weapons Company<br><br>Craft and Sell Weapons | *Icosa*           |
+| JJ     | Samkin                 | Rattatosk        | Ranger    | Obsessed with Fishing<br>Wild Card of the Group                                    | Catch Best Fish                                             | *Greenpath*       |
