@@ -16,6 +16,7 @@ You can use my world, but whatever story you intend to tell has to follow two ba
 
 **#6 New Recruits**
 New players can join, but they have to be voted in by the majority of the group.
+
 ### Punishments:
 I'm not firm enough with my punishments, so your punishments will be collectively decided by the entire group. Whatever they decide will go into instant effect. If you keep violating the rules, though, you'll be asked to leave. 
 

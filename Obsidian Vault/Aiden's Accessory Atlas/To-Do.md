@@ -1,27 +1,17 @@
 #### [[Vaerith]]
 Worldbuilding
 - [[Advanced Eterology]]
-Arc
-- Plan for Samkin
+Session 2:
+Sessions to Come
+- Hunter and Bentley's Role
 
 #### [[Arcohaem]]
 Worldbuilding
-- World History (limited)
-- Campaign Heart
-- Factions
+- Character's personalities
 Sessions
-- Session 1 Outline
-- Session 1 Description
-- Session 1 Music and Polish
-- Session 1 Scheduling
+- Powerpoint
+Session 1
+- Quest plan elaboration
 
-### Jaunty Quest
-Worldbuilding
-- World History (limited)
-- Campaign Heart
-- Factions
-Sessions 
-- Session 1 Outline
-- Session 1 Description
-- Session 1 Music and Polish
-- Session 1 Scheduling
+https://www.youtube.com/watch?v=_VwupNz4IiM
+

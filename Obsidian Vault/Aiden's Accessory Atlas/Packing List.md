@@ -1,7 +1,8 @@
 **Pre-packing List**
 - [ ] Update Github Repository
-- [ ] Reread Rules
-- [ ] Reread DM's Guide
+- [ ] Reread [[Aiden's Code of Conduct]]
+- [ ] Reread [[DM's Guide]]
+- [ ] Reread Campaign Heart
 **Packing List**
 - [ ] Character Sheets (?) (maybe more!)
 - [ ] Dice
@@ -14,4 +15,5 @@
 - [ ] PHB
 - [ ] MM
 - [ ] Snacks
+- [ ] Mouse
 - [ ] A Good Attitude

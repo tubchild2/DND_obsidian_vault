@@ -1,6 +1,5 @@
 ---
-aliases:
-  - The Lunfall Region
+aliases: []
 ---
 ![[Lunfall Nature.jpg]]
 ### Description

@@ -78,6 +78,7 @@ AC: 14 (chain shirt)
 AC: 16 (chain shirt + shield)
 
 Hit Die: 2d8 +1d6
+MAX HP: 26
 HP: 26
 
 Speed: 30ft
@@ -150,6 +151,18 @@ Ether Attack Bonus: +7
 - 3 Days of Water
 - 30lbs of Eathyst
 - Map of Styxas
+- Illuminator's Tattoo. You can write things with your finger as if it were an ink pen. You can make it invisible to everyone but one creature as an action.
+- 340 gold.
+- Book collection:
+	- Monster Manual of Styxas
+	- Monster Manual of Delapagos
+	- History and Teachings of the Folcrinthian
+	- Coups and How They Happen (contains information on government repossession)
+	- Pesticides or I Die
+	- Intro to Spins--I Want to Spin
+	- Adopting for Dummies
+	- Naval Navigation 101
+	- The History of Styxas--A Revisionist's Viewpoint
 
 
 ---

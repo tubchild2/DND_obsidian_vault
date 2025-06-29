@@ -1,3 +1,6 @@
+---
+aliases: []
+---
 # Basics of Eterology
 **Origins of Eterology**
 - Power in [[Vaerith]] comes not from strength, not from wealth, and not from armies, but from the knowledge of Ether. Dating back to 3500 BCE, eterology is one of the oldest and most volatile scientific disciplines. While its study is common, not everyone uses it—and those who do use it struggle to understand it.
@@ -5,7 +8,7 @@
 
 **Ether and the Nature of Reality**
 - But what is Ether? Ether is a particle that contains a soup of compressed atoms that have been charged with an idea. Whenever anything of any intelligence thinks, ether particles form as a byproduct. All ether particles are charged with the thought that formed them.
-- But how is this possible? Ether exists due to the dreamlike nature of Vaerith. Instead of the world operating by a strict set of physical laws, it’s more like a shared dream, where each participant has their own subtle impact on it. Life produces ether as a manifestation of this influence.
+- But how is this possible? Ether exists due to the dreamlike nature of [[Vaerith]]. Instead of the world operating by a strict set of physical laws, it’s more like a shared dream, where each participant has their own subtle impact on it. Life produces ether as a manifestation of this influence.
 - But unfortunately, the laws of physics are still in effect. Ether can’t exist! Its very nature violates the laws of existence! So, the instant it’s observed, the ether’s superposition collapses. The atoms contained within the ether then disperse and attempt to form the idea they were charged with. For example, ether particles charged with the idea “fire” will form fire. More abstract thoughts, however, like “anger,” can have more unpredictable results.
 
 **Ether Potency**
@@ -28,7 +31,7 @@ To use Ether, it’s important to understand how much Ether you produce and how 
 - Remember how thoughtless ether conducts ideas? Well, whatever idea it conducts is what it’s going to attempt to manifest.
 - By controlling what ideas the thoughtless ether conducts before it manifests, you can create a repeatable effect. All you need is something to convey what you want the ether to do.
 - Eterologists in the past have been known to get creative with their methods of programming; they’ve fixed power sources around books, paintings, engraved plates, gardens, piles of items, music, preserved brains, and more. Typically, the more specific you are with your programming, the more predictable the effect will be.
-- The difficult part about making ether items is finding an ether power source. In the past, eterologists have used plants, animals, monsters, cross-bred organic material, slime mold, insect hives, and more. The challenge is keeping the material alive and in control; that’s why plants are the most common. The flora in the High Forest is known to be very ether potent, making it very effective for this kind of thing.
+- The difficult part about making ether items is finding an ether power source. In the past, eterologists have used plants, animals, monsters, cross-bred organic material, slime mold, insect hives, and more. The challenge is keeping the material alive and in control; that’s why plants are the most common. The flora in the [[High Forest]] is known to be very ether potent, making it very effective for this kind of thing.
 
 # Ether in Play
 | Original Term    | New Term                        |
@@ -56,8 +59,8 @@ These disciplines are for your actual ether users and practitioners. They may oc
 9. Wizards (_alt: scholars_). Wizards are ether users that earned their ether potency through study and discipline.
 
 **Branches of Eterology**
-Not everyone in the world wants to be an ether user, though. The science of eterology itself has split into several core branches that are used all throughout Vaerith. These branches are for your academics, your tradesmen, and your scientists. They make or use ether items since they don’t necessarily use ether themselves.
-1. Aethotics. The study and application of ether-infused technology. Most common in Lunfall, but practiced elsewhere by experts.
+Not everyone in the world wants to be an ether user, though. The science of eterology itself has split into several core branches that are used all throughout [[Vaerith]]. These branches are for your academics, your tradesmen, and your scientists. They make or use ether items since they don’t necessarily use ether themselves.
+1. Aethotics. The study and application of ether-infused technology. Most common in [[Lunfall]], but practiced elsewhere by experts.
 	1. Golemancy. The use of preserved brains as Ether programmers.
 2. Bioeterology. The study and augmentation of ether in nature and of ether sources.
 	1. Ethegrafting. The study of unnatural Ether augmentation.
