@@ -39,12 +39,12 @@ The Ring of [[The Eye of Seraephin|Lunalia]] was kept secret, and was given only
 - **Necrotic Strike:** your attack rolls increase by +BP to a maximum of +3
 - **Force:** whenever you hit with an attack roll (including ether), the target takes an additional 1d4 + BP necrotic damage.
 - **Bloodlust:** whenever you kill a creature of CR 1+, you regain 1d4 + BP HP.
-- **Malevolence:** if you start your turn while conscious and below half health, you regain 1 + 2x BP HP.
+- **Malevolence:** if you start your turn while conscious and below half health, you regain 1 + 2xBP hit points.
 
 **Removing the Ring**
-- The Ring of [[The Eye of Seraephin|Lunalia]] cannot be willingly removed by its bearer. They cannot bring themselves to do it.
+- The Ring of [[The Eye of Seraephin|Lunalia]] cannot be willingly removed by its bearer. Their hands physically stop.
 - If someone attempts to remove it, the bearer must make a WIS saving throw equal to 10 + 2xBP. On a fail, they'll attack them with their best available attack.
-- If they ring is removed, all creatures within a 30ft sphere centered on the ring must make a DC18 DEX saving throw or take an amount of necrotic damage equal to a number of d4s equal to ring's BP. 
+- If the ring is removed, all creatures within a 30ft sphere centered on the ring must make a DC18 DEX saving throw or take an amount of necrotic damage equal to a number of d4s equal to ring's BP. 
 
 **Compulsions**
 - The ring can attempt BP compulsions per long rest.

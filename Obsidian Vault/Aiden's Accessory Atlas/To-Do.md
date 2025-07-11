@@ -1,17 +1,17 @@
 #### [[Vaerith]]
 Worldbuilding
 - [[Advanced Eterology]]
-Session 2:
-Sessions to Come
-- Hunter and Bentley's Role
+Session 3:
+- Missing person story
 
 #### [[Arcohaem]]
 Worldbuilding
-- Character's personalities
+- Geothermal vents and hot springs across the map
+- That one city for later in the campaign that's neutral and kind of in between
+- Cave systems
+- The "Wolves of [[Arcohaem]]" were originally a squad of 8. One of Aaron's inventions killed one of them but no one knows if it was on purpose. All of them treat death lightly. 
+Campaign:
+- Incorporate player characters
+- Missing persons story
 Sessions
-- Powerpoint
-Session 1
-- Quest plan elaboration
-
-https://www.youtube.com/watch?v=_VwupNz4IiM
-
+- Find a date that works for session 1

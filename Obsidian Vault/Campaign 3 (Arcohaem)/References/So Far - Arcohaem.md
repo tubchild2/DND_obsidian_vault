@@ -1,0 +1,4 @@
+### Contextual Information
+Ether replaces all magic. Funnelers use Ether via their Folcryst Gland, which pulls Ether in from its home dimension and condenses it into a usable form. E-Tech is powered by crystallized Ether, or Eathyst. Eathyst is mined in the eastern deserts of Styxas, studied in the central plains of Fol'Gar'Eth, and refined in the underground volcanoes of Arcohaem. There aren't any religions in Serendipita. 
+
+Arcohaem is the northwestern portion of Serendipita. It's an arctic, mountainous wasteland. Two factions exist: the Republic of Arcohaem, and Frigoshia. Frigoshia used to be part of the Republic, but rebelled to ensure that their more primitive warrior lifestyle remained in-tact following the Republic of Arcohaem's swift adoption of the industrial revolution and the Eathyst refinery trade.

@@ -7,6 +7,8 @@
 	- 46953sq miles total land
 - There are ~974,000 people in Vaerith. 
 - The world is amidst the industrial revolution. The more wealth you have access to, the more technology you can access. 
+https://www.youtube.com/watch?v=_VwupNz4IiM
+Clockpunk + Biopunk + Steampunk
 
 ### The Tone
 - Peaceful. Doesn't involve the fate of the world right away. Escalates gradually.
@@ -26,10 +28,10 @@
 | Plains           | [[Elythra]]<br>Gulliver's Field<br>Tideshaw                   | Hill Goliath<br>Halfling<br>Human<br>Orc<br>Vulpin<br>Mapach<br>Jerbeen<br>Hedge<br>Cervan                                                            |
 | Plains Mt.       | Zenith Rock<br>Sylvalis                                       | Dwarves<br>Hill Goliath<br>Stone Goliath<br>Halfling<br>Human<br>Orc<br>Vulpin<br>Mapach<br>Jerbeen<br>Hedge<br>Cervan                                |
 | Tropics          | Jade Coast<br>Brinetide Cay<br>Tempest Isle<br>Sunbeat Lagoon | Blue Dragonborn<br>Bronze Dragonborn<br>Storm Goliath<br>Human<br>Orc<br>[[Mushi]]                                                                    |
-| Ocean            | The Great Sea                                                 |                                                                                                                                                       |
+| Ocean            | The Great Sea                                                 | ? ? ?                                                                                                                                                 |
 | Swamp            | Gloomcove Thicket                                             | Green Dragonborn<br>Abyssal Tiefling<br>Human<br>Orc<br>[[Mushi]]                                                                                     |
 | Forest           | Mistfall<br>The Driftwoods                                    | Wood Elves<br>Forest Gnomes<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig<br>[[Mushi]]<br>Rattatosk                                  |
-| Forest Mt.       | Yoata Falls<br>Niamor Terrace                                 | Dwarves<br>Wood Elves<br>Forest Gnomes<br>Stone Goliath<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig<br>Rattatosk                   |
+| Forest Mt.       | [[Yoata Falls]]<br>Niamor Terrace                                 | Dwarves<br>Wood Elves<br>Forest Gnomes<br>Stone Goliath<br>Human<br>Orc<br>Luma<br>Corvum<br>Raptor<br>Gallus<br>Strig<br>Rattatosk                   |
 | Cold Plains      | The Pale Wastes                                               | Silver Dragonborn<br>White Dragonborn<br>Frost Goliath<br>Human<br>Orc<br>Chthonic Tiefling                                                           |
 | Cold Forest      | Archer's Glade                                                | Silver Dragonborn<br>White Dragonborn<br>Frost Goliath<br>Human<br>Orc<br>Chthonic Tiefling                                                           |
 | Cold Mt.         | Kragknull Ridge<br>Watcher's Bluff                            | Silver Dragonborn<br>White Dragonborn<br>Dwarves<br>Frost Goliath<br>Stone Goliath<br>Human<br>Orc<br>Chthonic Tiefling                               |
@@ -37,7 +39,7 @@
 | Desert Mt.       | Windcrag Steppe<br>Maulfaust Crest<br>Redwake Ridge           | Brass Dragonborn<br>Gold Dragonborn<br>Red Dragonborn<br>Dwarves<br>Fire Goliath<br>Stone Goliath<br>Human<br>Orc<br>Infernal Tiefling<br>[[Ashkara]] |
 | Underground      | [[Underdark]]                                                 | Dwarves<br>Drow<br>[[Umbra\|Umbra]]<br>[[Mushi]]                                                                                                      |
 | Ether Forest     | The [[High Forest]]                                           | High Elves<br>Rock Gnomes<br>[[Mushi]]                                                                                                                |
-| Ether Mt.        | Crescent of [[Ceres]]                                             | High Elves<br>Rock Gnomes                                                                                                                             |
+| Ether Mt.        | Crescent of [[Ceres]]                                         | High Elves<br>Rock Gnomes                                                                                                                             |
 | Acid             | [[Covenul]]                                                   | Black Dragonborn<br>Copper Dragonborn<br>[[Ashkara]]                                                                                                  |
 | Floating Islands | [[Lunfall]]                                                   | Aasimar                                                                                                                                               |
 
@@ -50,6 +52,7 @@
 | Vivek                     | [[High Forest]] | Conquered  | High Elves                                  | Classical<br>Monarchy | 33%          |
 | Yavrim                    | [[High Forest]] | Conquered  | Rock Gnomes                                 | Oligarchy             | 33%          |
 | [[The Coven]]             | [[Underdark]]   | ~2000      | [[Umbra\|Umbra]]                            | Theocracy             | 100%         |
+| Ashkaran Civilization     | Aridia          | ~100,000   | [[Ashkara]]                                     | ?                     | 5%           |
 
 Dwarves:
 - Borhum

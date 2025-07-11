@@ -35,7 +35,7 @@ Your claws allow you to cling to vertical and even horizontal surfaces. You are 
 ### Flavor
 **History**
 - Ancient tales speak of a time when their kind lived underground; when they burrowed into the choked landscapes of Aridia. 
-- Scholars suggest the predate all other desert species.
+- Scholars suggest they predate all other desert species.
 - Over centuries, they learned to master the desert, growing both physically and culturally. 
 
 **Culture**
