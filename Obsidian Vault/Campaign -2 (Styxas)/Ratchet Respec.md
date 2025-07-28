@@ -83,7 +83,7 @@ HP: 26
 
 Speed: 30ft
 Initiative Bonus: +1
-Passive Perception: 15
+Passive Perception: 17
 
 ---
 ### Ether

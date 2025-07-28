@@ -1,10 +1,14 @@
 ---
 aliases:
   - Malgruff
-  - Malgruff the Soul-Tearer
   - Aeroneiros
   - Wolves of Arcohaem
+  - Rorik
+  - Doornail
+  - Brogus
 ---
+The Wolves of [[Arcohaem]] used to be a party of 8. Two of them died in combat, and one died from Aeroneiros' invention.
+
 # Brandon
 Name: Malgruff the Soul-Tearer
 Species: Owlbear https://www.dandwiki.com/wiki/Awakened_Owl_Bear_(5e_Race)
@@ -15,7 +19,7 @@ Personality:
 - Kawaii
 - Wrathful fisherman
 - Clumsy
-- Lacks heirarchy
+- Lacks hierarchy
 - Hates elves
 - Likes fish and rodents
 
@@ -110,7 +114,7 @@ Backstory:
 - Lived in a southern village named Hak'thor. He was a little guy and a late bloomer. His dad was Doorhinge, and his mother was Nailstrike. They were a loving family.
 - Unable to save his parents from a [[Frigoshia|Frigoshian]] serial killer.
 - Took to the Depths Frigid for blubber harvesting and deep net fishing.
-- Yearns for the sea.
+- Yearns for the sea, like the children yearn for the mines.
 - Traditionalist at heart
 - He sided with the Republic to protect his country. Those in control ARE [[Arcohaem]]. Unity and Peace is greater than Pure History.
 
@@ -121,14 +125,14 @@ Custom Equipment:
 Theme: https://www.youtube.com/watch?v=_bLRaGo-Qwc
 
 WEAKNESSES
-- Though having an AC of nearly 30, he's still just as vulnerable to magic missile.
-- Saving throws deal damage and don't use AC. Wisdom saving throws in particular would be garbage.
+- Though having an AC of nearly 40, he's still just as vulnerable to magic missile.
+- Saving throws deal damage and don't use AC. Wisdom saving throws in particular would be devastating.
 - Disable his movement with hold person, grease, or environmental factors.
 
 # Cole
-Name: 
+Name: Brogus Bobbleheim
 Species:
-Class: 
+Class: Monk - Rogue
 Background: 
 Personality:
 Flaws:
@@ -138,3 +142,13 @@ Custom Equipment:
 Theme: 
 
 # Skyler
+Name: Rorik Valgok
+Species:
+Class: 
+Background: 
+Personality:
+Flaws:
+Goal: 
+Backstory:
+Custom Equipment:
+Theme: 

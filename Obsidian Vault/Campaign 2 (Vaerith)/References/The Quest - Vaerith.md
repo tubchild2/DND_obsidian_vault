@@ -127,5 +127,6 @@
 	- [ ] [[PCs - Vaerith|Azrael]] becomes canonized as a prophet, and potentially king if he so wishes
 	- [ ] [[PCs - Vaerith|Rhulk]] becomes extremely powerful while maintaining self control
 	- [ ] [[PCs - Vaerith|Dhrakz]] becomes a farmer with a wife and kids
+		- [ ] Saint behind the glass
 	- [ ] [[PCs - Vaerith|Pavement]] becomes a business tycoon and a philanthropist
 	- [ ] [[PCs - Vaerith|Maje]] is hailed as one of the greatest heroes of all time

@@ -1,12 +1,22 @@
 ---
 aliases:
   - Frigoshian
+  - Torhild
+  - Uldrennir
+  - Throvenhall
+  - Oddmund
 ---
-![[Frigoshia.png]]
+H![[Frigoshia.png]]
 
 Founded in 12c 400
 Independent since 12c 1258
 At war with [[Republic of Arcohaem]] since 12c 1258
+
+Cities:
+- Capital: Torhild 
+- Uldrennir
+- Throvenhall
+- Oddmund
 
 Proud, warrior like people. They value traditionalism and honor. They reject E-Tech and Industrialism as something that'll destroy their culture. 
 

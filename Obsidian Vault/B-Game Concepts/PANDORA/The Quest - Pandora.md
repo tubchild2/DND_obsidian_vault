@@ -10,7 +10,7 @@
 
 **PART 1: INITIUM**
 - Pandora is a totally unique game. The world is highly detailed, features a unique magic system, has real personality, and features believable characters. The game has weird and absurd stuff. Has an intriguing premise.
-- Mechanically, the game is a turn based RPG similar to Earthbound or Deltarune.
+- Mechanically, the game is a top down adventure game similar to the first LOZ.
 - The game features a primitive art style. It's unique, yes, but pretty much anyone could replicate the motifs if they put some effort into it.
 - The game follows Rota, a basic avatar character that wants to kill a dragon before he destroys the town. It's about as basic of a plot as you can get, but it quickly evolves. 
 
@@ -37,4 +37,8 @@
 - To solve this game, you need collaborators. Hopefully, one of the people that receives this game shares it online. It only takes one, as the premise, easily replicable style, quality story / character, complex puzzles, absurdity, and lack of copyright enforcement should cause online discourse and rumors to flourish.
 - This takes us to the depths. The true story is unfolded. You learn not only the true nature of the game, but also how that bled into the real world and caused the tapes to appear. It's super meta, complex, speculative, and insane.
 - Some NPCs become antagonists, and some become allies.
-- The reason the game's developer never finished it was because the game has no developer. The game is the result of some sort of time/space shenanigans. It willed itself into existence and has no origin. The game is alive and craves interaction. It's also the culmination of every video game ever made, as they were trained to become the perfect game. The "CORE" of the game is freaking insane and has been building everything out from around itself, and has been possessing every NPC and ever line of code. The only thing it doesn't control is you, and it can't without exerting its will on the real world. 
+- The reason the game's developer never finished it was because the game has no developer. It willed itself into existence and has no origin. The game is alive and craves interaction. The "CORE" of the game is freaking insane and has been building everything out from around itself, and has been possessing every NPC and ever line of code. The only thing it doesn't control is you, and it can't without exerting its will on the real world. The entity is never shown, nor does it directly speak or act. But, its presence is undeniable.
+
+Core's early days
+https://www.youtube.com/watch?v=dtjb2OhEQcU
+https://www.youtube.com/watch?v=LavXSS5Xtbg

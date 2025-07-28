@@ -16,4 +16,5 @@
 - [ ] MM
 - [ ] Snacks
 - [ ] Mouse
+- [ ] Speakers
 - [ ] A Good Attitude
