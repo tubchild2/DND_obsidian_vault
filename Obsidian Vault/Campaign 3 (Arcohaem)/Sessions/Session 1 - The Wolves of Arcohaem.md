@@ -3,9 +3,6 @@
 Part 1: In Medias Res
 - [ ] https://www.youtube.com/watch?v=uOkTQC4BVMk 
 - [ ] Immersive Opening 1 (see "immersive opening")
-- [ ] Introduce everyone's characters
-	- [ ] All fiercely loyal to the republic, and all anti-[[Frigoshia]]. 
-	- [ ] Everyone has a chance to introduce themselves and say what they're doing.
 - [ ] Krothmire
 	- [ ] Dead prisoners no one is bothering to clean them up; they're just piling up in the corner.
 	- [ ] Prisoners are forced to work in the forge.
@@ -38,7 +35,7 @@ Part 2: Long Live the Republic
 	- [ ] It's a village burning down due to a [[Frigoshia|Frigoshian]] invasion. It's captioned, "He stayed silent, now they're all dead. Report [[Frigoshia|Frigoshian]] activity."
 	- [ ] Everyone's enlisted - what about you?
 	- [ ] It shows a soldier waving goodbye to a little girl. It's captioned, "For her future"
-	- [ ] It shows a group of Frigoshians running away from one Republic soldiers. "[[Frigoshia|Frigoshian]]? Or just a coward in Fur."
+	- [ ] It shows a group of [[Frigoshia|Frigoshians]] running away from one Republic soldiers. "[[Frigoshia|Frigoshian]]? Or just a coward in Fur."
 	- [ ] [[Frigoshia]] is fighting to live in squalor, don't let them win!
 - [ ] Citizen encounters
 	- [ ] People within the Republic don't want the war to continue but have to out of self defense.
@@ -61,13 +58,15 @@ Part 2: Long Live the Republic
 
 Part 3: Commander Kragknull's Exposition Dump... *ahem* Mission Briefing.
 https://www.youtube.com/watch?v=R9mQ-yXtl04&t=266s
-- [ ] Do you know what I've seen over my years as a commander? Savagery. I've seen my own friends get killed with no hesitation, no mercy, no weakness, no nothing. I don't believe the Frigoshians want to act human anymore. They fight and kill without showing their faces, or speaking, or showing any empathy, all so that they can live in squalor! It confounds me why some of our own citizens go out of their way to protest this conflict like we're somehow at fault here. In my eyes, if they want to act like savages, and tear apart our families, we reserve the right to treat them as such. With that said, I didn't believe anything they could do could surprise me at this point, but this most recent development has rocked me to my very core.
-- [ ] Two weeks ago, 5 of our soldiers were separated in the heat of battle and got lost wandering the eastern Howling Front. While wandering, they discovered a [[Frigoshia|Frigoshian]] transport carrying incubation equipment, and a dragon egg. This has led the Senate to believe that the Frigoshians are running a covert dragon breeding program, likely for military use. A single adult dragon could decimate [[Hephaestus]] before we even got a chance to respond. We don't know how many they have, and we can't get an army past the Howling Front to stop them.
-- [ ] So, that's where you come in. Chancellor Kaul, the Senate, myself, and you are the only ones aware of this mission's existence. It's simple, but far from easy, and has 3 parts.
+- [ ] I've been a commander since the beginning of this war. Over that time, I've seen the [[Frigoshia|Frigoshians]] sink to lows even I didn't think they'd cross.
+- [ ] They fight and kill without mercy, or identity, or voice, all so that they can enforce their primitive lifestyle onto us. It confounds me why some of our own citizens go out of their way to protest this conflict like we're somehow at fault here.
+- [ ] With all of that said, I didn't think anything they could do could surprise me... but this most recent development is so terrible that I've been sick with dread for the past week.
+- [ ] Two weeks ago, 5 of our soldiers were separated in the heat of battle and got lost wandering the eastern Howling Front. While wandering, they discovered a [[Frigoshia|Frigoshian]] transport carrying incubation equipment, and the first dragon egg we've seen in centuries. This has led the Senate to believe that the [[Frigoshia|Frigoshians]] are running a covert dragon breeding program, likely for military use. According to legend, a single adult dragon could decimate [[Hephaestus]] before we even got a chance to respond. We don't know how many they have, and our armies aren't getting close enough to the capital to stop them.
+- [ ] So the Senate approved a secret mission to infiltrate [[Frigoshia]], locate the program, and shut it down. To the senate's surprise, Chancellor Kaul personally selected you 5 for this mission. I don't think I have to explain why that wasn't a popular decision. I believe you're more than capable for this mission, but your track record is inconsistent, so you'll need to step up to prove yourselves to the Senate.
+- [ ] Like I said mission has three parts
 	- [ ] First, you need to infiltrate [[Frigoshia]]. None of our armies have ever been able to push through the Howling Front, so you'll need to be clever when going through or around it.
-	- [ ] Second, you need to locate the dragon breeding program. It's likely hidden within the [[Frigoshia|Frigoshian]] capital [[Frigoshia|Torhild]]. We have no reconnaissance beyond the front, so expect the worst. You need to be fast, quiet, and ready for a fight. Don't trust anyone there; remember, they start training to kill at 8. You'll likely need to perform some light espionage to pinpoint its exact location.
+	- [ ] Second, you need to locate the dragon breeding program. It's likely hidden within the [[Frigoshia|Frigoshian]] capital [[Frigoshia|Torhild]]. We have no reconnaissance beyond the Howling Front, so expect the worst. You need to be fast, quiet, and ready for a fight. Don't trust anyone there; even someone as young as 8 could be fully trained in [[Frigoshia|Frigoshian]] combat.
 	- [ ] Third, you need to destroy it, and eliminate any living dragons and eggs. It is of the utmost importance you don't miss any, because if even one is left, it could spell disaster for the Republic, and for all of Serendipita. 
-- [ ] Finally: Chancellor Kaul personally selected you for this mission, which was... not a popular choice within the senate. You're all good soldiers, but your track record is inconsistent. I trust you to do this mission, but most don't, so you need to step up.
 - [ ] To support your mission, you'll be given:
 	- [ ] 5000gp each to purchase supplies from around the town.
 	- [ ] 1 communicator each
@@ -85,12 +84,15 @@ https://www.youtube.com/watch?v=R9mQ-yXtl04&t=266s
 ### Immersive Opening
 Opening 1
 https://www.youtube.com/watch?v=uOkTQC4BVMk 
-- It's the winter of 12c 1266
-- 5 years ago, a group of 5 bandits and fighters came together to form one of the most infamous strike teams to ever grace [[Arcohaem]]. Though fiercely loyal to the Republic, their lack of predictability garnered them quite the reputation.
-- 5 weeks ago, they were dispatched to find and eliminate a secret [[Frigoshia|Frigoshian]] prison camp known as Krothmire. It'd involve trekking into the depths of the Arcohaemian plains, fending off the dangerous wildlife, and witnessing some of the darkest parts of this war; you'd see your brothers enslaved, treated with cruel indifference, and butchered without reason.
-- 5 days ago, they discovered it's location buried deep within the Howling Front. 
-- 5 minutes ago, they arrived. 
-	- In front of you sits one of the cruelest prison camps in [[Arcohaem]]. Prisoners are forced to work the forges producing steel, and are given just enough food and water to stay alive. Their cells are too cold to sleep in, but too warm to freeze in. The guards randomly kill prisoners to settle bets with each other, and don't bother to clean up those fortunate enough to die. 
+- 5 years ago, a group of spies, fighters, and thieves came together to form [[Arcohaem]]'s most infamous strike teams. Though loyal to the Republic, they're fiercely unpredictable.
+- 5 weeks ago, this team was dispatched to find and eliminate Krothmire: a secret [[Frigoshia|Frigoshian]] prison camp. They'd need to trek into the depths of the Arcohaemian plains, duel with beasts and monsters, and witness the darkest parts of this war.
+- 5 days ago, they discovered the camp buried deep within the Howling Front. 
+- 5 minutes ago, they arrived.
+	- It's the winter of 12c 1266
+	- In front of you sits one of the cruelest prison camps in [[Arcohaem]]. Prisoners are forced to work in the forges producing steel, and are given just enough food and water to stay alive. Their cells are too cold to sleep in, but too warm to freeze in. The guards randomly kill prisoners to settle bets with each other, and don't bother to clean up those fortunate enough to die. If it hadn't been proven to you time and time again, the [[Frigoshia|Frigoshians]] are truly monsters of the lowest caliber. 
+	- The cover of night coupled with a powerful snowstorm has heavily obscured the vision of the guards standing above the watchtowers, giving you a chance to approach the cliffside fortress undetected. 
+- Character introductions
+	- Everyone has a chance to introduce themselves, explain why they're part of the Republic, and say what they're doing.
 	- What do you do?
 
 Opening 2
@@ -127,8 +129,22 @@ Chancellor Kaul
 - People who ally with him aren't necessarily evil.
 
 ### Improv Helper: Loot, NPCs, traps, statblocks, and encounters
+
+**Guards:**
+1. S Tower: 25 
+2. Front Room: 25
+	1. (+1 to AC due to Ring of Protection)
+3. Break Room: 25
+	1. Carrying Potion of Cloud Giant Strength. STR 27 for 1hr
+	2. Carrying their cash supply. 1250gp.
+4. E Tower: 25
+5. Forges: 25
+6. N Tower: 25
+7. Courtyard: 25
+	1. Boots of the Winter lands. Resistance to Cold, ignore difficult terrain caused by ice or snow.
+
 ##### [[Frigoshia|Frigoshian]] Prison Guard
-- HP: 45
+- HP: 25
 - AC: 16
 - Speed: 30ft
 - Stats: STR: 16 (+3) DEX: 12 (+1) CON: 16 (+3) INT: 10 (+0) WIS: 12 (+1) CHA: 8 (-1)
@@ -138,13 +154,12 @@ Chancellor Kaul
 - Senses: Passive Perception 13
 - Languages: Common, [[Frigoshia|Frigoshian]] Dialect
 - **[[Frigoshia|Frigoshian]] Discipline:** Advantage on saving throws against being frightened or charmed
-- **Multiattack**: The guard makes two attacks using a either two glaive strikes or two musket shots.
+- **Multiattack**: The guard makes two attacks using either two glaive strikes or two musket shots.
 - **Glaive**: +5 to hit, reach 10ft or range 20/60. Hit: 1d6 + 3 piercing damage
 - **Musket**: +3 to hit, range 40/120ft. Hit: 1d12 + 1 piercing damage
 
 ##### Names
 Male
-- 
 - Vostag
 - Lucar
 - Myros
@@ -161,13 +176,6 @@ Female
 - Tressa
 - Alinne
 - Neris
-
-##### Loot
-- Ring of Protection (+1 AC)
-- Boots of the Winter lands (Resistance to Cold, ignore difficult terrain caused by ice or snow)
-- Potion of Cloud Giant Strength. Your strength increases to 27 for 1 hour
-- 1250gp
-
 
 ### Lore
 Ether replaces all magic. Funnelers use Ether via their Folcryst Gland, which pulls Ether in from its home dimension and condenses it into a usable form. E-Tech is powered by crystallized Ether, or Eathyst. Eathyst is mined in the eastern deserts of Styxas, studied in the central plains of Fol'Gar'Eth, and refined in the underground volcanoes of [[Arcohaem]]. There aren't any religions in Serendipita. 

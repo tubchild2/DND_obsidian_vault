@@ -2,7 +2,6 @@
 Worldbuilding
 - [[Advanced Eterology]]
 Session 3:
-- Missing person story
 - https://www.youtube.com/watch?v=JKodgCnObS0
 
 #### [[Arcohaem]]
@@ -17,3 +16,7 @@ Sessions
 	- Dislikes people they like
 		- Targets the elderly, children, and animals
 	- Intimidating
+
+
+Missing persons story
+National tapes. Something you shouldn't see. Akin to the incredibles NSA tapes.

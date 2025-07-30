@@ -5,6 +5,7 @@ aliases:
   - Uldrennir
   - Throvenhall
   - Oddmund
+  - Frigoshians
 ---
 H![[Frigoshia.png]]
 

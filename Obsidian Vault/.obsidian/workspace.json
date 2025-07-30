@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B-Game Concepts/Cave Game/Missed Opportunity.md",
+                "file": "Campaign 3 (Arcohaem)/Sessions/Session 1 - The Wolves of Arcohaem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Missed Opportunity"
+              "title": "Session 1 - The Wolves of Arcohaem"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200
   },
   "right": {
     "id": "7efababeab0f1b4b",
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B-Game Concepts/Cave Game/Missed Opportunity.md",
+                "file": "Campaign 3 (Arcohaem)/Sessions/Session 1 - The Wolves of Arcohaem.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Missed Opportunity"
+              "title": "Outgoing links from Session 1 - The Wolves of Arcohaem"
             }
           },
           {
@@ -170,23 +170,24 @@
   },
   "active": "838ca3145fc385ba",
   "lastOpenFiles": [
+    "Campaign 3 (Arcohaem)/Worldbuilding/Frigoshia.md",
+    "Campaign 3 (Arcohaem)/Sessions/Session 1 - The Wolves of Arcohaem.md",
+    "Campaign 3 (Arcohaem)/References/The Quest - Arcohaem.md",
+    "Aiden's Accessory Atlas/To-Do.md",
+    "B-Game Concepts/High Stakes Librarian/Stat Tracking System (HSL).md",
     "B-Game Concepts/High Stakes Librarian/High Stakes Librarian.md",
-    "B-Game Concepts/Cave Game/Missed Opportunity.md",
+    "B-Game Concepts/Ren.md",
+    "B-Game Concepts/PANDORA/The Quest - Pandora.md",
+    "B-Game Concepts/Cave Game/Wiggle Game.md",
     "Untitled",
     "B-Game Concepts/Cave Game",
-    "B-Game Concepts/High Stakes Librarian/Stat Tracking System (HSL).md",
-    "Campaign 3 (Arcohaem)/Sessions/Session 1 - The Wolves of Arcohaem.md",
     "Campaign 3 (Arcohaem)/References/Arcohaem.md",
     "Campaign 3 (Arcohaem)/References/So Far - Arcohaem.md",
     "Campaign 3 (Arcohaem)/Worldbuilding/Republic of Arcohaem.md",
-    "Campaign 3 (Arcohaem)/References/The Quest - Arcohaem.md",
     "Campaign 3 (Arcohaem)/References/PCs - Arcohaem.md",
-    "Aiden's Accessory Atlas/To-Do.md",
     "Campaign 3 (Arcohaem)/Hephaestus.md",
     "Campaign 2 (Vaerith)/Worldbuilding/Species/Ryujin.md",
-    "B-Game Concepts/PANDORA/The Quest - Pandora.md",
     "Campaign -2 (Styxas)/Ratchet Respec.md",
-    "Campaign 3 (Arcohaem)/Worldbuilding/Frigoshia.md",
     "Aaron's PC.md",
     "Skyler's PC.md",
     "Campaign 2 (Vaerith)/References/Vaerith.md",
@@ -199,7 +200,6 @@
     "Campaign 3 (Arcohaem)/SFX/emergencynotice.wav",
     "Campaign 3 (Arcohaem)/SFX",
     "Session 1 of Arcohaem work in progress.md",
-    "Campaign 3 (Arcohaem)/References/World History - Arcohaem.md",
     "B-Game Concepts/PANDORA",
     "Uncharted Galaxy/SFX/wyrmsrestmessage.wav",
     "Uncharted Galaxy/SFX",

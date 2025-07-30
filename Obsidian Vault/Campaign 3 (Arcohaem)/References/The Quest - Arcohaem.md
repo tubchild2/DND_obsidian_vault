@@ -83,27 +83,41 @@
 - [ ] Kaul doesn't follow the moral code he promotes. He's a little hypocritical. He doesn't think they should've helped the enemy, considering what a large risk that was.
 
 #### Chapter 5 - Flesh and Blood
-- [ ] They're close to crossing into [[Frigoshia]], but it's... not what they were expecting! The actual citizens, not the soldiers, don't want to fight at all. They want the war to be over. They aren't savages, they're just more people.
-- [ ] It really seems like Kaul is pushing them to take the worst possible path, and like he's trying to keep them away from the villages. He pushes them into a combat encounter.
+- [ ] They're informed that "reinforcements" are coming to accompany them on this last leg of the journey. The senate deemed the mission too important for them to handle on their own, but now that they've paved a clear path, Captain Terrik and his men should be able to arrive shortly. 
+- [ ] They're close to crossing into [[Frigoshia]], but it's... not what they were expecting! The actual citizens, not the soldiers, don't want to fight at all. They want the war to be over. They aren't savages, they're just more people. This could totally be this village just being far from the capital, or not being super involved or something. This isn't the belly of the beast.
+- [ ] Kaul informs them that the direct path will be monitored. Their only means of entering the capital undetected is to go through the Cherub's Pass. It involves moving through creepy half-buried temples and ravines. There's no one for miles, and it's supposedly home to a dangerous monster. It'll be risky, but it's much safer than the alternative.
+- [ ] https://open.spotify.com/album/2UizxLjONIyVano2kIKpcg?si=CyMumtrUSsu7t6srpgKyUw
+- [ ] Things get creepy while they're exploring. There are unsettling noises, strange details, and an implied presence that isn't shown. They cannot contact Kaul anymore, so they don't even know if they're navigating the maze of decaying temples correctly. Their completely alone, and completely lost. They feel like they're being watched, and they can even catch glimpses of something out of their eyeline. 
+- [ ] Suddenly, they're attacked by a very peculiar monster. It's something that shouldn't be native here, it's from southern [[Arcohaem]]. Anyways, they kill it. Emphasize how stupid and monstrous it is.
+- [ ] Suddenly, a fierce blizzard hits, forcing them to take shelter in a strangely placed mansion. When indoors, they drop off their loot in the main room, and then they get separated exploring the mansion. 
+	- [ ] Do things that imply that everyone has secrets that only the DM knows about their character, and that this is somehow important to that. Do things like point, look at people while saying things, and act excited about things you shouldn't be.
+	- [ ] Physically separate the players. Each one can go to a different room, or go in a small group. Make a physical map to encourage them to split up and explore. While separated, continue with the creepy stuff. This temple building has some sketchy origins, and it's weird that Kaul even knew about it come to think about it.
+- [ ] When they all return (and physically group back together) they find that someone called Kaul and stole a bunch of their stuff. They're missing some important stuff too; this is a bad setback. There wasn't anyone for miles, this would've required someone very intelligent to do it, and everyone was separated, so it would've had to have been someone in the group... right?  (NOTE: TURN ON EACH OTHER LIKE THE PEN EPISODE OF COMMUNITY).
+- [ ] Their communicators begin beeping during the night. If investigated, you can find that they were made in Terragon (?). Terragon is known for making advanced computer-like E-Tech. There's also a large amount of strange, unidentifiable grey fluid that's half drained. There's something more to these that they don't understand.
+	- [ ] If Kaul is asked about the Terragon thing, "Oh yes, we only want the finest quality communication devices for our soldiers. You do understand the gravity of this situation, do you not?"
+	- [ ] If Kaul is asked about the fluid, "It's likely some form of coolant or byproduct. I'm not an expert but I'm sure our top scientists didn't make some kind of error if that's what you're suggesting."
 - [ ] Level up (13-14)
 - [ ] Distribute level 14 loot
 	- [ ] 1 Uncommon
 	- [ ] 2 Rare
 	- [ ] 1 Very Rare
 
-#### Chapter 6 - What Isn't Seen
-- [ ] Entering into the capital of [[Frigoshia]], they see some of what they were told, but also the other side of it. The people who are in charge of [[Frigoshia]] are definitely corrupt monsters. What they were told wasn't entirely false, but it was quite misleading.
-- [ ] Their communicators begin beeping during the night. If investigated, you can find that they were made in Terragon (?). Terragon is known for making advanced computer-like E-Tech. There's also a large amount of strange, unidentifiable fluid that's half drained. There's something more to these that they don't understand.
-	- [ ] If asked about the Terragon thing, "Oh yes, we only want the finest quality communication devices for our soldiers. You do understand the gravity of this situation, do you not?"
-	- [ ] If asked about the fluid, "It's likely some form of coolant or byproduct. I'm not an expert but I'm sure our top scientists didn't make some kind of error if that's what you're suggesting."
-- [ ] They're informed that "reinforcements" are coming to accompany them on this last leg of the journey. The senate deemed the mission too important for them to handle on their own, but now that they've paved a clear path, Captain Terrik and his men should be able to arrive shortly. 
+#### Chapter 6 - Kin
+- [ ] Entering into the capital of [[Frigoshia]].
+- [ ] They need to spy around to find the location of the dragon breeding program.
+- [ ] While spying, they see some of what they were told, but also the other side of it. The people who are in charge of [[Frigoshia]] are definitely corrupt monsters, and over half of the population is in the military. What they were told wasn't entirely false, but it was a very poor summation of the problem.
+- [ ] They find the program. It's out of the city, but very well hidden.
 
 #### Chapter 7 - Good Soldiers Follow Orders
-- [ ] Captain Terrik and his men arrive. They're suspiciously high ranking; they're like Kaul's personal guard. They're here to "help" them, but Terrik is rude, selfish, and combative. He's immediately controlling, pulls rank on them, and begins telling them what to do.
-- [ ] They aren't allowed to communicate with Kaul anymore. All communications must go through Terrik. He regularly communicates with Kaul privately. 
-- [ ] He's attempting to keep information from them, but has them outnumbered and outranked.
+- [ ] Captain Terrik and his men arrive. 
+	- [ ] They're suspiciously high ranking; they're like Kaul's personal guard. 
+	- [ ] They're here to "help" them, but Terrik is rude, selfish, and combative. He pulls rank on them.
+	- [ ] The party isn't allowed to communicate with Kaul anymore. All communications must go through Terrik. He regularly communicates with Kaul privately. 
+	- [ ] Terrik chooses to keep important updates from Kaul to himself.
+	- [ ] Terrik uses one of the items that was stolen from their camp. Whenever they ask him where he got it, he denies any involvement and says he got it from the same place they did.
+	- [ ] He denies things he's clearly done in front of people like Lex Luthor. "I don't know what dog you're talking about."
 - [ ] They arrive at the Dragon Breeding Program. They have a wyrmling of every chromatic dragon (black, blue, green, red, white), and hundreds more eggs. They're all nuts! 
-- [ ] Kaul leads them directly into a trap that nearly gets them killed. More weaponized incompetence. He's a danger to everyone there. They get separated, and are briefly not under the command of Captain Terrik.
+- [ ] Kaul leads them directly into a trap that nearly gets them killed. More lies. He's a danger to everyone there. They get separated, and are briefly not under the command of Captain Terrik.
 - [ ] The Dragon Breeding Program is once again, not what they were expecting. They're breeding way more types of dragons, have very different orders, and might not even be working for Brisk directly; it's more of an office rental situation with [[Frigoshia]]. The real person in charge of the program is someone with the initial "M."
 - [ ] Captain Terrik orders them to forget what they saw and to preserve some the eggs for "study," instead of destroying them... but we all know what they plan to do with them. This is unthinkable considering everything they've learned about the reality of the war, and how suspicious the republic is being. But... good soldiers follow orders. What do they do?
 - [ ] Terrik attempts to execute the party for treason. They're now wanted, have to remove their communicators, and they have to escape [[Frigoshia]].
