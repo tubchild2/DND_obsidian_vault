@@ -56,7 +56,7 @@ Part 2: Long Live the Republic
 	- [ ] Protected by several guards. They welcome them back to the Republic and lead them to the briefing room, which has 3 tall windows overlooking the city, and busts of Chancellor Kaul. Commander Kragknull is waiting for them.
 
 
-Part 3: Commander Kragknull's Exposition Dump... *ahem* Mission Briefing.
+Part 3: Your Mission
 https://www.youtube.com/watch?v=R9mQ-yXtl04&t=266s
 - [ ] I've been a commander since the beginning of this war. Over that time, I've seen the [[Frigoshia|Frigoshians]] sink to lows even I didn't think they'd cross.
 - [ ] They fight and kill without mercy, or identity, or voice, all so that they can enforce their primitive lifestyle onto us. It confounds me why some of our own citizens go out of their way to protest this conflict like we're somehow at fault here.

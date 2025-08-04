@@ -21,7 +21,7 @@
 		- [ ] It's a village burning down due to a [[Frigoshia|Frigoshian]] invasion. It's captioned, "He stayed silent, now they're all dead. Report [[Frigoshia|Frigoshian]] activity."
 		- [ ] Everyone's enlisted - what about you?
 		- [ ] It shows a soldier waving goodbye to a little girl. It's captioned, "For her future"
-		- [ ] It shows a group of Frigoshians running away from one Republic soldiers. "[[Frigoshia|Frigoshian]]? Or just a coward in Fur."
+		- [ ] It shows a group of [[Frigoshia|Frigoshians]] running away from one Republic soldiers. "[[Frigoshia|Frigoshian]]? Or just a coward in Fur."
 		- [ ] [[Frigoshia]] is fighting to live in squalor, don't let them win!
 	- [ ] Let them explore
 		- [ ] Soldiers on parade
@@ -31,7 +31,7 @@
 		- [ ] Protected by several guards accompanied by Commander Kragknull. He welcomes them back to the Republic and leads them to the briefing room, which has 3 tall windows overlooking the city, and busts of Chancellor Kaul.
 - [ ] Part 3: Commander Kragknull's Exposition Dump... *ahem* Mission Briefing.
 	- [ ] Do you know what I've seen over my years as a commander? Savagery. I've seen my own friends get killed with no hesitation, no mercy, no weakness, no nothing. I don't believe they want to act human. They fight and kill without showing their faces, or speaking, or showing any empathy, all to live in squalor. It confounds me why some of our own citizens go out of their way to protest this conflict like we're somehow at fault here. In my eyes, if they want to act like savages, we reserve the right to treat them as such. I didn't believe anything they could do could surprise me at this point, but this most recent development has rocked me to my very core.
-	- [ ] Two weeks ago, 5 of our soldiers were separated in the heat of battle and got lost wandering the plains. While wandering, they discovered a [[Frigoshia|Frigoshian]] transport carrying incubation equipment, and a dragon egg. This has led the Senate to believe that the Frigoshians are running a covert dragon breeding program, likely for military use. A single adult dragon could decimate [[Hephaestus]] before we even got a chance to respond. We don't know how many they have, and we can't get an army past the Howling Front to stop them.
+	- [ ] Two weeks ago, 5 of our soldiers were separated in the heat of battle and got lost wandering the plains. While wandering, they discovered a [[Frigoshia|Frigoshian]] transport carrying incubation equipment, and a dragon egg. This has led the Senate to believe that the [[Frigoshia|Frigoshians]] are running a covert dragon breeding program, likely for military use. A single adult dragon could decimate [[Hephaestus]] before we even got a chance to respond. We don't know how many they have, and we can't get an army past the Howling Front to stop them.
 	- [ ] So, that's where you come in. Chancellor Kaul, the Senate, myself, and you are the only ones aware of this mission's existence. It's simple, but far from easy, and has 3 parts.
 		- [ ] First, you need to infiltrate [[Frigoshia]]. None of our armies have ever been able to push through the Howling Front, so you'll need to be clever when going through or around it.
 		- [ ] Second, you need to locate the dragon breeding program. It's likely hidden within the [[Frigoshia|Frigoshian]] capital [[Frigoshia|Torhild]]. We have no reconnaissance beyond the front, so expect the worst. You need to be fast, quiet, and ready for a fight. Don't trust anyone there; remember, they start training to kill at 8. You'll likely need to perform some light espionage to pinpoint its exact location.
@@ -48,15 +48,21 @@
 			- [ ] Immovable Rod. Button on one end to make it fixed in place. DC 30 to move it 10ft. 8000lbs.
 			- [ ] Gloves of Thievery. +5 to sleight of hand checks.  
 			- [ ] Ring of Protection. +1 to AC and saves. Universally helpful.
-			- [ ] +3 Dagger
+			- [ ] +3 Dagger that teleports to the user as a bonus action.
 	- [ ] This is a map of [[Arcohaem]] to assist you with planning your mission. I'll leave you to that, but contact me if you need assistance. 
 
 #### Chapter 2 - Remember... Remember Why We Fight, Wolves.
-- [ ] Commander Kragknull checks in on them and gives them more advice. He's pretty helpful.
+- [ ] Commander Kragknull checks in on them and gives them more advice. He's pretty helpful. Establish his good relationship with them
 - [ ] They visit a neutral village with a [[Frigoshia|Frigoshian]] battalion waiting to ambush it. They're one battalion under [[Frigoshia|Frigoshian]] Captain Alric.
 - [ ] They form a bond with some of the people there.
 - [ ] The [[Frigoshia|Frigoshian]] battalion invades, and they're absolutely hateable and brutal. They're killing, abusing, stealing, and burning without a second thought.
+	- [ ] Violent Natured
+	- [ ] Hypocritical
+	- [ ] Dislikes people they like
+	- [ ] Targets the elderly, children, and animals
+	- [ ] Intimidating
 - [ ] The family they formed a bond with are fatally wounded by [[Frigoshia|Frigoshian]] warriors. Fake them out that they're ok, and then have them die an unfair death.
+- [ ] Make the [[Frigoshia|Frigoshians]] as hateable as possible
 - [ ] Level up (11-12)
 - [ ] Distribute level 12 loot
 	- [ ] 1 Common
@@ -67,7 +73,7 @@
 #### Chapter 3 - First Blood
 - [ ] Commander Kragknull checks in on them. He informs them that the overseer of the Republic bank was assassinated during the night, and all of the files and contracts were burned. The person responsible is still at large, but the leading theory is that there is a [[Frigoshia|Frigoshian]] spy aiming to cover their tracks. Commander Kragknull states that he's going to personally look into the situation, because he's suspicious of someone. [[PCs - Arcohaem|Aeroneiros]]' contract for infinite inventing may be threatened by this.
 - [ ] They find Captain Alric, who was directly responsible for the invasion in the last chapter. They have an opportunity to get revenge.
-- [ ] If they get revenge, the Frigoshians retaliate by following them to their next stop and killing a lot of innocent people to try and kill the party. They see how their violence bred more violence, and innocents got really hurt.
+- [ ] If they get revenge, the [[Frigoshia|Frigoshians]] retaliate by following them to their next stop and killing a lot of innocent people to try and kill the party. They see how their violence bred more violence, and innocents got really hurt.
 - [ ] Level up (12-13)
 - [ ] Distribute level 13 loot
 	- [ ] 1 Common
@@ -129,7 +135,7 @@
 	- [ ] 1 Legendary
 
 #### Chapter 8 - Beneath the Republic
-- [ ] They're forced to retreat through a Republic city-state during. The Frigoshians and the Republic Army is trying to kill them. As refugees, they need to destroy or hide anything that could give their identity and allegiance away.
+- [ ] They're forced to retreat through a Republic city-state during. The [[Frigoshia|Frigoshians]] and the Republic Army is trying to kill them. As refugees, they need to destroy or hide anything that could give their identity and allegiance away.
 - [ ] They learn how corrupt the Republic is. Several of the senators and representatives are working for their own private gain. There are hundreds of third parties that are exploiting the conflict on both sides.
 - [ ] They are met by Commander Kragknull, who's been searching for them. He's filled with deep regret and feels unbelievably betrayed by Kaul. He's been investigating the Republic and [[Frigoshia]] trying to learn more, and he found one of Kaul's hidden bunkers, which was supposedly used as some kind of meeting place between Kaul and Brisk. They should be able to learn the truth there.
 - [ ] Kragknull reveals some important information
@@ -146,7 +152,8 @@
 
 #### Chapter 9 - The Pact of Malfaust
 - [ ] Venturing to the secret bunker, they learn the full truth about the origins of the war. An adult red dragon named Malfaust met with Kaul and Brisk and has been behind everything.
-- [ ] Malfaust pushed Kaul to usher in the rapid technological changes, knowing the impact it'd have on the Frigoshians. Malfaust told him that it'd help their people to live better, healthier, wealthier lives. It would mean power, safety, and security! Peace would be in their grasp if anyone ever attempted an invasion. Kaul agreed to work for Malfaust, so he used the Republic to start the conflict to amass wealth, weapons, and knowledge for him. Kaul doesn't agree with Malfaust on everything, but he truly does serve what he believes are the best interests of his people.
+- [ ] Restricted National Tapes akin to the Incredibles NSA tapes.
+- [ ] Malfaust pushed Kaul to usher in the rapid technological changes, knowing the impact it'd have on the [[Frigoshia|Frigoshians]]. Malfaust told him that it'd help their people to live better, healthier, wealthier lives. It would mean power, safety, and security! Peace would be in their grasp if anyone ever attempted an invasion. Kaul agreed to work for Malfaust, so he used the Republic to start the conflict to amass wealth, weapons, and knowledge for him. Kaul doesn't agree with Malfaust on everything, but he truly does serve what he believes are the best interests of his people.
 - [ ] Malfaust pushed Brisk into independence to maintain their people's cultural identity. Brisk was already a cultural fanatic, so this worked out nicely. All Brisk would need to do was fake the conflict to motivate the people into approving a dragon breeding program. Brisk would need to find and grow Dragon eggs for his chromatic brethren to ensure enough damage could be done to conquer all of Serendipita. Brisk is freaking nuts and is fully on board with supporting Malfaust if it means preserving his people's culture.
 - [ ] Malfaust is going to wipe out both the Republic and [[Frigoshia]], and reform them under the new "Kingdom of Malfaust." He's then going to stockpile riches and power and his dragon children decimate Serendipita in a series of violent invasions.
 - [ ] They uncover the location of Malfaust's lair. It's deep within the Volcanoes of Pyrk.
