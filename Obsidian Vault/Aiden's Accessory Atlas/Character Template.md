@@ -1,5 +1,5 @@
-Name:
-Species:
+Name: Lord Lugshuggle Bupdubbius Fruntler Chunglesmith XIX
+Species: 
 Class:
 Subclass:
 Background:
