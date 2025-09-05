@@ -4,17 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "0ddaa6e0325c6c50",
+        "id": "5956e41efc1dfb45",
         "type": "tabs",
         "children": [
           {
-            "id": "aa12d66cca2f70a6",
+            "id": "f72e405c34913625",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lightning-55/Narratives/L-55 v4 (campaign).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "L-55 v4 (campaign)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "524c59952b2aedbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bad37e47bb2b5bbc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lightning-55/Worlds/World L-55 v5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "World L-55 v5"
             }
           }
         ]
@@ -109,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Modular TTRPG/Modular TTRPG v1.md",
+                "file": "Lightning-55/Narratives/L-55 v4 (campaign).md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Modular TTRPG v1"
+              "title": "Outgoing links from L-55 v4 (campaign)"
             }
           },
           {
@@ -165,19 +189,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75bb62ce5edb6dc7",
+  "active": "f72e405c34913625",
   "lastOpenFiles": [
+    "Lightning-55/Worlds/World L-55 v5.md",
+    "Lightning-55/Narratives/L-55 v4 (campaign).md",
+    "Lightning-55/Cinematic to L-55.md",
+    "Lightning-55/Weaponry of L-55.md",
+    "Lightning-55/Narratives/L-55 v1.md",
+    "Test.md",
+    "Aiden's Accessory Atlas/Wish list.md",
+    "Aiden's Accessory Atlas/To-Do.md",
+    "Lightning-55/Pictures and videos/Weapons.png",
+    "Lightning-55/Worlds/World L-55 v4.md",
+    "Lightning-55/Narratives/L-55 v3.md",
+    "Lightning-55/Pictures and videos/The Solar System.jpg",
+    "B-Game Concepts/Ren CONCEPT.md",
+    "Lightning-55/Crews/L-55 Crew v4.md",
     "Modular TTRPG/RPG Engine Home Page.md",
     "Modular TTRPG/Pages/RPGE How To Play.md",
     "Modular TTRPG/Modular TTRPG v1.md",
     "Modular TTRPG/Pages/RPGE Introduction.md",
-    "Lightning-55/Crews/L-55 Crew v4.md",
-    "Lightning-55/Worlds/World L-55 v4.md",
     "Lightning-55/Crews/L-55 Crew v3.md",
-    "Untitled.md",
     "Lightning-55/Worlds/World L-55 v3.md",
     "Lightning-55/Pilot L-55.md",
-    "Lightning-55/Narratives/L-55 v3.md",
     "Modular TTRPG/Pages/RPGE Homebrewing.md",
     "Modular TTRPG/Pages",
     "B-Game Concepts/NPCs Concept.md",
@@ -186,30 +220,20 @@
     "Carter Hayes.md",
     "A good friend.md",
     "Lightning-55/Crews/L-55 Crew v2.md",
-    "Lightning-55/Narratives/L-55 v1.md",
     "Lightning-55/Worlds/World L-55 v2.md",
     "Lightning-55/Worlds",
-    "Lightning-55/Narratives/L-55 v2.md",
     "Lightning-55/Narratives",
     "Lightning-55/Crews",
-    "Piracy Firefly.md",
-    "Lightning-55/Pictures and videos/The Solar System.jpg",
     "Piracy",
-    "Lightning-55/Pictures and videos/Weapons.png",
     "Lightning-55/Pictures and videos/New Logo.png",
     "Lightning-55/Pictures and videos/Classic Logo.png",
     "Lightning-55/Pictures and videos/Guns.png",
     "Lightning-55/Pictures and videos/Cinematic.mp4",
-    "Lightning-55/Another Story.md",
     "Lightning-55/Pictures and videos/Lightning55 project.kra",
-    "Character Reference TEMPORARY.md",
-    "Aiden's Accessory Atlas/How to make a character.md",
     "Carter 8 bit.png",
     "Carter Hayes.png",
     "Lightning-55/Pictures and videos",
-    "Campaign 3 (Arcohaem)/References/The Quest - Arcohaem.md",
     "Lightning-55",
-    "Ideal Party.md",
     "Aiden's Accessory Atlas/Images/ClassLikesComplexity.png",
     "Campaign 3 (Arcohaem)/Pictures/Frigoshian warrior.jpg",
     "Campaign 3 (Arcohaem)/Pictures/The Binding.jpg",
