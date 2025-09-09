@@ -4,41 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "5956e41efc1dfb45",
+        "id": "45d1dca351adfcd9",
         "type": "tabs",
         "children": [
           {
-            "id": "f72e405c34913625",
+            "id": "083bcd37eeb0cf60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lightning-55/Narratives/L-55 v4 (campaign).md",
+                "file": "Writing Research/Irony, Hyperreality, and Postmodernism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L-55 v4 (campaign)"
+              "title": "Irony, Hyperreality, and Postmodernism"
             }
-          }
-        ]
-      },
-      {
-        "id": "524c59952b2aedbf",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bad37e47bb2b5bbc",
+            "id": "c5cb5311c8fa6b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lightning-55/Worlds/World L-55 v5.md",
+                "file": "Writing Research/Rhetorical Devices, Propaganda Techniques, Logical Fallacies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "World L-55 v5"
+              "title": "Rhetorical Devices, Propaganda Techniques, Logical Fallacies"
+            }
+          },
+          {
+            "id": "dc1611e5abf29ce6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing Research/Writing Horror.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Writing Horror"
             }
           }
         ]
@@ -98,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 453.5
   },
   "right": {
     "id": "7efababeab0f1b4b",
@@ -133,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lightning-55/Narratives/L-55 v4 (campaign).md",
+                "file": "Writing Research/Irony, Hyperreality, and Postmodernism.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from L-55 v4 (campaign)"
+              "title": "Outgoing links from Irony, Hyperreality, and Postmodernism"
             }
           },
           {
@@ -189,51 +197,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f72e405c34913625",
+  "active": "083bcd37eeb0cf60",
   "lastOpenFiles": [
-    "Lightning-55/Worlds/World L-55 v5.md",
-    "Lightning-55/Narratives/L-55 v4 (campaign).md",
-    "Lightning-55/Cinematic to L-55.md",
-    "Lightning-55/Weaponry of L-55.md",
+    "Writing Research/Rhetorical Devices, Propaganda Techniques, Logical Fallacies.md",
+    "Writing Research/Writing Horror.md",
+    "Writing Research/Irony, Hyperreality, and Postmodernism.md",
+    "Writing Research/Gold Panning Process.md",
+    "Writing Research/CRAAP Source Checking.md",
+    "Writing Research/Revision Process.md",
+    "Writing Research/Writing Tips, Advanced Punctuation Guide.md",
+    "Writing Research",
     "Lightning-55/Narratives/L-55 v1.md",
-    "Test.md",
-    "Aiden's Accessory Atlas/Wish list.md",
-    "Aiden's Accessory Atlas/To-Do.md",
-    "Lightning-55/Pictures and videos/Weapons.png",
-    "Lightning-55/Worlds/World L-55 v4.md",
-    "Lightning-55/Narratives/L-55 v3.md",
+    "Lightning-55/Location Profiles L-55.md",
+    "Lightning-55/Narratives/L-55 v4 (campaign).md",
+    "Lightning-55/Sessions/Session 1 - Town of Salem.md",
+    "Lightning-55/Pictures and videos/SOStotheworld.wav",
     "Lightning-55/Pictures and videos/The Solar System.jpg",
-    "B-Game Concepts/Ren CONCEPT.md",
-    "Lightning-55/Crews/L-55 Crew v4.md",
-    "Modular TTRPG/RPG Engine Home Page.md",
-    "Modular TTRPG/Pages/RPGE How To Play.md",
-    "Modular TTRPG/Modular TTRPG v1.md",
-    "Modular TTRPG/Pages/RPGE Introduction.md",
-    "Lightning-55/Crews/L-55 Crew v3.md",
-    "Lightning-55/Worlds/World L-55 v3.md",
-    "Lightning-55/Pilot L-55.md",
-    "Modular TTRPG/Pages/RPGE Homebrewing.md",
-    "Modular TTRPG/Pages",
-    "B-Game Concepts/NPCs Concept.md",
-    "Modular TTRPG",
-    "Aiden's Accessory Atlas/DM's Guide.md",
-    "Carter Hayes.md",
-    "A good friend.md",
-    "Lightning-55/Crews/L-55 Crew v2.md",
-    "Lightning-55/Worlds/World L-55 v2.md",
-    "Lightning-55/Worlds",
-    "Lightning-55/Narratives",
-    "Lightning-55/Crews",
-    "Piracy",
+    "Lightning-55/Worlds/World L-55 v5.md",
+    "Lightning-55/Sessions",
+    "Aiden's Accessory Atlas/Session Template.md",
+    "Lightning-55/Pictures and videos/Weapons.png",
     "Lightning-55/Pictures and videos/New Logo.png",
     "Lightning-55/Pictures and videos/Classic Logo.png",
     "Lightning-55/Pictures and videos/Guns.png",
     "Lightning-55/Pictures and videos/Cinematic.mp4",
-    "Lightning-55/Pictures and videos/Lightning55 project.kra",
+    "Lightning-55/Pictures and videos/cinematic 2.mp4",
+    "Skyler.md",
+    "Mason.md",
+    "Aiden.md",
+    "Character Sheet.md",
+    "Lightning-55/Worlds/World L-55 v4.md",
+    "Lightning-55/Worlds/World L-55 v3.md",
+    "Lightning-55/Worlds/World L-55 v2.md",
+    "Test.md",
+    "Lightning-55/Cinematic to L-55.md",
+    "Lightning-55/Weaponry of L-55.md",
+    "Aiden's Accessory Atlas/Wish list.md",
+    "Aiden's Accessory Atlas/To-Do.md",
+    "Lightning-55/Narratives/L-55 v3.md",
+    "Modular TTRPG/Pages",
+    "Modular TTRPG",
+    "Lightning-55/Worlds",
+    "Lightning-55/Narratives",
+    "Lightning-55/Crews",
     "Carter 8 bit.png",
     "Carter Hayes.png",
-    "Lightning-55/Pictures and videos",
-    "Lightning-55",
     "Aiden's Accessory Atlas/Images/ClassLikesComplexity.png",
     "Campaign 3 (Arcohaem)/Pictures/Frigoshian warrior.jpg",
     "Campaign 3 (Arcohaem)/Pictures/The Binding.jpg",

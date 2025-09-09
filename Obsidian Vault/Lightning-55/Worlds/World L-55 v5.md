@@ -65,4 +65,21 @@
 	- When you can't run, you crawl. When you can't crawl, you find someone to carry you.
 	- Everyone is desperate, and will turn on you, but they'll still warmly welcome you in and make the best of a bad situation with you.
 
-2644 - Present Day
+April 2644 - Present Day
+
+
+Conflicts:
+- Bounty Hunter
+- Rivals
+- Pirates
+- Imperium Samurai
+- Confederate Conflict
+- House Conflict
+- Spy
+- Traps
+- Swordfight
+- Shootout
+- Ship Battle
+- Escape
+- Infected Horde
+- Ship Death
