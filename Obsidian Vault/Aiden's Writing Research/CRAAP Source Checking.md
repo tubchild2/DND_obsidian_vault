@@ -1,0 +1,5 @@
+- Currency. Is this info timely? Does it matter if it is or not for this project?
+- Relevance. Is the entire source relevant to your project? Are you referencing an off-hand comment from a source about something completely different?
+- Authority. Where is the info coming from? Are they trustworthy?
+- Accuracy. Is the info reliable and correct?
+- Purpose. Why does the information exist? What was their bias, because everyone has some bias.

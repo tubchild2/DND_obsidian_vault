@@ -18,7 +18,7 @@ Cities should be simple, and distinctly themed with a visual component, that's g
 - Pursue
 - Acquire
 - Defend
-- Investigate
+- Investigate / Witch Hunt
 - Compete
 - Confront
 - Deliver
