@@ -4,21 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "c5bc1f866a316eba",
+        "id": "21dd0e6868b6aafd",
         "type": "tabs",
         "children": [
           {
-            "id": "57409f5e82a08e82",
+            "id": "fe87e1ed4dbe103f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LOG EVIDENCE!.md",
+                "file": "Lightning-55 DND/Worldbuilding/Location Profiles L-55.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LOG EVIDENCE!"
+              "title": "Location Profiles L-55"
+            }
+          }
+        ]
+      },
+      {
+        "id": "026720527dc87604",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24d6e57d2c5ef51b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lightning-55 DND/Worldbuilding/World History - Lightning-55.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "World History - Lightning-55"
             }
           }
         ]
@@ -78,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454.5
+    "width": 451.5
   },
   "right": {
     "id": "7efababeab0f1b4b",
@@ -113,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LOG EVIDENCE!.md",
+                "file": "Lightning-55 DND/Worldbuilding/World History - Lightning-55.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from LOG EVIDENCE!"
+              "title": "Outgoing links from World History - Lightning-55"
             }
           },
           {
@@ -169,52 +189,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57409f5e82a08e82",
+  "active": "75bb62ce5edb6dc7",
   "lastOpenFiles": [
-    "Campaign 4 (Lightning-55)/Worldbuilding/Worlds/World L-55 v5.md",
-    "Campaign 4 (Lightning-55)/Sessions/Session  1 - Werewolf.md",
+    "Lightning-55 Classic.zip",
+    "Vaerith.zip",
+    "Lightning-55 DND/Worldbuilding/Things",
+    "Lightning-55 DND/Worldbuilding/NPCs",
+    "Lightning-55 DND/Worldbuilding/Locations",
+    "Lightning-55 DND/Worldbuilding/Groups",
+    "Lightning-55 Classic/Worldbuilding/Worlds/World L-55 v5.md",
+    "Lightning-55 DND/Worldbuilding/World History - Lightning-55.md",
+    "Lightning-55 DND/Worldbuilding",
+    "Lightning-55 DND/Worldbuilding/Location Profiles L-55.md",
+    "Lightning-55 DND/Worldbuilding/The Lightning-55 (DOC).md",
+    "Lightning-55 Classic/Pictures and videos/Cinematic.mp4",
+    "Aiden's Writing Research/Brandon Sanderson's Creative Writing Course/Plot, Setting, and Character.md",
+    "Lightning-55 DND/Pictures and Videos",
+    "Lightning-55 DND",
+    "Aiden's Writing Research/Brandon Sanderson's Creative Writing Course/General Advice + How to Learn to Write.md",
+    "Novel Idea.md",
+    "Brandon Sanderson Lecture 2 PROMISE PROGRESS PAYOFF.md",
+    "Aiden's Writing Research/WR 121 and 122/Writing Tips, Advanced Punctuation Guide.md",
+    "Aiden's Writing Research/Brandon Sanderson's Creative Writing Course",
+    "Aiden's Writing Research/WR 121 and 122/Revision Process.md",
+    "Brandon Sanderson Lecture 1 INTRO.md",
+    "Aiden's Writing Research/Postmodernism, Simulacra, and Irony.md",
+    "Lightning-55 DND/Sessions/Session  1 - Werewolf.md",
+    "Lightning-55 Classic/Worldbuilding/Worlds/World L-55 v4.md",
+    "Lightning-55 Classic/Worldbuilding/Worlds/World L-55 v3.md",
+    "Lightning-55 Classic/Worldbuilding/Worlds/World L-55 v2.md",
     "LOG EVIDENCE!.md",
+    "Lightning-55 Classic/Pictures and videos/Classic Logo.png",
+    "Lightning-55 Classic/Pictures and videos/Guns.png",
+    "Lightning-55 Classic/Pictures and videos/New Logo.png",
+    "Lightning-55 Classic/Pictures and videos/The Solar System.jpg",
+    "Lightning-55 Classic/Pictures and videos/Weapons.png",
+    "Lightning-55 Classic/Crews/L-55 Crew v4.md",
+    "Lightning-55 Classic/Narratives/L-55 v4 (campaign).md",
+    "Lightning-55 Classic/Narratives/L-55 v3.md",
+    "Lightning-55 Classic/Narratives/L-55 v2.md",
+    "Lightning-55 Classic/Narratives/L-55 v1.md",
     "Aiden's Accessory Atlas/RPGE Character Template.md",
     "Kelso L55.md",
     "Maje L-55.md",
-    "Bentley's Gambler Wormus.md",
-    "Campaign 2 (Vaerith)/References/PCs - Vaerith.md",
-    "Campaign 4 (Lightning-55)/Narratives/L-55 v4 (campaign).md",
-    "Aiden's Writing Research/Brandon Sanderson Lecture 2 PROMISE PROGRESS PAYOFF.md",
-    "Aiden's Writing Research/Brandon Sanderson Lecture 1 INTRO.md",
-    "Explore the Island/Demo.md",
-    "Campaign 4 (Lightning-55)/Worldbuilding/The Lightning-55 (DOC).md",
-    "Aiden's Writing Research/Embarrassment, Awkwardness, and Cringe.md",
-    "Campaign 4 (Lightning-55)/Worldbuilding/Location Profiles L-55.md",
-    "Campaign 4 (Lightning-55)/Worldbuilding",
-    "Explore the Island/Explore the Island.md",
-    "Explore the Island/SOStotheworld.wav",
-    "Explore the Island/Saturn Noises.wav",
-    "Explore the Island/wyrmsrestmessage.wav",
-    "Explore the Island",
-    "Aiden's Accessory Atlas/PCC Class Options.md",
-    "Campaign 4 (Lightning-55)/Sessions/Session 1 - Werewolf PLAN.md",
-    "Aiden's Accessory Atlas/To-Do.md",
-    "Aiden's Accessory Atlas/Session Template.md",
-    "Aiden's Accessory Atlas/Session Planning Helper.md",
-    "Aiden's Accessory Atlas/Characters I Like.md",
-    "Aiden's Random Concepts/Joe Schmo Inspo.md",
-    "Aiden's Writing Research/Postmodernism, Simulacra, and Irony.md",
-    "Campaign 4 (Lightning-55)/Pictures and videos/Weapons.png",
     "Aiden's Accessory Atlas/Images/ClassLikesComplexity.png",
-    "Convictions.md",
-    "TEST.md",
-    "Aiden's Accessory Atlas/DND",
     "Aiden's Accessory Atlas/Images/Ability Scores Reference.png",
     "Aiden's Accessory Atlas/Images/Characters.png",
-    "Aiden's Accessory Atlas/PDF/Weapon Sheet.pdf",
-    "Aiden's Accessory Atlas/PDF/nonmagic Sheet.pdf",
-    "Aiden's Accessory Atlas/PDF/Inventory Sheet.pdf",
-    "Aiden's Accessory Atlas/PDF/Character Sheet - Print Version.pdf",
-    "Campaign 4 (Lightning-55)/Pictures and videos/The Solar System.jpg",
-    "Campaign 4 (Lightning-55)/Pictures and videos/New Logo.png",
-    "Campaign 4 (Lightning-55)/Pictures and videos/Classic Logo.png",
-    "Campaign 4 (Lightning-55)/Pictures and videos/Guns.png",
     "Carter 8 bit.png",
     "Carter Hayes.png",
     "Campaign 1 (Uncharted Galaxy)/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
