@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "21dd0e6868b6aafd",
+        "id": "a18aa159c94d365d",
         "type": "tabs",
         "children": [
           {
-            "id": "fe87e1ed4dbe103f",
+            "id": "3ac5e1d76df7578a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lightning-55 DND/Worldbuilding/Location Profiles L-55.md",
+                "file": "Lightning-55/Sessions/1 - Werewolf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Location Profiles L-55"
-            }
-          }
-        ]
-      },
-      {
-        "id": "026720527dc87604",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24d6e57d2c5ef51b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lightning-55 DND/Worldbuilding/World History - Lightning-55.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "World History - Lightning-55"
+              "title": "1 - Werewolf"
             }
           }
         ]
@@ -98,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 200
   },
   "right": {
     "id": "7efababeab0f1b4b",
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Campaign 2 (Vaerith)/References/PCs Vaerith.md",
+                "file": "Lightning-55/Worldbuilding/Laws and Nature/Space Travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PCs Vaerith"
+              "title": "Backlinks for Space Travel"
             }
           },
           {
@@ -133,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lightning-55 DND/Worldbuilding/World History - Lightning-55.md",
+                "file": "Hunter Bo Bunter.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from World History - Lightning-55"
+              "title": "Outgoing links from Hunter Bo Bunter"
             }
           },
           {
@@ -176,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,54 +170,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75bb62ce5edb6dc7",
+  "active": "3ac5e1d76df7578a",
   "lastOpenFiles": [
+    "Lightning-55/Worldbuilding/Map Information/Lightning-55 (Ship) Map Information.md",
+    "Lightning-55/Sessions/1 - Werewolf.md",
+    "Lightning-55/Worldbuilding/Laws and Nature/Space Travel.md",
+    "Aiden's Accessory Atlas/To-Do.md",
+    "Lightning-55/Sessions/1.1 Player Evidence.md",
+    "Lightning-55/Multimedia/Videos/cinematic 2.mp4",
+    "Lightning-55/Multimedia/Videos/Cinematic.mp4",
+    "Lightning-55/Worldbuilding/Map Information/Ashwick.md",
+    "Lightning-55/Worldbuilding/World History - Lightning-55.md",
+    "Lightning-55/Multimedia/Pictures/Ashwick.png",
+    "Cyborg Samurai.jpg",
+    "Hunter's Character.md",
+    "Skyler's Character.md",
+    "Lightning-55/Worldbuilding/Groups/The Confederacy.md",
+    "Hunter Bo Bunter.md",
+    "Lightning-55/Worldbuilding/Groups/Confederate Houses/House Yori.md",
+    "Lightning-55/Worldbuilding/Groups/Confederate Houses/House Sui.md",
+    "Lightning-55/Worldbuilding/Groups/Confederate Houses/House Ren.md",
+    "Lightning-55/Worldbuilding/Groups/Confederate Houses/House Mori.md",
+    "Lightning-55/Worldbuilding/Groups/Confederate Houses/House Kuroda.md",
+    "Lightning-55/Worldbuilding/Groups/Confederate Houses/House Kaga.md",
+    "Lightning-55/Worldbuilding/Groups/Confederate Houses/House Inaba.md",
+    "Lightning-55/Worldbuilding/Groups/Confederate Houses/House Arai.md",
+    "Lightning-55/Multimedia/Videos",
+    "Lightning-55/Multimedia/Pictures",
+    "Lightning-55/Worldbuilding/Map Information/Planets/Venus.md",
+    "Aiden's Writing Research/WR 121 and 122/Rhetorical Devices, Propaganda Techniques, Logical Fallacies.md",
+    "Lightning-55/Worldbuilding/Groups/The Imperium.md",
+    "Lightning-55/Worldbuilding/Things/Bane.md",
+    "Lightning-55/Worldbuilding/Groups/Confederate Houses",
+    "Lightning-55/Worldbuilding/Map Information/Location Profiles L-55.md",
+    "Lightning-55/Worldbuilding/Laws and Nature",
+    "Lightning-55/Worldbuilding/Map Information/Planets/Uranus.md",
+    "Lightning-55/Worldbuilding/Map Information/Planets",
+    "Lightning-55/Multimedia/Pictures/Weapons.png",
+    "Lightning-55/Multimedia/Pictures/The Solar System.jpg",
+    "Lightning-55/Multimedia/Pictures/New Logo.png",
     "Lightning-55 Classic.zip",
     "Vaerith.zip",
-    "Lightning-55 DND/Worldbuilding/Things",
-    "Lightning-55 DND/Worldbuilding/NPCs",
-    "Lightning-55 DND/Worldbuilding/Locations",
-    "Lightning-55 DND/Worldbuilding/Groups",
-    "Lightning-55 Classic/Worldbuilding/Worlds/World L-55 v5.md",
-    "Lightning-55 DND/Worldbuilding/World History - Lightning-55.md",
-    "Lightning-55 DND/Worldbuilding",
-    "Lightning-55 DND/Worldbuilding/Location Profiles L-55.md",
-    "Lightning-55 DND/Worldbuilding/The Lightning-55 (DOC).md",
-    "Lightning-55 Classic/Pictures and videos/Cinematic.mp4",
-    "Aiden's Writing Research/Brandon Sanderson's Creative Writing Course/Plot, Setting, and Character.md",
-    "Lightning-55 DND/Pictures and Videos",
-    "Lightning-55 DND",
-    "Aiden's Writing Research/Brandon Sanderson's Creative Writing Course/General Advice + How to Learn to Write.md",
-    "Novel Idea.md",
-    "Brandon Sanderson Lecture 2 PROMISE PROGRESS PAYOFF.md",
-    "Aiden's Writing Research/WR 121 and 122/Writing Tips, Advanced Punctuation Guide.md",
-    "Aiden's Writing Research/Brandon Sanderson's Creative Writing Course",
-    "Aiden's Writing Research/WR 121 and 122/Revision Process.md",
-    "Brandon Sanderson Lecture 1 INTRO.md",
-    "Aiden's Writing Research/Postmodernism, Simulacra, and Irony.md",
-    "Lightning-55 DND/Sessions/Session  1 - Werewolf.md",
-    "Lightning-55 Classic/Worldbuilding/Worlds/World L-55 v4.md",
-    "Lightning-55 Classic/Worldbuilding/Worlds/World L-55 v3.md",
-    "Lightning-55 Classic/Worldbuilding/Worlds/World L-55 v2.md",
-    "LOG EVIDENCE!.md",
+    "Lightning-55/Worldbuilding/Things",
     "Lightning-55 Classic/Pictures and videos/Classic Logo.png",
     "Lightning-55 Classic/Pictures and videos/Guns.png",
     "Lightning-55 Classic/Pictures and videos/New Logo.png",
     "Lightning-55 Classic/Pictures and videos/The Solar System.jpg",
     "Lightning-55 Classic/Pictures and videos/Weapons.png",
-    "Lightning-55 Classic/Crews/L-55 Crew v4.md",
-    "Lightning-55 Classic/Narratives/L-55 v4 (campaign).md",
-    "Lightning-55 Classic/Narratives/L-55 v3.md",
-    "Lightning-55 Classic/Narratives/L-55 v2.md",
-    "Lightning-55 Classic/Narratives/L-55 v1.md",
-    "Aiden's Accessory Atlas/RPGE Character Template.md",
-    "Kelso L55.md",
-    "Maje L-55.md",
-    "Aiden's Accessory Atlas/Images/ClassLikesComplexity.png",
-    "Aiden's Accessory Atlas/Images/Ability Scores Reference.png",
-    "Aiden's Accessory Atlas/Images/Characters.png",
-    "Carter 8 bit.png",
-    "Carter Hayes.png",
     "Campaign 1 (Uncharted Galaxy)/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
     "PANDORA SCRIPT OVERVIEW.canvas",
     "PANDORA DND Campaign.canvas",

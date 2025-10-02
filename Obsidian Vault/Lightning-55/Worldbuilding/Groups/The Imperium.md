@@ -1,0 +1,1 @@
+The Imperium formed when House Yori's space-faring military camps lost all contact with the Confederacy. They unionized and formed an independent military organization. Like the Samurai, the Imperium could be hired to enforce and kill. They're predominately Christian. The Imperium quickly skyrocketed in influence in the now desperate frontier worlds. 
