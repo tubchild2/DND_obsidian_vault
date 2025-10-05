@@ -44,7 +44,7 @@ Engine Room
 - Check the Engine's Fuel
 - Check the Ship's Air Supply
 - Check the Ship's Power Supply
-- I did add one cool thing; ships of this class and above have a Survivor's Lock; by entering a password you can shut the engine down. This is commonly used as a negotiation tactic. The password is disabled and it can probably be changed if any of you want, so it's not all that important, but it's a fun little worldbuilding quirk of the ship. Don't mess with this.
+- I did add one cool thing; ships of this class and above have a Survivor's Lock; in emergencies you can shut the engine down. This is commonly used as a negotiation tactic. It's not all that important, but it's a fun little worldbuilding quirk of the ship. Very importantly, the only way you can enable or disable the Survivor's Lock is with a small brass engine key. Don't mess with it. It's hung on the wall for anyone to use in *emergencies*. It's unique in its design and, by design, the lock cannot be picked without damaging the engine.
 
 Escape Pod
 - There are two, and they can each fit 2 people, meaning that one of you will have to stay behind.

@@ -1,12 +1,18 @@
-# Pre-Session 
 ### Plot/Goals  
 Part 1: The Setup https://open.spotify.com/playlist/4YpZq4ftXpm1r2GWXiupTN?si=d3e95492bab1459c&pt=b3bc2c74f4980be0f566c6b2d7912581
-- "Welcome aboard the Lightning-55. You're all part of a crew of old-world scavengers; your primary job is to loot the ruins of the frontier worlds, but you'll take just about whatever job if it means you can stay afloat. 2 days ago, you received a job from Dr. Jack Matheny, who promised an exorbitant 50 thousand credits in exchange for an incredibly basic job. He couldn't provide more details, so he requested that you meet him on [[Venus]]. You've been on your way since. At this point, after knowing each other for so long, you've become much more of a family than a crew. Really quickly, let's introduce characters."
-- "Oh, and really quickly, I just want to remind everyone of the Ephesians 5:3 principle. Don't let any uncleanness even be mentioned among you. So if you're thinking of doing or saying something gross, don't."
-- Introduce players. Plant seeds of doubt centered around those secrets they created. Stress that they're a family first, crew second. 
+- "Welcome aboard the Lightning-55. You're all part of a crew of old-world scavengers; your primary job is to loot the ruins of the frontier worlds, but you'll take just about whatever job if it means you can stay afloat. 2 days ago, you received a job from Dr. Jack Matheny, who promised an exorbitant 50 thousand credits in exchange for an incredibly basic job. He couldn't provide more details, so he requested that you meet him on [[Venus]]. You've been on your way since. At this point, after knowing each other for so long, you've become much more of a family than a crew, because you're a whole lot closer and barely functioning as scavengers, so this could be your big break."
+- REMIND ABOUT EPHESIANS 5:3 TO STRESS THEM OUT.
+- Introduce players. 
+	- Plant seeds of doubt centered around those secrets they created. 
+	- Stress that they're a family first, crew second. 
+	- Introduce dynamics. Have each player say who their closest friend is on the ship.
+
+Part 2: [[Venus]] (BUILD FAMILY TRUST)
 - Your ship creakily docks on the desert world of [[Venus]]. Vegetation is nowhere to be seen, thick clouds of sand and dust whip up into your eyes and mouth, and the ruins are caked in layers of dirt and cloth to block the heated sandstorms. In front of you sits the ruins of [[Ashwick]]; a once prosperous town now reduced to a handful of dried wooden structures, and a population well under 100. Dr. Matheny is reportedly waiting for you at "Dirt-Teeth Bar and Bounty." However, you're free to explore the outpost.
+- Make Dr. Matheny INTENSELY LIKABLE
 - Dirt-Teeth
-	- Dr. Matheny introduces himself, and invites them to sit. Though the nature of the mission is largely classified, he's offering a whopping 50,000 credits for a basic 7 day trip from [[Venus]] to [[Neptune]]. He's transporting something that he can't disclose, and he requires that no questions be asked.
+	- Dr. Matheny introduces himself, and invites them to sit. Though the nature of the mission is largely classified, he's offering a whopping 50,000 credits for a basic 7 day trip from [[Venus]] to [[Neptune]]. He's transporting something that he can't disclose, and he requires that no questions be asked. 
+	- He chose them because he knew they trusted each other, and because he could trust them to transport what he's carrying. He really doesn't have to pay them as much as he is, but he's doing it because he likes them.
 	- If they accept, he takes them into a private room in the back and pulls a series of rugs off a surface in the back. Hidden under them, was a large obsidian chest with 6 large purple metal locks. The crate has several vents on the sides that occasionally pulse with purple or golden light. A dense gas slowly trickles out of vents. He needs to move it into his room on the ship. The money will remain on his person until they arrive on [[Neptune]]. He'll be carrying it.
 
 Part 2: The Ship https://open.spotify.com/playlist/6UEti90f4RT12zyDSDgl3v?si=22cc5f3344764730&pt=5841a4bc55b0432a2e50418ecd99195c
@@ -29,7 +35,7 @@ Part 2: The Ship https://open.spotify.com/playlist/6UEti90f4RT12zyDSDgl3v?si=22c
 	- Dr. Matheny cooks chicken for everyone. He's not good at cooking, but he tries. He's an awkward, shy scientist. He really admires Maje for his scientific mind. He fumbles with his words.
 	- Dr. Matheny asks what everyone wants to buy with the 50k?
 		- "What would you buy, Dr. Matheny?"
-			- "Oh well, I don't think any of you would be interested in that nonsense. No disrespect to anyone in here, but the only person who'd probably understand it is Maje, who's a super chill guy might I add. I would tell you anyways but I'm not really supposed to talk about it. To put it simply, it'd be a bunch of earth technology and parts for my work."
+			- "Oh well, I don't think any of you would be interested in that nonsense. No disrespect to anyone in here, but the only person who'd probably understand it is Maje, who's a super chill guy might I add. I would tell you anyways but I'm not really supposed to talk about it. To put it simply, it'd be a bunch of [[earth]] technology and parts for my work."
 	- Dr. Matheny is quiet, and then he asks everyone what their biggest fears are.
 		- "What's your greatest fear, Dr. Matheny?"
 			- "When I was a child, I used to listen to the signals from space at night up on the hill by my home. One night, I overheard something from far beyond the solar system, something impossibly old. It sounded human, like a distress call. Someone was calling to me from the deep, but there couldn't have been anyone out there. I didn't sleep that night. So, what scares me, is the idea that there's something out there I'll never understand; that there's something so horrible and so powerful that it could just toy with me like that. That thing is what scares me."
@@ -53,11 +59,11 @@ Part 3: The Inciting Incident https://open.spotify.com/playlist/62jmlPBL4uNg42FC
 		- Let them do the other thing last.
 	2. Out of the corner of your eye, and just within your range of hearing, you notice a faint beeping red light coming from the cockpit radio.
 		- Out of the corner of your eye, a faint red light blinks on the cockpit radio — a soft beeping, almost lost beneath the hum of the ship.
-		- You remember the warnings from training: never touch the radio, never question its silence. Its importance was not to be tested. But the message log tells a different story. Someone — _someone on this ship_ — sent an outgoing distress call, a short burst of text, directly to the Confederacy. They told them who you are, where you are, and about the illegal cargo aboard.
-		- Your stomach drops as you scroll through the logs. The blinking red light isn’t just a warning; it’s a response. The Confederacy accepted the message.
+		- You remember the warnings from training: never touch the radio, never question its silence. Its importance was not to be tested. But the message log tells a different story. Someone — _someone on this ship_ — sent an outgoing distress call, a short burst of text, directly to [[the Confederacy]]. They told them who you are, where you are, and about the illegal cargo aboard.
+		- Your stomach drops as you scroll through the logs. The blinking red light isn’t just a warning; it’s a response. [[The Confederacy]] accepted the message.
 		- They’ll be here in one hour. And when they arrive, they won’t come to negotiate. They’ll enslave, torture, interrogate, sell, or kill you all — like they’ve done to countless others. You can almost hear the echoes of the friends you’ve lost to them, the ships they’ve reduced to ash, the stories of people who thought they could escape.
 		- They don’t care about criminals. They care about control. They’re fast. Unpredictable. Absolute. A single one of their ships could destroy twenty like yours without breaking formation. The Lightning-55 doesn’t even have guns.
-		- No one survives the Confederacy. No one. And now they’re coming.
+		- No one survives [[the Confederacy]]. No one. And now they’re coming.
 		- You have one hour. What do you do?
 		- Let them do the other thing last.
 	3. As you're walking, you hear something coming from the bedrooms that instantly catches you off guard. It's the sound of muffled screaming, of desperate choking and gargling to try and get free. The clatter of objects falling as someone attempts to crawl to safety and cry for help. What do you do?
@@ -70,18 +76,20 @@ Part 3: The Inciting Incident https://open.spotify.com/playlist/62jmlPBL4uNg42FC
 	5. As you pass by the engine room, you hear it's reassuring sputtering and clanking. Then, suddenly, it stops. Someone just turned the engine off mid-flight.
 		- Let them do the other thing first. You can continue on if you'd like.
 		- As you enter into the engine room, you notice the a vent cover has been pulled off the wall. The engine is completely deactivated, and its brass panel has been ripped open.
-			- The captain's lock feature has been enabled, meaning that somebody locked the engine and changed the password. There's now way around it without damaging the ship, meaning that unless you find out who did this, the ship isn't going to be moving any time soon. You're adrift in space now.
+			- The captain's lock feature has been enabled, meaning that somebody locked the engine. There's no way around it without damaging the ship, meaning that unless you find out who did this, the ship isn't going to be moving any time soon. You're adrift in space now.
+			- The Key is missing. Someone has it.
 - Gather everyone back together and ask if they'd like to go to bed, or meet back together and discuss.
 
-Part 4: The Witch Hunt (cut the music or continue the dread music, whichever seems better)
+Part 4: The Witch Hunt (cut the music or play Early takes Serenity, whichever seems better)
 - Don't reveal this, but this is the situation (despite the fuzzy timeline):
-	- Someone aboard the ship disabled the engine and changed the password, locking your ship in space.
+	- Someone aboard the ship disabled the engine and took the key, locking your ship in space.
 	- This individual then entered Dr. Matheny's room, killed him, stole the 50,000 credits, and emptied his cargo.
 	- Then, wanting to cover their tracks, they took out the ship's cameras, and erased the footage.
 	- Finally, they contacted [[the Confederacy]]. They told them about something illegal, and now they're on their way.
 	- [[The confederacy]] is going to board your ship in one hour, and you'll be severely outmatched.
+	- One of them is a traitor and has the key on them.
 - From my perspective, as the GM, you have a few options:
-	- You can figure out who did it and either execute them with the airlock, leave them behind with the escape, or try to get the engine password out of them to get the ship moving.
+	- You can figure out who did it and either execute them with the airlock, leave them behind with the escape, or try to get the engine key out of them to get the ship moving.
 	- You can hunker down and attempt to fight off [[the confederacy]] as a team with a severe disadvantage.
 	- Or you can turn on each other and take the pod for yourselves, dooming everyone else on board.
 - Start the 1 hour real-time timer.
@@ -93,10 +101,10 @@ Part 5: Endings https://open.spotify.com/playlist/5roXHx1Q5C97mEGZATwv6T?si=9b66
 - Conflict. The sound of shouts, blades, and gunfire plays over and over in your head. Your family has just torn itself apart, and now it's quiet. The survivors stumble into the escape pods, blood on their hands, hearts heavy, and you say nothing. You may have kept your life, but you also may have lost something greater than that. That's where we'll leave it.
 - Nobility. One of you stayed behind. Not because anyone one forced them — but because it was their choice. A final smile, a last word, a hand pressed to the glass as the rest of you seal the pod. As the pod launches, you see them grow smaller, standing proud and unshaken in the flickering lights of the ship. It’s a sacrifice you’ll carry forever. You survive — because they chose hope, because they chose _you._ You don't know who did it, or even if it was one of you. Despite that, you still chose without reservation to lay down your life to save the others, and that's what it means to be a family. That's where we'll leave it.
 - Abandoned. The decision is made too quickly. Maybe it was fear. Maybe it was cruelty. One is left behind, pounding on the glass, begging for a chance they never got. The pod ignites, and you drift away, leaving their voice to fade into silence. Survival is yours — but when you close your eyes, all you’ll see is the moment you abandoned your own. Was it worth it? Was leaving them to face unbeatable odds to save yourself the best decision? You'll never know. That's where we'll leave it.
-- Together. The alarms blare. The Confederacy is coming. And yet… none of you move for the pods. Not one. You stand shoulder to shoulder, weapons in hand, hearts steady. You know the odds. You know what’s coming. But you also know this: no one here is a traitor. No one here is your enemy. As the ship shudders and the enemy closes in, you feel something rare, something unbreakable. Even if you die tonight, you’ll die together — a family, to the very end. You feel a sharp sense of pride come up into your hearts. That's where we'll leave it.
+- Together. The alarms blare. [[The Confederacy]] is coming. And yet… none of you move for the pods. Not one. You stand shoulder to shoulder, weapons in hand, hearts steady. You know the odds. You know what’s coming. But you also know this: no one here is a traitor. No one here is your enemy. As the ship shudders and the enemy closes in, you feel something rare, something unbreakable. Even if you die tonight, you’ll die together — a family, to the very end. You feel a sharp sense of pride come up into your hearts. That's where we'll leave it.
 
 ### Notable NPCs
 Dr. Jack Matheny
 	Awkward
-	Suspicious
+	INCREDIBLY Suspicious. LIKE DIVERT SUSPICION ONTO HIM
 	Deep Voice

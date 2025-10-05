@@ -1,9 +1,8 @@
-- Pictures of weapons
-- Pictures for each class. 
-- Rebalance for Skyler's character choices
-	- Brute
-	- Cyborg
-	- Samurai
-	- Hexsteel
-	- Cybernetic Arm
+Pictures of weapons
+Pictures of classes. 
+
+Rebalanced Medic to make them more fun to play
+
+Costs for items and tools and stuff
+
 
