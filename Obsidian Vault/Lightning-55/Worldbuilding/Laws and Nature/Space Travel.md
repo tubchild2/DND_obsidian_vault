@@ -34,7 +34,7 @@ Specifications
 - Drones: 0
 Additions
 + 1 Double Bedroom or 2 Single Bedrooms
-+ Cockpit / Radio Room
++ Cockpit / Radio
 + Airlock
 
 **Class 2 Ship; Transport**

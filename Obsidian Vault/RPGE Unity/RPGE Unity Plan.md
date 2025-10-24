@@ -1,0 +1,92 @@
+My goal is to create a user friendly program that provides the following feature:
+- RPGE Maker Mode. Allows you to define and save features, properties, backgrounds, classes, species, skills, and items into libraries in the RPGE File Format to allow them to be easily shared and imported. You can additionally use this mode to modify other's libraries and save different copies of them.
+- RPGE Campaign Maker Mode. Allows you to create a campaign by combining libraries with brief descriptions. Saves these libraries into folders on your computer.
+- RPGE Player Maker Mode. Allows you to create characters using the libraries from an imported or selected campaign. Saves the character as an easily copied string of text, or to a text file.  
+
+Maker Mode lets you create and edit Library files. Each contains:
+- Library Information
+	- Name
+	- Author
+	- Date of Creation
+	- Description
+- Features
+	- Names
+	- Descriptions
+	- Function Descriptions
+- Items
+	- Names
+	- Descriptions
+	- Types (weapon, armor, consumable, currency, tool, item)
+	- Function descriptions
+- Properties 
+	- Names
+	- Descriptions
+	- Item Type Bindings (weapon, armor, consumable, currency, tool, item)
+	- Function descriptions
+- Skills
+	- Names
+	- Descriptions
+	- Triggers
+	- Inherited Stats
+- Backgrounds
+	- Names
+	- Descriptions
+	- +1 to selected stat
+	- +1 to 3 selected skills
+	- Selected features
+	- Selected equipments
+- Species
+	- Names
+	- Descriptions
+	- +1 to selected stat
+	- +1 to 3 selected skills
+	- Selected features
+- Class
+	- Names
+	- Descriptions
+	- HP per level
+	- +1 to selected stat
+	- +1 to 3 selected skills
+	- +1 to 2 different lvl 0 weapons
+	- Selected class features
+	- Selected features
+	- Selected equipments
+
+PLAYER MAKER MODE
+- Default all values to 0
+- Traits, Backstory, Goals, Flaws, Appearance
+- Assign 6 core stats with standard array
+- +1 to 2 different lvl 0 weapons
+- +1 to 3 different skills
+- Select Species
+	- Apply +1 to selected stat
+	- Apply +1 to 3 selected skills
+	- Apply selected feature
+	- Calculate Speed
+- Select Class
+	- Apply +1 to selected stat
+	- Apply +1 to 3 selected skills
+	- Apply +1 to 2 different lvl 0 weapons
+	- Apply class feature
+	- Apply feature
+	- Apply equipment
+- Select Background
+	- Apply +1 to selected stat
+	- Apply +1 to 3 selected skills
+	- Apply feature
+	- Apply equipment
+- Calculate Health
+- Calculate Defense
+	- Automatically equip highest defense armor upon creation
+- Additional Levels Gained
+	- Recalculate Health
+	- +1 to selected stat (max 5)
+	- +1 to 2 selected skills (max 5)
+	- +1 to 2 different weapons (max 5)
+
+Campaign mode
+- Campaign Information
+	- Name
+	- Author
+	- Date
+	- Description

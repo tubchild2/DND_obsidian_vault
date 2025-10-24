@@ -1,0 +1,66 @@
+## HTML is for structure
+- Starts with indication of document type, followed by a head part and page title, and then the body
+	- Typically, this looks like the following (ignore the apostrophes):
+		- <'!DOCTYPE html>
+		- <'html lang = "en"> (encloses everything else)
+		- <'head>
+			- <'meta charset="UTF-8"> (this should be included)
+			- <'title>INSERT TITLE HERE<'/title>
+		- <'/head> 
+			- Contains document title, metadata, and other things that aren't displayed in the webpage
+		- <'body>
+		- <'/body>
+		- You can additionally divide up html code with sections with <'section> <'/section>
+- Elements are represented by tags
+	- h1, h2, and h3 are headers
+	- p is for paragraphs
+		- You can give them the id="" attribute so that links can put # whatever_was_in_the_quotes to link to that specific section.
+	- em or i or cite is for italic 
+	- strong or b is for bold
+	- img is for images
+		- <'img src="INSERT FILE LOCATION HERE" alt="INSERT ALT ATTRIBUTE HERE> (doesn't require closing tag)
+		- You can put other attributes 
+			- height=""
+			- width=""
+	- a is for links (for some reason)
+		- <'a href = "INSERT LINK HERE"> INSERT HYPERLINK TEXT HERE<'/a>
+	- br is for the background I assume? Doesn't need a closing tag
+	- <'html lang = "INSERT LANGUAGE (probably just EN) HERE"> encloses everything 
+	- <'meta> is for metadata
+	- <'br> inserts a line break into a paragraph
+	- <'mark> highlights something
+	- <'u> is for underlining
+	- <'!-- is for tags -->
+	- LISTS (you can nest these, but you've got to do it in a weird way where you basically need to leave a list element opened until the nested list is done.)
+		- <'ul><'ul> creates an unordered list (bullet points) where each element is seperated with the tag <'li><'/li>
+		- <'ol type =""><'/ol> is used to create ordered lists of a few types depending on what you put in those quotation marks. 1 will create a numbered list, A and capital alphabetical list, I a roman numeric list, and so on.
+	- TABLES
+		- started with <'table> and ended with <'/table>
+		- captioned with <'caption><'/caption>
+		- Rows are made with <'tr>and<'/tr>
+		- Within the rows, cells are made with the <'th> and <'/th> tags for row headers, and normal table data for subsequent rows is entered with the <'td> and <'/td> tags
+			- You can add some stuff to change how many columns and how many rows these cells take up
+			- <'td rowspan = "3"><'/td>
+			- <'th colspan = "3"><'/th>
+	- LINKS
+		- Types of URLs
+			- file. For referring to a file on the web browser's computer
+			- ftp. File transfer protocol. Downloading files.
+			- Http. http requests without encryption
+			- Https. Encrypted http requests and responses
+			- mailto. Sending emails.
+		- Relative URLS
+			- To access files in the same directory
+			- If it's in the same folder, just put the name of the file
+			- If it's a layer down, put FOLDER_ITS_IN/FILE with the /
+			- If it's a layer up, put ../ to move up a directory.
+		- target attribute
+			- target="'(UNDERSCORE)self" opens the link and erases the current tab
+			- target="(UNDERSCORE)blank" opens the link in a new tab
+	- Special characters can be written by entering weird and specific things:
+		- Three ways
+			- &name;
+			- &number;
+			- &hex;
+![[Some text formatting elements.png]]
+- Tags are defined with <> and <'/> (ignore the apostrophe) to represent where the element begins and where it ends 

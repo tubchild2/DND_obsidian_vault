@@ -1,0 +1,146 @@
+**Engine**
+- [x] Scene Management
+- [x] Main Menu UI
+- [x] Preferences Document
+- [x] User Data Folder Creation and Repair
+- [x] Basic Library Creation and Deletion
+- [x] Basic Player Creation and Deletion
+- [x] Username Creation and Management
+
+**Maker Mode**
+- [x] Library Manager
+	- [x] Load
+	- [x] New
+	- [x] Delete
+	- [x] Copy To
+- [x] Edit Library Information
+- [x] Remove Entity From Library
+- [x] Skill Maker
+- [x] Weapon Maker
+- [x] Armor Maker
+- [x] Consumable Maker
+- [x] Currency Maker
+- [x] Tool Maker
+- [x] Item Maker
+- [x] Property Maker
+- [x] Feature Maker
+- [x] Background Maker
+- [x] Species Maker
+- [x] Class Maker
+- [x] Condition Maker
+- [x] Get Skill
+- [x] Get Weapon
+- [x] Get Armor
+- [x] Get Consumable
+- [x] Get Currency
+- [x] Get Tool
+- [x] Get Item
+- [x] Get Property
+- [x] Get Feature
+- [x] Get Background
+- [x] Get Species
+- [x] Get Class
+- [x] Get Condition
+- [x] Get All Skills
+- [x] Get All Weapons
+- [x] Get All Armors
+- [x] Get All Consumables
+- [x] Get All Currencies
+- [x] Get All Tools
+- [x] Get All Items
+- [x] Get All Properties
+- [x] Get All Features
+- [x] Get All Backgrounds
+- [x] Get All Species
+- [x] Get All Classes
+- [x] Get All Conditions
+- [x] Default Skills
+
+**Character Mode**
+- [ ] Character Manager
+	- [ ] Load
+	- [ ] New
+	- [ ] Delete
+	- [ ] Import
+	- [ ] Clone
+- [ ] Character Creation
+	- [ ] Name, Personality Traits, Flaws, Backstory, Goals
+	- [ ] Choices
+		- [ ] Starting Level Select
+		- [ ] Core Stat Assignment
+		- [ ] Starter Skill Assignment
+		- [ ] Species, Background, Class Selection
+	- [ ] Results
+		- [ ] Find Health, Speed, Defense
+- [ ] Character Editor
+	- [ ] Level Up
+	- [ ] Edit Name, Personality Traits, Flaws, Backstory, Goals
+	- [ ] Copy to Clipboard
+	- [ ] Export as Text File
+
+**Polish**
+- [ ] Color
+	- [ ] Mode Color Pallets
+	- [ ] Animated Backgrounds
+- [ ] UI
+	- [ ] Compact UI Restructure
+	- [ ] Labels
+	- [ ] UI Icons and Images
+		- [ ] Shadows and Depth
+	- [ ] Animations
+		- [ ] Hover Effects
+		- [ ] Press/Click Animations
+		- [ ] Particles
+	- [ ] Scene Transitions 
+	- [ ] Loading Indicator
+- [ ] Information
+	- [ ] Tips
+	- [ ] Confirmation Messages
+	- [ ] Error Messages
+	- [ ] Tooltips on Hover
+	- [ ] Tutorial?
+- [ ] Preferences
+	- [ ] Font Size Options
+	- [ ] Audio Settings
+	- [ ] Scoring System Tied to Account
+- [ ] Sound
+	- [ ] Music
+	- [ ] SFX
+
+**Patch 1**
+- [ ] Add Section Checker to Get (prevent duplicate errors)
+- [ ] Add Section Checker to Add (prevent duplicates)
+- [ ] Add Repetition Checker to Remove (prevent duplicate deletion)
+- [ ] Balance check for HP, defense, damage output, and roll modifiers
+- [ ] UI Scaling Support
+
+**Update 1 : DM Mode**
+- [ ] Maker Mode
+	- [ ] Import
+	- [ ] Enemy Maker + Get Enemy
+	- [ ] Loot Table Maker + Get Loot Table
+	- [ ] Item support for species
+	- [ ] Item Costs
+	- [ ] Multi Currency for 
+		- [ ] Backgrounds
+		- [ ] Classes
+		- [ ] Item Costs
+	- [ ] Decimal Support for HP, Currency, and Tile Speed
+	- [ ] Library View update
+	- [ ] Copy From Panel
+		- [ ] Search All Libraries for Object to Copy
+- [ ] DM Screen
+	- [ ] Session Planner
+	- [ ] Campaign Planner
+	- [ ] Content Browser
+- [ ] Player Mode
+	- [ ] Take Damage / Heal
+	- [ ] Skill Check
+	- [ ] Attack Roll
+- [ ] Polish
+	- [ ] Theme Support (Light / Dark / Terminal)
+
+**Update RPGE Written Rules**
+- [ ] Species now grant hp per level
+- [ ] Species grant hp
+- [ ] Items have costs
