@@ -24,7 +24,7 @@ Over the next 2 weeks, he practiced, and he discovered what he was truly capable
 That's when he made a vow. Whenever he's alerted to the PCs actions, and they do something inhumane, he will hunt them down. They have no chance at killing him, but they may evade him for a short amount of time. Unless they tip the scales back to balance and undo whatever they did, he's going to hunt them indefinitely.
 
 
-The True Arbiter; The Lost Judge; The Game Master's Angel
+**The True Arbiter; The Lost Judge; The Game Master's Angel**
 Dale Borland's entire family was brutally mutilated by the PCs as a joke. This was a sin so pure, so unbelievable, that he managed to survive the assault and go after them. Despite being as powerful as he was, they escaped and eventually killed him through sheer luck. They then went on to literally destroy the universe and everything in it.
 
 As one final act, the "Dreamer," a cosmic entity perpetuating the dying universe, formulated a plan. The Dreamer was essentially the GM's angel; a being gifted with narrative influence, allowing them to alter reality as they see fit. The Dreamer was going to be eliminated when the campaign ended by the GM's choice, but if they combined into a single entity, they could survive and continue to act under the GM. Dale agreed and blacked out. When he woke up, he was in the void; the realm of the GM. Together, they agreed that his new role would be as the Last Arbiter, as the GM's personal judge. 

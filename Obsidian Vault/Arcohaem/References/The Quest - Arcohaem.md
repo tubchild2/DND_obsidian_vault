@@ -1,57 +1,57 @@
 #### Chapter 1 - The [[PCs - Arcohaem|Wolves of Arcohaem]]
-- [ ] Introduce everyone's characters
-	- [ ] All fiercely loyal to the republic, and all anti-[[Frigoshia]]. 
-- [ ] Part 1: In Medias Res
-	- [ ] Theater of the mind
-	- [ ] Krothmire
-		- [ ] Dead prisoners no one is bothering to clean them up; they're just piling up in the corner.
-		- [ ] Prisoners are forced to work in the forge.
-		- [ ] Guards are covering their faces, treating the prisoners with cruel indifference, have deep distorted voices, and don't speak in common.
-	- [ ] Contact
-		- [ ] You begin to hear a loud beeping sound coming from your pockets. 
-		- [ ] A small marble triangular beacon no larger than the palm of your hand with a glowing light in the center is beeping. It's transmitting an encoded message from your commander:
-			- [ ] EMERGENCY. BY ORDER OF THE CHANCELLOR, RETURN TO CAPITAL IMMEDIATELY. ONGOING MISSION NULLIFIED - CMR KRAGKNULL.![[emergencynotice.wav]]
-	- [ ] Level up (10-11)
-- [ ] Part 2: Long Live the Republic
-	- [ ] Establish the propaganda
-		- [ ] Where will you tell your children you were during the war? It shows a dad who's deeply ashamed.
-		- [ ] It shows a [[Frigoshia|Frigoshian]] inside a child's bedroom with a weapon. It's captioned, "you didn't act fast enough."
-		- [ ] Don't stand for terrorism! Report [[Frigoshia|Frigoshian]] activity.
-		- [ ] Fighting for the Republic means independence, justice, and heroism.
-		- [ ] It's a village burning down due to a [[Frigoshia|Frigoshian]] invasion. It's captioned, "He stayed silent, now they're all dead. Report [[Frigoshia|Frigoshian]] activity."
-		- [ ] Everyone's enlisted - what about you?
-		- [ ] It shows a soldier waving goodbye to a little girl. It's captioned, "For her future"
-		- [ ] It shows a group of [[Frigoshia|Frigoshians]] running away from one Republic soldiers. "[[Frigoshia|Frigoshian]]? Or just a coward in Fur."
-		- [ ] [[Frigoshia]] is fighting to live in squalor, don't let them win!
-	- [ ] Let them explore
-		- [ ] Soldiers on parade
-		- [ ] Trains transporting refined Eathyst.
-		- [ ] Propaganda
-	- [ ] Senate Building
-		- [ ] Protected by several guards accompanied by Commander Kragknull. He welcomes them back to the Republic and leads them to the briefing room, which has 3 tall windows overlooking the city, and busts of Chancellor Kaul.
-- [ ] Part 3: Commander Kragknull's Exposition Dump... *ahem* Mission Briefing.
-	- [ ] Do you know what I've seen over my years as a commander? Savagery. I've seen my own friends get killed with no hesitation, no mercy, no weakness, no nothing. I don't believe they want to act human. They fight and kill without showing their faces, or speaking, or showing any empathy, all to live in squalor. It confounds me why some of our own citizens go out of their way to protest this conflict like we're somehow at fault here. In my eyes, if they want to act like savages, we reserve the right to treat them as such. I didn't believe anything they could do could surprise me at this point, but this most recent development has rocked me to my very core.
-	- [ ] Two weeks ago, 5 of our soldiers were separated in the heat of battle and got lost wandering the plains. While wandering, they discovered a [[Frigoshia|Frigoshian]] transport carrying incubation equipment, and a dragon egg. This has led the Senate to believe that the [[Frigoshia|Frigoshians]] are running a covert dragon breeding program, likely for military use. A single adult dragon could decimate [[Hephaestus]] before we even got a chance to respond. We don't know how many they have, and we can't get an army past the Howling Front to stop them.
-	- [ ] So, that's where you come in. Chancellor Kaul, the Senate, myself, and you are the only ones aware of this mission's existence. It's simple, but far from easy, and has 3 parts.
-		- [ ] First, you need to infiltrate [[Frigoshia]]. None of our armies have ever been able to push through the Howling Front, so you'll need to be clever when going through or around it.
-		- [ ] Second, you need to locate the dragon breeding program. It's likely hidden within the [[Frigoshia|Frigoshian]] capital [[Frigoshia|Torhild]]. We have no reconnaissance beyond the front, so expect the worst. You need to be fast, quiet, and ready for a fight. Don't trust anyone there; remember, they start training to kill at 8. You'll likely need to perform some light espionage to pinpoint its exact location.
-		- [ ] Third, you need to destroy it, and eliminate any living dragons and eggs. It is of the utmost importance you don't miss any, because if even one is left, it could spell disaster for the Republic, and for all of Serendipita. 
-	- [ ] Finally: Chancellor Kaul personally selected you for this mission, which was... not a popular choice within the senate. You're all good soldiers, but your track record is inconsistent. I trust you to do this mission, but most don't, so you need to step up.
-	- [ ] To support your mission, you'll each be given:
-		- [ ] 5000gp
-		- [ ] A communicator
-			- [ ] Allows secure communication with one or more allies at once. You can contact me with this device if necessary. Do not contact Chancellor Kaul. 
-			- [ ] Do not remove or tamper with the devices.
-			- [ ] Grants +2 to initiative rolls when within 100ft of an ally.
-		- [ ] And one of these 5 items
-			- [ ] Hat of Ethology. DC 10 Arcana check to use unknown scholar spin once per long rest.
-			- [ ] Immovable Rod. Button on one end to make it fixed in place. DC 30 to move it 10ft. 8000lbs.
-			- [ ] Gloves of Thievery. +5 to sleight of hand checks.  
-			- [ ] Ring of Protection. +1 to AC and saves. Universally helpful.
-			- [ ] +3 Dagger that teleports to the user as a bonus action.
-	- [ ] This is a map of [[Arcohaem]] to assist you with planning your mission. I'll leave you to that, but contact me if you need assistance. 
+- [x] Introduce everyone's characters
+	- [x] All fiercely loyal to the republic, and all anti-[[Frigoshia]]. 
+- [x] Part 1: In Medias Res
+	- [x] Theater of the mind
+	- [x] Krothmire
+		- [x] Dead prisoners no one is bothering to clean them up; they're just piling up in the corner.
+		- [x] Prisoners are forced to work in the forge.
+		- [x] Guards are covering their faces, treating the prisoners with cruel indifference, have deep distorted voices, and don't speak in common.
+	- [x] Contact
+		- [x] You begin to hear a loud beeping sound coming from your pockets. 
+		- [x] A small marble triangular beacon no larger than the palm of your hand with a glowing light in the center is beeping. It's transmitting an encoded message from your commander:
+			- [x] EMERGENCY. BY ORDER OF THE CHANCELLOR, RETURN TO CAPITAL IMMEDIATELY. ONGOING MISSION NULLIFIED - CMR KRAGKNULL.![[emergencynotice.wav]]
+	- [x] Level up (10-11)
+- [x] Part 2: Long Live the Republic
+	- [x] Establish the propaganda
+		- [x] Where will you tell your children you were during the war? It shows a dad who's deeply ashamed.
+		- [x] It shows a [[Frigoshia|Frigoshian]] inside a child's bedroom with a weapon. It's captioned, "you didn't act fast enough."
+		- [x] Don't stand for terrorism! Report [[Frigoshia|Frigoshian]] activity.
+		- [x] Fighting for the Republic means independence, justice, and heroism.
+		- [x] It's a village burning down due to a [[Frigoshia|Frigoshian]] invasion. It's captioned, "He stayed silent, now they're all dead. Report [[Frigoshia|Frigoshian]] activity."
+		- [x] Everyone's enlisted - what about you?
+		- [x] It shows a soldier waving goodbye to a little girl. It's captioned, "For her future"
+		- [x] It shows a group of [[Frigoshia|Frigoshians]] running away from one Republic soldiers. "[[Frigoshia|Frigoshian]]? Or just a coward in Fur."
+		- [x] [[Frigoshia]] is fighting to live in squalor, don't let them win!
+	- [x] Let them explore
+		- [x] Soldiers on parade
+		- [x] Trains transporting refined Eathyst.
+		- [x] Propaganda
+	- [x] Senate Building
+		- [x] Protected by several guards accompanied by Commander Kragknull. He welcomes them back to the Republic and leads them to the briefing room, which has 3 tall windows overlooking the city, and busts of Chancellor Kaul.
+- [x] Part 3: Commander Kragknull's Exposition Dump... *ahem* Mission Briefing.
+	- [x] Do you know what I've seen over my years as a commander? Savagery. I've seen my own friends get killed with no hesitation, no mercy, no weakness, no nothing. I don't believe they want to act human. They fight and kill without showing their faces, or speaking, or showing any empathy, all to live in squalor. It confounds me why some of our own citizens go out of their way to protest this conflict like we're somehow at fault here. In my eyes, if they want to act like savages, we reserve the right to treat them as such. I didn't believe anything they could do could surprise me at this point, but this most recent development has rocked me to my very core.
+	- [x] Two weeks ago, 5 of our soldiers were separated in the heat of battle and got lost wandering the plains. While wandering, they discovered a [[Frigoshia|Frigoshian]] transport carrying incubation equipment, and a dragon egg. This has led the Senate to believe that the [[Frigoshia|Frigoshians]] are running a covert dragon breeding program, likely for military use. A single adult dragon could decimate [[Hephaestus]] before we even got a chance to respond. We don't know how many they have, and we can't get an army past the Howling Front to stop them.
+	- [x] So, that's where you come in. Chancellor Kaul, the Senate, myself, and you are the only ones aware of this mission's existence. It's simple, but far from easy, and has 3 parts.
+		- [x] First, you need to infiltrate [[Frigoshia]]. None of our armies have ever been able to push through the Howling Front, so you'll need to be clever when going through or around it.
+		- [x] Second, you need to locate the dragon breeding program. It's likely hidden within the [[Frigoshia|Frigoshian]] capital [[Frigoshia|Torhild]]. We have no reconnaissance beyond the front, so expect the worst. You need to be fast, quiet, and ready for a fight. Don't trust anyone there; remember, they start training to kill at 8. You'll likely need to perform some light espionage to pinpoint its exact location.
+		- [x] Third, you need to destroy it, and eliminate any living dragons and eggs. It is of the utmost importance you don't miss any, because if even one is left, it could spell disaster for the Republic, and for all of Serendipita. 
+	- [x] Finally: Chancellor Kaul personally selected you for this mission, which was... not a popular choice within the senate. You're all good soldiers, but your track record is inconsistent. I trust you to do this mission, but most don't, so you need to step up.
+	- [x] To support your mission, you'll each be given:
+		- [x] 5000gp
+		- [x] A communicator
+			- [x] Allows secure communication with one or more allies at once. You can contact me with this device if necessary. Do not contact Chancellor Kaul. 
+			- [x] Do not remove or tamper with the devices.
+			- [x] Grants +2 to initiative rolls when within 100ft of an ally.
+		- [x] And one of these 5 items
+			- [x] Hat of Ethology. DC 10 Arcana check to use unknown scholar spin once per long rest.
+			- [x] Immovable Rod. Button on one end to make it fixed in place. DC 30 to move it 10ft. 8000lbs.
+			- [x] Gloves of Thievery. +5 to sleight of hand checks.  
+			- [x] Ring of Protection. +1 to AC and saves. Universally helpful.
+			- [x] +3 Dagger that teleports to the user as a bonus action.
+	- [x] This is a map of [[Arcohaem]] to assist you with planning your mission. I'll leave you to that, but contact me if you need assistance. 
 
-#### Chapter 2 - Remember... Remember Why We Fight, Wolves.
+#### Chapter 2 - Remember Why We Fight
 - [ ] Commander Kragknull checks in on them and gives them more advice. He's pretty helpful. Establish his good relationship with them
 - [ ] They visit a neutral village with a [[Frigoshia|Frigoshian]] battalion waiting to ambush it. They're one battalion under [[Frigoshia|Frigoshian]] Captain Alric.
 - [ ] They form a bond with some of the people there.

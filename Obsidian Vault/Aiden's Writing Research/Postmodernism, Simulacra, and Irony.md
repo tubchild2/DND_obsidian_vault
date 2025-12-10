@@ -8,7 +8,7 @@ Modern culture: imitations of reality brought about via consumerism lessened int
 Postmodern culture: mass produced media bombards us, and has become so self-referential that it's all copies of an original that doesn't exist anymore. We can't differentiate simulation from reality, and in that, they've become the same thing. There's no sense of truth, since any interpretation can be correct.
 
 
-## Simulacra
+## Levels of Simulacra
 Reality. Sincere, and true.
 - House
 
@@ -22,7 +22,7 @@ Hyperreality. Complete loss of separation from reality. A copy without an origin
 - Destroying the original house
 
 
-## Irony
+## Types of Irony
 Sincerity. Basic reality.
 - I like bears.
 
