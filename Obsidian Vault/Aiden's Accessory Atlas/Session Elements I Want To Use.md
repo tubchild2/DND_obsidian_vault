@@ -39,36 +39,21 @@ One player has a key piece of immovable information that they need to communicat
 
 Inspired by: Stranger Things Season 2 Episode 8 : The Mind Flayer. Stuck in the lab with demo-dogs, underpowered, forced separation due to skill differences.
 
-### The King in Yellow
-Cosmic horror element with a focus on dread.
-"Far away, across the field, the tolling of the iron bell calls the faithful to their knees, to hear the softly spoken magic spells." 
-"If you hear that old bell toll, thank and brace, for you must do his work for him, for he's almost at the door. Better to die a thousand times than to meet the bell ringer before your appointed time."
+### Bell Ringer
+Cosmic horror element with a focus on dread. A lot of people die in it, there's a lot of focus on time and graveyards. It's the existential crisis of tabletop. What should you do with your time? Should you fear death? How do other people react to death? Just a whole lot of death. It's got great emotional weight and is a good setup for a lot of great stories. I shy away from it a lot: why not go all in?
 
-Parts:
-- There's a grand thing all the players want to do
-- People hear a bell tolling in the distance. On the 7th coming night, they see something no one else can see and run out into the woods and disappear. People have been hearing screaming from the woods at night. On each subsequent night, you hear the bell, and then receive a note. The memory of the people who went missing is then slowly taken; people forget things they should know.
-- The bell ringer represents existential dread, and the players each hear the bell tolling. One has cancer, another gets in trouble with some bad people who want them dead, one is addicted to drugs, one is living a dangerous life, etc.
-
-Plot:
-- People are forgetting those that went missing
-	- Everything they did amounted to nothing
-	- The moments we experience in life are forgotten (tears in rain)
-- A young adult hears the ringing. He spent his youth in "preparation" for the real world; he studied and denied himself. He spends his days now in an endless loop doing nothing productive but instead focusing on how sad and scared he is. He had a bucket list, but he never got around to it because he always thought there'd be more time. He's running out of time now.
-	- People waste their days doing nothing. There's no such thing as a dull day.
-	- People wait for something to happen to show them the way, instead of acting.
-	- People waste their time focusing on the rain, instead of the sunshine.
-	- There's no line when the training stops and life starts. You waste your youth waiting for it to end.
-- They find out what's causing the tolling, and it's something cosmic and beyond their comprehension. 
-- The tolling seems hopeless, so they consider doing that grand thing they wanted to do in the beginning.
-	- Once you realize you've wasted all that time, you desperately try to catch up the lost time.
-	- Now that you're running out of time, it speeds up.
-	- Everything you wanted to do you can't anymore.
-- Then, you run out of time.
-- Make the most of your time, because you don't have very much.
+See [[Bell Ringer Concept]]
 
 Inspired by:
+- Stranger Things Season 4
 - Tears in Rain by Vangelis
 - Time by Pink Floyd
+- Liturgical Music
+- Motets
+- Majora's Mask
+- Once in a Lifetime
+- Everywhere at the end of time
+- Super Metroid
 
 ### Caribbean of the Stars
 - Setting: pirate ambush in an asteroid belt. 
@@ -88,6 +73,7 @@ Inspired by:
 - The crew needs to acquire something from a cruel businessman during one of his cocktail parties. He's hired several Imperium samurai to protect him.
 - Objective: sneak, solve, charm, and takedown. They're outnumbered, so they need to do this heist quickly and effectively.
 - Goal: make the players hate the businessman, and love some of the visitors. End with a climactic Samurai duel.
+https://open.spotify.com/album/041mRUBq1cvVPQwS1AhJIN?si=7caea93a14374bd2
 
 ### Whiteout Outpost
 - Setting: abandoned [[House Arai]] laboratory hidden deep in the arctic. 
@@ -122,3 +108,29 @@ Inspired by:
 ### Terminal Lucidity
 Inspired by real story.
 An Arabic man attempted suicide by fire, leaving his body scorched. He was rushed to the hospital, and hours before he died, he began walking around and kicking things. It was a rare case of terminal lucidity. A burn victim walking with shocking comprehension and strength before death is incredibly creepy.
+
+### Truly Alien
+Inspired by Super Metroid's alien atmosphere. Intense vivid colors, unknowable organisms. Things you can't understand fully, and won't. Long drawn out deep chords. Melodies that feel off and incomplete.
+
+Listen to
+- Maridia (Swampy Caverns)
+- A Realm Unspoiled By Mankind
+
+
+### Zelda Inspiration
+Shadow Temple
+Forest Temple
+Time Travel between two points in time
+Looping Time Limit
+Zelda Items
+Time loop
+Dread
+Death
+Flipping gravity
+Freeing people from a dungeon (OOT Fire)
+Lava filled metallic mines
+![[Pasted image 20251210154800.png]]![[Pasted image 20251210154846.png]]
+
+
+### Wither Storm
+https://www.youtube.com/watch?v=q0yCfKzQBlw

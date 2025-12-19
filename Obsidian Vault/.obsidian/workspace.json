@@ -4,73 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "30cfebc825ce57ee",
+        "id": "00d262ccdfa877f4",
         "type": "tabs",
         "children": [
           {
-            "id": "2e2123102764c011",
+            "id": "be83581f34a6d05b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TTE Formulas 2.md",
+                "file": "Ratchet v3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TTE Formulas 2"
+              "title": "Ratchet v3"
             }
           }
         ]
-      },
-      {
-        "id": "ef3e98d91f0f7857",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3ba5b760e2c4ddaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTE/Development Plan.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Development Plan"
-            }
-          },
-          {
-            "id": "f7cb482f2cb3b6b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Aiden's Accessory Atlas/To-Do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To-Do"
-            }
-          },
-          {
-            "id": "afd357b8e790c0b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TTE Formulas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TTE Formulas"
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TTE Formulas 2.md",
+                "file": "Ratchet v3.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TTE Formulas 2"
+              "title": "Outgoing links from Ratchet v3"
             }
           },
           {
@@ -218,35 +169,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2e2123102764c011",
+  "active": "be83581f34a6d05b",
   "lastOpenFiles": [
-    "TTE Formulas.md",
-    "TTE Formulas 2.md",
-    "Aiden's Accessory Atlas/To-Do.md",
-    "TTE/Development Plan.md",
+    "Styxas/Avery's Ether Reference Table.md",
+    "Ratchet v3.md",
+    "Styxas/Ratchet Respec.md",
+    "Aiden's Accessory Atlas/DND/DND Character Template.md",
+    "TTE/Plans/TTE v1.md",
+    "TTE/TTE Reformulated.md",
+    "Talk Draft 1.md",
+    "Talk Outline.md",
+    "Aiden's Writing Research/Talk Writing Toolkit.md",
+    "Aiden's Writing Research/WR 121 and 122/Writing Tips, Advanced Punctuation Guide.md",
+    "Aiden's Writing Research/WR 121 and 122/Rhetorical Devices, Propaganda Techniques, Logical Fallacies.md",
+    "HTML, CSS, SQL/SQL notes.md",
+    "Workout Split.md",
+    "HTML, CSS, SQL/SQLite Unity.md",
+    "TTE/TTE Formulas.md",
     "Aiden's Accessory Atlas/Session Elements I Want To Use.md",
-    "Aiden's Accessory Atlas/Session Planning Helper.md",
-    "Aiden's Accessory Atlas/Session Template.md",
-    "Aiden's Accessory Atlas/Session Formulas.md",
-    "Aiden's Random Concepts/Station 17/STATION-17.md",
+    "TTE Update 1 - User Friendliness.md",
+    "TTE/Old Development Plan.md",
+    "TTE v2.md",
+    "TTE/Plans/TTE v4.md",
+    "TTE/Plans/TTE v3.md",
+    "TTE/Plans/TTE v2.md",
+    "Untitled",
+    "Spirituality",
+    "Minecraft is now a bad game.md",
+    "Aiden's Accessory Atlas/To-Do.md",
+    "TTE/Ruleset Doc.md",
+    "TTE/Feature Implementation.md",
+    "TTE/Plans",
+    "Aiden's Accessory Atlas/Images/Pasted image 20251210154846.png",
+    "Aiden's Accessory Atlas/Images/Pasted image 20251210154800.png",
     "Aiden's Random Concepts/Station 17",
-    "Office.md",
-    "Aiden's Random Concepts/Explore the Island/Explore the island Demo.md",
-    "Aiden's Writing Research/Brandon Sanderson's Creative Writing Course/Plot, Setting, and Character.md",
-    "Aiden's Accessory Atlas/Characters I Like.md",
-    "Aiden's Random Concepts/Carter Hayes' Story.md",
-    "Aiden's Random Concepts/The Lost Arbiter.md",
-    "Aiden's Random Concepts/TRON + SIMS + FREE GUY.md",
-    "Aiden's Random Concepts/Talekin.md",
-    "Aiden's Random Concepts/Hyperreality the Game.md",
-    "Aiden's Random Concepts/L55 book Concept.md",
-    "Aiden's Random Concepts/Hollow Knight inspired story.md",
-    "Aiden's Random Concepts/NPCs Concept.md",
-    "Aiden's Random Concepts/Soviet Hacker Man.md",
-    "Aiden's Random Concepts/Ren CONCEPT.md",
-    "To Do lIst.md",
-    "Lightning-55/Worldbuilding/Laws and Nature/Space Travel.md",
-    "Aiden's Random Concepts/High Stakes Librarian/Stat Tracking System (HSL).md",
     "Aiden's Random Concepts/Explore the Island/Saturn Noises.wav",
     "Aiden's Random Concepts/Explore the Island/SOStotheworld.wav",
     "Aiden's Random Concepts/Explore the Island/wyrmsrestmessage.wav",
@@ -262,13 +218,8 @@
     "HTML, CSS, SQL/Images/Pasted image 20251015211752.png",
     "HTML, CSS, SQL/Images/Pasted image 20251014192237.png",
     "HTML, CSS, SQL/Images/Pasted image 20251014191908.png",
-    "HTML, CSS, SQL/Images/Pasted image 20251014181626.png",
-    "HTML, CSS, SQL/Images/Pasted image 20251014175739.png",
     "HTML, CSS, SQL",
     "TTE",
-    "Lightning-55/Multimedia/Videos/cinematic 2.mp4",
-    "Lightning-55/Multimedia/Videos/Cinematic.mp4",
-    "Lightning-55/Multimedia/Videos",
     "Campaign 1 (Uncharted Galaxy)/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
     "PANDORA SCRIPT OVERVIEW.canvas",
     "PANDORA DND Campaign.canvas",

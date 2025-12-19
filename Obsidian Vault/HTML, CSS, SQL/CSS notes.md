@@ -1,4 +1,4 @@
-- CSS rules specify styling properties for [[HTML]] elements (like p, h1, h2, h3)
+- CSS rules specify styling properties for [[HTML notes]] elements (like p, h1, h2, h3)
 - They go in a special <'style> tag and look like this
 	- h1 { 
 	  font-size: 12px; 

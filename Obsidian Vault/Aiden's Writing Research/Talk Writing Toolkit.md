@@ -1,0 +1,112 @@
+
+Introduction
+- Hook
+	- Question
+	- Statement
+	- Experience
+	- News
+	- Tailor to listeners, their interests, and their situations
+- Clearly identify subject
+- Show why subject matters
+- Outline points
+
+
+Body Paragraphs
+- Questions
+	- Arouse and maintain interest
+	- Reason with listeners
+	- Emphasize important points
+	- Effective after verses
+- Scripture Introductions
+	- Determine why you're reading the scripture, draw attention to the key point ahead of time
+	- Cite the Bible as an authority
+	- Ask a question the scripture will answer, introduce a problem it'll solve, or state a principle it'll illustrate
+	- Determine what the audience already knows
+- Scripture Explanations
+	- Isolate key words
+	- Emphasize the point
+	- Keep the Bible open
+	- Avoid irrelevant details that don't contribute
+- Sources (Be accurate and convincing)
+	- Consult reliable sources, like God's word. Fact-check sources.
+	- Use sources appropriately, and consider their context.
+	- Don't exaggerate or lie about facts or figures
+	- Ask questions to reason on the source
+- Illustrations
+	- Choose simple illustrations. Don't add needless details.
+	- Keep listeners in mind. Involve the interests of the listeners. Don't be offensive or embarrassing. 
+	- Focus on the main point. Don't involve any minor details.
+	- Make it memorable. 
+- Visual Aids
+	- Use pictures, diagrams, maps, time lines, or other visual aids to highlight *important* points, not minor details.
+	- Make sure listeners can see the visual aid
+- Practical Value Made Clear
+	- Meditate on why the listeners need to hear the information you're sharing, and consider what aspect of the topic will be particularly helpful to them.
+	- Show listeners what to do throughout the presentation. Make the audience think, "this involves me."
+- Main points made to stand out
+	- Have an objective, be it to inform, convince, or motivate, then develop the talk accordingly.'
+	- Emphasize the theme of the talk. Maybe repeat key words or use synonyms.
+	- Make your main points clear and simple. 
+	- Keep points relevant.
+	- Pause between points.
+
+Conclusion
+- Connect your conclusion to your overal topic. 
+- Rephrase main points and theme
+- Motivate your listeners. What audience should do and sound reasons why
+- Speak earnestly and with conviction
+- Keep conclusion simple and brief
+- Don't introduce any new ideas
+- Deliver last few sentences with a note of finality
+
+Preparation 
+- Pray for help to concentrate on your message
+- Get to know Bible passages well so that your reading will be fluent
+- Reading Bible Passages
+	- Prepare to read them well
+	- Read exactly what's on the page
+	- Pronounce each word correctly
+	- Speak clearly (don't overenunciate)
+- Speak from the heart
+	- Posture
+		- Look at your listeners one at a time
+	- Gestures
+	- Facial expressions
+	- Warmth, sincerity, friendliness
+	- Don't be casual
+- Modulation
+	- Vary volume
+	- Vary pitch
+	- Vary pace
+- Enthusiasm
+	- Get your heart involved. Get to know the material well so that you can express yourself from the heart
+	- Think about the listeners. Think about how what you're saying will benefit others. Present information in a way that deepens their appreciation for it.
+	- Breathe life into your delivery. Speak with zeal. Use natural gestures and facial expressions to reflect your feelings.
+	- Don't make overuse of gestures and don't be distracting
+- Warmth and Empathy
+	- Imagine yourself from the perspective of the audience
+	- Choose your words carefully to refresh, comfort, and invigorate the audience. Don't be offensive.
+	- Show your genuine interest.
+- Express with conviction
+	- Prepare thoroughly. Express main points in a few simple words
+	- Use words that convey conviction. Rather than repeating exact wording, use your own words. Choose language that shows that you're certain of what you're saying.
+	- Speak with volume. Maintain eye contact where appropriate.
+- Upbuilding and positive
+	- Cultivate a positive view of your listeners. 
+	- Limit negative material. Only include negative aspects if they're important
+	- Make good use of God's word. Draw attention to what Jehovah has done, is doing, and will do for humankind.
+- Understandable to Others
+	- Use short sentences and simple phrases
+	- Eliminate unnecessary details
+	- Explain unfamiliar terms or stories
+- Informative to the audience
+	- Don't just repeat what the audience already knows
+	- if you are covering a well-documented topic, view it from a new perspective
+	- Research and meditate for less-familiar facts or events to illustrate key ideas
+	- Show practical usefulness of your message
+- Effort to reach the heart
+	- Help listeners to make a self-examination with rhetorical questions
+	- Appeal to good motives. Analyze why people perform good works. Help them to build finest motives, love for Jehovah, for fellow man, and for Bible teachings. 
+	- Reason with your listeners; don't lecture them
+	- Don't shame anyone, leave them encouraged
+	- Direct attention to Jehovah. Highlight how bible teachings, principles,a nd commands, reflect God's qualities and his love for us.
