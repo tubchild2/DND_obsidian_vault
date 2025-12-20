@@ -154,7 +154,7 @@ Ether Attack Bonus: +8
 	- Naval Navigation 101
 	- The History of Styxas--A Revisionist's Viewpoint
 
-RATCHET'S MEGA BOMB
+RATCHET'S MEGA BOMB - NO LONGER 
 - 10x Smokepowder bombs mended together
 - 410ft detonation that breaks and ignites objects in vicinity
 - Inflicts 30d4 + 90 force damage
@@ -164,9 +164,7 @@ RATCHET'S MEGA BOMB
 	- Remote Detonation with Fire Bolt
 	- Use Turtle Wealth to buy more bombs
 
-
-
-CONFISCATED QUANTUM CRAM PACK
+CONFISCATED QUANTUM CRAM PACK - NO LONGER
 - Bag of Holding with 3 external pockets
 - Makes Etherical plane portal if one is put inside another
 	- Turning the bag inside out creates three portals to the etherical plane
