@@ -1,1 +1,0 @@
-House Mori is the house of labor. They control the job market and slavery. They don't shy away from exploiting debts, running kidnapping rings, or manipulating the rules to get people to work harder. They occasionally dip into prostitution, but that's a part of this world I don't want to get into.

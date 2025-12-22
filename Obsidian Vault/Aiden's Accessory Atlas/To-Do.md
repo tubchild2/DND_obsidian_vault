@@ -1,7 +1,37 @@
-Bench:
-- https://www.amazon.com/dp/B0D91JDVX2?_encoding=UTF8&psc=1&ref=cm_sw_r_cp_ud_dp_XXXXSF56ZFNQJ6YYDXCY&ref_=cm_sw_r_cp_ud_dp_XXXXSF56ZFNQJ6YYDXCY&social_share=cm_sw_r_cp_ud_dp_XXXXSF56ZFNQJ6YYDXCY
-- $30 total
+**TO DO**
+Figure out characters
+Pack fun stuff and come up with ideas for the trip
+- Xbox
+- Controllers
+- Tabletop Supplies
+- Roku
+- Board Games
+- Make Pizzas
+- Powerpoint Night
+- Smash bros tournament
+Pack clothes
+- 6 shirts
+- 6 pairs underwear
+- 3 pairs pants
+- 3 pairs socks
+- Suit clothes
+Pack toiletries
+- Toothpaste
+- Toothbrush
+- Floss
+- Shampoo / bodywash
+- Comb
+Pack devices and chargers
+- Laptop
+- Tablet
+- Phone
+- Controllers
+- XBOX
+- Switch
+Download backup of scripts onto the laptop if possible
 
+
+**WISHLIST**
 Barbell Set
 
 Desk mount monitor stand x3

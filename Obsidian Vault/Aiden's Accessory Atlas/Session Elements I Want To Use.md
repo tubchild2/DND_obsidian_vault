@@ -28,6 +28,9 @@ Required points:
 - Conclusions
 	- The main theme is trust. If they'd trusted each other, they'd have succeeded. If they hadn't, they would've died.
 
+### Crawl of the Navigators
+See [[Crawl of the Navigator]].
+
 ### True Betrayal
 Create a situation in which one player actively hides their true intentions and works for the antagonists. Build it up over time, make it reasonable, and make the reveal as devastating as possible.
 
@@ -83,7 +86,7 @@ https://open.spotify.com/album/041mRUBq1cvVPQwS1AhJIN?si=7caea93a14374bd2
 
 ### The Losing Side, Maybe, Still Not Convinced It Was The Wrong One.
 - Setting: confederate prison ship
-- The crew is apprehended by [[the confederacy]] and separated. Each one is interrogated, and going to be imprisoned or enslaved.
+- The crew is apprehended by [[The Confederacy]] and separated. Each one is interrogated, and going to be imprisoned or enslaved.
 - Objective: keep their wits, find a way to communicate, and escape. 
 - Goal: make players roleplay as much as possible. Escape requires excellent roleplay and creativity.
 

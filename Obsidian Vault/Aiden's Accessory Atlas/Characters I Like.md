@@ -11,6 +11,7 @@ Inspired by:
 - Clark Kent (morality)
 - Matt from the "JOE SCHMO SHOW" (exploited innocence)
 - Steve Harrington (fall from grace, redemption, endurance)
+- Johnny B. Goode
 
 **Beckett Tomita**
 - Nerd. He's the kind of dude to get straight A's. He's not Tony Stark, and he's not a genius. Math and science are his primary hobbies and what he centers his life around. He gets things wrong, and he's not an encyclopedia. He's also not quick-witted, meaning a lot of this stuff takes him time to do well. 

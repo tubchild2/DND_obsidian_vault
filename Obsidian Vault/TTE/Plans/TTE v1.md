@@ -1,3 +1,23 @@
+### Validation and Default Values and Constructors for AMT
+preferences 
+core stat amt
+CoreStatBlock
+Derived Stat AMT
+Equation
+Library Attributes
+ID
+ID Amt
+
+Skill AMT
+Property
+Condition
+
+### Item Set Parameters
+### Item Skills
+
+### Error Messages
+
+
 ### Data Management
 Goal
 - Finish by Jan 10

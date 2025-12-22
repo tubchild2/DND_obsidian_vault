@@ -1,1 +1,0 @@
-House Yori is the house of order. Like the Samurai, they're a private form of hired law enforcement. They control the military, mercenaries, law, and contracts. The President of the Confederacy oversees the 8 houses from here, but he's mostly just a face. It's the Confederate law enforcement.

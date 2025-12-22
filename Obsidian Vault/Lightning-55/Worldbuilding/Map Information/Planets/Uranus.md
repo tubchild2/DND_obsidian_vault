@@ -1,1 +1,0 @@
-Arctic wasteland. Terrain reminiscent of Alaska and the pacific northwest.

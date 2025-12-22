@@ -1,1 +1,0 @@
-House Inaba is the House of currency. They produce and control currency. They run the entire banking system. 

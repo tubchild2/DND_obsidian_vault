@@ -1,1 +1,0 @@
-Tokyo and other major cities are walled off from the poor. They're incredibly extravagant, simplistic, and refined, but everywhere else is a bunch of slums and factories. 

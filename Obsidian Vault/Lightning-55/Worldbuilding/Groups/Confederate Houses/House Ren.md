@@ -1,1 +1,0 @@
-House Ren is the house of resources. They produce clean water, energy, fuel, mining, wood, recycling, and they handle all waste. They're in charge of a lot of the core infrastructure behind everything else.

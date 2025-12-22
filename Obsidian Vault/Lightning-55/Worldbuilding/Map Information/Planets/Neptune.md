@@ -1,1 +1,0 @@
-An entirely water based world. It's one massive ocean. All structures and islands are man made and densely packed. 

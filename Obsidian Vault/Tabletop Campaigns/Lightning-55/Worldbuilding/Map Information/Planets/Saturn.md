@@ -1,0 +1,1 @@
+The surface is similar to [[Jupiter]], but the rings are completely unique. Several stations are built into the orbiting asteroids and rocks. Mining operations and power plants are especially common.

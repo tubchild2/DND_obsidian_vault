@@ -1,0 +1,1 @@
+House Kuroda is the house of information. They control spies, exploration, navigation, education, and manipulation. They regularly work with [[House Sui]] to produce highly effective propaganda. 

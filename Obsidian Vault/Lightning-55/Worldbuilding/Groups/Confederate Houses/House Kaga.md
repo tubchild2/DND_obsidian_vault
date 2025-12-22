@@ -1,1 +1,0 @@
-House Kaga is the house of production. They're the counterpart to [[House Arai]], they build things. They control construction, architecture, terraforming, and manufacturing. If it exists, they're likely the ones who'll make it. Regularly work with [[House Ren]] for resources.

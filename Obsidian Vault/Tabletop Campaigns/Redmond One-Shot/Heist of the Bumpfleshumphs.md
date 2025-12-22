@@ -1,0 +1,139 @@
+Outline
+- You're a group of adventurers
+- You were hired to go and execute a heist. 
+	- There's a priceless sword called the "red blade" being auctioned off
+	- It's currently 6pm, and the auction just began
+	- It's being kept in the vault until 8pm when it'll be auctioned off
+	- There are a few obstacles
+		- Getting past the moat / towers
+		- Guards on patrol
+		- The vault needs identical keys from two guards
+		- There are security cameras that need to be disabled
+- It's the night of a fancy auction
+- Use the the dnd webssite with the features and classes for references
+
+Map
+- F1 Public
+	- Foyer
+	- Ballroom
+	- Grand Auditorium (like a big room with like 30 tables and a stage)
+	- Bathrooms
+- F2 Private
+	- Drawing Room
+	- Library
+	- Bedrooms
+		- Bathroom
+		- Closet
+	- Offices
+- F1 Private
+	- Foyer
+	- Dining Room
+	- Living Room
+	- Kitchen
+	- Pantry
+	- Servant's Quarters
+- B1 Private
+	- Wine Cellar
+	- General Storage
+	- Crypt
+	- Vault
+- Exterior
+	- Guard Patrols
+	- Hedge maze
+	- Gardens 
+	- Front Gates -> Grand Hall
+	- Moat
+	- Back Door -> Butler's Quarters
+
+Lore
+- Land
+	- Vaerith
+	- Typical fantasy world.
+	- If you can think about it, it happened, and can be found.
+- Family
+	- Very Wealthy Family
+	- The Bumpfleshumphs
+		- William (father)
+		- Wendy (mother)
+		- Weston (son)
+	- They run a black market auction every year but are too rich to be put in jail
+	- They recently acquired a 3rd century enchanted sword wielded by the red knight. They got it off a wreck off Tempest Isle
+	- They torture and kill people for information and wealth
+	- Have a dark history of exploitation and slavery
+- Red Knight
+	- An outlaw
+	- Robin Hood complex
+	- Robbed all of the richest families
+	- Operated out of Northern Elythra for a few years in 303
+- Event
+	- Auctioning off rare items to rich people
+		- Crown of Ashen Vows
+			- Blackened Silver Crown with Cracked Rubies
+			- An Aasimar artifact from the first revolt
+		- Whisperglass Mirror
+			- Purchased from the estate of Queen Seradia of Greenglen after her dissappearance
+			- In pristine condition
+		- The Dark Ledger
+			- Allows you to withdraw money from an extradimensional bank, though the debts are typically more than money.
+		- Sapphire Hourglass
+			- Small blue beads flow upwards through the wrought iron hourglass
+			- Once per month, can be used to restart a day
+		- Bumpfleshumph's Velvet Map
+			- A 200 year old red map
+			- Shows the layout of any building it's in, including secret passages
+		- Red Knight's Blade (centerpiece item, last on the block)
+			- Deals double damage to rich people
+			- Grows in power with each kill
+			- Cannot be wielded by people it rejects
+- Attendees
+	- Lady Thornwyck
+		- Human
+		- Wants the Dark Ledger
+		- Is deeply indebted to Ceres due to military support
+		- Royalty of a small province off the northwestern coast of Vaerith
+		- Wants to have a man use the ledger to pay off the debt, then kill him to erase it
+		- Greedy, selfish, rude, pompous
+		- Obese in a white dress
+	- Duke Keld
+		- High Elf
+		- Wants the Red Knight's Blade as revenge for the Knight's damage to his family's name
+		- Sells weapons
+		- Unnaturally tall, in a black and red outfit, constantly looks angry and tired
+	- Brother Voss
+		- An Umbra monk of some kind
+		- Taken a vow of silence
+		- Wants the Saphire Hourglass
+		- Incredibly skinny
+	- Madame Velune
+		- Wood Elf
+		- Wants the Red Knight's Blade
+		- Wants to use it to kill her father
+		- A short woman
+		- Rude to the butlers
+	- Samuel D. F. Hearst
+		- Ashkara
+		- Bounty Hunter
+		- Wants the Whisperglass Mirror
+		- Believes the mirror contains information about the Queen's Death
+- Backup Names
+	- Lord Albrecht Vaelor
+	- Lady Isolde Greymantle
+	- Duke Renwic Halvarn
+	- Countess Miravel Dorne
+	- Lord Percival Ashcombe
+	- Lady Thesryn Moorvale
+	- Baron Edrick Tallspire
+	- Viscount Elowen Rathmere
+	- Lady Nyx Calderain
+	- Lord Bramwick Holt
+	- Virella Blackthorn
+	- Marrowick Dane
+	- Yseldra Crowmont
+	- Rovan Kest
+	- Calyx Morrenn
+	- Prince Zahred al-Kasim
+	- Ambassador Lin Wei Shan
+	- Duchess Amarante Solenne
+	- Khorvek of the Brass Coast
+	- Lady Sorya of Pale Sands
+	- Talen Vox of the Sky Cities

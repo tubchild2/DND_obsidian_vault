@@ -8,7 +8,6 @@ What Is Prophecy?
 
 
 Introduction
-"I think it's weird for me to be doing this too"
 Hook
 Introduce Subject
 Show why subject matters
