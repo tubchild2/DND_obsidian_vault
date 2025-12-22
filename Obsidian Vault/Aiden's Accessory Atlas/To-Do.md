@@ -1,35 +1,18 @@
-**TO DO**
-Figure out characters
-Pack fun stuff and come up with ideas for the trip
-- Xbox
-- Controllers
-- Tabletop Supplies
-- Roku
-- Board Games
-- Make Pizzas
-- Powerpoint Night
-- Smash bros tournament
-Pack clothes
-- 6 shirts
-- 6 pairs underwear
-- 3 pairs pants
-- 3 pairs socks
-- Suit clothes
-Pack toiletries
-- Toothpaste
-- Toothbrush
-- Floss
-- Shampoo / bodywash
-- Comb
-Pack devices and chargers
-- Laptop
-- Tablet
-- Phone
-- Controllers
-- XBOX
-- Switch
-Download backup of scripts onto the laptop if possible
-
+**TRIP TO DO**
+Finish Talk
+- Conclusion
+- Revision
+- Rhetorical Analysis
+Finish
+- Validate all input
+- Default all values
+- Build AMT constructors
+- Item Set Functions
+- Item Skills
+Stranger Things Watchparty
+Make Characters for the [[Heist of the Bumpfleshumphs]]
+[[Heist of the Bumpfleshumphs]]
+Go to Dave's Hot Chicken
 
 **WISHLIST**
 Barbell Set
