@@ -4,59 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "221e5bcce279f237",
+        "id": "6888d60caac5795d",
         "type": "tabs",
         "children": [
           {
-            "id": "bbdee032d5ba0cef",
+            "id": "7982afc82193792e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aiden's Accessory Atlas/To-Do.md",
+                "file": "Tabletop Campaigns/Eldritch Lore/Planes/Battleworld.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-Do"
-            }
-          },
-          {
-            "id": "7673caf9e9a564fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tabletop Campaigns/Redmond One-Shot/Heist of the Bumpfleshumphs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Heist of the Bumpfleshumphs"
-            }
-          },
-          {
-            "id": "401a939b7243ca80",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Tabletop Campaigns/Redmond One-Shot/Elythra Close-Up Map.png"
-              },
-              "icon": "lucide-image",
-              "title": "Elythra Close-Up Map"
-            }
-          },
-          {
-            "id": "3ddb14752fcff880",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Tabletop Campaigns/Redmond One-Shot/Campaign 2 World Map v5.png"
-              },
-              "icon": "lucide-image",
-              "title": "Campaign 2 World Map v5"
+              "title": "Battleworld"
             }
           }
         ]
@@ -116,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 319.5
   },
   "right": {
     "id": "7efababeab0f1b4b",
@@ -151,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aiden's Accessory Atlas/To-Do.md",
+                "file": "TTE/Official References/TTE Reformulated.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To-Do"
+              "title": "Outgoing links from TTE Reformulated"
             }
           },
           {
@@ -194,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,46 +170,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "75bb62ce5edb6dc7",
+  "active": "7982afc82193792e",
   "lastOpenFiles": [
-    "Backup Scripts/TTE (old)/PlayerMode.cs",
-    "Backup Scripts/TTE (old)/MakerMode.cs",
-    "Backup Scripts/TTE (old)/Entities.cs",
-    "Backup Scripts/TTE (old)/Preferences.cs",
-    "Backup Scripts/TTE (old)",
-    "Backup Scripts/New folder",
-    "Backup Scripts/DataManager.cs",
-    "Backup Scripts/Datatypes.cs",
-    "Backup Scripts",
-    "Tabletop Campaigns/Redmond One-Shot/Heist of the Bumpfleshumphs.md",
-    "Aiden's Accessory Atlas/To-Do.md",
-    "Tabletop Campaigns/Redmond One-Shot/Elythra Close-Up Map.png",
-    "Tabletop Campaigns/Redmond One-Shot/Campaign 2 World Map v5.png",
-    "Aiden's Accessory Atlas/Session Planning Helper.md",
-    "Aiden's Accessory Atlas/Session Elements I Want To Use.md",
-    "Tabletop Campaigns/Redmond One-Shot/Mansion Map.ds",
-    "Tabletop Campaigns/Redmond One-Shot",
+    "Tabletop Campaigns/Eldritch Lore/Planes/Elemental Planes.md",
+    "Tabletop Campaigns/Eldritch Lore/Planes/The Bazaar.md",
+    "Tabletop Campaigns/Eldritch Lore/Planes/The Garden.md",
+    "Tabletop Campaigns/Eldritch Lore/Planes/The Hall of Order.md",
+    "Tabletop Campaigns/Eldritch Lore/Planes/The Pillars of Discord.md",
     "Talk Draft 2.md",
-    "Talk Very Rough Draft 1.md",
-    "Talk Outline.md",
-    "eBook.md",
-    "Aiden's Writing Research/Talk Writing Toolkit.md",
-    "o.md",
+    "Eldritch Lore.md",
+    "Tabletop Campaigns/Eldritch Lore/Planes/Battleworld.md",
+    "Tabletop Campaigns/Eldritch Lore/EL Heart.md",
+    "Tabletop Campaigns/Eldritch Lore/Planes/The Valley of Rot.md",
+    "Tabletop Campaigns/Eldritch Lore/Planes/The Good Place.md",
+    "X0.md",
+    "Tabletop Campaigns/Eldritch Lore/Planes",
+    "Tabletop Campaigns/Eldritch Lore",
+    "mathg.md",
+    "Tabletop Campaigns/Redmond One-Shot/Heist of the Windsor Estate.md",
+    "Tabletop Campaigns/Redmond One-Shot/Mansion Map.ds.crswap",
+    "Tabletop Campaigns/Redmond One-Shot/Mansion Map.ds.4.crswap",
+    "Tabletop Campaigns/Redmond One-Shot/Mansion Map.ds.3.crswap",
+    "Tabletop Campaigns/Redmond One-Shot/Mansion Map.ds.2.crswap",
+    "Tabletop Campaigns/Redmond One-Shot/Mansion Map.ds.1.crswap",
+    "Tabletop Campaigns/Redmond One-Shot/Campaign 2 World Map v5.png",
+    "Tabletop Campaigns/Mega Dungeon/Johnny Hayes.md",
+    "Bob Jomber.md",
+    "Johnny Hayes.md",
+    "Aiden's Random Concepts/Explore the Island/SOStotheworld.wav",
+    "Aiden's Random Concepts/Explore the Island/Explore the island Demo.md",
     "TTE/Plans/TTE v1.md",
-    "Aiden's Random Concepts/Crawl of the Navigator.md",
-    "Aiden's Accessory Atlas/Session Template.md",
-    "TTE/Official References/TTE Data.md",
-    "TTE/Outdated References/Ruleset Doc.md",
-    "Aiden's Accessory Atlas/Characters I Like.md",
-    "Aiden's Accessory Atlas/Workout Split.md",
-    "Aiden's Accessory Atlas/Workout Routine (OLD).md",
-    "Tabletop Campaigns/Styxas/Ratchet Respec.md",
-    "Tabletop Campaigns/Styxas/Ratchet v3.md",
-    "TTE/Official References/TTE Reformulated.md",
-    "TTE/Outdated References/TTE Formulas.md",
-    "Tabletop Campaigns/Styxas/Avery's Ether Reference Table.md",
-    "Aiden's Accessory Atlas/DND/DND Character Template.md",
-    "Talk Draft 1.md",
+    "Tabletop Campaigns/Lightning-55/Multimedia/Pictures/Weapons.png",
+    "Tabletop Campaigns/Lightning-55/Multimedia/Pictures/The Solar System.jpg",
+    "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Venus.md",
+    "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Uranus.md",
+    "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Saturn.md",
+    "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Jupiter.md",
+    "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Neptune.md",
+    "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Mercury.md",
+    "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Mars.md",
+    "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets",
+    "Tabletop Campaigns/Lightning-55/Worldbuilding/Groups/Confederate Houses",
+    "Tabletop Campaigns/Lightning-55/Multimedia/Pictures/New Logo.png",
+    "Tabletop Campaigns/Lightning-55/Multimedia/Pictures/Ashwick.png",
+    "Tabletop Campaigns/Redmond One-Shot/Elythra Close-Up Map.png",
     "Aiden's Accessory Atlas/Images/Pasted image 20251210154846.png",
     "Aiden's Accessory Atlas/Images/Pasted image 20251210154800.png",
     "Home Network.canvas",
@@ -254,10 +221,6 @@
     "TTE/Character Maker.canvas",
     "TTE/RPGE Character Maker.canvas",
     "HTML, CSS, SQL/Images/Pasted image 20251014170853.png",
-    "HTML, CSS, SQL/Images/Pasted image 20251015212429.png",
-    "HTML, CSS, SQL/Images/Pasted image 20251015212003.png",
-    "HTML, CSS, SQL/Images/Pasted image 20251015211845.png",
-    "HTML, CSS, SQL/Images/Pasted image 20251015211752.png",
     "Campaign 1 (Uncharted Galaxy)/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
     "PANDORA SCRIPT OVERVIEW.canvas",
     "PANDORA DND Campaign.canvas",

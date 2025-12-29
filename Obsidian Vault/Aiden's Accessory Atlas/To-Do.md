@@ -10,8 +10,8 @@ Finish
 - Item Set Functions
 - Item Skills
 Stranger Things Watchparty
-Make Characters for the [[Heist of the Bumpfleshumphs]]
-[[Heist of the Bumpfleshumphs]]
+Make Characters for the [[Heist of the Windsor Estate]]
+[[Heist of the Windsor Estate]]
 Go to Dave's Hot Chicken
 
 **WISHLIST**

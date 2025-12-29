@@ -12,3 +12,5 @@ Prep:
 
 Outpost A4
 A complex once inhabited by a network of settlers. Primarily a mining colony
+
+?

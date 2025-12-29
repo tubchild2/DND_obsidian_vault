@@ -12,6 +12,22 @@ Outline
 - It's the night of a fancy auction
 - Use the the dnd webssite with the features and classes for references
 
+Guards
+- Tall, lightly armored Dragonborn guards. They have light pikes, and are more gargoyle in appearance than your standard dragonborn.
+	- HP: 12
+	- AC: 16
+	- Speed: 30ft walk
+	- Stats
+		- STR +2
+		- DEX +3
+		- CON + 2
+		- WIS -1
+		  INT -1
+	- Actions
+		- Light Pike. +3 to hit. Deals 1d6+3 radiant damage. Range 5ft.
+		- Breath Weapon. +3 to hit. Deals 1d6 acid damage. Range 15ft.
+		- Leap. If they're within 5ft of a target after they take this action, they can use their Light Pikes or their Breath Weapon as a bonus action.
+
 Map
 - F1 Public
 	- Foyer
@@ -52,14 +68,14 @@ Lore
 	- If you can think about it, it happened, and can be found.
 - Family
 	- Very Wealthy Family
-	- The Bumpfleshumphs
-		- William (father)
-		- Wendy (mother)
-		- Weston (son)
+	- The Windsors
+		- William (father). A deep voiced 6'6" obese Black Dragonborn 
+		- Wendy (mother). A White Dragonborn with pearls and a blue dress.
+		- Weston (son). A short Black Dragonborn in a red suit. Very fast and can crawl on all fours. Has small wings.
 	- They run a black market auction every year but are too rich to be put in jail
-	- They recently acquired a 3rd century enchanted sword wielded by the red knight. They got it off a wreck off Tempest Isle
-	- They torture and kill people for information and wealth
-	- Have a dark history of exploitation and slavery
+	- They recently acquired a 3rd century enchanted sword wielded by the red knight. They got it off a wreck off Tempest Isle.
+	- They torture and kill people for information and wealth.
+	- Have a dark history of exploitation and slavery.
 - Red Knight
 	- An outlaw
 	- Robin Hood complex

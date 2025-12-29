@@ -1,0 +1,1 @@
+A massive complex of shops and salesman. Everything runs off the exchange of currency. The creatures native here are greedy, manipulative, and extremely charismatic. 

@@ -1,17 +1,56 @@
 **Carter Hayes**
-Summary
-- Uneducated. Carter Hayes was born with a learning disability. He cannot read, write, do math, and he's dyslexic. 
-- Loving and Naïve. He was raised by his parents on their livestock farm. He's incredibly loving, kind, and optimistic. He refuses to let anything bad happen to anyone other than him under any circumstances. His moral compass outweighs the law; however, he doesn't like or enjoy breaking the law. Wants to help people.
-- Insecure but selfless. He believes he's inferior to everyone else, which he hates. He wants to be popular and normal, but he needs self-esteem.
-- Fun. He's a fun person to be around, he isn't intimidating, and he's unintentionally funny.
-- Loser. Throughout his life, he's tried to do everything the best way, but always fails. However, he's still optimistic. He gets excluded, mocked, lied about, lied to, dumped, rejected, heartbroken, tricked, pranked, bullied, beaten, betrayed, talked down to, publicly humiliated to the point of harming his social status, yelled at, unjustly punished, and deeply disappointed to the point of accepting he won't amount to anything.
-- Doesn't want to be a loser anymore (he wants popularity, status, intelligence, etc. Whatever he thinks other people think matters). He really just needs self-esteem, to see that his lack of education doesn't matter; he's a good person even if other people don't care.
-Inspired by:
+Flaws
+- Uneducated. Can't read, write, do math, and is dyslexic. 
+- Insecure. Views everyone else as literally superior.
+- Acts entirely off of improvisation because he's bad at making and following plans.
+- Loser. People find him annoying and a hassle. He's been:
+	- Excluded
+	- Mocked
+	- Avoided
+	- Lied about 
+	- Lied to
+	- Dumped
+	- Rejected
+	- Heartbroken
+	- Tricked
+	- Pranked
+	- Bullied
+	- Beaten
+	- Betrayed
+	- Talked down to
+	- Severely publicly humiliated
+	- Yelled at
+	- Unjustly punished, fired, arrested
+	- Deeply disappointed in himself to the point of accepting he won't amount to anything.
+
+Traits
+- Loving. Refuses to let anything bad happen to anyone else.
+- Trusting. Takes everything at face value.
+- Fun. He isn't intimidating, and is funny (intentionally or not).
+
+Backstory
+- Was born with a mental disability
+- Was bullied relentlessly and had a terrible school experience.
+- His life has been one disappointment after another.
+
+Goal and Why
+- Help people. He views others as superior, so helping others feels natural.
+- Wants popularity. He really just needs a friend / self-esteem, but he doesn't know that.
+
+Story
+- His life is a trainwreck but it's not his fault
+- He gets a goal but is a severe underdog
+- He is extremely unlucky and loses at almost everything
+- He pulls through at the last minute with an underdog victory
+
+Inspirations
 - Charlie Reynolds (stupidity, humor)
 - Clark Kent (morality)
 - Matt from the "JOE SCHMO SHOW" (exploited innocence)
 - Steve Harrington (fall from grace, redemption, endurance)
-- Johnny B. Goode
+- Johnny B. Goode (unintelligent but good at guitar)
+- Ignacio from Nacho Libre (underdog) 
+
 
 **Beckett Tomita**
 - Nerd. He's the kind of dude to get straight A's. He's not Tony Stark, and he's not a genius. Math and science are his primary hobbies and what he centers his life around. He gets things wrong, and he's not an encyclopedia. He's also not quick-witted, meaning a lot of this stuff takes him time to do well. 
@@ -50,7 +89,4 @@ Inspired by:
 - Naïve. Despite wanting to help, he's really dumb cause he's 9.
 
 **Immortal**
-- A character with a healing factor and no other powers. He's constantly regenerating back into the peak human form.
-
-**Documentary Series Superhero**
-- "Yeah so usually, I feel, like in comics and stuff, most superheroes operate for 3-6 years. I've been going for about 11 now. Usually they kind of cap out power wise at a certain point, but for me I've just kept going. Most of my super villains gave up, which really hurts my feelings if you really think about it because a super hero and a villain have kind of a partnership thing going on and it's like oh what I'm not interesting to go up against anymore? Anyways, yeah the city doesn't really like sending me in cause I'm not really the best option most of the time. Most of the other heroes I knew have retired by now and most of them don't really hang out anymore. Whenever a super villain does show up the city will typically have to call me, but only if the police for sure can't handle it. They've gotten pretty good at taking them down after all this time. I don't know, it's kind of gotten pretty dull at this point."
+- A character with a healing factor and no other powers. He's constantly regenerating back into the peak human form

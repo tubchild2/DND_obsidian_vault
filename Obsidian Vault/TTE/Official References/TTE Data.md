@@ -112,7 +112,7 @@ Origin Elements (Species, Classes, Backgrounds)
 - HP per Level
 - Stat Boost Options (+1 to one)
 - Stat Loss Options (-1 to one)
-- Skill boost option IDs (+1 to three)
+- Skill boost Options IDs (+1 to three)
 - Feature IDs
 
 Characters

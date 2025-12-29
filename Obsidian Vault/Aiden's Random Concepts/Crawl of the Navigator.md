@@ -1,6 +1,10 @@
 Title: Crawl of the Navigator
 Genre: Post Apocalyptic
 
+
+MAKE CHARACTERS
+MAKE STATBLOCKS!!!!
+
 Elements:
 - Navigator
 - Terminal Lucidity
