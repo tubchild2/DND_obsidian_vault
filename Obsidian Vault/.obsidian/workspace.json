@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6888d60caac5795d",
+        "id": "679e7fc616b9b4a3",
         "type": "tabs",
         "children": [
           {
-            "id": "7982afc82193792e",
+            "id": "c6e50c985d0ec559",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tabletop Campaigns/Eldritch Lore/Planes/Battleworld.md",
+                "file": "Talk Draft 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Battleworld"
+              "title": "Talk Draft 3"
             }
           }
         ]
@@ -170,31 +170,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7982afc82193792e",
+  "active": "c6e50c985d0ec559",
   "lastOpenFiles": [
-    "Tabletop Campaigns/Eldritch Lore/Planes/Elemental Planes.md",
-    "Tabletop Campaigns/Eldritch Lore/Planes/The Bazaar.md",
-    "Tabletop Campaigns/Eldritch Lore/Planes/The Garden.md",
-    "Tabletop Campaigns/Eldritch Lore/Planes/The Hall of Order.md",
-    "Tabletop Campaigns/Eldritch Lore/Planes/The Pillars of Discord.md",
-    "Talk Draft 2.md",
+    "Tabletop Campaigns/Planarverse/Planarverse.md",
+    "Tabletop Campaigns/Planarverse/Planes/The 4 Elemental Planes.md",
+    "Tabletop Campaigns/Planarverse/Planes/Battleworld.md",
+    "Tabletop Campaigns/Planarverse/Planes/The Bazaar.md",
+    "Tabletop Campaigns/Planarverse/Planes/The Garden of Order.md",
+    "Tabletop Campaigns/Planarverse/Planes/The Valley of Rot.md",
+    "Tabletop Campaigns/Planarverse/Planes/The Pillars of Discord.md",
+    "Tabletop Campaigns/Planarverse/Planes/The Hall of Order.md",
+    "Talk Draft 3.md",
+    "Talk Outline.md",
+    "Reminders.md",
+    "Tabletop Campaigns/Styxas/Ratchet v3.md",
+    "Tabletop Campaigns/Mega Dungeon/Johnny Hayes.md",
+    "Tabletop Campaigns/Heist of the Windsor Estate/Heist of the Windsor Estate.md",
     "Eldritch Lore.md",
-    "Tabletop Campaigns/Eldritch Lore/Planes/Battleworld.md",
-    "Tabletop Campaigns/Eldritch Lore/EL Heart.md",
-    "Tabletop Campaigns/Eldritch Lore/Planes/The Valley of Rot.md",
     "Tabletop Campaigns/Eldritch Lore/Planes/The Good Place.md",
     "X0.md",
-    "Tabletop Campaigns/Eldritch Lore/Planes",
-    "Tabletop Campaigns/Eldritch Lore",
+    "Tabletop Campaigns/Planarverse/Planes",
+    "Tabletop Campaigns/Planarverse",
     "mathg.md",
-    "Tabletop Campaigns/Redmond One-Shot/Heist of the Windsor Estate.md",
     "Tabletop Campaigns/Redmond One-Shot/Mansion Map.ds.crswap",
     "Tabletop Campaigns/Redmond One-Shot/Mansion Map.ds.4.crswap",
     "Tabletop Campaigns/Redmond One-Shot/Mansion Map.ds.3.crswap",
     "Tabletop Campaigns/Redmond One-Shot/Mansion Map.ds.2.crswap",
     "Tabletop Campaigns/Redmond One-Shot/Mansion Map.ds.1.crswap",
-    "Tabletop Campaigns/Redmond One-Shot/Campaign 2 World Map v5.png",
-    "Tabletop Campaigns/Mega Dungeon/Johnny Hayes.md",
+    "Tabletop Campaigns/Heist of the Windsor Estate/Campaign 2 World Map v5.png",
     "Bob Jomber.md",
     "Johnny Hayes.md",
     "Aiden's Random Concepts/Explore the Island/SOStotheworld.wav",
@@ -206,14 +209,11 @@
     "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Uranus.md",
     "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Saturn.md",
     "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Jupiter.md",
-    "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Neptune.md",
-    "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Mercury.md",
-    "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets/Mars.md",
     "Tabletop Campaigns/Lightning-55/Worldbuilding/Map Information/Planets",
     "Tabletop Campaigns/Lightning-55/Worldbuilding/Groups/Confederate Houses",
     "Tabletop Campaigns/Lightning-55/Multimedia/Pictures/New Logo.png",
     "Tabletop Campaigns/Lightning-55/Multimedia/Pictures/Ashwick.png",
-    "Tabletop Campaigns/Redmond One-Shot/Elythra Close-Up Map.png",
+    "Tabletop Campaigns/Heist of the Windsor Estate/Elythra Close-Up Map.png",
     "Aiden's Accessory Atlas/Images/Pasted image 20251210154846.png",
     "Aiden's Accessory Atlas/Images/Pasted image 20251210154800.png",
     "Home Network.canvas",

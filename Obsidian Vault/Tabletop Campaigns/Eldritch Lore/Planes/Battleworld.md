@@ -1,1 +1,0 @@
-The product of the Primordial of Hate, the Primordial of Violence, and the Primordial of War. It's an endless complex of arenas and armories in which people kill each other over and over. The creatures native to this place are strong, fast, and durable. They're expert fighters.

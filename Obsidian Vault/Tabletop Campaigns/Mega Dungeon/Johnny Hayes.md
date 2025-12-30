@@ -1,77 +1,8 @@
 Name: Johnny Hayes
 Species: Human
 Class: Bard
-Subclass: 
 Background: Wayfarer
-Level: 1
 
-AC:
-Max HP:
-HP:
-
-Speed:
-Initiative Bonus:
-Proficiency Bonus:
-Passive Perception:
-
----
-
-| Stat | Score | Modifier | Saving Throw | Saving Throw Mod |
-| ---- | ----- | -------- | ------------ | ---------------- |
-| STR  |       |          |              |                  |
-| DEX  |       |          |              |                  |
-| CON  |       |          |              |                  |
-| INT  |       |          |              |                  |
-| WIS  |       |          |              |                  |
-| CHA  |       |          |              |                  |
-
-
-| Skill           | Inherits From... | Proficient? | Modifier |
-| --------------- | ---------------- | ----------- | -------- |
-| Athletics       | Strength         |             |          |
-| Acrobatics      | Dexterity        |             |          |
-| Stealth         | Dexterity        |             |          |
-| Sleight of Hand | Dexterity        |             |          |
-| Animal Handling | Wisdom           |             |          |
-| Insight         | Wisdom           |             |          |
-| Medicine        | Wisdom           |             |          |
-| Perception      | Wisdom           |             |          |
-| Survival        | Wisdom           |             |          |
-| Arcana          | Intelligence     |             |          |
-| History         | Intelligence     |             |          |
-| Investigation   | Intelligence     |             |          |
-| Nature          | Intelligence     |             |          |
-| Religion        | Intelligence     |             |          |
-| Deception       | Charisma         |             |          |
-| Intimidation    | Charisma         |             |          |
-| Performance     | Charisma         |             |          |
-| Persuasion      | Charisma         |             |          |
-Other Proficiencies:
-
----
-### Ether
-Ether Ability: 
-Ether Modifier: 
-Ether Save DC: 
-Ether Attack Bonus: 
-
-| Slot Level | Slots Available | Slots Used | Total Prepared                   |
-| ---------- | --------------- | ---------- | -------------------------------- |
-
-| Name | Level | Effect |
-| ---- | ----- | ------ |
-
-
----
-### Equipment
-| Name           | Count | Damage | Type | Properties | Range |
-| -------------- | ----- | ------ | ---- | ---------- | ----- |
-
-
----
-### Features and Traits
-
----
 ### Lore
 Flaws
 - Uneducated. Can't read, write, do math, and is dyslexic.
@@ -104,7 +35,7 @@ Traits
 - Is currently learning to play the guitar. He's not fantastic, but he's very determined to get better.
 
 Backstory
-- Was born with a mental disability.
+- Was born with a mental disability that runs in his family.
 - Was bullied relentlessly and had a terrible school experience.
 - His life has been one disappointment after another.
 - His cousin Carter went missing exploring a mountain that emerged after an earthquake.
@@ -115,7 +46,7 @@ Backstory
 Goal and Why
 - Help people. He views others as superior, so helping others feels natural.
 - Wants popularity. He really just needs a friend / self-esteem, but he doesn't know that.
-- Aspires to be like Charlie Goode, the guitarist from The Goodmen. The rockstar lifestyle would be his actual worst nightmare, but he lacks the experience and practical wisdom to realize that. He just thinks he wants it because of the popularity and confidence that comes with it.
+- Thinks being a really good guitarist will make him popular.
 
 Inspirations
 - Charlie Reynolds (stupidity, humor)
@@ -125,16 +56,34 @@ Inspirations
 - Johnny B. Goode (unintelligent but good at guitar)
 - Ignacio from Nacho Libre (underdog)
 
-Playlist
-- Religious Man
-- I'm Coming to Get You
-- Carol Brown
-- Mr. Brightside
-- Last Son
-- You Are My Son
-- The most beautiful girl (in the room)
-- Overture (Super Mario Galaxy)
-- Jay
-- Piano Man
-- Sacrifice (Tyler Bates)
-- Loser (Tame Impala)
+### Roleplaying
+For Playing
+- Use lots of hand movements (try to do physical comedy)
+- Make lots of small weird noises 
+- Squeak when desperate
+- Completely commit and don't find what you're doing funny
+- Straight man
+- Good person no matter what
+- Improvise and forget plans
+
+Bits
+- Ok let's just slow down here
+- (to a fact) well that's just your opinion
+- (to a fact) let's be careful what we consider "true" around here
+- No I get it it's obviously very simple
+- Common is moon runes
+- Fails at math
+- Mixes words
+- Agrees despite not following
+- Logical fallacies
+- What are you talking about?
+
+Plays in Combat
+- No. 9th doctor moment. No weapons, no defenses, no plan.
+- Stand up to bullies
+- Support weakest link 
+- Deescalate
+- Cover people's weaknesses
+- Use surroundings to advantage
+- Exploit weaknesses
+- Sacrifice (last choice)

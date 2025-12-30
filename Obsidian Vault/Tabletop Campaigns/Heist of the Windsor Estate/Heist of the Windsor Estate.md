@@ -12,6 +12,12 @@ Outline
 - It's the night of a fancy auction
 - Use the the dnd webssite with the features and classes for references
 
+
+The information they're given
+- Bad map of F1 with no interior information and some information about maybe where guards, entrances, and security might be.
+- Bad map of B1 that shows the vault is somewhere off the blueprints and that there might be guards there. No information on how to reach the vault is given
+- Some basic notes about getting keys, finishing quickly, disabling security, and avoiding the Windsors
+
 Guards
 - Tall, lightly armored Dragonborn guards. They have light pikes, and are more gargoyle in appearance than your standard dragonborn.
 	- HP: 12

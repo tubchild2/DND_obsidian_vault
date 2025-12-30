@@ -1,1 +1,0 @@
-An unending grid of deep red cylinder shaped rooms with no top or bottom. Each one is filled with endless random garbage that never stops. Residence of the Primordial of Chaos.
