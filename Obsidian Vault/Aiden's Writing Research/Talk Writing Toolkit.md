@@ -51,7 +51,7 @@ Body Paragraphs
 	- Pause between points.
 
 Conclusion
-- Connect your conclusion to your overal topic. 
+- Connect your conclusion to your overall topic. 
 - Rephrase main points and theme
 - Motivate your listeners. What audience should do and sound reasons why
 - Speak earnestly and with conviction
