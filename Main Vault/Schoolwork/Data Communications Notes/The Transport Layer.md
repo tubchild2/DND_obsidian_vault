@@ -1,0 +1,87 @@
+Overview
+- Position
+	- Above network layer
+	- Knows nothing about packet delivery
+- Function
+	- Collects data from the application layer and packages it up so that data will be delivered as needed
+	- Handles flow control; the receiver of the data is in charge of adjusting how much data can be sent
+		- Uses windowing. Receivers create windows in which segments can be sent
+	- Handles error control; when the TCP protocol is used, the receiver will request retransmission of mission or corrupt segments. The UDP protocol doesn't allow this function.
+	- Handles Multiplexing; unique port numbers are used to separate conversations and keep them straight, to allow talking to multiple applications at a time.
+		- Does so via sockets
+		- A socket is an IP + a Port Number
+		- 21.42.51.6:446
+		- Unique for each conversation
+		- Can be sent along the same wire and let the receiver sort them out based on the socket
+	- Handles End-to-end communication; by end to end, we're talking about the application layer. Layer 4 controls getting from the sending application to the receiving application, not just to the receiving device
+
+Protocols
+- TCP (transmission control protocol)
+	- PDU: Segment
+	- Most common protocol
+	- Connection oriented. Has to establish a line of connection before it can begin delivering
+	- Guaranteed delivery. If something is missing, it'll go back and get it.
+	- Typically used for web pages and other text-containing data
+	- TCP Header
+		- Source port address: 16 bits
+		- Destination port address: 16 bits
+		- Sequence number: 32 bits
+		- Acknowledgement number: 32 bits
+			- Represents next expected sequence number
+		- Flags: 6 1 bit flags
+			- (URG) Urgent flag: says that this urgent pointer field needs to be paid attention to
+			- (ACK) Acknowledgement flag: says that the segment is an acknowledgement of a receipt of a set of segments or a session handshake request
+			- (PSH) Push flag: when set in an ACK segment, sender shouldn't wait for an acknowledgement but should send the next segment immediately
+			- (RST) Reset flag: used with the ACK segment to say that the last segment wasn't expected
+			- (SYN) Synchronize flag: requests a communication channel be open
+			- (FIN) Finish flag: used to end the communication session
+		- Window Size: 16 bits
+		- Checksum: 16 bits
+		- Urgent Pointer: 16 bits
+			- When the URG flag is set, used to express that a segment is urgent
+		- Options and Padding: Up to 40 bytes
+- UDP
+	- PDU: Datagram
+		- Incredibly simple
+		- Source Port
+		- Destination Port
+		- Length
+		- Checksum
+	- Connectionless. Give it an IP and if it gets there it gets there
+	- Best-effort delivery
+	- Doesn't fix anything that's missing
+	- Used for video and streaming
+	- Much faster
+	- Also used for LAN packets such as DHCP and DNS
+	- Prioritizes speed and flawless sending
+- SCTP and DCCP
+	- PDU: Chunk
+	- Not in wide use (or any use, usually)
+	- Meant to replace TCP and UDP
+	- Up and coming, may become viable in the future
+	- Stream Control Transmission Protocol
+	- Datagram Congestion Control Protocol
+
+Ports
+- A port is a number used to indicate what application layer protocol is sending or receiving the data being sent
+- Service on a machine "listen" on various ports to respond when incoming segments are received with the expected port.
+- Usually services. 
+
+Addressing
+- 16 bit port number; range from 1-65,535
+	- Well known ports: 1-1,023
+	- Registered ports: 1,024-49,151
+		- Companies contact IANA to reserve a protocol for their own use.
+	- Dynamic ports: 49,152-65,535
+- Each application layer protocol is associated with a different port number and this port number is found in either the TCP segment or the UDP datagram
+- For example, HTTP, a common application layer protocol, uses port 80
+	- FTP - 20, 21
+	- TELNET - 23
+	- SMTP - 25
+	- DNS - 53
+	- HTTP - 80
+	- POP3 - 110
+	- IMAP - 143
+	- HTTPS - 443
+	- RDP - 3389
+- The IANA keeps track of these numbers. 

@@ -1,0 +1,31 @@
+Required points:
+- Good reason for finger pointing
+	- Could have been done by a player
+	- Player would've had a rational motive
+	- No / very few other NPC culprits
+	- Feels like something a player did (imperfect, rushed, improvised, weird details)
+	- Every player is a potential suspect (separate players)
+- Time limit
+- Consequences for being accused 
+	- Make them panic
+	- Threaten their lives
+- Limited options beyond finger pointing
+	- Best option is deduction
+	- Deduction is possible
+- Good reason to turn on each other
+	- Don't make the characters close
+	- Give players a reason to distrust each other
+	- Competition, different objectives, limited resources, etc.
+- Give them tangible yet Sisyphean ways to progress the mystery
+	- Mystery web that takes too long to solve
+	- Provide a lot of information, but not enough to figure it out
+	- Clues should stir the pot
+	- Create an out in case they figure it out
+	- Don't tie it to actual media so they can't figure it out
+- Conclusions
+	- The main theme is trust. If they'd trusted each other, they'd have succeeded. If they hadn't, they would've died.
+
+Inspired by:
+- Mafia (the card game)
+- Among Us
+- Town of Salem

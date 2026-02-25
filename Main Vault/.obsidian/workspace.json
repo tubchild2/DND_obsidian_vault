@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "84afae02a28f04b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2d9d925fe944425",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445a074cef63a2a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aiden's Accessory Atlas/To-Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To-Do"
+            }
+          },
+          {
+            "id": "a8ce9f66dd8120ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Factions/East Arcohaem Trade Union.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "East Arcohaem Trade Union"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b029e1ef90e88f01",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7abdadd5f1a8709",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75bb62ce5edb6dc7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fdeb48166cfe8362",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d6f44f2b15a35484",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 238.5
+  },
+  "right": {
+    "id": "7efababeab0f1b4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e2b0bb42dc0a968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21fec4d8354d0936",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Schoolwork/Data Communications Notes/The Application Layer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Application Layer"
+            }
+          },
+          {
+            "id": "893c207900901b6b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Factions/East Arcohaem Trade Union.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from East Arcohaem Trade Union"
+            }
+          },
+          {
+            "id": "25bfdb41e9da4a76",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37ec5b7720b7acbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vaerith One Shot.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Vaerith One Shot"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a8ce9f66dd8120ce",
+  "lastOpenFiles": [
+    "Tabletop Campaigns/My Campaigns/Arcohaem/References/World History - Arcohaem.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/People/Malfaust.md",
+    "Aiden's Accessory Atlas/To-Do.md",
+    "Tabletop Campaigns/My Campaigns/Lightning-55/Sessions/1 - Werewolf.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Factions/East Arcohaem Trade Union.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/People/Thane.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Places/Arcohaem.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/People/Terrik.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/People/Kragknull.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Characters/Commander Kragknull.jpg",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/People/Kaul.md",
+    "Malfaust 4.jpg",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/EATA/EATU Flag.png",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/EATA",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Maps/Arcohaem Land.jpg",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Maps/Arcohaem Tribes w Landmarks.png",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Maps/Arcohaem Tribes.png",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Maps/The Five Realms of Serendipita.png",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Hard Light.png",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Characters/call.wav",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/FullMap.png",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Characters/The Wraith.png",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Maps",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Characters",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Republic",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Factions/Republic of Arcohaem.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Frigoshia",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Factions/Frigoshia.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/People/Brisk.md",
+    "Arcohaem Tribal Index.md",
+    "Schoolwork/Data Communications Notes/Wireless Networking.md",
+    "Schoolwork/Web Development/JavaScript Notes.md",
+    "Schoolwork/Web Development/HTML notes.md",
+    "Aiden's Accessory Atlas/Weekly Schedule.md",
+    "Talks/Starting a Conversation Feb 26 2026 Draft 2.md",
+    "Talks/5-Min Talk 1 Draft 6.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/References/Plots/Arcohaem v3.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/References/Plots/Arcohaem v4.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/References/Arcohaem Plot Overview.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Sessions/Session 1 - The Wolves of Arcohaem.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Sessions/Session 2 - Remember Why We Fight.md",
+    "temp.md",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/References/Plots",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Things",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Places",
+    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/People",
+    "Home Network.canvas",
+    "TTE/Character Maker.canvas",
+    "TTE/RPGE Character Maker.canvas",
+    "Campaign 1 (Uncharted Galaxy)/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
+    "PANDORA SCRIPT OVERVIEW.canvas",
+    "PANDORA DND Campaign.canvas",
+    "Supply Chain FitnessApp(tm).canvas",
+    "Don't Worry About it.canvas",
+    "Pandora DND 2.canvas"
+  ]
+}
