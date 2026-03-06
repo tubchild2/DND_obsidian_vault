@@ -25,6 +25,8 @@
 - [[ID_ Scoundrel]]
 
 
+
+
 ### WORLDBUILDING
 **Super Soldiers**
 - Fighters with enhanced
@@ -65,6 +67,8 @@
 - [[ID_ Talekin]]
 
 
+
+
 ### CAPITAL P PLOTS
 **The Darkness**
 - First session involves time travel
@@ -87,7 +91,45 @@
 - [[ID_ The Conqueror]]
 
 
-### LOWERCASE P PLOTS AND ETC IDEAS
+
+
+### MECHANICS
+**Stress Management**
+- Have people need to read a long document before taking a test about it
+- The whole time they're doing this, try to distract them by playing tense, escalating music and loud noises and stuff
+- A test of nerves and focus
+
+**Time Limit**
+- Institute a real-time element to the game to make people hurry and panic and to add elements of tension
+
+**The Navigator**
+- One player has a key piece of immovable information that they need to communicate to a mobile player. For example, one player has a map and a radio, and the other player needs to listen to their instructions. The spice comes from the hazards, task management, stress, and things that're difficult to explain.
+- Inspired by: Stranger Things Season 2 Episode 8: The Mind Flayer. Stuck in the lab with demo-dogs, underpowered, forced separation due to skill differences.
+
+**Heist**
+- Give some information so that they can plan, but not enough so that they're prepared
+- Room for unpredictability
+- Inspired by 
+	- Monaco: What's Yours Is Mine
+	- Thief: The Dark Project
+
+**Interrogation**
+- The crew is apprehended and have to lie to escape
+- They may be separated, so they need to anticipate
+- Roleplay focus
+- Inspired by 
+	- Firefly
+	- Community
+
+**Hyperreality the Game**
+- [[ID_ Hyperreality the Game]]
+
+**Traitors and The Thing**
+- [[ID_ Traitor]]
+
+
+
+### LOWERCASE P PLOTS
 **Hunger Games**
 - Last man standing wins. Don't trick them into turning on each other, just ask them to in advance it's so much easier.
 
@@ -118,22 +160,10 @@ https://www.youtube.com/shorts/HpiGgqYVUkQ
 - A little unnerving
 - Google like silent hill elevator or some liminal space crap for this
 
-**Stress Management**
-- Have people need to read a long document before taking a test about it
-- The whole time they're doing this, try to distract them by playing tense, escalating music and loud noises and stuff
-- A test of nerves and focus
-
 **Pettiness**
 - Doing just something super small and petty to irritate a genuinely evil person
 - This evil person could easily kill you but having the stones to say something so petty and small is hilarious
 - Derek Turnbow and Spider-Man
-
-**Time Limit**
-- Institute a real-time element to the game to make people hurry and panic and to add elements of tension
-
-**The Navigator**
-- One player has a key piece of immovable information that they need to communicate to a mobile player. For example, one player has a map and a radio, and the other player needs to listen to their instructions. The spice comes from the hazards, task management, stress, and things that're difficult to explain.
-- Inspired by: Stranger Things Season 2 Episode 8: The Mind Flayer. Stuck in the lab with demo-dogs, underpowered, forced separation due to skill differences.
 
 **Pudding-in-your-pants**
 - Ambush forces constant "how are we alive" pudding-in-your-pants action. 
@@ -151,21 +181,6 @@ https://www.youtube.com/shorts/HpiGgqYVUkQ
 **False Betrayal**
 - Create a situation that pushes players to panic and turn on each other.
 - [[ID_ False Betrayal]]
-
-**Heist**
-- Give some information so that they can plan, but not enough so that they're prepared
-- Room for unpredictability
-- Inspired by 
-	- Monaco: What's Yours Is Mine
-	- Thief: The Dark Project
-
-**Interrogation**
-- The crew is apprehended and have to lie to escape
-- They may be separated, so they need to anticipate
-- Roleplay focus
-- Inspired by 
-	- Firefly
-	- Community
 
 **Early**
 - Someone intrudes while you're asleep. They have a thorough plan and complex goals, as well as a large advantage.
@@ -187,11 +202,5 @@ https://www.youtube.com/shorts/HpiGgqYVUkQ
 **Crawl of the Navigator**
 - [[ID_ Crawl of the Navigator]]
 
-**Hyperreality the Game**
-- [[ID_ Hyperreality the Game]]
-
 **The Lost Arbiter**
 - [[ID_ The Lost Arbiter]]
-
-**Traitors and The Thing**
-- [[ID_ Traitor]]

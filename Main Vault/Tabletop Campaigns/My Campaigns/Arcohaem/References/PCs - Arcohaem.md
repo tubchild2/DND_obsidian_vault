@@ -29,7 +29,7 @@ Personality:
 - Wrathful fisherman
 - Clumsy
 - Lacks hierarchy
-- Hates elves
+- Hates elves (knife ears)
 - Likes fish and rodents
 
 Goal: Eat bad people when they ruin his fishing
@@ -137,27 +137,67 @@ WEAKNESSES
 - Though having an AC of nearly 40, he's still just as vulnerable to magic missile.
 - Saving throws deal damage and don't use AC. Wisdom saving throws in particular would be devastating.
 - Disable his movement with hold person, grease, or environmental factors.
+- Wants to be broken emotionally.
 
 # Cole
 Name: Brogus Bobbleheim
-Species:
-Class: Monk - Rogue
-Background: 
-Personality:
+Species: Orc
+Class: Monk / Rogue
+Background: Soldier
+
+Personality: 
+- Very kind for his size
+- After years of doing pmc work, is now just content reading or dumping
+- Sometimes both at the same time
+- LOVES tea, reading, and chilling in a cave by a fire
+- Is essentially a dirty red coat in disguise
+- Dislikes conflict; will always try to talk his way out of things
+- Subtle autism
+
 Flaws:
-Goal: 
+- Unable to admit when he's wrong
+- Will blame other people
+- Skilled hand to hand fighter, but hates it
+- Will complain and apologize the whole time
+- Really annoying
+
+Goal: Brogus wants this to be his last job. He yearns for the finer things in life, and hopes to be able to just sit back and relax in his sunset years (even though he's only in his 40's). As long as he can get the job done, he'll be happy. But if he can prevent any conflict along the way, he'll be sure to give it a shot.
+
 Backstory:
-Custom Equipment:
-Theme: 
+- Pretty wealthy family of exporters
+- Not really interesting
+- He didn't go into the family business, but these days, he wishes he had
+- Years and years of being a combat specialist has taken a toll, and he's got the scars to prove it
+- Family native to Arcohaem, but doesn't spend much time in-country
+
+Theme: Invitations by Shakatak
 
 # Skyler
 Name: Rorik Valgok
-Species:
-Class: 
-Background: 
-Personality:
+Species: Dwarf
+Class: Scholar (wizard)
+Background: Sage
+
+Personality: 
+- Stubborn
+- Loyal
+- Hot-headed but kind at heart
+- Gritty (brooding?)
+- Likes cheese, aged ale, aged elven women, stories, loyalty, and respect
+- Dislikes forest ents, elven men, wine, Frigoshians
 Flaws:
+- Cheese (greatest weakness)
+- Racist to tree ents
+
 Goal: 
+- Make good money
+- Avenge the death of his wife Elanor 
+- Struggles with the morality of killing innocents
+
 Backstory:
-Custom Equipment:
-Theme: 
+- He came from the mountain's of Sindri and was a respected dwarf who would use ether 
+- His wife Elanor was massacred by the Frigoshia as she was also a ether user
+- From that day on he vowed to avenge his wife no matter the costs. 
+- He was middle-class and he has that classic one eye scar with the white eye (you know what I'm talking about)
+
+Theme: diggy diggy hole

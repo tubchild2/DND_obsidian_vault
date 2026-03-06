@@ -32,9 +32,7 @@
 
 **[[Malfaust]] The Red** - 12c 117
 - [[Malfaust]] was Tiamat's main general, and one of the lone survivors of the Draconic Era. 
-- In fear of the rebellion, he went into hiding deep beneath the planet's surface to grow in power and plan his vengeance.
 - He wanted to rule, but this time he wouldn't underestimate mankind. 
-- His philosophy hinges on the natural corruption of humans. He believes that they all inherently want to do bad things but some are just better at hiding it. He believes they're lesser than dragons in every major way. He believes that they're destined to be ruled, and that it's the natural order. He believes that every human, no matter how good, has a price in which they'll break their own rules, especially in the systems they create.
 
 
 
@@ -48,7 +46,7 @@
 - The remaining followers of Tiamat dispersed throughout [[Arcohaem]] in secret, and incorporated themselves into the newly founded tribes. 
 - They contributed heavily to the overall culture, establishing a culture of warriors, honor, and hunting. 
 - Their descendants also carried on their legacy of greed, power, and subjection. 
-- Before they died out over the coming years, they longed for the return of the Draconic Age. They constructed a few hidden temples, but their search would be ultimately fruitless. 
+- Before they died out over the coming years, they longed for the return of the Draconic Age. They constructed a few hidden temples, but their search for dragon eggs would be ultimately fruitless. 
 
 **The Death of Theon Arcson** - 12c 122
 - About a decade after the end of the war, Theon Arcson passed away at the age of 76.
@@ -89,10 +87,8 @@
 - Amid the mass starvation, a growing stigma is forming within the central colonies against traditionalism, as lack of access to advanced technology made this tragedy leagues worse.
 
 **The Unsealing** - 12c 1101
-- During the Black Winter, [[Malfaust]] was forced to move deeper into the Volcanic caverns to stay warm. There, he discovered a hidden room from the Draconic age, which contains 55 chromatic dragon eggs preserved in a chemical solution.
-- They must have been put there when Tiamat fell. They were ancient, but still mostly intact. With the right incubation equipment, [[Malfaust]] could hypothetically bring them back. He'd begin studying ether, E-Tech, and incubation.
-- This process led to the development of [[Hard-Light]] weapons, and  the incubation equipment he needed. However, he needed substantial resources to pull this off. So, he began formulating a plan.
-
+- [[Malfaust]] the red discovers 55 preserved chromatic dragon eggs from the Draconic Era.
+- [[Malfaust]] invents [[Hard-Light]] weapons.
 
 ### **DAWN OF A NEW ERA**
 **The Industrial Revolution** - 12c 1252
@@ -119,9 +115,9 @@
 - From the caverns, he heard a voice calling to him. He cautiously entered, weapons drawn. There, he encountered [[Malfaust]].
 - He was prepared to fight the beast (likely to his own demise) that was supposed to not only be extinct, but also blood boilingly evil.
 - [[Malfaust]] asked him questions to learn why he was wandering all alone. With not much to lose, [[Terrik]] told him.
-- [[Malfaust]] told him that he had ambitions far beyond hiding out in caves. If [[Terrik]] helped him reestablish the power he deserved, he'd help [[Terrik]] reestablish and even exceed the power he deserved. He also told him that, at full power, he could even get his fiancé back.
+- [[Malfaust]] told him that he had ambitions far beyond hiding out in caves. If [[Terrik]] helped him reestablish the power he deserved, he'd help [[Terrik]] reestablish and even exceed the power he deserved. Together, they could bring about a better world free of corruption, one tied to the roots of [[Arcohaem]].
 - [[Terrik]] related to [[Malfaust]]'s plight, and was surprised by how civil and intelligent [[Malfaust]] was. With nothing to lose, and nowhere to go but up, he agreed to be his new servant. [[Malfaust]] taught him everything he knew, and outfitted him with a [[Hard-Light]] spear to boost his already aggressive style of combat.
-- [[Terrik]] would serve as [[Malfaust]]'s personal messenger and hand. He would do whatever [[Malfaust]] ordered, and in return, would have riches and power beyond his wildest dreams, and a chance at bringing back his fiancé. [[Malfaust]] can't currently bring anyone back from the dead, but he believes that at the height of his power, and with access to extensive resources, he might be able to. 
+- [[Terrik]] would serve as [[Malfaust]]'s personal messenger and hand. He would do whatever [[Malfaust]] ordered, and in return, would have riches and power beyond his wildest dreams, and a chance at rebuilding [[Arcohaem]] with his new master. 
 - As his messenger, [[Terrik]] began to be referred to as [[Terrik|the Wraith]] of [[Arcohaem]]. He wore a mask and a stealth-focused suit both to conceal his identity, and to hide his disfigured face.
 
 **[[Brisk]]'s Deal** - 12c 1253
@@ -166,10 +162,11 @@
 - The Republic economy is booming, though! [[Kaul]] is incredibly popular among the Senate because of how much easier he's made their lives.
 
 **Today** - 12c 1266
-- [[Brisk]] has kept his end of the bargain. Now that he's king, he expanded the draconic operation tenfold. The dragons had hatched and grown up. With over 50 of them, even if they were Juveniles, he could do some serious damage. Unbeknownst to the public, a lot of food was actually going to the dragons. 
+- [[Brisk]] has kept his end of the bargain. Now that he's king, he expanded the draconic operation tenfold. The dragons had hatched and grown up. With over 50 of them, even if they're just Juveniles, he could do some serious damage. Unbeknownst to the public, a lot of food was actually going to the dragons. 
+- That's not all though. Unbeknownst to everyone but [[Brisk]], [[Terrik]], [[Kaul]], and some scientists, [[Malfaust]] has been attempting to artificially produce more dragon eggs by experimenting on young dragons with aging E-Tech. He created [[Amalgamma]], a nightmarish amalgam of young female dragons, and it's almost ready to produce. Once it is, everything will be ready for the invasion.
 - A group of lost Republic soldiers discovered a routine [[Frigoshia|Frigoshian]] transport of dragon eggs and incubation equipment in the middle of nowhere by accident. They attack the transport to take it for themselves so that they can get back home safely, and once they do, they discover what they were transporting.
 - Once they had knowledge of [[Brisk|King Brisk]]'s draconic plot, they swiftly alerted the Senate, which immediately voted for a strike team to infiltrate [[Frigoshia]] and destabilize it. They can't get an army into [[Frigoshia]] right now, and they can't divert troops away from the capital in case of a draconic invasion.
-- [[Terrik|The Wraith]] met with [[Kaul]] and informed him of parts of [[Malfaust]]'s plan. He dropped the "friend" act, and threatened to kill him, and his family, and his friends, and make someone else Chancellor who would listen to him if he didn't do exactly what he wanted. This was a serious complication, and it needed to be handled seriously. [[Kaul]] was terrified. He saw [[Malfaust]]'s plan as inevitable at this point, so he agreed that he'd help the mission to fail if he was promised a seat in [[Malfaust]]'s new empire. [[Terrik|The Wraith]] said that he'd be spared if he obeyed, as well as given a sizeable amount of wealth, but rulership belonged to his master. [[Kaul]] agreed.
+- [[Terrik|The Wraith]] met with [[Kaul]] and revealed who he was, and part of [[Malfaust]]'s plan. He dropped the "friend" act, and threatened to kill him, and his family, and his friends, and make someone else Chancellor who would listen to him if he didn't do exactly what he wanted. [[Terrik]] absolutely hates [[Kaul]] because of what he did to him. This was a serious complication, and it needed to be handled seriously. [[Kaul]] was terrified. He saw [[Malfaust]]'s plan as inevitable at this point, so he agreed that he'd help the mission to fail if he was promised a seat in [[Malfaust]]'s new empire. [[Terrik|The Wraith]] said that he'd be spared if he obeyed, as well as given a sizeable amount of wealth, but rulership belonged to his master. [[Kaul]] agreed.
 - [[Kaul]] needs the mission to fail, but he can't ignore it or the Senate will be suspicious of treason. So, using his influence, he selected the [[PCs - Arcohaem|Wolves of Arcohaem]] to handle the mission, banking on their inconsistency to ruin the mission. They need to infiltrate [[Frigoshia]] and destroy the program before it's too late. This wasn't a popular or sensible decision, but [[Kaul]] knew how to put money in the right places to keep the wheels from squeaking, and he was trusted enough to get the mission approved.
 - [[Terrik|The Wraith]] has a plan
 	- He's going to get [[Kragknull|Commander Kragknull]] (their overseer) framed so that he can get [[Kaul]] direct control over their mission to push them somewhere that'll get them killed.

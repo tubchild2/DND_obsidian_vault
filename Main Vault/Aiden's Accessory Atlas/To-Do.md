@@ -12,21 +12,19 @@ Toy with the thesis "Being a hero demands sacrifice." A short campaign in which 
 
 
 ### [[Arcohaem]]
-[[Malfaust]]'s plan
-- Once he had a significant enough army, the dragons were 10+, and there was a large enough stockpile of bombs (500+), he'd have [[Terrik]] assassinate [[Kaul]] during a senate meeting, and seize control through overwhelming military force (his dragon army). 
-- Ideally, [[Malfaust]] would like 56 dragons to control each tribe in [[Arcohaem]], and 10 dragons for each Kingdom he intends to conquer.
-- Time is his greatest enemy. Dragons take centuries to reach maturity and lay eggs, and he only has 50ish eggs now.
-- To circumvent this, he'd develop a battle strategy
-	- The soldiers would be from the Republic / [[Frigoshia]]. The war would allow both to amass gigantic armies, both large enough to support the young dragons.
-	- The weapons would be Ether powered explosives. Essentially, through the use of pocket dimensions, you could cram a ton of extremely powerful explosives into a tiny space. This made lightweight, powerful bombs that could be used to knock down city walls. 
-	- [[Malfaust]] and 6 other young dragons would secure control of [[Arcohaem]], while the other 50 would be divided and sent to conquer.
-
-
 To-Do
 - Finish [[Arcohaem v4]]
 	- Show corruption being rewarded
+	- Showcase the effects of the rest of the war, as in territories being captured, references to smaller skirmishes, etc.
 	- Incorporate the PCs into the plot and take more thorough notes on each of them
-	- The final act: https://www.youtube.com/watch?v=R9mQ-yXtl04&t=266s
+	- The Finale 2
+		- The odds are not in their favor. They have one chance to stop the invasion the day it's set to happen. If they fail, potentially all of Serendipita could be in danger. Resources are scarce, they're outnumbered by hundreds of elite Republic and Frigoshian guards, dragons, and also Terrik, and they don't really even know what they're trying to do. 
+		- They are given the choice early on to flee, or fight. If they flee, they'll live to fight another day, but Malfaust's plan will succeed.
+		- Don't fake the odds. It's going to be an incredibly challenging finale with serious complications and risks.
+- World History Reorganization
+	- Move detailed plot to individual pages
+	- Focus on high-level plot in the [[world history - Arcohaem]] page
+	- Avoid repeated information
 - Update Pages
 	- [[East Arcohaem Trade Union|EATU]]
 	- [[Brisk|King Brisk]]
@@ -34,3 +32,4 @@ To-Do
 	- [[Kragknull|Commander Kragknull]]
 	- [[Malfaust]]
 	- [[Thane|President Thane]]
+	- [[Amalgamma]]

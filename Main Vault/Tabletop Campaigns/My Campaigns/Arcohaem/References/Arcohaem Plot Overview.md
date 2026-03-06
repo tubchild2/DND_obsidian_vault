@@ -31,14 +31,14 @@ Side Theses
 
 ## **PLOTS**
 Primary Plots
-	Malfaust's Plot
+	[[Malfaust]]'s Plot
 		[[Frigoshia]] is breeding dragons!
 		Uncovering the propaganda of the Republic
 		Discovering hints of a conspiracy
 		Uncovering the corruption of the Republic
 		Finding out [[Terrik|the Wraith]] accelerated the war on both sides
 		Finding out [[Terrik|the Wraith]] is responsible for the Republic weapons division and for the Dragon eggs
-		Malfaust is going to seize control, use the weapons/dragons to conquer Serendipita, and reclaim Serendipita
+		[[Malfaust]] is going to seize control, use the weapons/dragons to conquer Serendipita, and reclaim Serendipita
 	Wolves' Story
 		They start completely indoctrinated into the beliefs of the Republic
 		They have their beliefs about [[Frigoshia]] and the Republic reinforced
@@ -58,11 +58,11 @@ Side Plots
 		He slowly became corrupt while trying to cover up his work and uproot more corruption.
 		In an ironic twist, in an attempt to uproot corruption, someone killed his fiancé.
 		[[Terrik]] got his revenge, but was caught, and lost everything. He escaped his execution.
-		He lost all hope in government, and then met Malfaust.
-		He agreed with Malfaust, so became his hand, and learned from him.
+		He lost all hope in government, and then met [[Malfaust]].
+		He agreed with [[Malfaust]], so became his hand, and learned from him.
 		[[Terrik]] shows what happens to people in power, who little by little give in to corruption.
-		He's beyond redemption, and he believes Malfaust is right.
-	Kragknull's Story
+		He's beyond redemption, and he believes [[Malfaust]] is right.
+	[[Kragknull]]'s Story
 		He was the Wolves' overseer
 		He discovered corruption in the Senate, and attempted catch someone in the act
 		He broke some minor laws with Senator Finn to do it
@@ -74,24 +74,57 @@ Side Plots
 ## **PLOT OVERVIEW**
 Act 1
 This act demonstrates that the wolves are fully indoctrinated into the belief system of the Republic regarding their own nation, and [[Frigoshia]].
-- Part 1: Introduction to world
+- Part 1: Introduction to world and to their mission.
 - Part 2: Reinforcement of beliefs about [[Frigoshia|Frigoshians]]
 - Part 3: Reinforcement of beliefs about the Republic 
 
+
 Act 2
-Their confidence in their beliefs is tested against their consciences, then the plot twists as they learn Chancellor [[Kaul]] and Brisk have been collaborating under advice from [[Terrik|the Wraith]], who has a master of his own.
+Their confidence in their beliefs is tested against their consciences, then the plot twists as they learn Chancellor [[Kaul]] and [[Brisk]] have been collaborating under advice from [[Terrik|the Wraith]], who has a master of his own.
 - Part 1: [[Frigoshia|Frigoshians]] can be good
 - Part 2: The Republic can make dangerous decisions and is far from perfect
-- Part 3: The [[Frigoshia|Frigoshians]] are nuanced. The Wolves get a peek behind the curtain, and learn Chancellor [[Kaul]] and Brisk have been collaborating under advice from [[Terrik|the Wraith]], who has a master of his own.
+- Part 3: The [[Frigoshia|Frigoshians]] are nuanced. The Wolves get a peek behind the curtain, and learn Chancellor [[Kaul]] and [[Brisk]] have been collaborating under advice from [[Terrik|the Wraith]] and his master, who's some mysterious "M". Apparently, they're plotting to seize [[Arcohaem]], and they need to finish "[[Amalgamma]]" to do it. So time is running out. [[Brisk]] reveals that the dragon eggs came from [[Terrik|the Wraith]]'s master. Additionally, whatever evidence there is is apparently tied to that bank assassination from earlier, and the replacement is going to have the files. The letters they find are burned and incomplete, but it was likely an interception of one of these shipments that caused this whole thing. Regardless, they've got a week until the invasion.
+
+```
+Kaul,
+	I am writing to thank you once more for your generous support of the program. M. has 
+	nearly perfected that sickening Amalgamma, meaning the seizure of Arcohaem is closer 
+	now than ever before. However, to finalize the program, we require a final shipment 
+	of resources. I have enclosed a document with his requirements. According to his 
+	timeline, results can be expected in less than 14 days.
+Thanks,
+	- King Brisk of Frigoshia
+```
+
+```
+Brisk,
+	The resources have been shipped. Though I must warn you, it is getting increasingly 
+	difficult to hide our activities. The shipment records we nearly discovered by the 
+	bank overseer. If not for [[Terrik|the Wraith]], the lab would've likely been discovered. I know 
+	better than to question him and his master's methods, though. The day is drawing 
+	close, brother, I can feel it.
+	
+	I am going to be out of office for the coming week. I am going to be meeting with the 
+	replacement overseer of the Republic bank: Cedtris Coparol. He's hosting a gala, and 
+	the bank records will be there, so I need to ensure the transfer is handled 
+	delicately. 
+Regards,
+	 - Chancellor Caldus Kaul 
+```
+
+
 
 Act 3
 They investigate the conspiracy behind the dragon program, and learn the truth about the war
-- Part 1: The Republic is incredibly corrupt
-- Part 2: The war was accelerated by the [[Terrik|the Wraith]] on both sides. Everything ties back to him!
-- Part 3: They solve the mystery of [[Terrik|the Wraith]]. He's actually [[Terrik]], and he serves "M"
+- Part 1: They learn that they've been branded traitors, reconnect with [[Kragknull]], get a true perspective on the war, and move through / around the howling front to get to that Gala and to meet up with Senator Finn. This takes up 5 days.
+- Part 2: They investigate [[Cedtris Coparol]]'s Gala, because the shipping logs have to be there, which'll contain the location of the lab. They witness Republic corruption, and have to avoid a disguised Terrik and Chancellor Kaul, who's also after the records. The logs detail that Kaul has been building "M's" weapons, who appears to be the Wraith's master. Additionally, the resources for the dragon program have been shipped to a redistribution center to be rerouted to the real destination to add a layer of security. They also learn that the Wraith revealed his identity to Kaul. Terrik then kills Kragknull and a fight breaks out with improvised weaponry. This takes up a day.
+- Part 3: They move to the redistribution center. On the way, Senator Finn explains who Terrik is, and that he was likely the one to kill Senator Rimeholt. The center is where Kaul performs illegal activity. It was the draconic lab Brisk used prior to him becoming King. It's gross, but it reveals who Malfaust is, what he's planning, what Amalgamma is, and that destroying it can stop Malfaust, who's beginning the invasion as we speak. This takes up a day.
+
+
 
 Act 4
-As the timer runs out, they learn who Malfaust is, and are confronted with the choices the campaign revolves around
-- Part 1: Encounter with Malfaust, where they learn why he's doing this, darkest hour. The seizure of [[Arcohaem]] is beginning.
-- Part 2: Malfaust collects leverage, and the philosophies of Malfaust are shown, instead of just told. Malfaust is preparing to invade Serendipita, and he summons the Wolves to him. He has a stark advantage.
-- Part 3: Malfaust and [[Terrik|the Wraith]] present the Wolves with the final choice between doing what's "right," and succeeding in this world. Choosing to do what's right will genuinely cost them. [[Terrik]] represents what the Wolves can become, and he dies because he refuses to change. Malfaust isn't defeated, but he is chased out of [[Arcohaem]] again. A hatchling dragon imprints on the Wolves, and they have the choice of repeating history, or sparing it. The rest of the Juvenile dragons retreat throughout Serendipita.
+As the timer runs out, they are confronted with the choices the campaign revolves around
+- Part 1: [[Malfaust]] begins the invasion of [[Arcohaem]] with his 50 Wyrmlings. They're given a choice here; the odds are REALLY not in their favor. They have one chance to stop the incoming invasion on literally the DAY it's supposed to happen. If they fail, potentially all of Serendipita could be in danger. They're running out of resources, they don't even really know what they're trying to accomplish, and they're up against the greatest Republic and Frigoshian soldiers in Arcohaem, a literal army of dragons, Terrik, Malfaust, and Amalgamma. They can flee and live to fight another day. They're Arcohaem's final hope. They have to fight their way through the now apocalyptic Republic to reach the dragon program.
+	- https://www.youtube.com/watch?v=R9mQ-yXtl04&t=266s
+- Part 2: Malfaust tauntingly calls the Wolves to the program, since he knows they're coming. He has leverage over them now, and his philosophies are shown here. The Wolves arrive at the Dragon Laboratory, and it's so much worse than they thought. The investigation is horrific, especially once they find Amalgamma. To awaken it, they need to go through Malfaust's lair, and he's expecting them. So is Terrik. This is it. 
+- Part 3: Malfaust presents the Wolves with the final temptation. It's dark, and it's personal, and he has personal leverage over them now. They see Terrik for who he really is, and how he's a representation of what the Wolves could become. If they refuse the temptation, they genuinely lose everything, and Terrik is sent after them. Terrik is the real final battle, and he dies because of his refusal to change. Malfaust attacks, and their goal isn't to kill him, but to get past him and to Amalgamma. He monologues and runs on about his philosophies while hunting the Wolves, but eventually they get past him long enough to barely awaken Amalgamma. Amalgamma is incredibly powerful, and it gives all of them intense hallucinations thanking them, and then banishes Malfaust and destroys both itself and the lair. As the wolves are escaping, a hatchling imprints itself on them. They have the choice of repeating history, or sparing it. Regardless, the rest of the Juvenile dragons continue their rampage, but once they realize Malfaust is dead, they retreat throughout Serendipita. The Wolves are publicly honored, and the treasure trove of evidence uncovered from the ruins of the lab is enough to incarcerate Chancellor Kaul, King Brisk, and hundreds of people that were involved in their regime. Senator Finn is promoted to Chancellor, and he spends his time attempting to fix the corruption, but because of how bad it is, he can't get it all out, and he immediately has to compromise to even keep the Republic afloat. It's inherently flawed, but by his making the best choices he can, it can be better. Catastrophe is avoided for now, but the dragons have returned, and Arcohaem is permanently scarred.

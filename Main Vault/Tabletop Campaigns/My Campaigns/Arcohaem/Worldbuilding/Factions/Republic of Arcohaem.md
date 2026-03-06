@@ -39,6 +39,7 @@ South Tribes
 
 **Visuals**
 Architecture
+- Ancient: 
 - Rural: Inuit / Norse-Viking
 - Suburb: Canadian-Victorian
 - Urban: Brutalist / Chunky Industrial Revolution
@@ -120,7 +121,7 @@ As of 12c 1266
 - Ragkilde
 - Reinstead (***Sub-Capital***)
 	- Contains the [[East Arcohaem Trade Union|EATA]] Senate Building
-	- Contains the castle of President Thane
+	- Contains the castle of [[Thane|President Thane]]
 	- Known for being primarily peaceful farm land
 	- A popular retirement spot
 	- Largely neutral due to the high percentage of refugees

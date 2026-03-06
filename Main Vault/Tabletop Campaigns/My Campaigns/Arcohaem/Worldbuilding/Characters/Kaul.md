@@ -1,6 +1,8 @@
 ---
 aliases:
   - Chancellor Kaul
+  - Caldus Kaul
+  - Chancellor Caldus Kaul
 ---
 
 Chancellor of the Republic

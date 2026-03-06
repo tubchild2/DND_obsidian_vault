@@ -3,7 +3,7 @@
 Chapter 1 - In Medias Res
 - The Wolves are in the midst of a mission to free war prisoners from Krothmire in the howling front
 - The [[Frigoshia|Frigoshians]] are cruel and animalistic
-- They get a mysterious distress call to return home to [[Hephaestus]] from Commander Kragknull
+- They get a mysterious distress call to return home to [[Hephaestus]] from Commander [[Kragknull]]
 
 Chapter 2 - Long Live the Republic
 - Propaganda everywhere
@@ -18,10 +18,10 @@ Chapter 2 - Long Live the Republic
 	- [[Frigoshia]] is fighting to live in squalor, don't let them win!
 - Soldiers are on parade
 - Trains are transporting refined Eathyst
-- They are met by Commander Kragknull in the Republic Senate Building
+- They are met by [[Kragknull|Commander Kragknull]] in the Republic Senate Building
 
 Chapter 3 - Your Mission
-- Kragknull explains their coming mission 
+- [[Kragknull]] explains their coming mission 
 	- Do you know what I've seen over my years as a commander? Savagery. I've seen my own friends get killed with no hesitation, no mercy, no weakness, no nothing. I don't believe they want to act human. They fight and kill without showing their faces, or speaking, or showing any empathy, all to live in squalor. It confounds me why some of our own citizens go out of their way to protest this conflict like we're somehow at fault here. In my eyes, if they want to act like savages, we reserve the right to treat them as such. I didn't believe anything they could do could surprise me at this point, but this most recent development has rocked me to my very core.
 	- Two weeks ago, 5 of our soldiers were separated in the heat of battle and got lost wandering the plains. While wandering, they discovered a [[Frigoshia|Frigoshian]] transport carrying incubation equipment, and a dragon egg. This has led the Senate to believe that the [[Frigoshia|Frigoshians]] are running a covert dragon breeding program, likely for military use. A single adult dragon could decimate [[Hephaestus]] before we even got a chance to respond. We don't know how many they have, and we can't get an army past the Howling Front to stop them.
 	- So, that's where you come in. Chancellor [[Kaul]], the Senate, myself, and you are the only ones aware of this mission's existence. It's simple, but far from easy, and has 3 parts.
@@ -37,7 +37,7 @@ Chapter 1 - Now That's a Famous Hat
 - They travel by caravan to the city of crafts; Ammalor
 - There's a large military presence. 
 
-- Kragknull checks in on them
+- [[Kragknull]] checks in on them
 	- He tests the communicator
 	- Sees how they're doing
 	- Gives them advice about finding ships to sail into Freyrhage, since any further travel would risk encountering the blockade.
@@ -76,7 +76,7 @@ Chapter 2 - Borderlands
 	- Parents are terrified for their kids
 	- Fleeing is dangerous, as [[Frigoshia|Frigoshians]] attack caravans and the docks charge too great a price.
 
-- Kragknull
+- [[Kragknull]]
 	- Freyrhage isn't associated with the Republic, and it's infinitely less important than their mission, and there's no way they can win as they're hopelessly outnumbered.
 	- However, it does feel morally wrong to abandon them to die.
 	- He suggests that they escort ~30 people to the shores and pay for their fare out of here.
@@ -117,7 +117,7 @@ Chapter 4 - Nocturne
 
 ### Part 3: The Republic!
 Chapter 1: Rain Fire
-- Kragknull reaches out to them on a personal level
+- [[Kragknull]] reaches out to them on a personal level
 	- If they discuss what happened last session
 		- Don't lose heart, because that's what they're fighting to prevent in the first place
 		- Things like this happen daily, and there's nothing they could've done about it
@@ -147,10 +147,10 @@ Chapter 2: Shoreline Siege
 
 Chapter 3: Reflection
 - They're camping in the central Havbo wilderness
-- Kragknull contacts them with an emergency transmission
+- [[Kragknull]] contacts them with an emergency transmission
 	- A bunch of people on both sides disappeared last night. People are going nuts about it; there are rumors of a deep inorganic growling that was heard at some of the scenes, so of course people are saying it's dragons.
 	- More importantly, the overseer of the Republic bank was assassinated in his office, and all of the files and contracts in his office were burned or looted. The assassin is still at large, and there's a lot of paranoia in the senate right now.
-	- Kragknull is personally investigating someone with Senator Finn. He can't say who in case he's wrong.
+	- [[Kragknull]] is personally investigating someone with Senator Finn. He can't say who in case he's wrong.
 	- He isn't allowed to do what he's about to do, but if he's right, he has to for the sake of the Republic.
 	- He hopes their mission goes well and that they return safely because they're his favorite team he's ever commanded. He tells them not to trust any [[Frigoshia|Frigoshians]] as they move deeper into their territory. They're pretty radicalized, and if anyone finds out about their true identities, they could be attacked.
 
@@ -199,9 +199,9 @@ Chapter 4: Branches of One Tree
 ### Part 2: The Basilisk's Pass
 Part 1: Change of Plans
 - After last session, they began to have really intense, vivid nightmare with disturbing imagery and vague interpretations. They're somewhat related to loyalty, honor, and pride. It's the devices and the sedative within, but they don't know that yet.
-- They haven't received contact from Kragknull in over a week, but they're awakened to the sound of their communicators!
-- It's, Chancellor [[Kaul]]?! He isn't as fun or nice as Kragknull, and he seems very stressed about their mission.
-	- Last week, Commander Kragknull "defected," and vanished. He trespassed, stole, and committed several acts of treason, sabotage, and assault. It's unknown why he would've even tried to do something like this. Many believe he's a northern sympathizer and has been planning this for awhile now. It's a dark, sad, shocking time for the Republic. He's not only lost a commander, but a friend.
+- They haven't received contact from [[Kragknull]] in over a week, but they're awakened to the sound of their communicators!
+- It's, Chancellor [[Kaul]]?! He isn't as fun or nice as [[Kragknull]], and he seems very stressed about their mission.
+	- Last week, [[Kragknull|Commander Kragknull]] "defected," and vanished. He trespassed, stole, and committed several acts of treason, sabotage, and assault. It's unknown why he would've even tried to do something like this. Many believe he's a northern sympathizer and has been planning this for awhile now. It's a dark, sad, shocking time for the Republic. He's not only lost a commander, but a friend.
 	- Anyways, [[Kaul]] will now be personally overseeing their mission. He asks what has happened since the last report: 
 		- (if they mention the [[Frigoshia|Frigoshian]] ally) he is unhappy with this. He thinks it was an unnecessary risk and could've gone incredibly poorly. He thinks you should help people in need, but not enemies IN enemy territory! That's ridiculous!
 	- He offers them advice moving forward
@@ -212,7 +212,7 @@ Part 1: Change of Plans
 
 Chapter 2: The Pass
 - It's not just hidden, this thing is dang near invisible! How would anyone ever find out about this? 
-	- They don't know this, but Brisk told [[Terrik]] who told [[Kaul]] who told them.
+	- They don't know this, but [[Brisk]] told [[Terrik]] who told [[Kaul]] who told them.
 - Things get creepy. 
 	- Unsettling noises
 	- Strange details
@@ -224,7 +224,7 @@ Chapter 2: The Pass
 - Then, things get weird. 
 	- They enter a series of monasteries that allow passage through the hills.
 	- They're impossibly old, and once again, incredibly well hidden
-	- They tell the real origins of [[Arcohaem]], about the Draconic Era, and they mention Malfaust
+	- They tell the real origins of [[Arcohaem]], about the Draconic Era, and they mention [[Malfaust]]
 
 Chapter 3: You Knew
 - There's a big ahh monster in the pass! The rumors were absolutely accurate!
@@ -288,7 +288,7 @@ Chapter 3: A bit more complicated
 ### Part 1: Who's M?
 They reach the dragon breeding program, but it's abandoned
 Additionally, the assassin is after them, but he's pretty far behind
-They find proof that King Brisk and Chancellor [[Kaul]] were cooperating on this program
+They find proof that [[Brisk|King Brisk]] and Chancellor [[Kaul]] were cooperating on this program
 What's worse, is that there's a third factor referred to as "M."
 
 The assassin appears and corners them
@@ -308,10 +308,10 @@ Maybe temporarily have them lose their gear to enforce that they're more than ca
 
 ### Part 2: In Sheep's Clothing
 Now on the run, they go into hiding and push on to Ultun.
-They see a shadow on the wall, and think it's [[Terrik]]. It's actually Kragknull!
-Kragknull was framed; he and Senator Finn were suspicious of [[Terrik]]. He did it
-Kragknull took the blame, and found out about the illegitimacy of their mission, so he's been looking for them
-There's a conspiracy going on with [[Kaul]], [[Terrik]], and Brisk. And also apparently "M."
+They see a shadow on the wall, and think it's [[Terrik]]. It's actually [[Kragknull]]!
+[[Kragknull]] was framed; he and Senator Finn were suspicious of [[Terrik]]. He did it
+[[Kragknull]] took the blame, and found out about the illegitimacy of their mission, so he's been looking for them
+There's a conspiracy going on with [[Kaul]], [[Terrik]], and [[Brisk]]. And also apparently "M."
 The real dragon breeding program was relocated into [[Arcohaem]]
 The shipping manifest contains the real location
 
@@ -338,7 +338,7 @@ The map to the meeting place is hidden in a secret vault, in a secret room, hidd
 They see [[Terrik]] manipulate someone to give into the corruption
 
 They get the map to the meeting place (it's somewhere called Redhold), but [[Terrik]] finds them
-[[Terrik]] kills Kragknull and nearly some more people
+[[Terrik]] kills [[Kragknull]] and nearly some more people
 A fight breaks out between [[Terrik]] and the Wolves using improvised weaponry
 	They're both unarmored, and also unarmed
 	Improvised weapons are pretty effective
@@ -346,24 +346,24 @@ A fight breaks out between [[Terrik]] and the Wolves using improvised weaponry
 ### Part 3: ... Corroded
 They track down the bunker, a place called Redhold, that is now swarming with Wyrmlings and Dragons.
 They get the full story
-[[Kaul]], Brisk, and [[Terrik]] are serving "M" out of fear, pride, and greed.
-	- [[Terrik]] is the focus of this chapter. He is a reflection of the wolves. He was everything the Republic wanted in a soldier, and his success slowly gave way to complicity as more and more corruption began to reveal itself. He tried to resist, and then found Malfaust, who tempted him, and he gave in. Malfaust believes man is inherently bad, and that morality is a matter of perspective. He believes that what many consider "evil" is the natural order of things that man only tries to repress. [[Terrik]] agrees, as he's hopeless after learning the truth. All he wants to be happy is money, and power. He's been emptied, because he remained loyal to the Republic's code, instead of to his own, and now it's too late for him.
-	- Brisk incubates the Dragon eggs, [[Kaul]] builds weapons / the army, and [[Terrik]] is Malfaust's hand. All three were corrupted over time, but [[Terrik]] is the focus.
-	- Malfaust is the last remnant of the Draconic Era; an ancient red dragon
+[[Kaul]], [[Brisk]], and [[Terrik]] are serving "M" out of fear, pride, and greed.
+	- [[Terrik]] is the focus of this chapter. He is a reflection of the wolves. He was everything the Republic wanted in a soldier, and his success slowly gave way to complicity as more and more corruption began to reveal itself. He tried to resist, and then found [[Malfaust]], who tempted him, and he gave in. [[Malfaust]] believes man is inherently bad, and that morality is a matter of perspective. He believes that what many consider "evil" is the natural order of things that man only tries to repress. [[Terrik]] agrees, as he's hopeless after learning the truth. All he wants to be happy is money, and power. He's been emptied, because he remained loyal to the Republic's code, instead of to his own, and now it's too late for him.
+	- [[Brisk]] incubates the Dragon eggs, [[Kaul]] builds weapons / the army, and [[Terrik]] is [[Malfaust]]'s hand. All three were corrupted over time, but [[Terrik]] is the focus.
+	- [[Malfaust]] is the last remnant of the Draconic Era; an ancient red dragon
 
-Malfaust wants to reestablish Draconic rule, and he has everything he needs as of just recently.
+[[Malfaust]] wants to reestablish Draconic rule, and he has everything he needs as of just recently.
 They wipe out the Dragons in Redhold
 
-Malfaust attacked [[Frigoshia]] and burned down the royal palace as well as majority of the military.
+[[Malfaust]] attacked [[Frigoshia]] and burned down the royal palace as well as majority of the military.
 The war is ending soon, and he's heading for [[Hephaestus]] next
-The invasion is starting now; Malfaust is going to attack the capital to seize control with [[Kaul]]
+The invasion is starting now; [[Malfaust]] is going to attack the capital to seize control with [[Kaul]]
 
 
 # **ACT 4: Blood and Ash (3-PART FINALE)**
 ### Part 1: [[Hephaestus]]' Lament
-Malfaust has seized control of the Republic
+[[Malfaust]] has seized control of the Republic
 The troops are beginning to mobilize
-Malfaust is personally aware of them, so he taunts them publicly.
+[[Malfaust]] is personally aware of them, so he taunts them publicly.
 He's attacking their home villages, and people are going missing.
 They're invited to come and speak with him.
 
@@ -371,37 +371,37 @@ Arriving at the capital, they find it swarming with troops who don't attack them
 The troops are scared out of their minds.
 
 ### Part 2: Elegy to [[Arcohaem]]
-Malfaust towers over [[Kaul]] and Brisk, and [[Terrik]] is sitting by his side.
-Malfaust monologues about his beliefs
->	Man is inherently bad, and what is right and wrong is mostly a matter of perspective
->	Even if they don't acknowledge it, men crave the dark. They don't want to understand the consequences of their actions. That's why man creates these systems that hide their accountability.
->	Dragons were meant to rule over them from the beginning, because man cannot govern themselves
->	Who Malfaust is will live on in the hearts of man no matter what
->	You can't undo corruption
+[[Malfaust]] towers over [[Kaul]] and [[Brisk]], and [[Terrik]] is sitting by his side.
+[[Malfaust]] monologues about his beliefs
+- Man is inherently bad, and what is right and wrong is mostly a matter of perspective
+- Even if they don't acknowledge it, men crave the dark. They don't want to understand the consequences of their actions. That's why man creates these systems that hide their accountability.
+- Dragons were meant to rule over them from the beginning, because man cannot govern themselves
+- Who [[Malfaust]] is will live on in the hearts of man no matter what
+- You can't undo corruption
 
->	Even if they try to kill him, and somehow pull it off, they'll lose everything they ever had.
->	They'll lose the life they wanted, everything they have, their titles, everything.
->	If they choose to join him, he'll give them anything they could ever dream of
->	They'll be much better pawns than [[Kaul]] and Brisk, they'll be more like [[Terrik]]
->	They'll become the most powerful people in Serendipita
->	Fighting him will mean dying for pride and honor and nothing else.
->	They've already been serving him all this time anyways, and they enjoyed it
+- Even if they try to kill him, and somehow pull it off, they'll lose everything they ever had.
+- They'll lose the life they wanted, everything they have, their titles, everything.
+- If they choose to join him, he'll give them anything they could ever dream of
+- They'll be much better pawns than [[Kaul]] and [[Brisk]], they'll be more like [[Terrik]]
+- They'll become the most powerful people in Serendipita
+- Fighting him will mean dying for pride and honor and nothing else.
+- They've already been serving him all this time anyways, and they enjoyed it
 
-They can confront [[Kaul]], Brisk, and [[Terrik]], but they're not switching sides.
+They can confront [[Kaul]], [[Brisk]], and [[Terrik]], but they're not switching sides.
 
 They have their choice: do what is right and risk everything, or give in and gain everything they ever wanted.
 Safe to say, they choose to do what is right. If they don't, then things end here.
 
-[[Terrik]] engages. He reflects them in how he fights, and in his lore. He refuses to turn on Malfaust.
-If [[Terrik]] dies, Malfaust engages
-The fight spans the entire Senate building, and Malfaust is destroying everything.
-They fight down to the lowest level, until Malfaust is hurt enough.
-Malfaust realizes he's going to die, and taunts them one more time
-	Malfaust says he'll return some day, if not in this form, than in another, because who he is will never die.
+[[Terrik]] engages. He reflects them in how he fights, and in his lore. He refuses to turn on [[Malfaust]].
+If [[Terrik]] dies, [[Malfaust]] engages
+The fight spans the entire Senate building, and [[Malfaust]] is destroying everything.
+They fight down to the lowest level, until [[Malfaust]] is hurt enough.
+[[Malfaust]] realizes he's going to die, and taunts them one more time
+	[[Malfaust]] says he'll return some day, if not in this form, than in another, because who he is will never die.
 	He says that there are more dragon eggs throughout [[Arcohaem]] that will hatch eventually.
 	[[Arcohaem]] can't be fixed, it's already too broken.
-	In a final act, Malfaust uses his fire breath to destroy the building, killing himself in the process
-[[Kaul]] and Brisk flee
+	In a final act, [[Malfaust]] uses his fire breath to destroy the building, killing himself in the process
+[[Kaul]] and [[Brisk]] flee
 
 ### Part 3: New Dawn
 As they're fleeing, they find one last dragon egg tucked away in the corner
@@ -414,7 +414,7 @@ This is the final test of everything they've learned.
 They escape, and collapse in the snow.
 
 Senator Finn is there to take charge, and he temporarily fills the void left by [[Kaul]]
-[[Kaul]] and Brisk are arrested by their respective governments using the substantial evidence the wolves uncovered
+[[Kaul]] and [[Brisk]] are arrested by their respective governments using the substantial evidence the wolves uncovered
 He roots out some of the corruption, and begins to rebuild [[Arcohaem]]
 
 The Wolves are publicly honored and reinstated, but they aren't popular.

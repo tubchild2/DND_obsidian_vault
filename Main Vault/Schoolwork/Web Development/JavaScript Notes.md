@@ -313,3 +313,42 @@ function name (parameters) {
 	- Absences of values are set to null by the programmer
 	- Values are only set to null if the programmer intends it
 - You can iterate through each value in an array with for of loop
+
+
+**WEB STORAGE NOTES**
+- Cookies
+	- Cookies are small text strings that are stored by a web browser.
+	- They're name/value pairs where each value is separated by an equal sign and a multiple name value pairs are separated by a semicolon and a space.
+	- They must start with a name/value pair that names them and provides a value
+	- persistent cookies are saved by the web browser and remains available even after the browser is closed
+	- Designed to be accessed by server-side code
+	- Send their data to the server with each HTTP request
+	- max-age
+		- lifetime of the cookie in seconds
+	- path
+		- the path that can see the cookie
+	- setting cookie example
+		- document.cookie = "username=ghopper; max-age=1014400; path=/";
+		- document.cookie = "temp_id=12345; path=/";
+	- getting all cookies
+		- const cookies = document.cookie;
+- Web Storage
+	- Web storage was designed to be accessed by client-side code
+	- Doesn't send its data to the server with each HTTP request
+	- localStorage
+		- stores up to 10MB of data in the browser
+	- sessionStorage
+		- stores up to 5MB of data in the browser
+		- closes when the browser is closed
+	- localStorage.setItem(key, value)
+	- localStorage.getItem(key)
+	- localStorage.removeItem(key)
+	- localStorage.clear()
+	- you can also do localStorage.key = value for shorthand
+	- key
+		- A string that marks some item in web storage
+- JSON
+	- stringify(object)
+		- converts object into a JSON string
+	- parse(json)
+		- returns an object or array that contains the data in the specified JSON string

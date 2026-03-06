@@ -50,7 +50,7 @@ Clothing
 
 **Ceremonies**
 - The Binding
-	- Strong boys that prove themselves are inducted into the military from the age of 8. They train until adulthood, at which point they undergo a 14 day solo trek through the mountains of Frigoshia to prove their manhood. 
+	- Strong boys that prove themselves are inducted into the military from the age of 8. They train until adulthood, at which point they undergo a 14 day solo trek from Freyrhage to Brunnborg to prove their manhood. 
 	- This rite binds them with nature and with the ways of their ancestors, preparing them to tackle whatever may come their way in the future.
 - Sovereignty Day
 	- Marks the day that the Northern tribes declared independence and became their own people.

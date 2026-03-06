@@ -54,7 +54,7 @@ Channels
 - CSMA/CA
 	- Similar to Ethernet collision detection, except it avoids instead of detects
 	- It's often impossible to tell if there's a collision, because signals can be in the microwatt range
-	- First, lots of movements in teh file transfer process when timers are set and both ends wait to see if the data gets through, as when using the DCF. In some circumstances, another set of frames must be sent and acknowledged before frames of data can be sent. This method is called the Point Coordination Function, and it's helpful when an AP is covering a wide area.
+	- First, lots of movements in the file transfer process when timers are set and both ends wait to see if the data gets through, as when using the DCF. In some circumstances, another set of frames must be sent and acknowledged before frames of data can be sent. This method is called the Point Coordination Function, and it's helpful when an AP is covering a wide area.
 ![[Pasted image 20260223101105.png]]
 
 - ACK/NAK
@@ -145,4 +145,8 @@ Wireless LAN Security
 		- Send the signal in one direction
 		- The signal energy is much stronger
 
-Why is Wireless so Popular?
+Spread Spectrum
+- The limited spectrum was a problem because it meant you couldn't broadcast information as frequently.
+- Until recently, we couldn't use any frequencies about about 2 GHz
+- Now, we can work with the 2.4 and 5 GHz portions
+- By using spread spectrum (I.E.) using multiple portions of the electromagnetic spectrum, you can greatly reduce interference and potential collision.
