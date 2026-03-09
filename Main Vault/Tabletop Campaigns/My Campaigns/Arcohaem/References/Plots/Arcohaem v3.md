@@ -34,7 +34,7 @@ Chapter 3 - Your Mission
 
 ### Part 2: Why We Fight
 Chapter 1 - Now That's a Famous Hat
-- They travel by caravan to the city of crafts; Ammalor
+- They travel by caravan to the city of crafts; [[Ammalor]]
 - There's a large military presence. 
 
 - [[Kragknull]] checks in on them

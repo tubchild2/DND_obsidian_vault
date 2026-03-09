@@ -56,8 +56,8 @@ Chapter 3: Your Mission
 
 
 ### Part 2 - Remember Why We Fight
-Chapter 1: Ammalor
-- They travel by caravan to Ammalor, the city of craftsman
+Chapter 1: [[Ammalor]]
+- They travel by caravan to [[Ammalor]], the city of craftsman
 - There is a large military presence here. What's strange is that they're all going into reserve. Only about 50% of the Republic's soldiers and weapons are used, the rest are put into reserve for later. Maybe they want to end the war with one big invasion?
 - Some kids talk about how Captain [[Terrik]] is their favorite Arcohaemian hero cause he's super cool and he never shows his face and they wonder if the Wolves know him. They don't. He's Kragknull's personal guard.
 - Commander Kragknull checks in

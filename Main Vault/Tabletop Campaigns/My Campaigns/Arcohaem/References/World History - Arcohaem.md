@@ -108,6 +108,7 @@
 - He was arrested, stripped of his titles, and publicly shamed. His extensive criminal record was discovered, and he was set to be executed.
 - During his execution, hot oil was poured on his face and ignited, horrifically scarring him, but he managed to kill the torturer and escape.  
 - He fled to the wastes of Torbekk, where he was presumed dead. His skin turned pale and blue from the cold, and that combined with his scars made him look like a walking corpse.
+- The extreme emotional distress he'd been placed in caused him to flood and develop ether capabilities. Though a powerful funneler, he refuses to use it because he prefers traditional combat.
 
 **[[Terrik]], the Hand of [[Malfaust]]** - 12c 1253
 - Hopelessly lost, [[Terrik]] set up camp inside of a cavern somewhere in the far north. 

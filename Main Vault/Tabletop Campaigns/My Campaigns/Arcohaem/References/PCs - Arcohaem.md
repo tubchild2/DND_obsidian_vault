@@ -196,7 +196,7 @@ Goal:
 
 Backstory:
 - He came from the mountain's of Sindri and was a respected dwarf who would use ether 
-- His wife Elanor was massacred by the Frigoshia as she was also a ether user
+- His wife Elanor was killed under mysterious circumstances by something with a burning spear
 - From that day on he vowed to avenge his wife no matter the costs. 
 - He was middle-class and he has that classic one eye scar with the white eye (you know what I'm talking about)
 

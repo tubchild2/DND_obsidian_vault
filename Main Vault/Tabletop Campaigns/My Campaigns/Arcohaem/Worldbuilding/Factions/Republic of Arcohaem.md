@@ -1,7 +1,6 @@
 ---
 aliases:
 ---
-
 ![[Republic Flag.png|900]]
 
 ### Overview
@@ -81,7 +80,7 @@ As of 12c 1266
 	- Located by the volcano Pyrk
 	- Runs Serendipita's primary Eathyst refinery due to trade deal with Styxas
 	- Contains the Republic Senate Building
-- Ammalor
+- [[Ammalor]]
 	- Known for artisans, trade, and craftsmanship
 	- Contains some of the only central public-access ports 
 - Freyr

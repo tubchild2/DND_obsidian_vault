@@ -1,8 +1,8 @@
 ## Measurements
-- Light Year. 5.88 trillion miles. Distance light travels in an [[Earth]] year.
-- AU. 93 million miles. Distance from [[Earth]] to the Sun.
-- Sol. 2.7779 billion miles. Distance from [[Neptune]] to the Sun.
-- SPD. Sol Per Day. A measurement of Sol travelled per [[Earth]] day.
+- Light Year. 5.88 trillion miles. Distance light travels in an [[Earth l55]] year.
+- AU. 93 million miles. Distance from [[Earth l55]] to the Sun.
+- Sol. 2.7779 billion miles. Distance from [[Neptune L55]] to the Sun.
+- SPD. Sol Per Day. A measurement of Sol travelled per [[Earth l55]] day.
 
 ## Ship Maintenance and Travel
 **Pre-Flight Checklist**

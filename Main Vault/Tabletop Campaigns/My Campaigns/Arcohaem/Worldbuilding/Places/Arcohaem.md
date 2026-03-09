@@ -36,7 +36,7 @@ See [[World History - Arcohaem]]
 
 **10 Central Tribes**
 - Thoth
-- Ammalor
+- [[Ammalor]]
 - Freyr
 - [[Hephaestus]]
 - Sindri
