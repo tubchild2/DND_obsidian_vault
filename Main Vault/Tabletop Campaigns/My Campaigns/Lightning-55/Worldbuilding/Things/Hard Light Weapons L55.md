@@ -7,3 +7,6 @@ Hard light chakrams are heavy ring like discs with a glowing edge. Built from he
 Hard light guan dao. A sword spear with a hard light edge. Built from hexsteel.
 
 *Hardlight* property. +2 to hit. +2 damage. Gains the light property. 
+
+
+Popular on [[Earth L55]]

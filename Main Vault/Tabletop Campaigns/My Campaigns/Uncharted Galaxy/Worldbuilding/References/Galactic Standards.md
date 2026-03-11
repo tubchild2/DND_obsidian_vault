@@ -1,20 +1,5 @@
 ---
 aliases:
-  - Credits
-  - Credit
-  - cp
-  - sp
-  - gp
-  - pp
-  - c
-  - copper piece
-  - copper pieces
-  - silver piece
-  - silver pieces
-  - gold piece
-  - gold pieces
-  - platinum piece
-  - platinum pieces
 ---
 # Currency (Galactic Standard Currency)
 

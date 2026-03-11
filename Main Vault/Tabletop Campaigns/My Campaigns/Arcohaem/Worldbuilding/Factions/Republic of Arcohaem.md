@@ -33,7 +33,7 @@ South Tribes
 	They allow the Republic given the Republic allows their freedoms
 
 **Technology**
-- Bulky industrial-era E-Tech
+- Bulky industrial-era [[Serendipita|E-Tech]]
 - Raw power over efficiency
 
 **Visuals**
@@ -78,14 +78,14 @@ As of 12c 1266
 	- On the Howling Front
 - [[Hephaestus]] (***CAPITAL***)
 	- Located by the volcano Pyrk
-	- Runs Serendipita's primary Eathyst refinery due to trade deal with Styxas
+	- Runs [[Serendipita]]'s primary Eathyst refinery due to trade deal with Styxas
 	- Contains the Republic Senate Building
 - [[Ammalor]]
 	- Known for artisans, trade, and craftsmanship
 	- Contains some of the only central public-access ports 
 - Freyr
 	- Restricted Zone
-	- Contains the Republic's primary Ether laboratories
+	- Contains the Republic's primary [[Serendipita|Ether]] laboratories
 - Thoth
 	- Restricted Zone
 	- Contains the Republic Military Grounds
@@ -96,7 +96,7 @@ As of 12c 1266
 	- Industrial minerals like sulfur, feldspar, mica, and quartz
 - Skaad
 	- Hosts the Republic navy
-	- One of the two primary trading ports with greater Serendipita
+	- One of the two primary trading ports with greater [[Serendipita]]
 		- Trades with Styxas and Delapagos
 		- The source of the unrefined Styxan Eathyst
 - Hathor
@@ -128,7 +128,7 @@ As of 12c 1266
 - Kjellhage
 - Skalth
 - Lemnaeus
-	- One of the two primary trading ports with greater Serendipita
+	- One of the two primary trading ports with greater [[Serendipita]]
 		- Trades with Terragon and Fol'Gar'Eth
 		- Sometimes trades with west Styxas, but not as much
 	- The primary economic beacon of the East
@@ -154,7 +154,7 @@ As of 12c 1266
 ### Military
 - Soldier
 	- Grunts in high volume
-	- Advanced E-Tech weapons
+	- Advanced [[Serendipita|E-Tech]] weapons
 	- Independently, they aren't very skilled
 	- Light Viking-Inuit armor
 - Captain
@@ -167,7 +167,7 @@ As of 12c 1266
 	- Usually formed into strike teams, where each member functions as an equal
 - Colonel
 	- Manages captains
-	- Allowed to operate E-Tech war vehicles
+	- Allowed to operate [[Serendipita|E-Tech]] war vehicles
 - Commander
 	- Manages Majors and Colonels
 - General

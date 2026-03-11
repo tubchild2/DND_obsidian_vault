@@ -1,10 +1,10 @@
 # Bioeterology
 ### History
-- Bioeterology is the oldest branch of [[Eterology C2]]--it's the study and augmentation of ether in nature. Before people could use Ether, they studied bioeterology. 
+- Bioeterology is the oldest branch of [[Eterology C2]]--it's the study and augmentation of Ether  in nature. Before people could use Ether, they studied bioeterology. 
 ### Core Concepts
 **Natural Ether Flow**
 - Ether forms under very specific circumstances. If dense networks made with primarily carbon, hydrogen, nitrogen, oxygen, phosphorus, and/or sulfur receive a low-voltage current, unprogrammed Ether will form. These materials are known as "Ether conductors."
-- It's hard to picture that, so think of it this way: pretty much exclusively brains produce Ether. However, under very specific circumstances, other forms of life and even metals can produce Ether.
+- It's hard to picture that, so think of it this way: pretty much exclusively brains produce Ether However, under very specific circumstances, other forms of life and even metals can produce Ether
 - All Ether starts unprogrammed. In most cases, it is immediately and rapidly programmed by the thoughts of the brain that formed it. In unintelligent ether sources, the ether stays unprogrammed.
 - Ether flows from its source out the most natural path. The rules for how this works vary from professional to professional since it's near impossible to gather concrete data. What we know, is that it'll take the most "obvious" path out, like flowing from the brain to the fingers in humans. However, the ideological charge of the particle seems to have some influence, since it's completely possible for Eterologists to control which path the flow takes. 
 - For reasons beyond our current understanding, Ether cannot manifest while inside of organic matter.

@@ -66,6 +66,15 @@
 **Talekin**
 - [[ID_ Talekin]]
 
+Dimensional Planes
+- [[ID_ Battleworld]]
+- [[ID_ The 4 Elemental Planes]]
+- [[ID_ The Bazaar]]
+- [[ID_ The Garden of Order]]
+- [[ID_ The Hiveworld]]
+- [[ID_ The Pillars of Discord]]
+- [[ID_ The Valley of Rot]]
+
 
 
 
@@ -76,6 +85,15 @@
 - Everything goes bad and they're fighting against another team of similarly skilled rivals.
 - It's revealed that the alternate versions of themselves had to endure a hellscape of trials to survive, and they've come out the other end deeply affected. They lack remorse, restraint, and restrictions. They changed goals while trapped and are working with monstrous entities. They want to further the goals of their benefactor first, and then, in return for their service, subject the party to the same nightmare they were subjected to.
 - Maybe they were banished to something like the twilight dimension but were smart enough to forge a way out by working with the local king / god-monster.
+
+Betrayal
+- Run an entire, short campaign that's literally just the [[ID_ False Betrayal]] plot, except built up over one long arc to ensure it goes off without a hitch
+- Incompatible characters with incompatible motivations and incompatible attachments
+- Reasonable motivations, ticking clock, stakes, 
+- End with a climactic competitive PvP systemic breakdown and get players into it
+
+**L55 Flight Simulator**
+- [[ID_ L55 Flight Sim]]
 
 **Wither Storm**
 - https://www.youtube.com/watch?v=q0yCfKzQBlw
@@ -204,3 +222,8 @@ https://www.youtube.com/shorts/HpiGgqYVUkQ
 
 **The Lost Arbiter**
 - [[ID_ The Lost Arbiter]]
+
+
+### ETC Projects
+Minecraft Essay
+- [[ID_ Minecraft is Overrated]]

@@ -13,8 +13,8 @@ So, when the physical multiverse was born, a equivalent anti-multiverse was born
 Universes branch in the event of Primordial intervention. That's very important, because that means that there's really only one untouched universe. The rest have insane lore and are completely different.
 
 
-#### **THE PRIMORDIAL DEEP**
-After the multiverse came the Primordial Deep. Mental energy produced by the conscious inhabitants of the multiverse flooded into the emptiness and created the Primordials.
+#### **[[THE PRIMORDIAL DEEP]]**
+After the multiverse came [[the Primordial Deep]]. Mental energy produced by the conscious inhabitants of the multiverse flooded into the emptiness and created the Primordials.
 
 
 #### **PRIMORDIALS**

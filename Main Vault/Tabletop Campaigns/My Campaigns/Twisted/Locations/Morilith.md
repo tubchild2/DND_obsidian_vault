@@ -3,8 +3,8 @@ Local Primordial Granted Abilities (locked by bloodline)
 - Possess greater creative capacity to all the others
 - Jacks of all trades, masters of none
 - Are more generally skilled than the other species
-- Have the best weapons in Limina
-	- [[Hard Light Weapons L55]]
+- Have the best weapons in [[Limina]]
+	- Hard Light Weapons
 	- Vehicles
 	- Body Armor
 

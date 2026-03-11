@@ -1,6 +1,7 @@
 ### Constants of Arcohaem
 - Ethology is common, but not everyone uses it, and fewer understand it. The rules are loose and flexible.
-- Set in Serendipita, in the Arcohaem region
+	- See [[Serendipita]]
+- Set in [[Serendipita]], in the Arcohaem region
 
 - Crops: Blackroot, Featherweed, Blubberbread, Frostberries, 
 - Livestock: Mammoth, Woolhorns (Yak adjacent mount), Frosthound

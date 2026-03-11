@@ -24,7 +24,7 @@ Incredibly conservative. They're prideful, honorable, traditional, and warrior-f
 Technology
 - Renaissance / Medieval Technology
 - Tribal / Viking Aesthetic
-- E-Tech and industrialization are rejected
+- [[Serendipita|E-Tech]] and industrialization are rejected
 
 **Visuals**
 Architecture

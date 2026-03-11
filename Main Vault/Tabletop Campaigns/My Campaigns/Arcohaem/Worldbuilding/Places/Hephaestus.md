@@ -1,6 +1,6 @@
 Location & Environment
 - Situated near a volcano despite being in an extremely cold region
-- Located in Serendipita, a region of [[Arcohaem]]
+- Located in [[Serendipita]], a region of [[Arcohaem]]
 - Characterized by wide snowy streets and citizens in Inuit coats
 
 Function & Importance
@@ -17,7 +17,7 @@ Architecture & Aesthetic
 
 Military Presence
   - Absurdly militarized—thousands of soldiers parade the streets
-  - Equipped with E-Tech firearms, tanks, bikes, catapults
+  - Equipped with [[Serendipita|E-Tech]] firearms, tanks, bikes, catapults
   - Watchtowers everywhere
   - Excessive weaponry defines the city—over-the-top presence is key
 
@@ -29,7 +29,7 @@ Propaganda & Culture
     - Code of Kaul includes:
 	    - Always help those in need
 	    - Do what you can for the Republic
-       - The Republic is the greatest nation in Serendipita
+       - The Republic is the greatest nation in [[Serendipita]]
        - Subtle but Orwellian-style military posters—not overtly oppressive, but unsettling
 
 Overall Impression

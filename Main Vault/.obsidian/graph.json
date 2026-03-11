@@ -3,20 +3,70 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": 3,
-  "nodeSizeMultiplier": 2.34230103806228,
-  "lineSizeMultiplier": 2.18326403326403,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Tabletop Campaigns/My Campaigns/Arcohaem\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12517117
+      }
+    },
+    {
+      "query": "path:\"Tabletop Campaigns/My Campaigns/Twisted\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10358800
+      }
+    },
+    {
+      "query": "path:\"Tabletop Campaigns/My Campaigns/Lightning-55\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16729380
+      }
+    },
+    {
+      "query": "path:\"Tabletop Campaigns/My Campaigns/Uncharted Galaxy\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10879231
+      }
+    },
+    {
+      "query": "path:\"Tabletop Campaigns/My Campaigns/Vaerith\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16710564
+      }
+    },
+    {
+      "query": "file:\"Vault Overview\" ",
+      "color": {
+        "a": 1,
+        "rgb": 65403
+      }
+    },
+    {
+      "query": "file:\"Serendipita\"",
+      "color": {
+        "a": 1,
+        "rgb": 11992903
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -1.2,
+  "nodeSizeMultiplier": 0.891145833333333,
+  "lineSizeMultiplier": 0.380729166666667,
   "collapse-forces": false,
-  "centerStrength": 0.633056133056133,
+  "centerStrength": 0.796875,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.13873223932666362,
+  "scale": 0.22920135941749384,
   "close": true
 }

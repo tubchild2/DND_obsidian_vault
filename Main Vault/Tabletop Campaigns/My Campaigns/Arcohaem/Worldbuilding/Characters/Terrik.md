@@ -16,7 +16,7 @@ Terrik was the greatest soldier in all of [[Arcohaem]]. While trying to uproot c
 - Armor
 
 **Combat**
-- Far and away the most skilled combatant in [[Arcohaem]], potentially in all of Serendipita
+- Far and away the most skilled combatant in [[Arcohaem]], potentially in all of [[Serendipita]]
 - Fosters an incredibly rapid and aggressive style of combat
 - Ambushes targets
 - Fights primarily in the dark

@@ -1,5 +1,5 @@
 ### Introduction
-- 204 years ago, [[The Confederacy]] of [[Earth l55]], a conglomerate government made up of 8 Great Houses, grew beyond [[Earth l55]] and colonized the solar system.
+- 204 years ago, [[The Confederacy]] of [[Earth L55]], a conglomerate government made up of 8 Great Houses, grew beyond [[Earth L55]] and colonized the solar system.
 - 4 years ago, a pandemic called Bane wiped out 88% of the population, leaving the confederate colonies on the frontier worlds to fend for themselves.
 - With trade crippled, modern technology became a commodity. Technologically, those remaining were forced to largely revert to feudal Japan.
 - Working the land wasn't an option for most, and serving [[The Confederacy]] meant chains, whether literal or not. 
@@ -22,13 +22,13 @@
 - Bane begins silently infecting people across the system. No one knows where it came from.
 - On November 11th (The Day of Blood / Chi No Hi), people begin to show symptoms system-wide. 88% of humanity died within the next 3 months. The lack of trade, infrastructure, and resources led to mass starvation and improvised governments. Almost all consistent contact across planets and space stations was lost overnight. All of frontier society collapsed in weeks, leaving majority of the solar system riddled with dead civilizations and space stations.
 - Technologically speaking, majority of the system reverted to feudal Japan as that was all they could afford.
-	- Guns, bombs, ships, and anything that runs on electricity is incredibly expensive and rare beyond [[Earth l55]].
+	- Guns, bombs, ships, and anything that runs on electricity is incredibly expensive and rare beyond [[Earth L55]].
 - Thousands of [[The Confederacy]]'s now independent space-faring military camps unionized and formed the Imperium.
 - [[The Confederacy]] is attempting to regain control by fostering dependence on their resources, jobs, and protection.
 	- To help with this, and out of greed, the Great Houses jacked up their prices.
 	- [[The Confederacy]] is a cruel organization, but they have weapons, ships, infusions, hybrids, clones, and implants.
 	- Some independents resisted. There's no rebellion, as there's not much to rebel anymore. The world is quiet.
-- [[Earth l55]] is recovering nicely, but on those frontier planets, survival is the top priority. There are three options:
+- [[Earth L55]] is recovering nicely, but on those frontier planets, survival is the top priority. There are three options:
 	- Farming and fishing is the best option, but most can't for any number of reasons.
 	- If you can, joining [[The Confederacy]] or Imperium is a decent option. They are terrible, though.
 	- Far and away the most common practice is salvage and piracy of the ruins of the frontier worlds.

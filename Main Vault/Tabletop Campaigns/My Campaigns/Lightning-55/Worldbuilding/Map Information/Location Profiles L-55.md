@@ -38,3 +38,15 @@ Imperium Ship
 
 Moons
 - Anything previously mentioned is possible on a moon.
+
+
+
+Planets
+- [[Earth L55]]
+- [[Jupiter L55]]
+- [[Mars L55]]
+- [[Mercury L55]]
+- [[Neptune L55]]
+- [[Saturn L55]]
+- [[Uranus L55]]
+- [[Venus L55]]
