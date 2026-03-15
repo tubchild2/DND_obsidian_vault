@@ -132,6 +132,7 @@ As of 12c 1266
 		- Trades with Terragon and Fol'Gar'Eth
 		- Sometimes trades with west Styxas, but not as much
 	- The primary economic beacon of the East
+	- "Capital" of the EATU
 - Turberg
 - Nesholm
 
@@ -143,6 +144,7 @@ As of 12c 1266
 - Torvik
 - Bekhild
 - Freyland
+	- "Capital" of the southern tribes
 - Skodgarour
 - Bjornhaug
 - Qorra

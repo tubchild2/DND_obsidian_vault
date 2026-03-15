@@ -34,17 +34,3 @@ Other
 
 
 # To-Do
-- Finish [[Arcohaem v4]]
-	- Show corruption being rewarded
-	- Incorporate the PCs into the plot and take more thorough notes on each of them
-- World History Reorganization
-	- Move detailed plot to individual pages
-	- Focus on high-level plot in the [[World History - Arcohaem]] page
-	- Avoid repeated information
-- Update Pages
-	- [[East Arcohaem Trade Union|EATU]]
-	- [[Brisk|King Brisk]]
-	- [[Kaul|Chancellor Kaul]]
-	- [[Kragknull|Commander Kragknull]]
-	- [[Thane|President Thane]]
-	- [[Amalgamma]]

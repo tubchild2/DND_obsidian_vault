@@ -69,7 +69,7 @@ Map
 
 Lore
 - Land
-	- Vaerith
+	- [[Vaerith]]
 	- Typical fantasy world.
 	- If you can think about it, it happened, and can be found.
 - Family
@@ -86,7 +86,7 @@ Lore
 	- An outlaw
 	- Robin Hood complex
 	- Robbed all of the richest families
-	- Operated out of Northern Elythra for a few years in 303
+	- Operated out of Northern [[Elythra]] for a few years in 303
 - Event
 	- Auctioning off rare items to rich people
 		- Crown of Ashen Vows
@@ -112,7 +112,7 @@ Lore
 		- Human
 		- Wants the Dark Ledger
 		- Is deeply indebted to Ceres due to military support
-		- Royalty of a small province off the northwestern coast of Vaerith
+		- Royalty of a small province off the northwestern coast of [[Vaerith]]
 		- Wants to have a man use the ledger to pay off the debt, then kill him to erase it
 		- Greedy, selfish, rude, pompous
 		- Obese in a white dress
@@ -122,7 +122,7 @@ Lore
 		- Sells weapons
 		- Unnaturally tall, in a black and red outfit, constantly looks angry and tired
 	- Brother Voss
-		- An Umbra monk of some kind
+		- An [[Umbra]] monk of some kind
 		- Taken a vow of silence
 		- Wants the Saphire Hourglass
 		- Incredibly skinny
@@ -133,7 +133,7 @@ Lore
 		- A short woman
 		- Rude to the butlers
 	- Samuel D. F. Hearst
-		- Ashkara
+		- [[Ashkara]]
 		- Bounty Hunter
 		- Wants the Whisperglass Mirror
 		- Believes the mirror contains information about the Queen's Death

@@ -1,13 +1,14 @@
 ### Chapter 1: In Medias Res
 ##### Purpose: 
-- Demonstrate some [[Frigoshia|Frigoshian]] evil and establish the characters / world
+- Demonstrate some [[Frigoshia|Frigoshian]] evil 
+- Establish the characters / world
 - Tease new mission and its importance
 
 ##### Plot: 
 - Immersive Opening
 	- https://www.youtube.com/watch?v=uOkTQC4BVMk 
 	- 5 years ago, a group of spies, fighters, and thieves came together to form [[Arcohaem]]'s most infamous strike teams. Though loyal to the Republic, they're fiercely unpredictable.
-	- 5 weeks ago, this team was dispatched to find and eliminate Krothmire: a secret [[Frigoshia|Frigoshian]] prison camp. They'd need to trek into the depths of the Arcohaemian plains, duel with beasts and monsters, and witness the darkest parts of this war.
+	- 5 weeks ago, this team was dispatched to find and eliminate Krothmire: a secret [[Frigoshia|Frigoshian]] prison camp. They'd need to trek into the depths of the [[Arcohaem|Arcohaemian]] plains, duel with beasts and monsters, and witness the darkest parts of this war.
 	- 5 days ago, they discovered the camp buried deep within the Howling Front. 
 	- 5 minutes ago, they arrived.
 	- It's the winter of 12c 1266
@@ -43,20 +44,10 @@
 7. Courtyard: 25
 	1. Boots of the Winter lands. Resistance to Cold, ignore difficult terrain caused by ice or snow.
 
-**[[Frigoshia|Frigoshian]] Prison Guard**
-- HP: 25
-- AC: 16
-- Speed: 30ft
-- Stats: STR: 16 (+3) DEX: 12 (+1) CON: 16 (+3) INT: 10 (+0) WIS: 12 (+1) CHA: 8 (-1)
-- Saves: CON +5, STR + 5
-- Skills: Athletics +5, Perception +3, Stealth +3, Acrobatics +3
-- Damage Resistances: Cold
-- Senses: Passive Perception 13
-- Languages: Common, [[Frigoshia|Frigoshian]] Dialect
-- **[[Frigoshia|Frigoshian]] Discipline:** Advantage on saving throws against being frightened or charmed
-- **Multiattack**: The guard makes two attacks using either two glaive strikes or two musket shots.
-- **Glaive**: +5 to hit, reach 10ft or range 20/60. Hit: 1d6 + 3 piercing damage
-- **Musket**: +3 to hit, range 40/120ft. Hit: 1d12 + 1 piercing damage
+[[Arcohaem Enemy Index|Frigoshian Prison Guard]]
+
+Notes:
+- Make players hate them
 
 
 ### Chapter 2: Long Live the Republic
@@ -80,7 +71,7 @@ Immersive Opening
 	- The citizens are cheering
 	- Some are crying tears of joy
 	- They finally feel safe and have hope
-- Propaganda (2d6 (if the first one rolls a 6, reroll))
+- Propaganda (let it feel silly) (2d6 (if the first one rolls a 6, reroll))
 	- Where will you tell your children you were during the war? It shows a dad who's deeply ashamed.
 	- It shows a [[Frigoshia|Frigoshian]] inside a child's bedroom with a weapon. It's captioned, "you didn't act fast enough."
 	- Don't stand for terrorism! Report [[Frigoshia|Frigoshian]] activity.
@@ -139,9 +130,9 @@ The Senate Building
 - https://www.youtube.com/watch?v=R9mQ-yXtl04&t=266s
 - I've been a commander since the beginning of this war. Over that time, I've seen the [[Frigoshia|Frigoshians]] sink to lows even I didn't think they'd cross. They fight and kill without mercy, or identity, or voice, all so that they can enforce their primitive lifestyle onto us. It confounds me why some of our own citizens go out of their way to protest this conflict like we're somehow at fault here. With all of that said, I didn't think anything they could do could surprise me... but this most recent development is so terrible that I've been sick with dread for the past week.
 - Two weeks ago, 5 of our soldiers were separated in the heat of battle and got lost wandering the eastern Howling Front. While wandering, they discovered a [[Frigoshia|Frigoshian]] transport carrying incubation equipment, and the first dragon egg we've seen in centuries. This has led the Senate to believe that the [[Frigoshia|Frigoshians]] are running a covert dragon incubation program, likely for military use. A single adult dragon could decimate [[Hephaestus]] before we even got a chance to respond. We don't know how many they have, we don't know how long they've had them, and our armies aren't getting close enough to the capital to stop them.
-- So the Senate approved a top secret mission to infiltrate [[Frigoshia]], locate the program, and shut it down. To the senate's surprise, [[Kaul|Chancellor Kaul]] personally selected you 5 for this mission. I don't think I have to explain why that wasn't a popular decision. I believe you're more than capable for this mission, but your track record is inconsistent, so you'll need to step up to prove yourselves to the Senate.
+- So the Senate approved a top secret mission to infiltrate [[Frigoshia]], locate the program, and shut it down. To the senate's surprise, [[Kaul|Chancellor Kaul]] personally selected you 5 for this mission. I don't think I have to explain why that wasn't a popular decision. I stepped up and defended you, because I think you're more than capable of carrying this out. And for a mission as unpredictable as this, I think your unpredictability is exactly what we need.
 - Like I said mission has three parts
-	- First, you need to infiltrate [[Frigoshia]]. None of our armies have ever been able to push through the Howling Front, so you'll need to be clever when going through or around it.
+	- First, you need to infiltrate [[Frigoshia]]. There's unfortunately another complication. A [[Frigoshia|Frigoshian]] blockade is preventing us from entering from the north, and going straight through the front would be too dangerous. Your mission is yours to plan, but we strongly advise starting at the northernmost point currently accessible: Freyrhage. Entering Torhild from the north is far and away the easiest way in; everything else is either war torn or heavily fortified.
 	- Second, you need to locate the dragon breeding program. It's likely hidden within the [[Frigoshia|Frigoshian]] capital [[Frigoshia|Torhild]]. We have no reconnaissance beyond the Howling Front, so expect the worst. You need to be fast, quiet, and ready for a fight. Don't trust anyone there; even someone as young as 8 could be fully trained in [[Frigoshia|Frigoshian]] combat.
 	- Third, you need to destroy it, and eliminate any living dragons and eggs. It is of the utmost importance you don't miss any, because if even one is left, it could spell disaster for the Republic, and for all of [[Serendipita]]. 
 - To support your mission, you'll be given:
@@ -155,8 +146,8 @@ The Senate Building
 		- Immovable Rod. Button on one end to make it fixed in place. DC 30 to move it 10ft. 8000lbs.
 		- Gloves of Silence. +5 to sleight of hand checks.  
 		- Ring of [[Hephaestus]]. +1 to AC and saves.
-		- Dagger of [[Ammalor]]. Handcrafted from pure Arcohaemian steel in the volcanic caverns beneath [[Ammalor]]. It's some of the finest craftsmanship you'll ever see on this side of the mountains. If attuned, you can call this dagger back to you as a bonus action given it's within 60ft. It can fly around obstacles. It grants a +3 bonus to attack and damage rolls.
-- Lastly, here's a map of [[Arcohaem]] to assist you with planning your mission. Their mission will start at the northernmost point they can currently reach; Freyrhage. From there, their approach will be completely up to them. They're free to prepare and plan how they'd like. He knows it's a lot to take in.
+		- Dagger of [[Ammalor]]. Handcrafted from pure [[Arcohaem|Arcohaemian]] steel in the volcanic caverns beneath [[Ammalor]]. It's some of the finest craftsmanship you'll ever see on this side of the mountains. If attuned, you can call this dagger back to you as a bonus action given it's within 60ft. It can fly around obstacles. It grants a +3 bonus to attack and damage rolls.
+- Lastly, here's a map of [[Arcohaem]] to assist you with planning your mission. I'm sure you have questions, because this is a complicated mission.
 
 Plotting and Preparation
 - Level up to lvl 11

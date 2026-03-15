@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Tabletop Campaigns/My Campaigns/Arcohaem\"  ",
       "color": {
         "a": 1,
-        "rgb": 12517117
+        "rgb": 65531
       }
     },
     {
@@ -53,20 +53,20 @@
       "query": "file:\"Serendipita\"",
       "color": {
         "a": 1,
-        "rgb": 11992903
+        "rgb": 31246
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 0.891145833333333,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 0.7125,
   "lineSizeMultiplier": 0.380729166666667,
-  "collapse-forces": false,
-  "centerStrength": 0.796875,
+  "collapse-forces": true,
+  "centerStrength": 0.828125,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.22920135941749384,
+  "scale": 0.16348370567220566,
   "close": true
 }

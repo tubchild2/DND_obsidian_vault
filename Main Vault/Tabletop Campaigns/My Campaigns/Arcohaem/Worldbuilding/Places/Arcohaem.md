@@ -1,3 +1,7 @@
+---
+aliases:
+  - Arcohaemian
+---
 ### Constants of Arcohaem
 - Ethology is common, but not everyone uses it, and fewer understand it. The rules are loose and flexible.
 	- See [[Serendipita]]

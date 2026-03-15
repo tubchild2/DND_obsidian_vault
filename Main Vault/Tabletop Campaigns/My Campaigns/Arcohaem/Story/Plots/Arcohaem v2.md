@@ -59,7 +59,7 @@ Chapter 3: Your Mission
 Chapter 1: [[Ammalor]]
 - They travel by caravan to [[Ammalor]], the city of craftsman
 - There is a large military presence here. What's strange is that they're all going into reserve. Only about 50% of the Republic's soldiers and weapons are used, the rest are put into reserve for later. Maybe they want to end the war with one big invasion?
-- Some kids talk about how Captain [[Terrik]] is their favorite Arcohaemian hero cause he's super cool and he never shows his face and they wonder if the Wolves know him. They don't. He's Kragknull's personal guard.
+- Some kids talk about how Captain [[Terrik]] is their favorite [[Arcohaem|Arcohaemian]] hero cause he's super cool and he never shows his face and they wonder if the Wolves know him. They don't. He's Kragknull's personal guard.
 - Commander Kragknull checks in
 	- Testing the communicator
 	- Seeing how they're faring
@@ -113,7 +113,7 @@ Chapter 3: Termina
 	- It all ends when they ignite the port and destroy the ships
 	- The family they bonded with tell them to hide because their mission could change things, and it's more important than anything they're doing.
 - The escort ultimately fails, and they're forced to hide
-	- He says that this is the price they pay for indifference, and for their hypocrisy. They believe in neutrality, and they believe in the Arcohaemian way, but they refuse to give of themselves to fight for it. How did they think this would go? If not for their pride, and their arrogance, they would've joined [[Frigoshia]] months ago. They will be punished with death.
+	- He says that this is the price they pay for indifference, and for their hypocrisy. They believe in neutrality, and they believe in the [[Arcohaem|Arcohaemian]] way, but they refuse to give of themselves to fight for it. How did they think this would go? If not for their pride, and their arrogance, they would've joined [[Frigoshia]] months ago. They will be punished with death.
 	- Captain Alric executes the people they bonded with in front of them. 
 	- He makes it so that they die one at a time all next to each other, instead of all at once.
 - The Wolves escape and continue heading towards [[Frigoshia|Torhild]]

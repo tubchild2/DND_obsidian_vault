@@ -1,0 +1,54 @@
+---
+aliases:
+  - Frigoshian Prison Guard
+  - Frigoshian Horseback Raider
+---
+**[[Frigoshia|Frigoshian]] Prison Guard**
+- HP: 25 -> 33
+- AC: 16
+- Speed: 30ft
+- Proficiency: +2
+- Stats: 
+	- STR: 16 (+3) 
+	- DEX: 12 (+1) 
+	- CON: 16 (+3) 
+	- INT: 10 (+0) 
+	- WIS: 12 (+1) 
+	- CHA: 8 (-1)
+- Saves: CON +5, STR + 5
+- Skills: Athletics +5, Perception +3, Stealth +3, Acrobatics +3
+- Damage Resistances: Cold
+- Senses: Passive Perception 13
+- Languages: Common, [[Frigoshia|Frigoshian]] Dialect
+- **[[Frigoshia|Frigoshian]] Discipline:** Advantage on saving throws against being frightened or charmed
+- **Multiattack**: The guard makes two attacks using either two glaive strikes or two musket shots.
+- **Glaive**: +5 to hit, reach 10ft or range 20/60. Hit: 1d6 + 3 piercing damage
+- **Musket**: +3 to hit, range 40/120ft. Hit: 1d12 + 1 piercing damage
+
+**[[Frigoshia|Frigoshian]] Horseback Raider**
+- HP: 25 -> 33
+- AC: 16
+- Speed: 50ft
+- Proficiency: +2
+- Stats: 
+	- STR: 14 (+2) 
+	- DEX: 16 (+3) 
+	- CON: 16 (+3) 
+	- INT: 10 (+0) 
+	- WIS: 12 (+1) 
+	- CHA: 8 (-1)
+- Saves: CON +5, DEX +5
+- Skills:
+	- (EX) Animal Handling +5
+	- Acrobatics +5
+	- Stealth + 5
+	- Perception +3
+	- Athletics + 4
+- Damage Resistances: Cold
+- Senses: Passive Perception 13
+- Languages: Common, [[Frigoshia|Frigoshian]] Dialect
+- **[[Frigoshia|Frigoshian]] Discipline:** Advantage on saving throws against being frightened or charmed
+- **Multiattack:** The guard makes two attacks using either two glaive strikes or two flintlock shots
+- **Glaive**: +5 to hit, reach 10ft or range 20/60. Hit: 1d6 + 3 piercing damage
+- **Flintlock**: +5 to hit, range 40/120ft. Hit: 1d12 + 1 piercing damage
+- **Fire Arrows:** +5 to hit, range 40/120ft. Hit: 1d6 + 3 fire damage. Ignites flammable objects.

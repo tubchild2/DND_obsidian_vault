@@ -6,19 +6,29 @@ aliases:
   - Rorik
   - Doornail
   - Brogus
-  - Vaesha
-  - Arrius
-  - Rikkix
 ---
-The Wolves of [[Arcohaem]] used to be a party of 8.
-- Fire Genasi Sorcerer named Vaesha. Hotheaded pyromaniac. She got bored easily and was obsessed with fire. She died in an explosion due to the premature detonation of one of Aeroneiros' devices. They didn't get along, so it's partly suspicious, but unlikely that it was Aeroneiros' fault. Theme song: Mars, the Bringer of War.
-- Aarakocra Fighter named Arrius. A noble and deeply loyal fighter that inspired those around him to keep going. During the battle of Kedrik, he gave his life to save a family of Harengon from a [[Frigoshia|Frigoshian]] mage. Theme song: Dear Mr. Fantasy.
-- Thri-Kreen Bard named Rikkix. An incredibly happy and kind guy. He kept people's spirits high and helped them to sweet-talk their way out of trouble. He was separated during a blizzard, and hasn't been found. Theme song: Cavalo-Ferro.
+
+
+### History
+See [[PCs B - Arcohaem]] for group B
+
+The Wolves of [[Arcohaem]] were founded in 1256, where they were a party of 5 led by [[Kragknull|Commander Kragknull]]
+- [[Kragknull]]
+- [[Finn]]
+- Fire Genasi Sorcerer named Vaesha. Hotheaded pyromaniac. She got bored easily and was obsessed with fire. 
+- Aarakocra Fighter named Arrius. A noble and deeply loyal fighter that inspired those around him to keep going. 
+- Thri-Kreen Bard named Rikkix. An incredibly happy and kind guy. He kept people's spirits high and helped them to sweet-talk their way out of trouble.
+
+In 1261, [[Kragknull]] and [[Finn]] retired. This is when the new recruits joined.
+- Vaesha died in an explosion due to the premature detonation of one of Aeroneiros' devices. They didn't get along, so it's partly suspicious, but unlikely that it was Aeroneiros' fault. 
+- During the battle of Kedrik, Arrius gave his life to save a family of Harengon from a [[Frigoshia|Frigoshian]] mage. 
+- Rikkix was separated during a blizzard, and hasn't been found. 
 
 Past Missions:
-- Duel with the Red Knight. The Red Knight is a mysterious third-party that roams the Arcohaemian plains searching for murderers. He's slaughtered countless camps of [[Frigoshia|Frigoshian]] and Republic soldiers. Back when Arrius was still in the party, he had an encounter with him. The Red Knight created a wall of fire around them and challenged Arrius to a duel. Arrius outfought him 3 times, so the Red Knight decided to let him go. He was never seen by the Wolves again. Legends say he was cursed with more power than he can ever use, so now he roams as a symbol of power and justice. A mythological symbol of the faults in both sides of the war.
+- Duel with the Red Knight. The Red Knight is a mysterious third-party that roams the [[Arcohaem|Arcohaemian]] plains searching for murderers. He's slaughtered countless camps of [[Frigoshia|Frigoshian]] and Republic soldiers. Back when Arrius was still in the party, he had an encounter with him. The Red Knight created a wall of fire around them and challenged Arrius to a duel. Arrius outfought him 3 times, so the Red Knight decided to let him go. He was never seen by the Wolves again. Legends say he was cursed with more power than he can ever use, so now he roams as a symbol of power and justice. A mythological symbol of the faults in both sides of the war.
 
-# Brandon
+
+### Brandon
 Name: Malgruff the Soul-Tearer
 Species: Owlbear https://www.dandwiki.com/wiki/Awakened_Owl_Bear_(5e_Race)
 Class: Rogue
@@ -42,7 +52,8 @@ Custom Equipment:
 
 Theme: https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe?si=bc754ddae7a14309 Poison - Brent Faiyaz
 
-# Aaron*
+
+### Aaron
 Name: Aeroneiros (Aaron-aero-s)
 Species: Half-Elf
 Class: Artificer
@@ -73,7 +84,8 @@ Custom Equipment:
 
 Theme: https://open.spotify.com/track/2PV0Xv0p0SiuVFNAjrr9sS?si=b5488f7d7da64517
 
-# Avery*
+
+### Avery
 Name: Doornail "The Bulwark" Stein
 Species: Goliath (Stone Giant)
 
@@ -139,7 +151,8 @@ WEAKNESSES
 - Disable his movement with hold person, grease, or environmental factors.
 - Wants to be broken emotionally.
 
-# Cole
+
+### Cole
 Name: Brogus Bobbleheim
 Species: Orc
 Class: Monk / Rogue
@@ -172,7 +185,8 @@ Backstory:
 
 Theme: Invitations by Shakatak
 
-# Skyler
+
+### Skyler
 Name: Rorik Valgok
 Species: Dwarf
 Class: Scholar (wizard)

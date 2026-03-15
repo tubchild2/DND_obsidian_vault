@@ -76,8 +76,8 @@
 
 **[[East Arcohaem Trade Union]]** - 12c 733
 - Trade with greater [[Serendipita]] began to boom during this time. 
-- Wishing to capitalize on their control over Lemnaeus, which controlled several profitable trade routes, the Eastern tribes established the [[East Arcohaem Trade Union]] ([[East Arcohaem Trade Union|EATA]]). 
-- They are a subsect of the senate that meets privately to make decisions collectively. [[Thane|President Thane]] of the [[East Arcohaem Trade Union|EATA]] has his own seat on the senate and acts as a senator.  
+- Wishing to capitalize on their control over Lemnaeus, which controlled several profitable trade routes, the Eastern tribes established the [[East Arcohaem Trade Union]] ([[East Arcohaem Trade Union|EATU]]). 
+- They are a subsect of the senate that meets privately to make decisions collectively. The president of the [[East Arcohaem Trade Union|EATU]] has his own seat on the senate and acts as a senator and representative of the union.
 - This expanded the Republic to a total of 56 tribes, and 281 senators.
 
 
@@ -124,8 +124,8 @@
 **[[Brisk]]'s Deal** - 12c 1253
 - [[Terrik|The Wraith]] appeared to Kry [[Brisk]], a senator from [[Frigoshia]], and catches him off guard. He introduces himself as a friend, and envoy of one greater than him. He gives him advice, secrets, predictions. He proves to be helpful, but only if he remains secret.
 - [[Brisk]] is a supernatural fanatic, and, like the people of [[Frigoshia]], deeply reliant on the culture of [[Arcohaem]]. He comes to trust the mysterious figure as a messenger.
-- [[Brisk]] is led to "discover" the preserved dragon eggs, and incubate them in the sprawling volcanic caverns beneath [[Frigoshia]], as it's one of the few places on the planet hot enough to sustain them. [[Terrik|The Wraith]] tells him that it's important to connect to the Arcohaemian culture, and it would ensure protection for the people if they were under his control. [[Brisk]] believed in the rightful rule of Dragons, but he was just a senator. He agreed, and used his personal funds to start a secret operation to grow the brood.
-- [[Terrik|The Wraith]] offered [[Brisk]] a deal. If [[Brisk]] rallied the northern tribes to declare independence, he would ensure [[Brisk]] would be made king, and that the true Arcohaemian way of life, the [[Frigoshia|Frigoshian]] way of life, remained untouched by the industrial revolution, and by the Republic.
+- [[Brisk]] is led to "discover" the preserved dragon eggs, and incubate them in the sprawling volcanic caverns beneath [[Frigoshia]], as it's one of the few places on the planet hot enough to sustain them. [[Terrik|The Wraith]] tells him that it's important to connect to the [[Arcohaem|Arcohaemian]] culture, and it would ensure protection for the people if they were under his control. [[Brisk]] believed in the rightful rule of Dragons, but he was just a senator. He agreed, and used his personal funds to start a secret operation to grow the brood.
+- [[Terrik|The Wraith]] offered [[Brisk]] a deal. If [[Brisk]] rallied the northern tribes to declare independence, he would ensure [[Brisk]] would be made king, and that the true [[Arcohaem|Arcohaemian]] way of life, the [[Frigoshia|Frigoshian]] way of life, remained untouched by the industrial revolution, and by the Republic.
 - [[Brisk]] accepted, now trusting this mysterious benefactor with his life.
 
 **[[Kaul]]'s Deal** - 12c 1253
@@ -148,7 +148,7 @@
 - Railroads were constructed throughout central and eastern [[Arcohaem]].
 - The northern tribes protest, skirmish, and refuse to change. They want to keep their culture and way of life in tact, even if it is primitive. They're happy where they are.
 
-**A Declaration of Independence** - 12c 1255
+**The Beginning of the War** - 12c 1255
 - Tensions were incredibly high. Senator Rimeholt of Nedrena travelled to [[Hephaestus]] to attempt to negotiate, but while sailing, he encountered [[Terrik|the Wraith]]. He explained that his death was necessary to ensure the plans of his master went according to plan. [[Terrik|The Wraith]] impaled him, and framed the Republic military. He used Republic weapons, did it according to Republic protocol, wore his old Republic issued armor, and ensured a few witnesses survived.
 - This act was so gross, and unwarranted, that it pushed the North into finally declaring independence. As they struggled to reorganize, [[Terrik|the Wraith]] threatened and blackmailed opposition to ensure [[Brisk]] earned the role of King, and the other senators became barons and advisers. 
 - The North is absorbed into [[Frigoshia]] under a monarch: [[Brisk]]. There are 21 local Barons that each report to the King. This move dropped the Republic to 35 tribes, with 176 senators. 

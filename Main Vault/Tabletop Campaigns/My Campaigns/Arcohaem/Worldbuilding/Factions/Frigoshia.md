@@ -28,18 +28,18 @@ Technology
 
 **Visuals**
 Architecture
+- Ancient: Tibetan Monasteries
 - Rural: Inuit Tribal
 - Suburb: Viking
 - Urban: Gothic / Medieval
-- Ancient: Tibetan Monasteries
 Primary Colors
 - Snow White
 - Deep Red
 Clothing
+- Ancient: Tibetan Robes with Draconic Patterns
 - Rural: Inuit / Medieval Peasant Robes
 - Suburb: Inuit / Medieval Middle-Class Robes
 - Urban: Inuit / Medieval Upper-Class Robes
-- Ancient: Tibetan Robes with Draconic Patterns
 
 **Common Artforms**
 - Mask Painting
@@ -71,7 +71,7 @@ As of 12c 1266
 
 ### Territories
 - Torhild (***CAPITAL***)
-	- Formerly known as "Frigoshia"
+	- Formerly known as just "Frigoshia"
 	- Well protected by the mountains of Thall
 - Nedrena
 - Brunnborg
@@ -106,6 +106,8 @@ As of 12c 1266
 
 
 ### Military
+- [[Arcohaem Enemy Index|Frigoshian Prison Guard]]
+- [[Arcohaem Enemy Index|Frigoshian Horseback Raider]]
 - Raiders
 	- Experts of stealth, hand-to-hand combat, strategy, and martial weapons
 - Rangers
@@ -115,7 +117,7 @@ As of 12c 1266
 - Healers
 	- Experts of healing funneling.
 - Tamers
-	- Experts of mounted combat and of powerful beasts
+	- Masters of large beasts
 - Barbarians
 	- Experts of brutal front-line combat
 - Captains

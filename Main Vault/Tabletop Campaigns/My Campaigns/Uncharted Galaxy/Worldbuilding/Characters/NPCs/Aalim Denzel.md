@@ -17,7 +17,7 @@ Current THP:
 Proficiency Bonus:
 AC:
 
-Full Name: Aalim Finn Denzel
+Full Name: Aalim Denzel
 Alignment: Lawful Evil
 Height: 5'11"
 Weight: 170lbs

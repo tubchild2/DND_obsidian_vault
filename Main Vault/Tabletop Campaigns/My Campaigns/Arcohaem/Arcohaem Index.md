@@ -35,6 +35,7 @@
 - [[Malfaust]]
 - [[Terrik|The Wraith]]
 - [[Thane|President Thane]]
+- [[Finn]]
 
 ##### Groups
 - [[East Arcohaem Trade Union]]

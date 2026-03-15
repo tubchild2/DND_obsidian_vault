@@ -4,7 +4,7 @@ This act demonstrates that the wolves are fully indoctrinated into the belief sy
 - Part 1: Introduction to world
 - Part 2: Reinforcement of beliefs about [[Frigoshia|Frigoshians]]
 - Part 3: Reinforcement of beliefs about the Republic 
-### Part 1: The [[PCs A - Arcohaem|Wolves of Arcohaem]]
+### [[Part 1.1 - The Wolves of Arcohaem]]
 Chapter 1 - In Medias Res
 - The Wolves are in the midst of a mission to free war prisoners from Krothmire in the howling front
 - The [[Frigoshia|Frigoshians]] are cruel and animalistic
@@ -37,7 +37,7 @@ Chapter 3 - Your Mission
 - They're given some loot to prepare
 
 
-### Part 2: Just Like the Simulations
+### [[Part 2 - Just Like the Simulations]]
 Chapter 1 - [[Ammalor]]
 - They travel by caravan to the city of crafts; [[Ammalor]]
 - There's a large military presence. 
@@ -49,7 +49,7 @@ Chapter 1 - [[Ammalor]]
 	- He tests the communicator
 	- Sees how they're doing
 	- Gives them advice about finding ships to sail into Freyrhage, since any further travel would risk encountering the blockade.
-	- He's with Senator Finn right now discussing the dragon rumors that are spreading now
+	- He's with [[Finn|Senator Finn]] right now discussing the dragon rumors that are spreading now
 	- Everyone thinks they've seen one
 	- Anyways, he's glad he is in charge of this mission
 
@@ -114,7 +114,7 @@ Chapter 4 - Nocturne
 - Level up to 12
 
 
-### Part 3: The Republic!
+### [[Part 3 - The Republic!]]
 Chapter 1: Rain Fire
 - [[Kragknull]] reaches out to them on a personal level
 	- If they discuss what happened last session
@@ -132,6 +132,8 @@ Chapter 2: Shoreline Siege
 	- How loyalty is rewarded
 	- How the Republic has rewarded the Wolves handsomely and given them everything they have now
 	- Some dark experiences they've had while at war
+- They reexperience the same propaganda from earlier through a new, experienced perspective.
+- Patriotic speeches motivate the players to keep fighting for what they're fighting for.
 - One of their good allies gets wounded
 - Prove that the Republic is genuinely improving lives
 - Also show that some of the Republic soldiers *are* creeps who are in it for the violence, and are a bit more radicalized than others. There's a balance; some are reasonable, and some *really* hate [[Frigoshia]].
@@ -143,9 +145,12 @@ Chapter 3: Reflection
 - [[Kragknull]] contacts them with an emergency transmission
 	- A bunch of people on both sides disappeared last night. People are going nuts about it; there are rumors of a deep inorganic growling that was heard at some of the scenes, so of course people are saying it's dragons.
 	- More importantly, the overseer of the Republic bank was assassinated in his office, and all of the files and contracts in his office were burned or looted. The assassin is still at large, and there's a lot of paranoia in the senate right now.
-	- [[Kragknull]] is personally investigating someone with Senator Finn. He can't say who in case he's wrong.
+	- [[Kragknull]] is personally investigating someone with [[Finn|Senator Finn]]. He can't say who in case he's wrong.
 	- He isn't allowed to do what he's about to do, but if he's right, he has to for the sake of the Republic.
 	- He hopes their mission goes well and that they return safely because they're his favorite team he's ever commanded. He tells them not to trust any [[Frigoshia|Frigoshians]] as they move deeper into their territory. They're pretty radicalized, and if anyone finds out about their true identities, they could be attacked.
+- Final Reflection
+	- Draw out their hatred for [[Frigoshia]]
+	- Draw out their love for the Republic
 - Level up to 13
 
 
@@ -156,7 +161,7 @@ Their confidence in their beliefs is tested against their consciences, then the 
 - Part 1: [[Frigoshia|Frigoshians]] can be good
 - Part 2: The Republic can make dangerous decisions and is far from perfect
 - Part 3: The [[Frigoshia|Frigoshians]] are nuanced. The Wolves get a peek behind the curtain, and learn Chancellor [[Kaul]] and [[Brisk]] have been collaborating under advice from [[Terrik|the Wraith]] and his master, who's some mysterious "M". Apparently, they're plotting to seize [[Arcohaem]], and they need to finish "[[Amalgamma]]" to do it. So time is running out. [[Brisk]] reveals that the dragon eggs came from [[Terrik|the Wraith]]'s master. Additionally, whatever evidence there is is apparently tied to that bank assassination from earlier, and the replacement is going to have the files. 
-### Part 1: Enemy of My Enemy...
+### Part 1 - Enemy of My Enemy...
 Chapter 1: Now That's a Famous Hat
 - They're in southern Havbo, before entering the mountains of Tjernfell. They just crossed over a river yesterday.
 - They find an abandoned town. There are bodies everywhere, fresh bodies. No more than a day old. They were absolutely obliterated and the wounds are burnt. They're posed to look like they're living their normal lives.
@@ -189,7 +194,7 @@ Chapter 3: Run For It!
 - They run through the bunker and see no sign of him
 - [[Terrik|The Wraith]] ambushes from the darkness with a set of twin red [[Hard-Light]] spears. You only ever see the silhouette of the entity, its eyes, and its spear. He fights incredibly aggressively through primarily ambushes out of stealth. This thing is a beast of a weapon, and it even has unique anti-[[Serendipita|ether]] properties. 
 	- High Perception Roll: It has the same Draconic insignia as the ancient dagger from Ammallor
-- "Poor Wolves! Poor Wolves! Poor Wolves! Too weak to bite the hand that feeds you." He mocks them in strange, esoteric jabs. It's uncanny.
+- "Poor Wolves! Poor Wolves! Poor Wolves! You never bite the hand that feeds you." He mocks them in strange, esoteric jabs. It's uncanny.
 - His pursuit is terrifying and high octane, as he's incredibly fast, and they need to slow him down.
 - He slaughters the surviving [[Frigoshia|Frigoshians]]. 
 - The uneasy alliance is stress tested
@@ -210,7 +215,7 @@ Chapter 4: Branches of One Tree
 - One more push and they're in the heart of [[Frigoshia]].
 - They don't know what the hell just happened.
 
-### Part 2: Friend of my Friend?
+### Part 2 - Friend of my Friend?
 Chapter 1: Change of Plans
 - After last session, they began to have really intense, vivid nightmare with disturbing imagery and vague interpretations. They're somewhat related to loyalty, honor, and pride. It's the devices and the sedative within, but they don't know that yet.
 - They haven't received contact from [[Kragknull]] in over a week, but they're awakened to the sound of their communicators!
@@ -252,12 +257,12 @@ Chapter 3: Did He Know?
 - Level up to 14
 
 
-### Part 3: The Big Bad Wolves
+### Part 3 - The Big Bad Wolves
 Chapter 1: Finding the Program
 - They're in the heart of [[Frigoshia]]. They are looking around, and they see that [[Frigoshia]] is much more nuanced than they thought. This is represented by a character named Rosie, who's husband was a Republic deserter who was found and hanged. She speaks to them about how both sides are deeply flawed.
 - They think they're going to get ambushed by [[Terrik|the Wraith]], but it's actually [[Kragknull]]! 
-	- He was framed; he and Senator Finn were suspicious of the Chancellor.
-	- He tried to investigate, but was attacked. He took the blame so that Finn could get away unharmed.
+	- He was framed; he and [[Finn|Senator Finn]] were suspicious of the Chancellor.
+	- He tried to investigate, but was attacked. He took the blame so that [[Finn]] could get away unharmed.
 	- There's something going on here, and he thinks it has to do with their mission.
 	- [[Brisk|King Brisk]] should have the location of the program, and he wants to help them get it.
 
@@ -287,31 +292,31 @@ Chapter 4: On The Run
 # **ACT 3: Hearts of Gold**
 ### Overview
 They investigate the conspiracy behind the dragon program, and learn the truth about the war
-- Part 1: They learn that they've been branded traitors, reconnect with [[Kragknull]], get a true perspective on the war, and move through / around the howling front to get to that Gala and to meet up with Senator Finn. This takes up 5 days.
+- Part 1: They learn that they've been branded traitors, reconnect with [[Kragknull]], get a true perspective on the war, and move through / around the howling front to get to that Gala and to meet up with [[Finn|Senator Finn]]. This takes up 5 days.
 - Part 2: They investigate [[Cedtris Coparol]]'s Gala, because the shipping logs have to be there, which'll contain the location of the lab. They witness Republic corruption, and have to avoid a disguised [[Terrik]] and [[Kaul|Chancellor Kaul]], who's also after the records. The logs detail that [[Kaul]] has been building "M's" weapons, who appears to be [[Terrik|the Wraith]]'s master. Additionally, the resources for the dragon program have been shipped to a redistribution center to be rerouted to the real destination to add a layer of security. They also learn that [[Terrik|the Wraith]] revealed his identity to [[Kaul]]. [[Terrik]] then kills [[Kragknull]] and a fight breaks out with improvised weaponry. This takes up a day.
-- Part 3: They move to the redistribution center. On the way, Senator Finn explains who [[Terrik]] is, and that he was likely the one to kill Senator Rimeholt. The center is where [[Kaul]] performs illegal activity. It was the draconic lab [[Brisk]] used prior to him becoming King. It's gross, but it reveals who [[Malfaust]] is, what he's planning, what [[Amalgamma]] is, and that destroying it can stop [[Malfaust]], who's beginning the invasion as we speak. This takes up a day.
-### Part 1: All Quiet on the Howling Front
+- Part 3: They move to the redistribution center. On the way, [[Finn|Senator Finn]] explains who [[Terrik]] is, and that he was likely the one to kill Senator Rimeholt. The center is where [[Kaul]] performs illegal activity. It was the draconic lab [[Brisk]] used prior to him becoming King. It's gross, but it reveals who [[Malfaust]] is, what he's planning, what [[Amalgamma]] is, and that destroying it can stop [[Malfaust]], who's beginning the invasion as we speak. This takes up a day.
+### Part 1 - All Quiet on the Howling Front
 Chapter 1: The Return
 - Skip forward 2 days.
 - They're on the run, and at a bar. Someone realizes who they are, and a fight breaks out.
 - They have to escape.
 - They think someone followed them, but it turns out to be [[Kragknull]]!
 - They learn from him that they've been branded traitors by the Republic, and a new team is already being assembled by [[Kaul|Chancellor Kaul]] to handle the dragon program.
-- [[Kragknull]] learned that the banking overseer learned that [[Kaul]] was funding the dragon program, and was promptly assassinated. He was framed for the murder while investigating with Senator Finn. They're in the middle of a heist right now.
-- Since Estis Macarra was assassinated, [[Cedtris Coparol]] took over as banking overseer. All of those illegal documents showing [[Kaul]]'s shipments are going to be handed off there under the cover of a Gala. [[Kaul]] is going to be there to oversee it, but if they can get their hands on the files they can see where they're being moved to, and where the dragon program is. Finn can get them in as advisors and aides, but they'll have to wear disguises. 
+- [[Kragknull]] learned that the banking overseer learned that [[Kaul]] was funding the dragon program, and was promptly assassinated. He was framed for the murder while investigating with [[Finn|Senator Finn]]. They're in the middle of a heist right now.
+- Since Estis Macarra was assassinated, [[Cedtris Coparol]] took over as banking overseer. All of those illegal documents showing [[Kaul]]'s shipments are going to be handed off there under the cover of a Gala. [[Kaul]] is going to be there to oversee it, but if they can get their hands on the files they can see where they're being moved to, and where the dragon program is. [[Finn]] can get them in as advisors and aides, but they'll have to wear disguises. 
 
 Chapter 2: Travel
 - They get a true perspective on the war and see the war crimes of the Republic as they pass through the Howling Front
 - Primarily a quiet character focused session / breather
 - This takes 5 days
 
-### Part 2: ...in Sheep's Clothing
+### Part 2 - ...in Sheep's Clothing
 Chapter 1: The Time is Upon Us
 - The Gala is tonight
-- They meet up with Senator Finn
+- They meet up with [[Finn|Senator Finn]]
 - They have a rough sketch of the map, and it's not that great
 - They go over their plan, what they have to look out for, and the time frame for the heist
-- Senator Finn gives them disguises to use, and cover identities.
+- [[Finn|Senator Finn]] gives them disguises to use, and cover identities.
 
 Chapter 2: The Gala
 - They mingle with the Republic senators, advisors, and the wealthy
@@ -341,10 +346,10 @@ Chapter 3: Stop What You Are Doing
 	- If they knock [[Terrik]]'s mask off, they see that his face is half-burnt, and half-blue from the cold. No one recognizes him, and he looks monstrous.
 	- He'll try to get his mask back on, and if he can't, he'll fight more aggressive and reckless.
 
-### Part 3: The Devil in Wolves' Clothing
+### Part 3 - The Devil in Wolves' Clothing
 Chapter 1: Who's [[Terrik]]?
 - They're heading to the distribution center.
-- Senator Finn is distressed. He explains who [[Terrik]] was.
+- [[Finn|Senator Finn]] is distressed. He explains who [[Terrik]] was.
 
 Chapter 2: The Center
 - It's a disgusting place that [[Kaul]] uses to hide his illegal activities
@@ -363,10 +368,10 @@ As the timer runs out, they are confronted with the choices the campaign revolve
 - Part 1: [[Malfaust]] begins the invasion of [[Arcohaem]] with his 50 Wyrmlings. They're given a choice here; the odds are REALLY not in their favor. They have one chance to stop the incoming invasion on literally the DAY it's supposed to happen. If they fail, potentially all of [[Serendipita]] could be in danger. They're running out of resources, they don't even really know what they're trying to accomplish, and they're up against the greatest Republic and [[Frigoshia|Frigoshian]] soldiers in [[Arcohaem]], a literal army of dragons, [[Terrik]], [[Malfaust]], and [[Amalgamma]]. They can flee and live to fight another day. They're [[Arcohaem]]'s final hope. They have to fight their way through the now apocalyptic Republic to reach the dragon program.
 	- https://www.youtube.com/watch?v=R9mQ-yXtl04&t=266s
 - Part 2: [[Malfaust]] tauntingly calls the Wolves to the program, since he knows they're coming. He has leverage over them now, and his philosophies are shown here. The Wolves arrive at the Dragon Laboratory, and it's so much worse than they thought. The investigation is horrific, especially once they find [[Amalgamma]]. To awaken it, they need to go through [[Malfaust]]'s lair, and he's expecting them. So is [[Terrik]]. This is it. 
-- Part 3: [[Malfaust]] presents the Wolves with the final temptation. It's dark, and it's personal, and he has personal leverage over them now. They see [[Terrik]] for who he really is, and how he's a representation of what the Wolves could become. If they refuse the temptation, they genuinely lose everything, and [[Terrik]] is sent after them. [[Terrik]] is the real final battle, and he dies because of his refusal to change. [[Malfaust]] attacks, and their goal isn't to kill him, but to get past him and to [[Amalgamma]]. He monologues and runs on about his philosophies while hunting the Wolves, but eventually they get past him long enough to barely awaken [[Amalgamma]]. [[Amalgamma]] is incredibly powerful, and it gives all of them intense hallucinations thanking them, and then banishes [[Malfaust]] and destroys both itself and the lair. As the wolves are escaping, a hatchling imprints itself on them. They have the choice of repeating history, or sparing it. Regardless, the rest of the Juvenile dragons continue their rampage, but once they realize [[Malfaust]] is dead, they retreat throughout [[Serendipita]]. The Wolves are publicly honored, and the treasure trove of evidence uncovered from the ruins of the lab is enough to incarcerate [[Kaul|Chancellor Kaul]], [[Brisk|King Brisk]], and hundreds of people that were involved in their regime. Senator Finn is promoted to Chancellor, and he spends his time attempting to fix the corruption, but because of how bad it is, he can't get it all out, and he immediately has to compromise to even keep the Republic afloat. It's inherently flawed, but by his making the best choices he can, it can be better. Catastrophe is avoided for now, but the dragons have returned, and [[Arcohaem]] is permanently scarred.
+- Part 3: [[Malfaust]] presents the Wolves with the final temptation. It's dark, and it's personal, and he has personal leverage over them now. They see [[Terrik]] for who he really is, and how he's a representation of what the Wolves could become. If they refuse the temptation, they genuinely lose everything, and [[Terrik]] is sent after them. [[Terrik]] is the real final battle, and he dies because of his refusal to change. [[Malfaust]] attacks, and their goal isn't to kill him, but to get past him and to [[Amalgamma]]. He monologues and runs on about his philosophies while hunting the Wolves, but eventually they get past him long enough to barely awaken [[Amalgamma]]. [[Amalgamma]] is incredibly powerful, and it gives all of them intense hallucinations thanking them, and then banishes [[Malfaust]] and destroys both itself and the lair. As the wolves are escaping, a hatchling imprints itself on them. They have the choice of repeating history, or sparing it. Regardless, the rest of the Juvenile dragons continue their rampage, but once they realize [[Malfaust]] is dead, they retreat throughout [[Serendipita]]. The Wolves are publicly honored, and the treasure trove of evidence uncovered from the ruins of the lab is enough to incarcerate [[Kaul|Chancellor Kaul]], [[Brisk|King Brisk]], and hundreds of people that were involved in their regime. [[Finn|Senator Finn]] is promoted to Chancellor, and he spends his time attempting to fix the corruption, but because of how bad it is, he can't get it all out, and he immediately has to compromise to even keep the Republic afloat. It's inherently flawed, but by his making the best choices he can, it can be better. Catastrophe is avoided for now, but the dragons have returned, and [[Arcohaem]] is permanently scarred.
 
 
-### Part 1: A New Hope
+### Part 1 - A New Hope
 Chapter 1: It Begins
 - [[Malfaust]] has begun the invasion of [[Arcohaem]] with his wyrmlings
 - They're given a choice here:
@@ -379,7 +384,7 @@ Chapter 2: Black Snow
 	- https://www.youtube.com/watch?v=R9mQ-yXtl04&t=266s
 - Level up to 16
 
-### Part 2: Kingdom Come
+### Part 2 - Kingdom Come
 Chapter 1: This Was Supposed to be the Easy Part
 - It is a trial and a half to even get into the building
 - Their security is elaborate and absolute
@@ -396,7 +401,7 @@ Chapter 3: Heart Drop
 - This is it.
 - Level up to 17
 
-### Part 3: Steel and Havoc
+### Part 3 - Steel and Havoc
 Chapter 1: The Bargain
 - [[Malfaust]] tempts them, and it's dark, and personal. He uses leverage he's collected over them to threaten them. [[Malfaust]] offers them everything they ever wanted. If they don't take his deal, they will genuinely lose everything. [[Malfaust]] is no idiot, he made sure the deal is a dark one.
 - They also see [[Terrik]] for who he really is here, and how he's a dark reflection of what happens when you give in to temptation.
@@ -413,7 +418,7 @@ Chapter 2: [[Amalgamma]]
 
 Chapter 3: The End
 - After the dust settles, the investigation into the ruins of the dragon program as well as [[Kaul]]'s distribution center is enough to incarcerate [[Kaul]], [[Brisk]], and hundreds more who were involved in their regime. Many corrupt individuals remain, though.
-- Senator Finn is promoted to Chancellor, and he spends his time attempting to fix the corruption, but he quickly has to compromise because of just how bad it really is. He can't uproot it all immediately, because that would collapse the Republic.
+- [[Finn|Senator Finn]] is promoted to Chancellor, and he spends his time attempting to fix the corruption, but he quickly has to compromise because of just how bad it really is. He can't uproot it all immediately, because that would collapse the Republic.
 - The Wolves are publicly honored, but they still have to face the consequences [[Malfaust]] set up for them.
 - Catastrophe is avoided for now, and they can each retire, but the Dragons have returned and [[Arcohaem]] is permanently scarred. 
 - But, alas, they're satisfied, because even though they lost so much, they know that they did the right thing and proved that not everyone has a price, and that humans can choose to do the right thing.

@@ -41,7 +41,7 @@ Chapter 1 - Now That's a Famous Hat
 	- He tests the communicator
 	- Sees how they're doing
 	- Gives them advice about finding ships to sail into Freyrhage, since any further travel would risk encountering the blockade.
-	- He's with Senator Finn right now discussing the dragon rumors that are spreading now
+	- He's with [[Finn|Senator Finn]] right now discussing the dragon rumors that are spreading now
 	- Everyone thinks they've seen one
 	- Anyways, he's glad he is in charge of this mission
 	- [[Terrik]] was who the senate wanted to lead the mission, but he got it on a technicality because of him already being their overseer.
@@ -150,7 +150,7 @@ Chapter 3: Reflection
 - [[Kragknull]] contacts them with an emergency transmission
 	- A bunch of people on both sides disappeared last night. People are going nuts about it; there are rumors of a deep inorganic growling that was heard at some of the scenes, so of course people are saying it's dragons.
 	- More importantly, the overseer of the Republic bank was assassinated in his office, and all of the files and contracts in his office were burned or looted. The assassin is still at large, and there's a lot of paranoia in the senate right now.
-	- [[Kragknull]] is personally investigating someone with Senator Finn. He can't say who in case he's wrong.
+	- [[Kragknull]] is personally investigating someone with [[Finn|Senator Finn]]. He can't say who in case he's wrong.
 	- He isn't allowed to do what he's about to do, but if he's right, he has to for the sake of the Republic.
 	- He hopes their mission goes well and that they return safely because they're his favorite team he's ever commanded. He tells them not to trust any [[Frigoshia|Frigoshians]] as they move deeper into their territory. They're pretty radicalized, and if anyone finds out about their true identities, they could be attacked.
 
@@ -309,7 +309,7 @@ Maybe temporarily have them lose their gear to enforce that they're more than ca
 ### Part 2: In Sheep's Clothing
 Now on the run, they go into hiding and push on to Ultun.
 They see a shadow on the wall, and think it's [[Terrik]]. It's actually [[Kragknull]]!
-[[Kragknull]] was framed; he and Senator Finn were suspicious of [[Terrik]]. He did it
+[[Kragknull]] was framed; he and [[Finn|Senator Finn]] were suspicious of [[Terrik]]. He did it
 [[Kragknull]] took the blame, and found out about the illegitimacy of their mission, so he's been looking for them
 There's a conspiracy going on with [[Kaul]], [[Terrik]], and [[Brisk]]. And also apparently "M."
 The real dragon breeding program was relocated into [[Arcohaem]]
@@ -317,10 +317,10 @@ The shipping manifest contains the real location
 
 On the north island of Steinvaltn, there's a republic Gala being held with some big names.
 They've been following a few leads, and managed to track a manifest to the home of the host, who runs the shipping business they used, but it's very protected
-They can slip in as advisors or aides to Senator Finn, but they'll need to be extremely careful not to get caught
+They can slip in as advisors or aides to [[Finn|Senator Finn]], but they'll need to be extremely careful not to get caught
 
 They get to the docks and stowaway into Steinvaltn
-They're met by Senator Finn of South Hathor. He gives them disguises, and is a genuinely nice guy.
+They're met by [[Finn|Senator Finn]] of South Hathor. He gives them disguises, and is a genuinely nice guy.
 They mingle with the Republic senators, advisors, and the wealthy
 - They meet senators who want to fix things
 - They meet senators who see things going downhill
@@ -413,17 +413,17 @@ This is the final test of everything they've learned.
 	Like with the corruption, even if you can't uproot it forever, you can try, and giving up is the worst thing you can do.
 They escape, and collapse in the snow.
 
-Senator Finn is there to take charge, and he temporarily fills the void left by [[Kaul]]
+[[Finn|Senator Finn]] is there to take charge, and he temporarily fills the void left by [[Kaul]]
 [[Kaul]] and [[Brisk]] are arrested by their respective governments using the substantial evidence the wolves uncovered
 He roots out some of the corruption, and begins to rebuild [[Arcohaem]]
 
 The Wolves are publicly honored and reinstated, but they aren't popular.
 A lot of people are loyal to [[Kaul]], were benefactors of the corruption, or still think they're traitors
 
-If they spared the dragon, it becomes a powerful ally and an Arcohaemian symbol for change
+If they spared the dragon, it becomes a powerful ally and an [[Arcohaem|Arcohaemian]] symbol for change
 Things are better than before, if only temporarily.
 The wolves rest, knowing they've prevented calamity and done what is right.
-They can choose to stay in [[Arcohaem]] and continue working with Chancellor Finn, or they can retire and move to Reinstead.
+They can choose to stay in [[Arcohaem]] and continue working with Chancellor [[Finn]], or they can retire and move to Reinstead.
 They get their happy endings, but there's still some threads to solve.
-Those who stay behind to continue working with Finn become Senators and create their own team to hunt down the last Dragon eggs.
+Those who stay behind to continue working with [[Finn]] become Senators and create their own team to hunt down the last Dragon eggs.
 

@@ -78,14 +78,14 @@ https://www.youtube.com/watch?v=R9mQ-yXtl04&t=266s
 		- [ ] Immovable Rod. Button on one end to make it fixed in place. DC 30 to move it 10ft. 8000lbs.
 		- [ ] Gloves of Silence. +5 to sleight of hand checks.  
 		- [ ] Ring of [[Hephaestus]]. +1 to AC and saves.
-		- [ ] Dagger of [[Ammalor]]. Handcrafted from pure Arcohaemian steel in the volcanic caverns beneath [[Ammalor]]. It's some of the finest craftsmanship you'll ever see on this side of the mountains. If attuned, you can call this dagger back to you as a bonus action given it's within 60ft. It can fly around obstacles. It grants a +3 bonus to attack and damage rolls.
+		- [ ] Dagger of [[Ammalor]]. Handcrafted from pure [[Arcohaem|Arcohaemian]] steel in the volcanic caverns beneath [[Ammalor]]. It's some of the finest craftsmanship you'll ever see on this side of the mountains. If attuned, you can call this dagger back to you as a bonus action given it's within 60ft. It can fly around obstacles. It grants a +3 bonus to attack and damage rolls.
 - [ ] Lastly, here's a map of [[Arcohaem]] to assist you with planning your mission. If there are no questions, I'll leave you to that, but contact me if you need assistance, I'll be just down the hall.
 
 ### Immersive Opening
 Opening 1
 https://www.youtube.com/watch?v=uOkTQC4BVMk 
 - 5 years ago, a group of spies, fighters, and thieves came together to form [[Arcohaem]]'s most infamous strike teams. Though loyal to the Republic, they're fiercely unpredictable.
-- 5 weeks ago, this team was dispatched to find and eliminate Krothmire: a secret [[Frigoshia|Frigoshian]] prison camp. They'd need to trek into the depths of the Arcohaemian plains, duel with beasts and monsters, and witness the darkest parts of this war.
+- 5 weeks ago, this team was dispatched to find and eliminate Krothmire: a secret [[Frigoshia|Frigoshian]] prison camp. They'd need to trek into the depths of the [[Arcohaem|Arcohaemian]] plains, duel with beasts and monsters, and witness the darkest parts of this war.
 - 5 days ago, they discovered the camp buried deep within the Howling Front. 
 - 5 minutes ago, they arrived.
 	- It's the winter of 12c 1266

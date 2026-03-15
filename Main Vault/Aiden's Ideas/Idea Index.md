@@ -86,6 +86,11 @@ Dimensional Planes
 - It's revealed that the alternate versions of themselves had to endure a hellscape of trials to survive, and they've come out the other end deeply affected. They lack remorse, restraint, and restrictions. They changed goals while trapped and are working with monstrous entities. They want to further the goals of their benefactor first, and then, in return for their service, subject the party to the same nightmare they were subjected to.
 - Maybe they were banished to something like the twilight dimension but were smart enough to forge a way out by working with the local king / god-monster.
 
+**The Truman Show!**
+- Take inspiration from [[Postmodernism, Simulacra, and Irony]]
+- Take inspiration from the Truman Show
+- Players are in an inauthentic reality that they need to decipher
+
 Betrayal
 - Run an entire, short campaign that's literally just the [[ID_ False Betrayal]] plot, except built up over one long arc to ensure it goes off without a hitch
 - Incompatible characters with incompatible motivations and incompatible attachments
@@ -123,6 +128,7 @@ Betrayal
 **The Navigator**
 - One player has a key piece of immovable information that they need to communicate to a mobile player. For example, one player has a map and a radio, and the other player needs to listen to their instructions. The spice comes from the hazards, task management, stress, and things that're difficult to explain.
 - Inspired by: Stranger Things Season 2 Episode 8: The Mind Flayer. Stuck in the lab with demo-dogs, underpowered, forced separation due to skill differences.
+- Use actual walkie talkies to simulate it for immersion
 
 **Heist**
 - Give some information so that they can plan, but not enough so that they're prepared
