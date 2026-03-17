@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "37bffe55198a1a0c",
+        "id": "1d70a9116a23bc1f",
         "type": "tabs",
         "children": [
           {
-            "id": "94b727adfc7b15ce",
+            "id": "d708186034ff075f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Itenerary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Itenerary"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 200
   },
   "right": {
     "id": "7efababeab0f1b4b",
@@ -164,8 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "94b727adfc7b15ce",
+  "active": "d708186034ff075f",
   "lastOpenFiles": [
+    "To Do.md",
+    "Itenerary.md",
+    "puzzle_game.md",
+    "Research and References/Web Development/CSS notes.md",
+    "Research and References/Web Development/HTML notes.md",
+    "Vault Overview.md",
+    "Shotlist.md",
+    "Research and References/Data Communications Notes/The Application Layer.md",
+    "Research and References/Data Communications Notes/The Transport Layer.md",
+    "Research and References/Data Communications Notes/The Network Layer.md",
+    "Research and References/Data Communications Notes/The Data Link Layer.md",
+    "Research and References/Data Communications Notes/The Physical Layer.md",
+    "Research and References/Data Communications Notes/Data Comm Index.md",
+    "Research and References/Data Communications Notes/MANs and WANs.md",
+    "Research and References/Data Communications Notes/Wireless Networking.md",
+    "Research and References/Data Communications Notes/Web Security.md",
+    "Research and References/Data Communications Notes/Subnetting.md",
+    "Picks.md",
     "Aiden's Ideas/Idea Index.md",
     "Tabletop Campaigns/My Campaigns/Arcohaem/Arcohaem Index.md",
     "Tabletop Campaigns/My Campaigns/Arcohaem/Story/Sessions/Part 2 - Just Like the Simulations.md",
@@ -174,26 +196,8 @@
     "Tabletop Campaigns/My Campaigns/Arcohaem/GM Notes/Group A/PCs A - Arcohaem.md",
     "Tabletop Campaigns/My Campaigns/Arcohaem/Story/Sessions/Part 1.1 - The Wolves of Arcohaem.md",
     "Tabletop Campaigns/My Campaigns/Arcohaem/Story/Sessions/Part 3 - The Republic!.md",
-    "Vault Overview.md",
-    "Tabletop Campaigns/My Campaigns/Arcohaem/References/Arcohaem Enemy Index.md",
-    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Factions/House Havran.md",
-    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Characters/Finn.md",
-    "Tabletop Campaigns/My Campaigns/Uncharted Galaxy/Worldbuilding/Characters/NPCs/Mikhail Volkov.md",
-    "Tabletop Campaigns/My Campaigns/Uncharted Galaxy/Worldbuilding/Places/Vivimus/Thaldriss.md",
-    "Tabletop Campaigns/My Campaigns/Uncharted Galaxy/Worldbuilding/Factions/House Galling.md",
-    "Tabletop Campaigns/My Campaigns/Uncharted Galaxy/Worldbuilding/Characters/NPCs/Aalim Denzel.md",
-    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Characters/Kaul.md",
-    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Characters/Kragknull.md",
     "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Pictures/Senator Finn.jpg",
-    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Factions/Frigoshia.md",
-    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Characters/Brisk.md",
     "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Pictures/King Brisk.jpg",
-    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/World History - Arcohaem.md",
-    "Tabletop Campaigns/Other's Campaigns/Styxas/Ratchet Gulliver.md",
-    "Tabletop Campaigns/Other's Campaigns/Serendipita.md",
-    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Characters/Thane.md",
-    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Factions/East Arcohaem Trade Union.md",
-    "Tabletop Campaigns/My Campaigns/Arcohaem/Worldbuilding/Factions/Normons.md",
     "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Pictures/Chancellor Kaul.jpg",
     "Tabletop Campaigns/My Campaigns/Arcohaem/Media/Pictures/Bail Organa.avif",
     "Tabletop Campaigns/My Campaigns/Arcohaem/References",
