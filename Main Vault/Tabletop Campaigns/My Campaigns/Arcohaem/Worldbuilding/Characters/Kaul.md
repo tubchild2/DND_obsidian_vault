@@ -17,7 +17,7 @@ aliases:
 
 
 ### History
-Caldus Kaul was born in 12c 1213 in [[Hephaestus]]. He took a quick interest in [[Serendipita|E-Tech]], and as he grew up, he began to develop an interest in it as the rest of the world did. He was particularly interested in designing [[Serendipita|E-Tech]] weapons, which allowed him to make a substantial profit. His company (Castle Rock Technology) made him a small fortune internationally, but domestic sales were low.
+Caldus Kaul was born in 12c 1213 in [[Hephaestus]]. He took a quick interest in [[Serendipita|E-Tech]], and as he grew up, he began to develop an interest in it as the rest of the world did. He was particularly interested in designing [[Serendipita|E-Tech]] weapons, which allowed him to make a substantial profit. His company ([[Castle Rock Technology]]) made him a small fortune internationally, but domestic sales were low. 
 
 Using his influence and connections, he managed to secure a seat in the Senate. He'd spend the next several decades performing loyal service to the Republic.
 

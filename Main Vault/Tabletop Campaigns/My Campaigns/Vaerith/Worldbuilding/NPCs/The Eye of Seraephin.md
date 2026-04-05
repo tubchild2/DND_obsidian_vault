@@ -1,6 +1,5 @@
 ---
 aliases:
-  - The Moon
   - Eye of Seraephin
   - Lunalia
 ---

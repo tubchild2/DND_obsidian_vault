@@ -23,11 +23,11 @@ Shops
 	- Jackets
 	- Masks
 - Armor
-- Jewelery
+- Jewelry
 - Furniture
 - Imported spices
 - Exotic foods
-- Imported alochol
+- Imported alcohol
 - Engraved metalwork
 	- Nautical and Frost themes
 	- Fancy Lanterns
@@ -66,13 +66,44 @@ Sailing
 - Give the Wolves the mission of escorting people to the docks
 
 ##### Plot:
+Introduction
+- You dock at a port along the eastern cliffs of Freyrhage. In front of you is a steep winding road that leads to the town of Freyrhage, which you vaguely remember hearing about recently. You notice a [[Frigoshia|Frigoshian]] flag has been torn down. What do you do?
+	- (Follow the road) The road leads back and forth up the steep cliffs, and then into an icy ravine. You walk over wide and old wooden bridges suspended over dark abysses. After awhile, you see the town of Freyrhage in the middle of a small arctic clearing.  
+	- (Investigate Flag) the flag had been there a while evidently. It was recently torn down by what looks like a group of people. You get the picture the townsfolk aren't pleased with [[Frigoshia]]. 
+	- (History check Freyrhage) Freyrhage is a very young tribe. It was founded to capitalize off this very port not 35 years ago. People settled to work here, then businesses moved in, and it just kind of grew from there. There's only a handful of towns across the whole territory. They only agreed to be part of the war out of fear. Judging by the flag, they may not have that stance anymore, which means they're probably going to be swarming with [[Frigoshia|Frigoshian]] soldiers soon. 
+
 Freyrhage
-- They dock at a port along the eastern cliffs of Freyrhage. They need to climb a steep winding road to reach the rest of the town. 
-- Freyrhage is a very young tribe. It founded to capitalize off of the port not 35 years ago. People settled to work the ports, then businesses moved in to meet the demands of the citizens, and then it gradually expanded from there. It's still very small, and there's only a couple towns across the whole territory.
-- Most people in this village hate the war. Their position on the front made them a frequent target. Freyrhage only agreed to the declaration of independence out of fear. After some of the things they've seen [[Frigoshia]] do, they decided they couldn't be a part of it anymore, no matter what it would cost them. They declared neutrality, and the military is approaching to wipe out the village. 
-- The Persson family is incredibly sweet, but distressed. Grandma Persson can't walk, and won't be able to flee. Their large hairy Yak-like livestock snuggle up to the Wolves. They ask what the Wolves' mission is.
-- The people are distressed. Some are packing and trying to flee, and others are indulging because they think they're going to die. Children are oblivious, and parents are horrified. People can't flee because the ports are charging too great of a price, and can only escort 5 additional people per boat.
-- The invasion is tonight, and not everyone is going to make it out. No one can afford to!
+- Walking into the town, you're met with a very strange sight. Some people look deeply saddened, and the rest seem to completely lack inhibitions. You see a couple dancing in the street to nothing, and another person sitting on his porch in his underwear drinking from a large bottle. Poorly painted Republic flags are flying in the wind, and there are fragments of battles from long ago peeking up from the snow. One lady is pushing an elderly woman in a wheelchair, and another is frantically packing. What do you do?
+	- (speaking to people)
+		- (random person) They hate the war. Their position in the front made them an easy target. They only agreed out of fear, but no more. 
+		- (metal plates wagon) They're going to try to get out of here before tonight. He made a deal with the captain to let him board, but it's going to cost him. He won't discuss specifics, but you can tell he regrets whatever it was, and you can tell it was really bad and involved hurting someone. 
+		- (couple dancing) they're ignoring everything else.
+		- (wheelchair pusher) Emily Persson 
+			- Age 44
+			- (distressed mother who's trying to find a way)
+			- Asks if the Wolves are here to help, and offers them a meal
+		- (guy drinking on porch) Erik Persson 
+			- Age 45
+			- (distressed stoic father who feels hopeless)
+			- (if asked why he's doing that) why not?
+			- Asks if the Wolves are here to help, and offers them a meal
+		- (in wheelchair) Mrs. Persson 
+			- Age 77
+			- (wheelchair-bound and sweet and oddly flirtatious grandmother)
+		- Danny Persson 
+			- Age 14
+			- (Awkward and shy son who's scared)
+		- Danielle Persson 
+			- Age 9
+			- (oblivious, vibrant, and outgoing daughter) 
+			- (reminds [[PCs B - Arcohaem|Lukas]] of Kenna [[House Havran|Havran]])
+
+Persson Home
+- They have large hairy Yak-like livestock that really want attention. 
+- Danny Persson slowly warms up to them when they tell him about the fights they've been in.
+- Danielle Persson keeps trying to read a pop-up book but Emily and Erik have to keep telling her to go play in her room.
+- Emily and Erik know that the [[Frigoshia|Frigoshians]] are coming tonight. They want to flee, but Mrs. Persson can't walk. There's no way she could survive the trek through the mountains, and they don't want to leave her behind. Besides, no one in town can afford to pay the captain's prices to get aboard the ship. They're charging 15 gp per seat, and can only take 15 people total. They can't fight them off, and someone spotted one across the west bridge, meaning there's no where else to go. They're trapped.
+- The invasion is tonight, and not everyone is going to make it out. No one can afford to! 
 
 [[Kragknull]]
 - Small Talk
@@ -98,25 +129,22 @@ Freyrhage
 - Put players in a high-octane battle to get as many civilians out as possible as the battalion chases after them
 
 ##### Plot:
-Invasion
-- Regardless of what they choose, the invasion begins
-- The [[Frigoshia|Frigoshians]] are incredibly fast, violent, and animalistic
-- They try to kill Grandma Persson
-- They stab the Yak-like animals with their spears, and they take multiple hits to do so
-- They're physically intimidating and hide their faces
-- They burn down houses
-- They pillage supplies for themselves
-- They kill civilians
-- Blood curdling screams echo through the valley
-- After all this, they should want to help at least some people
+Introduction (Wolves Aren't Helping)
+- (Play Impending Doom, specifically Despair)
+- The Sun is setting. The people are all in their houses, holding each other tight. In the distance, the sound of drums. It's starting. You see shadows emerge from the bushes and begin to walk towards the town of Freyrhage. Blood curdling screams echo through the valley, licks of fire begin to creep over the walls of the town, and a sense of deep sadness begins to well in your hearts. What do you do?
 
-Caravan
-- In the chaos, they begin grabbing people to escort them to the docks and giving them money
-- They form a caravan of wagons and begin riding out of the town
-- The caravan is attacked. High octane combat breaks out, and citizens are shot, stabbed, and pulled from caravans left and right.
-- They careen down the mountain pass and reach the docks
-- The [[Frigoshia|Frigoshians]] begin shooting flaming arrows at the ships to try to burn them down, which complicates things. The people on the ships begin preparing to leave early, and are shooting muskets at the [[Frigoshia|Frigoshians]].
-- One of the ships goes down, meaning not everyone they grabbed is going to make it out. They have to make snap decisions about who's getting out and who isn't.
+Introduction (Wolves Are Helping)
+- (Play Cold Battle, specifically Y-Wing)
+- The sun is setting. The people are in their houses, holding each other tight. In the distance, the sound of drums begins to build, followed by the oh so familiar battle cry of the [[Frigoshia|Frigoshians]]. In an instant, flaming arrows begin to descend upon the town. It won't be long until the soldiers themselves arrive. You have moments to act. What do you do?
+
+(After getting some people into the caravan)
+- The soldiers begin to enter the gates and begin entering houses in the dinstance. They move incredibly quickly, and begin using their spears to attack the citizens. The entire town is engulfed in flames within moments. 
+- (roll three times for dramatic effect) Grandma Persson begins frantically wheels out the front door and down the ramp. She wants to go with everyone, even if it's going to be dangerous for her. Suddenly, an arrow flies through the air and pierces her neck, causing her to collapse on the ground. Emily screams a quick "No!" before Erik begins to hurry her onto the wagon. The children are terrified. 
+
+(after they start moving)
+- The caravan races out of the town and towards the docks. Suddenly, a group of soldiers on horseback begin chasing after them in the night. 
+
+
 
 ##### Combat:
 **Objective**
@@ -158,21 +186,26 @@ Caravan
 - Level up players to 12
 
 ##### Plot:
-Failure
+Introduction
 - Play "A Tragedy" playlist
-- They begin to hear thunderous footsteps in the distance. A [[Frigoshia|Frigoshian]] war beast is approaching: Remorhaz.
-- Additionally, they couldn't get to all of the ships in time, so one of them goes down, forcing people to run out of it and get shot. The rest begin trying to get onto the other ships, but there aren't enough spots, so people are shoving people overboard.
-- The Persson father grabs them and tells them that it's too late. Their mission is more important than saving this town. He'll forever be grateful for what they've done. He hugs them. If they stay now, they're going to die. They need to run now! 
-- As the Wolves run, he says goodbye to his children, and tells them that he's going to be ok, but that they need to get on the ship now.
-- People pack onto the ships as they sail away. They're going to be ok.
-- Captain Alric of the [[Frigoshia|Frigoshian]] military arrives riding the Remorhaz. He says that the tribe will pay for their indifference. It is the responsibility of every [[Arcohaem|Arcohaemian]] to defend their ancestry. He's deeply sorry, but it must be done to ensure that their culture isn't wiped out by Republic genocide.
-- The beast tears through the survivors, including the Persson parents.
-- The Wolves make it out.
+- In horror, you look on as bubbles begin to surface around one of the ships as it begins to descend into the water. The captains are beginning to depart, regardless of who's on board or not. People begin running off the sinking ship and are drawing all of the fire away from you temporarily.
+- A [[Frigoshia|Frigoshian]] captain yells from behind enemy lines, "The Tribe of Freyrhage will pay for their indifference. It is the sole duty of every [[Arcohaem|Arcohaemian]] citizen to protect his ancestry. It is not with ease that we have stopped your escape this day. But it must be done to protect their culture from the Republic. You may rest easy knowing that your death has preserved your country's future."
+- Erik Persson grabs the Wolves.
+	- He appreciates them
+	- They need to go or they're going to die
+	- Their mission is more important
+	- He hugs them
+	- They can't win this; there's hundreds more [[Frigoshia|Frigoshians]] on the way. 
+- The Wolves go
+- Erik says goodbye to his kids.
+	- "Mom and dad are going to be ok." He pauses for a second after saying that. The Daniel replies, "Why can't you come with us?" "There aren't enough seats on the boat"
+	- "You need to get on the ship now. We'll find you, we promise. Get on the boat now!" 
+	- The kids are sobbing as they run onto the ship. Arrows fly and nearly hit Danielle as she runs. Emily and Erik watch their kids get onto the boat just as it sets sail. 
+- The Wolves run.
 
 Quiet Night
-- It's a quiet night
-- They've crossed the isthmus into Norby
-- The campfire crackles in the cold winter night
+- A few hours later...
+- "It's a quiet night in the snowy woods. You've fled the battle and crossed the isthmus into the province of Norby. Your campfire crackles in the cold winter night."
 - They have some atmospheric music for roleplay
-- This is why we fight, Wolves
-- Level up to 12
+- Is there anything you'd like to do?
+- You all level up to level 12. 

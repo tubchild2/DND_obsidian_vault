@@ -6,6 +6,7 @@ Campaigns
 - [[Twisted - Campaign Heart]]
 - [[Arcohaem Index]]
 - [[Serendipita]] (Avery's World)
+- [[N ON Notes]] (Xavi's World)
 
 My PCs
 - [[Johnny Hayes]]
@@ -31,6 +32,8 @@ Personal References
 Other
 - [[Idea Index]]
 - [[Spirituality Index]]
+- [[Datapack Maker Overview]]
+- [[Jayden's Puzzle Vault]]
 
 
 # To-Do

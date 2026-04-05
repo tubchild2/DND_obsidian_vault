@@ -6,7 +6,21 @@ aliases:
   - Captain Terrik
 ---
 ### Overview
-Terrik was the greatest soldier in all of [[Arcohaem]]. While trying to uproot corruption, he became corrupt himself, and was scarred and exiled. He became the Wraith; the hand of [[Malfaust]]. He is known only through rumors as an unstoppable monster that kills without resistance. He is to be feared.
+Terrik was the greatest soldier in all of [[Arcohaem]]. While trying to uproot corruption by killing criminals, he became corrupt himself, and was scarred and exiled. He became the Wraith; the hand of [[Malfaust]]. He is known only through rumors as an unstoppable monster that kills without resistance. He is to be feared.
+
+
+
+### Personality
+- Obsessed with vanity and ego
+- Believes power is the only way to enforce justice
+- Kills those below him because it makes him feel superior
+- Punishes those who deserve it
+- Fights honorably, preferring traditional weapons
+- Won't hurt people who don't deserve it
+- Psychopathic and largely stoic
+- Has a moral compass that's terrifyingly similar to the Wolves; he just elevates himself above everyone else because, well, he is actually much stronger and allied with much greater threats. 
+- Addicted to Lumen-9
+
 
 
 ### Abilities

@@ -79,6 +79,9 @@ Dimensional Planes
 
 
 ### CAPITAL P PLOTS
+**The Traveler**
+- [[ID_ Traveler]]
+
 **The Darkness**
 - First session involves time travel
 - During a standard mission, the party encounters an issue and needs to break the law to go back in time to an area they previously existed in. They make some bad decisions to rescue themselves that leave the alternate versions of their past selves trapped.
@@ -157,13 +160,17 @@ Betrayal
 **Hunger Games**
 - Last man standing wins. Don't trick them into turning on each other, just ask them to in advance it's so much easier.
 
-**Everything's Going to be Alright**
-	John suffers from crippling anxiety
-	Convince the audience that everything is spiraling downhill for him
-	He has really bad anxiety, so he thinks things are going to go poorly
-	They don't, and he is happy
+**Ship**
+- Huge ship. Cargo ship. Like 200 people minimum. 
+- It crashes into the shore. There's no one on it, and nothing is missing. It's as if everyone aboard just vanished while at sea.
 
-**UNDERWATER CAVE DIVING**
+**Everything's Going to be Alright**
+- John suffers from crippling anxiety
+- Convince the audience that everything is spiraling downhill for him
+- He has really bad anxiety, so he thinks things are going to go poorly
+- They don't, and he is happy
+
+**Underwater Cave Diving**
 - Isolated
 - Dark
 - Creepy noises

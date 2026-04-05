@@ -1,6 +1,5 @@
 ---
 aliases:
-  - The Sun
 ---
 ![[The Sun.jpg]]
 

@@ -53,19 +53,56 @@ Clothing
 
 
 ### Government
-Each tribe elects 5 senators, which elect advisors, aides, and delegates. The senators meet in the senate building in [[Hephaestus]] and vote on topics raised by Senators. Hearings happen weekly, and are overseen by the Chancellor, who is elected by the Senate every 5 years. The east tribes elected President Thoth, who has a seat in the Senate and represents their interests. The south tribes are disinterested in politics, and vote for whatever will preserve their freedoms.
+Each tribe elects 5 senators through whatever means they choose (typically majority vote, inheritance, or by a local leader). Senators then elect advisors, aides, and delegates. Senators act as judges in their tribe's local court. All of the senators meet in the senate building in [[Hephaestus]] and vote on multi-tribe issues that have made it out of local court. Hearings happen weekly, and are overseen by the Chancellor, who is elected by the Senate every 5 years. 
+
+Criminals are tried in a local court and sent to a local jail. Intertribal criminals are tried by the Senate and typically sent to Ullr. It is rare that a criminal case makes it to the Senate and ends with anything less than a life altering sentence; they typically either imprison for life, banish, or execute. 
+
+The east tribes elected President Thoth, who has a seat in the Senate and represents their interests. The south tribes are disinterested in politics, and vote for whatever will preserve their freedoms.
 
 As of 12c 1266
 - 35 Tribes
 	- 10 central tribes
 	- 12 eastern tribes
 	- 13 southern tribes
-- 177 Seats in the Senate
+- 177 Voting Seats in the Senate
 	- 50 central senators
 	- 60 eastern senators
 	- 65 southern senators
-	- President Thoth
+	- [[Thane|President Thane]]
 	- [[Kaul|Chancellor Kaul]]
+
+
+
+### Politics / The Corruption
+The Good
+- [[Finn|Senator Finn]] is a goodhearted diplomat.
+- [[Senator Hayes]]. Is an incredibly good person, but he's an idiot. Genuine third-grade level education at best. However, he has a heart of solid 24 karat gold. 
+- [[Kragknull|Commander Kragknull]] is a firm but wise man. 
+- Senator Alis Venn. Sees things going downhill. Doesn't want to be involved in the war at all. Would like to make things better, but is too scared. From the east. 
+- [[Thane|President Thane]]. A devout [[Normons|Normon]], meaning he refuses to do things that conflict with his morality. 
+
+The Neutral
+- [[House Havran]]. Strict, a little verbally abusive, and has dipped their toes into criminal activity for selfish reasons. They aren't running any criminal organizations, but they're no saints.  
+- [[Cedtris Coparol]]. Being groomed for the position of / is the replacement for Estis Macarra as overseer of the Republic bank once the assassination goes through. Young, inexperienced, naive, and easily persuaded by [[Kaul|Chancellor Kaul]]. In his early twenties.
+- Senator Cala Mireth. A selfish and disinterested woman. Only cares about keeping his southern tribe out of the war, and out of as many government sponsored programs as possible. Strategically detached at best.
+- Darian Voss. His family runs Lemnaeus. He's filthy rich and wants more trade with the rest of [[Serendipita]] at all costs.
+- Senator Elric. Was personally wronged by the corruption. Tied up in criminal dealings due to owing a debt to them. Wants things to get better, but doesn't have a choice anymore. Feels powerless.
+- Mr. F. A criminal for hire. Has killed, beaten, stolen, and blackmailed people. Inspired by Mike Ehrmantraut: morally neutral. Does what he's hired to do. Thinks law-breaking is ethically relative. Has lines he won't cross, like anything involving children or innocent people. He doesn't do anything for free, and he doesn't ask questions.
+
+The Bad
+- The White Azalea. A network of drug dealers. They purchase / manufacture drugs and illegal substances. Many of [[Arcohaem]]'s elite on both sides use drugs. Led by Bjorn Halvyr and his family. 
+	- Nightshade. The extract of a poisonous berry that can kill in minutes.
+	- Aberotene. A dangerously strong hallucinogen known to imbue aggression, insanity, and coma. 
+	- Paleamphetamine. An incredibly strong amphetamine that causes weight loss, restlessness, and pale skin. Causes you to stay up for days at a time, and makes you much stronger than normal.  
+	- Tazoverine. A nerve stimulant that causes a euphoric feeling and reduces pain. Makes you feel like you're floating, and causes psychosis after long-term usage. 
+	- Lumen-9. An experimental synthetic [[Serendipita|E-Tech]] drug. It causes temporary muscle growth, focus, energy, aggression, and restlessness. It's primary long-term effect is aggression. It's incredibly expensive and is only used by the absolute best of the best in terms of combat. It got its name from making the eyes of its users glow a low deep red.
+- The Hollow. A decentralized underground black-market economy where anything can be bought. The hubs are well hidden, constantly moving, and protected by armed soldiers with access to [[Serendipita]]'s nastiest [[Serendipita|E-Tech]]. Deals are planned in advance, there's no browsing, and things move quickly. They themselves aren't an organization, but are rather a community or smaller organizations. Majority of [[Arcohaem]]'s elite on both sides deal with the hollow. 
+	- They trade illegal [[Serendipita|E-Tech]], stolen artifacts, legal documents, illegal intel, drugs (courtesy of the White Azalea), and even slaves. 
+	- They represent a collective of pirates, thieves, bounty hunters, assassins, hitmen, corrupt lawyers, corrupt policemen, corrupt guards, spies, and illegal traders.  
+- [[Kaul|Chancellor Kaul]] is double dealing and committing massive amounts of treason with [[Brisk|King Brisk]], [[Malfaust]], and [[Terrik|the Wraith]].
+- Senator B. Current CEO of [[Castle Rock Technology]]. Has been using the war to sell weapons, and taking designs from [[Terrik|the Wraith]] via [[Kaul]]. 
+- Mr. G Esq. Represents a powerful law firm. A completely corrupt individual that defends the worst of the worst in court and is great at it. An excellent con artist and liar.
+- [[Terrik]]. The greatest warrior of [[Arcohaem]]. Caught murdering corrupt individuals and was exiled. Returned as [[Terrik|the Wraith]], though no one knows that. 
 
 
 
@@ -132,7 +169,7 @@ As of 12c 1266
 		- Trades with Terragon and Fol'Gar'Eth
 		- Sometimes trades with west Styxas, but not as much
 	- The primary economic beacon of the East
-	- "Capital" of the EATU
+	- "Capital" of the [[East Arcohaem Trade Union|EATU]]
 - Turberg
 - Nesholm
 

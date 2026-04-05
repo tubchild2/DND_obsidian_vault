@@ -5,11 +5,11 @@ Group 2: [[PCs B - Arcohaem]]
 ## **THESES**
 Refined Thesis
 - Absolute power corrupts absolutely, and corruption thrives in systems. 
-	- Man is inherently prone to sin
+	- Man is inherently prone to sin and will indulge when he can justify it
 	- Perfect leadership is by definition impossible
 	- The systems man constructs are harmful to their mental and moral wellbeing
-	- Technological progress often means moral or mental degradation 
-	- Truth is fades the more filters it goes through
+	- Technological progress often means moral or mental degradation
+	- Truth fades the more filters it goes through
 - However, you always have a choice to do the right thing.
 	- There are two moral compasses: the compass of the world, and the objective compass.
 	- You can choose to do what is objectively correct, and not just what the world deems acceptable
@@ -105,7 +105,6 @@ Thanks,
 	bank overseer. If not for [[Terrik|the Wraith]], the lab would've likely been discovered. I know 
 	better than to question him and his master's methods, though. The day is drawing 
 	close, brother, I can feel it.
-	
 	I am going to be out of office for the coming week. I am going to be meeting with the 
 	replacement overseer of the Republic bank: [[Cedtris Coparol]]. He's hosting a gala, and 
 	the bank records will be there, so I need to ensure the transfer is handled 

@@ -1,37 +1,33 @@
-Name: Cedtris Macarra (TEMPORARY)
+Name: Cedtris Macarra
 Traits:
-- Witty
-- Adaptable
-- Courageous
-- Determined
-- Curious
+- Seeks justice (legal or not) because if he doesn't, people will go undiscovered. Even if he's not solving crime permanently, it's his responsibility to be a punishment.
+- Never kills because it's not his place to decide who lives or dies. Also, he's gotten it wrong before, so he doesn't trust himself.
+- Inquisitive
 Flaws:
-- Cheating
-- Materialistic
-- Selfish
-- Competitive
-- Kind of just a sad, kind of gross individual in general
+- Will punish people in really bad ways if the punishment fits the crime, and sometimes goes too far
+- Naturally skeptical of people and will violate privacy to check people
+- Has powerful enemies which means he needs to always be armed
+- Obsessed with his work
+- A slob
+
 Backstory:
-- Grew up in a poor household
-- Learned the importance of money
-- Became a lawyer to get out of debt
-- His parents divorced and stopped talking to him
-- Learned to cheat and to be competitive
-- Got caught doing unethical things
-- Was fired
-- Became a PI, and not a very respected one
-- He takes low-paying cases, works with criminals, and isn't trusted by a lot of people
-- He's a good PI, and he finishes his jobs no matter what, but he's kind of sketchy
+- Been a Private Investigator / Vigilante for 5 years
+- His brother was murdered by some large criminal organization.
+- He tracked down who he thought did it with the help of a gang. He was tricked into killing an innocent man that was an enemy of the gang. He swore never to kill again, because it's not man's place to decide who deserves death.
+- Legally caught mafia, cartel, and gang members, bounty hunters, assassins, spies, pirates, thieves, black market dealers, murderers, etc. Has legally investigated corruption.
+- Illegally punished infidels, executives, abusers, liars, betrayers, blackmailers. Has scared, beaten, tricked, blackmailed, framed, cheated, robbed, and injured these people in the name of justice given the punishment fits the crime.
+- Has a couple groups that want him dead.
+
 Goals:
-- Money
-- Getting his old job and status back to balance his ego
-- Finishing his cases
-- What he actually needs from a moral standpoint
-	- He needs to find something to do to give him pride
-	- Whether it's helping someone for a good reason, or choosing to do something good
-	- He's always going to be a little scummy, but he can be scummy for a good cause
+- Get a big case and uproot some of the crime in Rain City
+- Seek justice (legal or not)
+- Protect the innocent
+- Save lives
+
 Inspiration:
 - Jeff Winger
+- The Punisher
+- Doctor Who
 
 Origin Elements
 	Background: Sleuth
