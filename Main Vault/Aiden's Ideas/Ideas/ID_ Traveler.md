@@ -23,3 +23,10 @@
 
 # PLOT
 ### Themes
+
+
+Idea 1
+- Take a really depressed guy to a bunch of places that each have thematic significance and turn his life around
+
+Idea 2
+- Carter tries to prevent a catastrophe, makes it worse in the new timeline, and continues trying to prevent things until eventually he has to cause the catastrophe but it's much harder because the amount of timeline changes has attracted Primordial attention and creatures that feed off paradoxes.
