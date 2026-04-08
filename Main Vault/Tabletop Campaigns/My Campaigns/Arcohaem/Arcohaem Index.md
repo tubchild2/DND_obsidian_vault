@@ -10,10 +10,11 @@
 - [[Arcohaem Plot Overview]]
 
 ##### Sessions
-- [[Part 1 - The Wolves of Arcohaem]] (deprecated)
-- [[Part 1.1 - The Wolves of Arcohaem]]
-- [[Part 2 - Just Like the Simulations]]
+- [[Part 1 (original) - The Wolves of Arcohaem]] (deprecated)
+- [[Part 1 - The Wolves of Arcohaem]]
+- [[Part 2 (original) - Just Like the Simulations]]
 - [[Part 3 - The Republic!]] 
+
 
 
 ### Worldbuilding
@@ -53,6 +54,7 @@
 
 ### Etc.
 - [[Arcohaem Enemy Index]]
+
 
 
 ### GM Notes

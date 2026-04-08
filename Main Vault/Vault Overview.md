@@ -28,12 +28,10 @@ Personal References
 - [[Tabletop Packing List]]
 - [[Weekly Schedule]]
 - [[Wishlist]]
+- [[To-Do]]
 
 Other
 - [[Idea Index]]
 - [[Spirituality Index]]
 - [[Datapack Maker Overview]]
 - [[Jayden's Puzzle Vault]]
-
-
-# To-Do

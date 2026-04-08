@@ -1,9 +1,8 @@
 
 **MONDAY**
 	Schoolwork
-		Read 133W Chapter(s)
-		Read 179 Lecture Notes
-		Read 179 Chapter
+		- SQL Readings
+		- Linux Readings
 	Spirituality
 		Bible Reading
 	Exercise (chest, biceps, side delts)
@@ -16,8 +15,9 @@
 
 **TUESDAY**
 	Schoolwork
-		133W Quizzes
-		179 Subnetting video quizzes
+		- SQL Readings 2 
+		- SQL Quiz
+		- Linux Quiz
 	Spirituality
 		Thursday Night Study
 
@@ -25,8 +25,9 @@
 
 **WEDNESDAY**
 	Schoolwork
-		179 Quizzes
-		179 Discussion & Reply
+		- SQL Assignment
+		- Linux TestOut Assignment
+		- Linux Brightspace Lab Assignment
 	Spirituality
 		Watchtower Study
 		Field Service
@@ -39,15 +40,15 @@
 
 **THURSDAY**
 	Schoolwork
-		133W Practices
-		179 Assignment
+		- SQL Discussion
+		- Linux Community Campfire
 	Spirituality
 		Bible Reading
 
 
 **FRIDAY**
 	Schoolwork
-		133W Lab
+		- Linux Reflection
 	Spirituality
 		Bible Reading
 		Field Service
@@ -79,3 +80,35 @@
 		Bible Reading
 		Early Morning
 		Service
+
+
+
+
+
+
+
+Linux Additional Assignments (ASAP)
+- TestOut Set-Up
+- Student Intro Discussion
+
+Wednesday
+- Linux Reading
+
+Thursday
+- Linux Quiz
+- SQL Assignment
+- Linux TestOut Assignment
+- Meeting (video)
+
+Friday
+- Linux Brightspace App Assignment
+- Linux Community Campfire
+- Service (regular)
+
+Saturday
+- SQL Discussion
+
+Sunday
+- Service (early morning)
+- Service (regular)
+- TTRPG

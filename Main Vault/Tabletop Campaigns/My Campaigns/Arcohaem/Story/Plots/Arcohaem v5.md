@@ -4,7 +4,7 @@ This act demonstrates that the wolves are fully indoctrinated into the belief sy
 - Part 1: Introduction to world
 - Part 2: Reinforcement of beliefs about [[Frigoshia|Frigoshians]]
 - Part 3: Reinforcement of beliefs about the Republic 
-### [[Part 1.1 - The Wolves of Arcohaem]]
+### [[Part 1 - The Wolves of Arcohaem]]
 Chapter 1 - In Medias Res
 - The Wolves are in the midst of a mission to free war prisoners from Krothmire in the howling front
 - The [[Frigoshia|Frigoshians]] are cruel and animalistic
@@ -36,12 +36,11 @@ Chapter 3 - Your Mission
 	- Finally: Chancellor [[Kaul]] personally selected you for this mission, which was... not a popular choice within the senate. You're all good soldiers, but your track record is inconsistent. I trust you to do this mission, but most don't, so you need to step up.
 - They're given some loot to prepare
 
-
-### [[Part 2 - Just Like the Simulations]]
+### [[Part 2 (original) - Just Like the Simulations]]
 Chapter 1 - [[Ammalor]]
 - They travel by caravan to the city of crafts; [[Ammalor]]
 - There's a large military presence. 
-- Include references to smaller skirmishes, territories being captures, etc. 
+- Include references to smaller skirmishes, territories being captured, etc. 
 	- Showcase the effects of the rest of the war
 	- Change is happening every day
 
@@ -60,29 +59,33 @@ Chapter 1 - [[Ammalor]]
 	- They find a dagger that the Captain owns. He talks about it. It's old, impossibly old. The tribes of [[Arcohaem]] were founded in like ~122, but this is much older. But, the craftsmanship is much more advanced, like something you'd see in like ~604. So, if it's impossibly old, and impossibly advanced, then who made it? It has Draconic emblems etched into it. He can't really gather any information from it, but the thought that there's always more to discover about this place keeps him moving.
 
 
-Chapter 2 - Borderlands
-- They arrive in Freyrhage, and it's nothing but ice and snow for miles. 
-- They're tricked by a [[Frigoshia|Frigoshian]] citizen, who gets his friends to jump the party. Never trust a [[Frigoshia|Frigoshian]].
-
+Chapter 2 - Freyrhage
 - They reach the town of Freyrhage, which declared neutrality.
-- The [[Frigoshia|Frigoshian]] military is getting closer; they're going to wipe out the village.
-- The people are incredibly sweet, but they're terrified
-	- There are large Yak-like creatures that snuggle with them
-	- One family (the Persson family) is incredibly concerned because their elderly grandmother can't walk, and won't be able to flee
-	- They hate the war and were never interested in it in the first place. They agreed out of necessity and fear. They're one of the smallest [[Frigoshia|Frigoshian]] territories. 
-	- People are indulging or doing things they never could because they're going to die.
-	- Children are being lied to about what's going to happen
-	- Parents are terrified for their kids
-	- Fleeing is dangerous, as [[Frigoshia|Frigoshians]] attack caravans and the docks charge too great a price.
+- The people are incredibly sweet and careless.
+- The government hired a bunch of men for hire to create an informal military to protect the town. They'll be here next week, so everyone feels safe. 
+- They bond with the Persson family. 
 
+
+Chapter 3 - Borderlands
+- They move into the arctic plains to continue their mission
+- In the distance, atop a cliff, they see a black silhouette. It's vaguely human, but it's too far away to see without a telescope or binoculars. 
+	- (if they find a way to see it) It's gone. 
+- They reach a steep set of cliffs and realize they're atop a plateau. In the valley, about a mile off, is a large [[Frigoshia|Frigoshian]] camp. 100, maybe 200 soldiers. There are explosives, war horses, and incendiary devices. They're preparing for something bad. 
+- Suddenly, they hear sounds behind them. Emerging from the rocks is a [[Frigoshia|Frigoshian]] soldier attempting an ambush! 
+- Obviously they overpower him since it's just one guy. However, he begs them to spare his life. 
+- He lies. He lies a lot. He shows them a picture of his wife and kids. He's terrified. He tells them to just keep him prisoner just don't kill him. He gets closer to them as people and discusses how they're actually not so different. There's something in his eyes that just makes them uncomfortable. They're so... empty. He's wearing fancier armor than normal [[Frigoshia|Frigoshian]] soldiers. He claims he's just been promoted to squad leader. 
+- He offers to make them a deal. He'll tell them what his captain is planning if they let him go. He won't say anything. He promises them that it's good information. If they don't want it, their Commander will. He tells them he never wanted to be in the war in the first place. 
+- He reveals that he's part of a battalion en-route to Freyrhage. They rebelled and are now going to be wiped out and replaced with a new military port installation. They're going to be attacking at sunset. 
+- He scurries off back towards his camp. 
+
+
+Chapter 4 - Termina
 - [[Kragknull]]
-	- Freyrhage isn't associated with the Republic, and it's infinitely less important than their mission, and there's no way they can win as they're hopelessly outnumbered.
+	- There's no chance of getting any ships over there by sunset. 
+	- Freyrhage isn't associated with the Republic, and it's infinitely less important than their mission, and there's no way they can win as they're hopelessly outnumbered. 
 	- However, it does feel morally wrong to abandon them to die.
-	- He suggests that they escort ~30 people to the shores and pay for their fare out of here.
-	- It's a trolley problem situation. No matter what they do, someone is going to die.
-
-
-Chapter 3 - Termina
+	- He suggests that they escort as many people as they can to the shores and pay for their fare out of here.
+	- It's a trolley problem situation. No matter what they do, someone is going to die. They're not getting everyone out of there.
 - As they're escorting people, the battalion invades, and they're brutal
 	- They're incredibly fast, violent, and animalistic
 	- They kill the elderly grandmother
@@ -99,14 +102,18 @@ Chapter 3 - Termina
 	- One of the ships goes down, meaning that not everyone is going to make it out
 	- It's a struggle, where they have to make choices about who's getting out and who isn't.
 - The escort fails
-	- Play "A Tragedy" playlist
-	- They hear the thunderous footsteps of a war beast approaching. It's too late, once that thing gets here they're all going to die.
+	- STOP MUSIC
+	- They hear a distant boom. They can't identify where it's coming from. 
+	- (perception check)
+	- In the distance, atop the hill, they see it again. A black silhouette. It's closer this time. A touch of red is visible in the darkness of its face, but it's too hard to make out. You hear another boom. Your eyes follow, and just then you spot it. A [[Frigoshia|Frigoshian]] warship approaching on the horizon. One armed to the teeth with cannons, musketeers, and bombs. 
+	- Before you can even process the thought, a deafening cacophony of explosions rock the air around you. Cannonballs blast through the ships and through nearby walls, sending shrapnel everywhere. 
 	- The family they bonded with tell them to run because their mission could change things, and it's more important than anything they're doing. If they stay, they're going to die, and they'll forever be grateful for what they've done. They hug them. They need to run now or they're going to die. Now!
-	- The parents say goodbye to their kids and tell them to get aboard the ship, since there isn't enough space on those tiny boats for them all. They tell their kids that they're going to be ok, but they need to get on the ships right now.
-	- Captain Alric of the [[Frigoshia|Frigoshian]] military arrives riding a massive but slow war beast. He says that the tribe will pay for their indifference, and that their surrender to the forces of darkness and impurity that are attempting to wipe out their culture will be their final act in this world. He says he's deeply sorry, but that it must be done to ensure that their culture isn't wiped out by the Republic genocide. He wipes out the survivors, including the parents.
-	- The ships begin to sail away, each one packed with survivors.
+	- The parents say goodbye to their kids and tell them to run now! But just then, you see him. The man you spared, armed with a flintlock. He recognizes them for a second, and makes eye contact out of the corner of his eye. Time seems to slow as he raises his gun and orders his men to fire. A barrage of bullets puncture the family. They collapse on the ground. 
+	- Captain Alric of the [[Frigoshia|Frigoshian]] military (the man they saved) announces that the tribe will pay for their indifference, before attempting to fire at the Wolves. 
+	- The Wolves have to run.
 
-Chapter 4 - Nocturne
+
+Chapter 5 - Nocturne
 - They've crossed the isthmus into Norby.
 - The campfire crackles in the cold winter night
 - They have some atmospheric music for roleplay

@@ -4,7 +4,7 @@ This act demonstrates that the wolves are fully indoctrinated into the belief sy
 - Part 1: Introduction to world
 - Part 2: Reinforcement of beliefs about [[Frigoshia|Frigoshians]]
 - Part 3: Reinforcement of beliefs about the Republic 
-### [[Part 1.1 - The Wolves of Arcohaem]]
+### [[Part 1 - The Wolves of Arcohaem]]
 Chapter 1 - In Medias Res
 - The Wolves are in the midst of a mission to free war prisoners from Krothmire in the howling front
 - The [[Frigoshia|Frigoshians]] are cruel and animalistic
@@ -37,7 +37,7 @@ Chapter 3 - Your Mission
 - They're given some loot to prepare
 
 
-### [[Part 2 - Just Like the Simulations]]
+### [[Part 2 (original) - Just Like the Simulations]]
 Chapter 1 - [[Ammalor]]
 - They travel by caravan to the city of crafts; [[Ammalor]]
 - There's a large military presence. 

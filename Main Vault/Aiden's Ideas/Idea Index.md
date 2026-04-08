@@ -82,6 +82,10 @@ Dimensional Planes
 **The Traveler**
 - [[ID_ Traveler]]
 
+**The Infection of the SMS-88**
+- Brain worm that can only infect people if they're isolated because it emits a bunch of really bright flashing colorful lights. Infected players work against the party to isolate and infect everyone else. The only thing that changes is their intentions and eye color (mention each players eye color in the very beginning and never again to give infected plausible deniability). Make sure players know beforehand that infections occur silently and they have to go along with them. One player is infected near the beginning to begin the conflict. If the party completes their task on the planet/ship, they win. If everyone is infected, they lose. Works best if players have multiple tasks throughout the map and/or separate skillsets that require separation. Make sure infection conditions are vague enough for deniability but strong enough so that people can argue. The goal is paranoia, distrust, and lack of information.
+- Uses The Thing (1984) OST
+
 **The Darkness**
 - First session involves time travel
 - During a standard mission, the party encounters an issue and needs to break the law to go back in time to an area they previously existed in. They make some bad decisions to rescue themselves that leave the alternate versions of their past selves trapped.
