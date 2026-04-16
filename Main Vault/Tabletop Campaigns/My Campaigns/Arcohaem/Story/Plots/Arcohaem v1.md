@@ -124,7 +124,7 @@
 	- [ ] He denies things he's clearly done in front of people like Lex Luthor. "I don't know what dog you're talking about."
 - [ ] They arrive at the Dragon Breeding Program. They have a wyrmling of every chromatic dragon (black, blue, green, red, white), and hundreds more eggs. They're all nuts! 
 - [ ] Kaul leads them directly into a trap that nearly gets them killed. More lies. He's a danger to everyone there. They get separated, and are briefly not under the command of Captain Terrik.
-- [ ] The Dragon Breeding Program is once again, not what they were expecting. They're breeding way more types of dragons, have very different orders, and might not even be working for Brisk directly; it's more of an office rental situation with [[Frigoshia]]. The real person in charge of the program is someone with the initial "M."
+- [ ] The Dragon Breeding Program is once again, not what they were expecting. They're breeding way more types of dragons, have very different orders, and might not even be working for Atka directly; it's more of an office rental situation with [[Frigoshia]]. The real person in charge of the program is someone with the initial "M."
 - [ ] Captain Terrik orders them to forget what they saw and to preserve some the eggs for "study," instead of destroying them... but we all know what they plan to do with them. This is unthinkable considering everything they've learned about the reality of the war, and how suspicious the republic is being. But... good soldiers follow orders. What do they do?
 - [ ] Terrik attempts to execute the party for treason. They're now wanted, have to remove their communicators, and they have to escape [[Frigoshia]].
 - [ ] Level up (14-15)
@@ -137,10 +137,10 @@
 #### Chapter 8 - Beneath the Republic
 - [ ] They're forced to retreat through a Republic city-state during. The [[Frigoshia|Frigoshians]] and the Republic Army is trying to kill them. As refugees, they need to destroy or hide anything that could give their identity and allegiance away.
 - [ ] They learn how corrupt the Republic is. Several of the senators and representatives are working for their own private gain. There are hundreds of third parties that are exploiting the conflict on both sides.
-- [ ] They are met by Commander Kragknull, who's been searching for them. He's filled with deep regret and feels unbelievably betrayed by Kaul. He's been investigating the Republic and [[Frigoshia]] trying to learn more, and he found one of Kaul's hidden bunkers, which was supposedly used as some kind of meeting place between Kaul and Brisk. They should be able to learn the truth there.
+- [ ] They are met by Commander Kragknull, who's been searching for them. He's filled with deep regret and feels unbelievably betrayed by Kaul. He's been investigating the Republic and [[Frigoshia]] trying to learn more, and he found one of Kaul's hidden bunkers, which was supposedly used as some kind of meeting place between Kaul and Atka. They should be able to learn the truth there.
 - [ ] Kragknull reveals some important information
 	- [ ] He had begun to become suspicious of the Republic after catching a corrupt senator a few years back. When he received the communicator, he was instantly suspicious. He learned that it was dispersing an invisible aerial sedative that increased obedience in those who wore them.
-	- [ ] He wanted answers, so he began spying on Kaul. Kaul and Brisk are both working for someone called "Malfaust." The whole war was set up by him for some reason, and the leaders have been manipulating their peoples into conflict this whole time.
+	- [ ] He wanted answers, so he began spying on Kaul. Kaul and Atka are both working for someone called "Malfaust." The whole war was set up by him for some reason, and the leaders have been manipulating their peoples into conflict this whole time.
 	- [ ] Kaul wanted the mission to fail, (Kragknull doesn't know why), so he chose them, expecting them to fail. They likely would've died if the senate hadn't voted to send some of Kaul's private guard too. Kaul had corrupted his guard (Terrik) though, so he ensured they completed the mission how he wanted.
 - [ ] Kragknull sacrifices himself to protect the party from the Republic army. 
 - [ ] Level up (15 - 16)
@@ -151,10 +151,10 @@
 	- [ ] 1 Legendary
 
 #### Chapter 9 - The Pact of Malfaust
-- [ ] Venturing to the secret bunker, they learn the full truth about the origins of the war. An adult red dragon named Malfaust met with Kaul and Brisk and has been behind everything.
+- [ ] Venturing to the secret bunker, they learn the full truth about the origins of the war. An adult red dragon named Malfaust met with Kaul and Atka and has been behind everything.
 - [ ] Restricted National Tapes akin to the Incredibles NSA tapes.
 - [ ] Malfaust pushed Kaul to usher in the rapid technological changes, knowing the impact it'd have on the [[Frigoshia|Frigoshians]]. Malfaust told him that it'd help their people to live better, healthier, wealthier lives. It would mean power, safety, and security! Peace would be in their grasp if anyone ever attempted an invasion. Kaul agreed to work for Malfaust, so he used the Republic to start the conflict to amass wealth, weapons, and knowledge for him. Kaul doesn't agree with Malfaust on everything, but he truly does serve what he believes are the best interests of his people.
-- [ ] Malfaust pushed Brisk into independence to maintain their people's cultural identity. Brisk was already a cultural fanatic, so this worked out nicely. All Brisk would need to do was fake the conflict to motivate the people into approving a dragon breeding program. Brisk would need to find and grow Dragon eggs for his chromatic brethren to ensure enough damage could be done to conquer all of [[Serendipita]]. Brisk is freaking nuts and is fully on board with supporting Malfaust if it means preserving his people's culture.
+- [ ] Malfaust pushed Atka into independence to maintain their people's cultural identity. Atka was already a cultural fanatic, so this worked out nicely. All Atka would need to do was fake the conflict to motivate the people into approving a dragon breeding program. Atka would need to find and grow Dragon eggs for his chromatic brethren to ensure enough damage could be done to conquer all of [[Serendipita]]. Atka is freaking nuts and is fully on board with supporting Malfaust if it means preserving his people's culture.
 - [ ] Malfaust is going to wipe out both the Republic and [[Frigoshia]], and reform them under the new "Kingdom of Malfaust." He's then going to stockpile riches and power and his dragon children decimate [[Serendipita]] in a series of violent invasions.
 - [ ] They uncover the location of Malfaust's lair. It's deep within the Volcanoes of Pyrk.
 	- [ ] Level up (16-17)
@@ -174,9 +174,9 @@
 		- [ ] 3 Very Rare
 		- [ ] 2 Legendary
 - [ ] Part 2 - Malfaust
-	- [ ] The battle with Malfaust (CR 17), and both Kaul and Brisk (CR 5 each) is very difficult and they could very well die.
+	- [ ] The battle with Malfaust (CR 17), and both Kaul and Atka (CR 5 each) is very difficult and they could very well die.
 - [ ] Part 3 - Days to Come
-	- [ ] The destruction of Malfaust, Brisk, and Kaul has created a power vacuum. Who will fill it? What are their intentions? What will happen to the Republic and to [[Frigoshia]] without their leaders? What is the future of [[Arcohaem]]? 
+	- [ ] The destruction of Malfaust, Atka, and Kaul has created a power vacuum. Who will fill it? What are their intentions? What will happen to the Republic and to [[Frigoshia]] without their leaders? What is the future of [[Arcohaem]]? 
 	- [ ] There were more dragons... somewhere. Obviously Malfaust and his goons would've had to have gotten the eggs from somewhere. Where? Are there more?
 	- [ ] Why did Kaul attempt to take eggs for himself with Terrik? What was he playing at? 
 	- [ ] Who made the communicators, and for what purpose? What does Terragon have to do with any of this?

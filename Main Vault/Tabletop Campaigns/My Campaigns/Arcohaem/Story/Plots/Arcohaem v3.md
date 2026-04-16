@@ -212,7 +212,7 @@ Part 1: Change of Plans
 
 Chapter 2: The Pass
 - It's not just hidden, this thing is dang near invisible! How would anyone ever find out about this? 
-	- They don't know this, but [[Brisk]] told [[Terrik]] who told [[Kaul]] who told them.
+	- They don't know this, but [[Atka]] told [[Terrik]] who told [[Kaul]] who told them.
 - Things get creepy. 
 	- Unsettling noises
 	- Strange details
@@ -288,7 +288,7 @@ Chapter 3: A bit more complicated
 ### Part 1: Who's M?
 They reach the dragon breeding program, but it's abandoned
 Additionally, the assassin is after them, but he's pretty far behind
-They find proof that [[Brisk|King Brisk]] and Chancellor [[Kaul]] were cooperating on this program
+They find proof that [[Atka|King Atka]] and Chancellor [[Kaul]] were cooperating on this program
 What's worse, is that there's a third factor referred to as "M."
 
 The assassin appears and corners them
@@ -311,7 +311,7 @@ Now on the run, they go into hiding and push on to Ultun.
 They see a shadow on the wall, and think it's [[Terrik]]. It's actually [[Kragknull]]!
 [[Kragknull]] was framed; he and [[Finn|Senator Finn]] were suspicious of [[Terrik]]. He did it
 [[Kragknull]] took the blame, and found out about the illegitimacy of their mission, so he's been looking for them
-There's a conspiracy going on with [[Kaul]], [[Terrik]], and [[Brisk]]. And also apparently "M."
+There's a conspiracy going on with [[Kaul]], [[Terrik]], and [[Atka]]. And also apparently "M."
 The real dragon breeding program was relocated into [[Arcohaem]]
 The shipping manifest contains the real location
 
@@ -346,9 +346,9 @@ A fight breaks out between [[Terrik]] and the Wolves using improvised weaponry
 ### Part 3: ... Corroded
 They track down the bunker, a place called Redhold, that is now swarming with Wyrmlings and Dragons.
 They get the full story
-[[Kaul]], [[Brisk]], and [[Terrik]] are serving "M" out of fear, pride, and greed.
+[[Kaul]], [[Atka]], and [[Terrik]] are serving "M" out of fear, pride, and greed.
 	- [[Terrik]] is the focus of this chapter. He is a reflection of the wolves. He was everything the Republic wanted in a soldier, and his success slowly gave way to complicity as more and more corruption began to reveal itself. He tried to resist, and then found [[Malfaust]], who tempted him, and he gave in. [[Malfaust]] believes man is inherently bad, and that morality is a matter of perspective. He believes that what many consider "evil" is the natural order of things that man only tries to repress. [[Terrik]] agrees, as he's hopeless after learning the truth. All he wants to be happy is money, and power. He's been emptied, because he remained loyal to the Republic's code, instead of to his own, and now it's too late for him.
-	- [[Brisk]] incubates the Dragon eggs, [[Kaul]] builds weapons / the army, and [[Terrik]] is [[Malfaust]]'s hand. All three were corrupted over time, but [[Terrik]] is the focus.
+	- [[Atka]] incubates the Dragon eggs, [[Kaul]] builds weapons / the army, and [[Terrik]] is [[Malfaust]]'s hand. All three were corrupted over time, but [[Terrik]] is the focus.
 	- [[Malfaust]] is the last remnant of the Draconic Era; an ancient red dragon
 
 [[Malfaust]] wants to reestablish Draconic rule, and he has everything he needs as of just recently.
@@ -371,7 +371,7 @@ Arriving at the capital, they find it swarming with troops who don't attack them
 The troops are scared out of their minds.
 
 ### Part 2: Elegy to [[Arcohaem]]
-[[Malfaust]] towers over [[Kaul]] and [[Brisk]], and [[Terrik]] is sitting by his side.
+[[Malfaust]] towers over [[Kaul]] and [[Atka]], and [[Terrik]] is sitting by his side.
 [[Malfaust]] monologues about his beliefs
 - Man is inherently bad, and what is right and wrong is mostly a matter of perspective
 - Even if they don't acknowledge it, men crave the dark. They don't want to understand the consequences of their actions. That's why man creates these systems that hide their accountability.
@@ -382,12 +382,12 @@ The troops are scared out of their minds.
 - Even if they try to kill him, and somehow pull it off, they'll lose everything they ever had.
 - They'll lose the life they wanted, everything they have, their titles, everything.
 - If they choose to join him, he'll give them anything they could ever dream of
-- They'll be much better pawns than [[Kaul]] and [[Brisk]], they'll be more like [[Terrik]]
+- They'll be much better pawns than [[Kaul]] and [[Atka]], they'll be more like [[Terrik]]
 - They'll become the most powerful people in [[Serendipita]]
 - Fighting him will mean dying for pride and honor and nothing else.
 - They've already been serving him all this time anyways, and they enjoyed it
 
-They can confront [[Kaul]], [[Brisk]], and [[Terrik]], but they're not switching sides.
+They can confront [[Kaul]], [[Atka]], and [[Terrik]], but they're not switching sides.
 
 They have their choice: do what is right and risk everything, or give in and gain everything they ever wanted.
 Safe to say, they choose to do what is right. If they don't, then things end here.
@@ -401,7 +401,7 @@ They fight down to the lowest level, until [[Malfaust]] is hurt enough.
 	He says that there are more dragon eggs throughout [[Arcohaem]] that will hatch eventually.
 	[[Arcohaem]] can't be fixed, it's already too broken.
 	In a final act, [[Malfaust]] uses his fire breath to destroy the building, killing himself in the process
-[[Kaul]] and [[Brisk]] flee
+[[Kaul]] and [[Atka]] flee
 
 ### Part 3: New Dawn
 As they're fleeing, they find one last dragon egg tucked away in the corner
@@ -414,7 +414,7 @@ This is the final test of everything they've learned.
 They escape, and collapse in the snow.
 
 [[Finn|Senator Finn]] is there to take charge, and he temporarily fills the void left by [[Kaul]]
-[[Kaul]] and [[Brisk]] are arrested by their respective governments using the substantial evidence the wolves uncovered
+[[Kaul]] and [[Atka]] are arrested by their respective governments using the substantial evidence the wolves uncovered
 He roots out some of the corruption, and begins to rebuild [[Arcohaem]]
 
 The Wolves are publicly honored and reinstated, but they aren't popular.

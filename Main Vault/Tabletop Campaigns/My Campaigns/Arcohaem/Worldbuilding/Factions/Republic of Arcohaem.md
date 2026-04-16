@@ -99,7 +99,7 @@ The Bad
 - The Hollow. A decentralized underground black-market economy where anything can be bought. The hubs are well hidden, constantly moving, and protected by armed soldiers with access to [[Serendipita]]'s nastiest [[Serendipita|E-Tech]]. Deals are planned in advance, there's no browsing, and things move quickly. They themselves aren't an organization, but are rather a community or smaller organizations. Majority of [[Arcohaem]]'s elite on both sides deal with the hollow. 
 	- They trade illegal [[Serendipita|E-Tech]], stolen artifacts, legal documents, illegal intel, drugs (courtesy of the White Azalea), and even slaves. 
 	- They represent a collective of pirates, thieves, bounty hunters, assassins, hitmen, corrupt lawyers, corrupt policemen, corrupt guards, spies, and illegal traders.  
-- [[Kaul|Chancellor Kaul]] is double dealing and committing massive amounts of treason with [[Brisk|King Brisk]], [[Malfaust]], and [[Terrik|the Wraith]].
+- [[Kaul|Chancellor Kaul]] is double dealing and committing massive amounts of treason with [[Atka|King Atka]], [[Malfaust]], and [[Terrik|the Wraith]].
 - Senator B. Current CEO of [[Castle Rock Technology]]. Has been using the war to sell weapons, and taking designs from [[Terrik|the Wraith]] via [[Kaul]]. 
 - Mr. G Esq. Represents a powerful law firm. A completely corrupt individual that defends the worst of the worst in court and is great at it. An excellent con artist and liar.
 - [[Terrik]]. The greatest warrior of [[Arcohaem]]. Caught murdering corrupt individuals and was exiled. Returned as [[Terrik|the Wraith]], though no one knows that. 

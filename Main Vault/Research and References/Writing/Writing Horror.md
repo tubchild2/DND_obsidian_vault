@@ -14,3 +14,5 @@ Disempowerment
 
 Immersion
 	Ambience and feeling immersed in the setting is important. That's what breaks a lot of horror movies; having protagonists make unrealistic decisions. The audience thinks, "oh that's stupid," which pulls them out of the movie because they no longer feel immersed in the decision that character made.
+
+![[Things people are afraid of.png]]

@@ -6,6 +6,9 @@ aliases:
 
 ![[The Five Realms of Serendipita.png]]
 
+![[Serendipita Power Dynamic.canvas]]
+
+
 ### Serendipita
 The World of Serendipita is remarkably varied. It's a high fantasy sandbox where anything you can imagine probably already happened. Serendipita contains everything from the harsh deserts of Styxas to the arctic wastes of [[Arcohaem]]. All manners of flora and fauna exist and can be found. As a side note, there aren't religions in this universe. This world was created by Avery Gilmer. All credit goes to him.
 

@@ -1,8 +1,8 @@
 ---
 aliases:
-  - King Brisk
+  - King Atka
 ---
- ![[King Brisk.jpg|500]]
+ ![[King Atka.jpg|500]]
 
 ### Personality
 - Devout cultural fanatic

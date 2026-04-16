@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"9841dac55ccfbeeb","type":"text","text":"Styxan Government","x":-940,"y":20,"width":250,"height":60,"color":"3"},
+		{"id":"71d5f577efb160b0","type":"text","text":"Terragon Government","x":-1320,"y":20,"width":250,"height":60,"color":"4"},
+		{"id":"4ce3808a14e4f626","type":"text","text":"Fol'Gar'Eth Government","x":-560,"y":20,"width":250,"height":60,"color":"6"},
+		{"id":"f1b2fa0fa0bbb100","type":"text","text":"Delapagos Government","x":-1700,"y":20,"width":250,"height":60,"color":"2"},
+		{"id":"b576b656138a6773","type":"text","text":"MOGA","x":-940,"y":200,"width":250,"height":60,"color":"3"},
+		{"id":"0b2b0267dd18ff04","type":"text","text":"King Atka","x":200,"y":-220,"width":250,"height":60,"color":"5"},
+		{"id":"487281ca86312ac2","type":"text","text":"The 5 Spokes\n","x":-940,"y":-220,"width":250,"height":60,"color":"3"},
+		{"id":"4ade904c912332cf","type":"text","text":"The Republic Government","x":-185,"y":20,"width":250,"height":60,"color":"5"},
+		{"id":"9acf4fb051a007f9","type":"text","text":"Frigoshian Government","x":200,"y":20,"width":250,"height":60,"color":"5"},
+		{"id":"7dce757e3e02d8ce","type":"text","text":"Chancellor Kaul","x":-185,"y":-220,"width":250,"height":60,"color":"5"},
+		{"id":"d57226e46838a84d","type":"text","text":"Amalgamma","x":300,"y":-440,"width":250,"height":60,"color":"5"},
+		{"id":"64df631950a5b0d3","type":"text","text":"The Wraith","x":-5,"y":-440,"width":250,"height":60,"color":"5"},
+		{"id":"0f227bc71bd11fdf","type":"text","text":"Malfaust","x":140,"y":-660,"width":250,"height":60,"color":"5"},
+		{"id":"5b3e9ddd6412b37d","type":"text","text":"The First Party (Deceased)","x":-1320,"y":200,"width":250,"height":60,"color":"4"},
+		{"id":"b8f4b87d98fec282","type":"text","text":"The Wolves of Arcohaem","x":-185,"y":200,"width":250,"height":60,"color":"5"},
+		{"id":"5acb2ff7f427f632","type":"text","text":"Hades","x":-940,"y":-660,"width":250,"height":60,"color":"3"}
+	],
+	"edges":[
+		{"id":"5a0b70bab9b54c83","fromNode":"0f227bc71bd11fdf","fromSide":"bottom","toNode":"64df631950a5b0d3","toSide":"top"},
+		{"id":"25d084da718d006c","fromNode":"64df631950a5b0d3","fromSide":"bottom","toNode":"7dce757e3e02d8ce","toSide":"top"},
+		{"id":"60f847521487c1d8","fromNode":"64df631950a5b0d3","fromSide":"bottom","toNode":"0b2b0267dd18ff04","toSide":"top"},
+		{"id":"591f7e5fc2812a00","fromNode":"4ade904c912332cf","fromSide":"bottom","toNode":"b8f4b87d98fec282","toSide":"top"},
+		{"id":"119bce0934eaf3d1","fromNode":"487281ca86312ac2","fromSide":"bottom","toNode":"9841dac55ccfbeeb","toSide":"top"},
+		{"id":"b713a417a1811fd6","fromNode":"9841dac55ccfbeeb","fromSide":"right","toNode":"4ce3808a14e4f626","toSide":"left","toEnd":"none"},
+		{"id":"84c488c17b8b40c1","fromNode":"71d5f577efb160b0","fromSide":"right","toNode":"9841dac55ccfbeeb","toSide":"left","toEnd":"none"},
+		{"id":"9a09806b8bc43ddc","fromNode":"0f227bc71bd11fdf","fromSide":"bottom","toNode":"d57226e46838a84d","toSide":"top"},
+		{"id":"9831095a2166f082","fromNode":"f1b2fa0fa0bbb100","fromSide":"right","toNode":"71d5f577efb160b0","toSide":"left","toEnd":"none"},
+		{"id":"67afe9e77e40464b","fromNode":"9841dac55ccfbeeb","fromSide":"bottom","toNode":"b576b656138a6773","toSide":"top"},
+		{"id":"f5a3b4cb5ce7da31","fromNode":"4ce3808a14e4f626","fromSide":"right","toNode":"4ade904c912332cf","toSide":"left","toEnd":"none"},
+		{"id":"8989e3c94b3dc684","fromNode":"4ade904c912332cf","fromSide":"right","toNode":"9acf4fb051a007f9","toSide":"left","toEnd":"none"},
+		{"id":"846051c41da23085","fromNode":"7dce757e3e02d8ce","fromSide":"bottom","toNode":"4ade904c912332cf","toSide":"top"},
+		{"id":"6577e749f1c38921","fromNode":"0b2b0267dd18ff04","fromSide":"bottom","toNode":"9acf4fb051a007f9","toSide":"top"},
+		{"id":"f8196b8660f77cfe","fromNode":"5acb2ff7f427f632","fromSide":"bottom","toNode":"487281ca86312ac2","toSide":"top"},
+		{"id":"93a30a491a4a1161","fromNode":"71d5f577efb160b0","fromSide":"bottom","toNode":"5b3e9ddd6412b37d","toSide":"top"}
+	]
+}

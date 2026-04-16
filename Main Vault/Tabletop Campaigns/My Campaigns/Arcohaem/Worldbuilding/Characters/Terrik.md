@@ -4,9 +4,10 @@ aliases:
   - The Wraith of Arcohaem
   - The Wraith
   - Captain Terrik
+  - Terrik Malvek
 ---
 ### Overview
-Terrik was the greatest soldier in all of [[Arcohaem]]. While trying to uproot corruption by killing criminals, he became corrupt himself, and was scarred and exiled. He became the Wraith; the hand of [[Malfaust]]. He is known only through rumors as an unstoppable monster that kills without resistance. He is to be feared.
+Terrik Malvek was the greatest soldier in all of [[Arcohaem]]. While trying to uproot corruption by killing criminals, he became corrupt himself, and was scarred and exiled. He became the Wraith; the hand of [[Malfaust]]. He is known only through rumors as an unstoppable monster that kills without resistance. He is to be feared.
 
 
 
@@ -65,3 +66,6 @@ Terrik was the greatest soldier in all of [[Arcohaem]]. While trying to uproot c
 - A hoarse, low, inorganic distorted voice.
 
 ![[The Wraith.png|300]]
+
+
+

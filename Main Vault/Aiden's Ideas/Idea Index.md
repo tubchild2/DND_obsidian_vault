@@ -86,6 +86,10 @@ Dimensional Planes
 - Brain worm that can only infect people if they're isolated because it emits a bunch of really bright flashing colorful lights. Infected players work against the party to isolate and infect everyone else. The only thing that changes is their intentions and eye color (mention each players eye color in the very beginning and never again to give infected plausible deniability). Make sure players know beforehand that infections occur silently and they have to go along with them. One player is infected near the beginning to begin the conflict. If the party completes their task on the planet/ship, they win. If everyone is infected, they lose. Works best if players have multiple tasks throughout the map and/or separate skillsets that require separation. Make sure infection conditions are vague enough for deniability but strong enough so that people can argue. The goal is paranoia, distrust, and lack of information.
 - Uses The Thing (1984) OST
 
+**Refresh!**
+- [[ID_ Refresh]]
+- Basically, a timeloop genre parody in which each loop is wildly different at players need to survive and get out
+
 **The Darkness**
 - First session involves time travel
 - During a standard mission, the party encounters an issue and needs to break the law to go back in time to an area they previously existed in. They make some bad decisions to rescue themselves that leave the alternate versions of their past selves trapped.
@@ -106,6 +110,7 @@ Betrayal
 
 **L55 Flight Simulator**
 - [[ID_ L55 Flight Sim]]
+- [[ID_ L55 Terminal-Based Flight Sim]]
 
 **Wither Storm**
 - https://www.youtube.com/watch?v=q0yCfKzQBlw
@@ -167,6 +172,16 @@ Betrayal
 **Ship**
 - Huge ship. Cargo ship. Like 200 people minimum. 
 - It crashes into the shore. There's no one on it, and nothing is missing. It's as if everyone aboard just vanished while at sea.
+
+**The Server**
+- While using a computer, a teen accidentally connects to a server running out of the arctic. 
+- It's storing a bunch of mysterious files and it's confusing. What network is it connected to? 
+- It's a proxy server preventing access to the real private network. 
+- It's unknown where it is, or why it's there. 
+- The teen is prompted to activate the server
+- He does, and his computer turns off. 
+- When he turns it back on, it's completely destroyed, as is his router, and every other device on his network in between his computer and the broader internet. Something left a scorched earth path as it moved out into the internet. 
+- An AI has been released. 
 
 **Everything's Going to be Alright**
 - John suffers from crippling anxiety

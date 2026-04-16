@@ -15,6 +15,7 @@ My PCs
 
 One-Shots
 - [[Heist of the Windsor Estate]]
+- [[Paranoia on the SMS-66]]
 
 Research and References
 - [[Data Comm Index]]
@@ -22,6 +23,8 @@ Research and References
 - [[Writing Research Index]]
 - [[TTRPGs Research Index]]
 - [[Game Development Philosophy]]
+- [[Linux Notes Index]]
+- [[SQL Notes Index]]
 
 Personal References
 - [[Simple Workout Routine]]
@@ -35,3 +38,4 @@ Other
 - [[Spirituality Index]]
 - [[Datapack Maker Overview]]
 - [[Jayden's Puzzle Vault]]
+- [[Minecraft Presentation]]

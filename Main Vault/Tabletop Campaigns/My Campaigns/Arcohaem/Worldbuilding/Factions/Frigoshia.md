@@ -60,12 +60,12 @@ Clothing
 
 
 ### Government
-Each tribe elects a baron, which oversees local government and military, and reports to the King in Torhild / Frigoshia. The broader military is overseen by [[Brisk]], and his 10 generals.
+Each tribe elects a baron, which oversees local government and military, and reports to the King in Torhild / Frigoshia. The broader military is overseen by [[Atka]], and his 10 generals.
 
 As of 12c 1266
 - 21 Tribes
 - 21 Barons
-- [[Brisk|King Brisk]]
+- [[Atka|King Atka]]
 
 
 
@@ -106,10 +106,10 @@ As of 12c 1266
 
 
 ### Military
-- [[Arcohaem Enemy Index|Frigoshian Prison Guard]]
-- [[Arcohaem Enemy Index|Frigoshian Horseback Raider]]
-- Raiders
-	- Experts of stealth, hand-to-hand combat, strategy, and martial weapons
+- [[Arcohaem Enemy Index|Krothmire Prison Guard]]
+- [[Arcohaem Enemy Index|Frigoshian Grunt]]
+- [[Arcohaem Enemy Index|Frigoshian Rider]]
+- [[Arcohaem Enemy Index|Frigoshian Soldier]]
 - Rangers
 	- Experts of ranged weapons. 
 - Mages
@@ -126,6 +126,5 @@ As of 12c 1266
 	- Can access battalions of soldiers for local policing
 - Generals
 	- Oversee captains
-- [[Brisk|King Brisk]]
+- [[Atka|King Atka]]
 	- Oversees his 10 generals
-

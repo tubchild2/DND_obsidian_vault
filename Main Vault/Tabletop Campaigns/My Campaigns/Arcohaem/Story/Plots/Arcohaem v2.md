@@ -177,7 +177,7 @@ Chapter 1: Branches
 	- The citizens don't support the war, and they're typically not even allowed outside of central [[Frigoshia]]
 	- They're not savage at all, in fact, culturally, they take things like sanitation and proper cooking very important.
 	- An old guy claims that a lava rock fell on his tent in the middle of the night. He believes it to be Phoenixes, and is spouting some crazy stuff about how his war buddy had the same experience two weeks ago. Play it up that he's crazy, but he does actually have the lava rocks.
-	- They talk about how the war started. The culture of [[Arcohaem]] really changed suddenly. It was Brisk and Kaul carrying two completely different ideologies that really just pushed people to change. If not for them, the war probably wouldn't have started. There used to be like common myths and legends, but after the war, the Republic became so serious. They used to believe in Dragons, and every time someone would go missing people would blame dragons. 
+	- They talk about how the war started. The culture of [[Arcohaem]] really changed suddenly. It was Atka and Kaul carrying two completely different ideologies that really just pushed people to change. If not for them, the war probably wouldn't have started. There used to be like common myths and legends, but after the war, the Republic became so serious. They used to believe in Dragons, and every time someone would go missing people would blame dragons. 
 	- Once again, these people could just be the exception. They claim that there are still many who do support the war from an ideological and philosophical standpoint, but many question the violence. This isn't the belly of the beast.
 - Chancellor Kaul contacts them
 	- Reinforcements are coming to accompany them on the final leg of their journey. The senate has deemed the mission too important for them to handle on their own, but now that they've paved a clear path, Captain [[Terrik]] and his men should be able to arrive shortly.
@@ -255,7 +255,7 @@ Chapter 1: Captain [[Terrik]]
 Chapter 2: The Program
 - The program has a wyrmling of every chromatic dragon, and hundreds more eggs. They're all nuts.
 - Kaul leads them into a trap and nearly gets them killed. 
-- The Wolves discover that everything they thought about the program was false. They're breeding way more dragons, have very different orders, and aren't even working for Brisk at all. They're working under someone with the initial "M." They already have dragons they could use, but they're not using them, nor do they intend to...
+- The Wolves discover that everything they thought about the program was false. They're breeding way more dragons, have very different orders, and aren't even working for Atka at all. They're working under someone with the initial "M." They already have dragons they could use, but they're not using them, nor do they intend to...
 
 Chapter 3: True Colors
 - When they find [[Terrik]], he's running the incubation equipment instead of destroying the eggs. He clearly wants the dragons to live on, and they weren't supposed to see that. They also weren't supposed to see him without his helmet, which he took off to get passed an eye scanner. He's definitely the assassin, and he asks if they want a rematch. It's unthinkable to think they'd want to keep the Dragons alive considering everything they've learned about the reality of the war, and how suspicious the republic is being. 
@@ -272,13 +272,13 @@ Chapter 1: The City-State
 - Kragknull finds them. He's been searching for them. He's filled with deep regret and feels unbelievably betrayed by Kaul. 
 	- After catching a corrupt senator, he became suspicious of the Republic overall. He couldn't ever say it out loud, as Kaul could classify it as treason. 
 	- He found out the communicators released a thin aerial sedative that increased military apathy, and came with trackers. 
-	- He wanted answers, so he began spying on Kaul. He began digging through financial records with the assistance of the overseer of the Republic Bank, and uncovered millions of gold being used to construct elaborate facilities underground in the Howling Front. What's worse, is that Brisk apparently contributed to their construction, meaning that Kaul and Brisk have been collaborating for some time.
+	- He wanted answers, so he began spying on Kaul. He began digging through financial records with the assistance of the overseer of the Republic Bank, and uncovered millions of gold being used to construct elaborate facilities underground in the Howling Front. What's worse, is that Atka apparently contributed to their construction, meaning that Kaul and Atka have been collaborating for some time.
 	- After discovering this, the overseer was assassinated, and Kragknull was framed. He was nearly killed, but he managed to flee here. Kaul wanted the mission to fail, meaning he likely has some stake in the Dragon breeding program. Once the senate voted to send reinforcements, Kaul chose to send his private guard to ensure the delicate operation went off without a hitch. 
 	- Kragknull has been searching for one of the bunkers, and managed to track the map to the home of a [[Frigoshia|Frigoshian]] elite. He can't steal it alone, as it's far too well guarded. All he has is a rough map that he managed to stitch together from his observations. 
 
 Chapter 2: The Heist
 - The map allows them to do some planning, but they have to do a lot of improvising once inside. (See Thief: The Dark Project (maps))
-- Brisk attends and he's wearing the same Draconic pendant as Kaul.
+- Atka attends and he's wearing the same Draconic pendant as Kaul.
 - They're met with a good senator who helps them to pass as Advisors and Aides because he wants to dispel the corruption
 - They mingle 
 	- They meet senators who want to fix things
@@ -310,13 +310,13 @@ Chapter 3: The Pact
 	- M. met with Kaul to user in rapid technological changes, showing him the way of the future. He showed them how it'd help people to live better, healthier, wealthier lives. It would mean power, safety, and security for Kaul's new empire. They would have peace if anyone ever invaded. M. would give him access to wealth, technology, and power, as long as he did something in return...
 	- Malfaust didn't trick Kaul at all. He was a young man who wanted to be chancellor, so he agreed to work with him. Game recognizes game.
 - Tape #2: 
-	- M. met with Brisk to push them into declaring independence. M. discussed their people's cultural identity being threatened by the ongoing changes. Brisk, being the fanatic he was, was entirely on board. M. would make him the leader, and preserve his people's culture, as long as he did something in return...
-	- Brisk wasn't tricked either. He was a fanatic who wanted to preach his ideas, but couldn't command any respect. So, upon learning the true history of [[Arcohaem]], he leaped at the idea to work for Malfaust.
+	- M. met with Atka to push them into declaring independence. M. discussed their people's cultural identity being threatened by the ongoing changes. Atka, being the fanatic he was, was entirely on board. M. would make him the leader, and preserve his people's culture, as long as he did something in return...
+	- Atka wasn't tricked either. He was a fanatic who wanted to preach his ideas, but couldn't command any respect. So, upon learning the true history of [[Arcohaem]], he leaped at the idea to work for Malfaust.
 - Tape #3:
 	- We learn the full truth
 	- M. stands for Malfaust. Malfaust discovered a set of chromatic dragon eggs, and used [[Frigoshia]] to incubate and breed them. He subscribes to the ancient beliefs of [[Serendipita]], when him and his brethren ruled over everything. They were the ones who people answered to, not men. It is time for them to return and establish their dominance once again. But he needs an army, and army he'd develop by sharing his knowledge with Kaul and the [[Republic of Arcohaem]]. He'd hide it in plain sight, and prepare the people for war by instigating one of his own. 
 - Tape #4:
-	- Malfaust is an ancient red dragon, the last of his kind. Once he has his children grown, and he has an army to call his own, he's going to wipe out both the Republic and [[Frigoshia]] and reform them under the new "Empire of Malfaust." He's then going to stockpile riches and power while his children decimate [[Serendipita]]. Kaul and Brisk will be his human advisors, and will rule over swaths of his new Empire.
+	- Malfaust is an ancient red dragon, the last of his kind. Once he has his children grown, and he has an army to call his own, he's going to wipe out both the Republic and [[Frigoshia]] and reform them under the new "Empire of Malfaust." He's then going to stockpile riches and power while his children decimate [[Serendipita]]. Kaul and Atka will be his human advisors, and will rule over swaths of his new Empire.
 	- His plan is working. Humans did exactly what he expected them to do, and they created the system he wanted. He's nearly ready now. It's too late. Philosophically, Malfaust believes humans are inherently disgusting creatures that are very easily manipulated into service. He believes they were made to bow down to creatures like him.
 
 Chapter 4: Battle
@@ -342,6 +342,6 @@ Chapter 2: The Unending Might of Malfaust
 
 Chapter 3: You Get What You Deserve
 - They return to the Senate Building with proof of what Kaul did and confront him. 
-- Kaul and several corrupt senators are imprisoned. Many more fled. Brisk flees and is replaced, ending the civil war and reuniting [[Arcohaem]] once again.
+- Kaul and several corrupt senators are imprisoned. Many more fled. Atka flees and is replaced, ending the civil war and reuniting [[Arcohaem]] once again.
 - The Wolves return home, and finally get everything they wanted. They're praised as the greatest heroes of all of [[Arcohaem]]
 - The Dragon eggs are yet to be found, it's unclear how he got them, and it's unclear how Terragon was involved. The answers to those mysteries will have to wait until next campaign.

@@ -31,7 +31,7 @@
 
 ##### People
 - [[Amalgamma]]
-- [[Brisk|King Brisk]]
+- [[Atka|King Atka]]
 - [[Cedtris Coparol]]
 - [[Kaul|Chancellor Kaul]]
 - [[Kragknull|Commander Kragknull]]

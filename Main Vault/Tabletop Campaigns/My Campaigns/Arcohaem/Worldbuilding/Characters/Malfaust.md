@@ -28,7 +28,7 @@ A deep crimson creature with tattered wings, large white horns, and small spikes
 5. Wait for dragon eggs to hatch, and wait 10 years to allow development
 6. Hide and protect female Wyrmlings to ensure egg production
 7. Attempt to create dragon embryos artificially
-	1. This wing of the laboratory is kept from everyone but [[Brisk]], [[Terrik]], [[Kaul]], and the scientists developing it.
+	1. This wing of the laboratory is kept from everyone but [[Atka]], [[Terrik]], [[Kaul]], and the scientists developing it.
 	2. It's horrific. He's experimenting on his own kind, often in really cruel and gross ways that puts them in perpetual torment. The lines of tubes filled with embryos are disgusting, and like something out of Metroid. This is to make you hate Malfaust, really hate him.
 	3. [[Serendipita|E-Tech]] is capable of aging the dragons in pieces, but isn't powerful for much else. Aging the eggs / embryos directly produces mutant Wyrmlings which are insane and disgusting, so they're ground up and used as food for the new experiments. 
 	4. That's where [[Amalgamma]] comes in, a horrific amalgam of young female dragons and [[Serendipita|e-tech]] that can produce dragon eggs.
@@ -91,13 +91,13 @@ A deep crimson creature with tattered wings, large white horns, and small spikes
 - He outfitted [[Terrik]] with a [[Hard-Light]] spear, and instructed him in the primal ways of combat from [[Arcohaem]]'s roots.
 
 12c 1253
-- Malfaust uses [[Terrik|the Wraith]] to convince Senator [[Brisk]] of [[Frigoshia]] to incubate the dragon eggs, and to declare independence from the Republic. In return, he'd be made King.
+- Malfaust uses [[Terrik|the Wraith]] to convince Senator [[Atka]] of [[Frigoshia]] to incubate the dragon eggs, and to declare independence from the Republic. In return, he'd be made King.
 - Malfaust uses [[Terrik|the Wraith]] to convince Senator [[Kaul]] to accept the trade deal with Hades, and to begin developing Malfaust's weapons for the Republic's military. In return, he would be made Chancellor.
 - Malfaust uses [[Terrik|the Wraith]] to execute the current Chancellor to move [[Kaul]] into position
 
 12c 1255
 - Malfaust uses [[Terrik|the Wraith]] to frame the Republic for the assassination of Senator Rimeholt of Nedrena during a peace summons. The already high tensions finally gave way to war between the Republic and the now independent [[Frigoshia]].
-- Through blackmail and threats, [[Terrik|the Wraith]] got [[Brisk]] the title of King in the new northern Monarchy. 
+- Through blackmail and threats, [[Terrik|the Wraith]] got [[Atka]] the title of King in the new northern Monarchy. 
 
 12c 1266
 - The Dragon incubation program has expanded greatly into the volcanic caverns beneath [[Arcohaem]], where Malfaust could directly intervene when he pleased.

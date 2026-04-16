@@ -1,8 +1,9 @@
 
 **MONDAY**
 	Schoolwork
-		- SQL Readings
-		- Linux Readings
+		- SQL Reading A
+		- SQL Reading B
+		- SQL Quiz
 	Spirituality
 		Bible Reading
 	Exercise (chest, biceps, side delts)
@@ -15,9 +16,8 @@
 
 **TUESDAY**
 	Schoolwork
-		- SQL Readings 2 
-		- SQL Quiz
-		- Linux Quiz
+		- Linux Reading A
+		- SQL Assignment
 	Spirituality
 		Thursday Night Study
 
@@ -25,9 +25,9 @@
 
 **WEDNESDAY**
 	Schoolwork
-		- SQL Assignment
-		- Linux TestOut Assignment
-		- Linux Brightspace Lab Assignment
+		- Linux Reading B
+		- Linux TestOut Assignments
+		- Linux Quiz
 	Spirituality
 		Watchtower Study
 		Field Service
@@ -40,8 +40,8 @@
 
 **THURSDAY**
 	Schoolwork
-		- SQL Discussion
 		- Linux Community Campfire
+		- Linux Brightspace Lab Assignment
 	Spirituality
 		Bible Reading
 
@@ -80,35 +80,3 @@
 		Bible Reading
 		Early Morning
 		Service
-
-
-
-
-
-
-
-Linux Additional Assignments (ASAP)
-- TestOut Set-Up
-- Student Intro Discussion
-
-Wednesday
-- Linux Reading
-
-Thursday
-- Linux Quiz
-- SQL Assignment
-- Linux TestOut Assignment
-- Meeting (video)
-
-Friday
-- Linux Brightspace App Assignment
-- Linux Community Campfire
-- Service (regular)
-
-Saturday
-- SQL Discussion
-
-Sunday
-- Service (early morning)
-- Service (regular)
-- TTRPG

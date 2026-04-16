@@ -1,5 +1,5 @@
 
-Introduction
+### Introduction
 - Hook
 	- Question
 	- Statement
@@ -8,10 +8,10 @@ Introduction
 	- Tailor to listeners, their interests, and their situations
 - Clearly identify subject
 - Show why subject matters
-- Outline points
+- Outline points clearly and simply
 
 
-Body Paragraphs
+### Body Paragraphs
 - Questions
 	- Arouse and maintain interest
 	- Reason with listeners
@@ -50,7 +50,8 @@ Body Paragraphs
 	- Keep points relevant.
 	- Pause between points.
 
-Conclusion
+
+### Conclusion
 - Connect your conclusion to your overall topic. 
 - Rephrase main points and theme
 - Motivate your listeners. What audience should do and sound reasons why
@@ -59,7 +60,8 @@ Conclusion
 - Don't introduce any new ideas
 - Deliver last few sentences with a note of finality
 
-Preparation 
+
+### Preparation and Delivery
 - Pray for help to concentrate on your message
 - Get to know Bible passages well so that your reading will be fluent
 - Reading Bible Passages
