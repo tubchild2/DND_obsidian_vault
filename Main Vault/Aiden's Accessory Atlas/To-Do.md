@@ -16,33 +16,51 @@
 
 
 ### Schedule
-Wednesday 15th
-- Draft talk
-	- Start ugly first draft
-	- Lighten load for tommorow
-
 Thursday 16th
-- Schoolwork
-	- Linux Brightspace Lab Assignment
-	- Linux Community Campfire Clarification
-	- SQL Assignment
-	- GET ALL SCHOOLWORK DONE BY 7:00PM
 - Shom Prom Preparation
 	- Pack
+		- Toiletries
+			- Toothbrush
+			- Toothpaste
+			- Floss
+			- Retainer
+			- Hairbrush
+			- Deodorant
+		- Clothes
+			- Suit x1
+				- Black Dress Shoes x1
+				- Black Belt x1
+			- Shoes x1
+			- Sunglasses x1
+			- Comfortable Shorts x1
+		- Entertainment
+			- Phone
+		- ETC
+			- Wallet
+			- Keys
+			- Snacks
 	- PACK BEFORE 7:00PM
 - Revise talk
 	- Finish ugly first draft
+	- UPDATE GITHUB REPOSITORY BY 7:00PM
 
 Friday 17th
 - Leave for WA
 - See what work on the talk you can get done on the way there
+- After that, log off and relax. You've earned some time off
 
 Saturday 18th
 - Shom Prom
 
 Sunday 19th
 - Return from WA
-- See what work on the talk you can get done on the way there
+- See what work on the talk you can get done on the way back and once you're home
+- Use your remaining money to purchase
+	- Shirts you like
+	- Different color and pattern ties
+	- Different color dress shirts
+	- New jackets
+	- New overshirts
 
 Monday 20th
 - Talk
@@ -55,13 +73,16 @@ Monday 20th
 Tuesday 21st
 - Talk
 	- Peer review
-	- Final review
-	- Finish third draft
+	- Full spoken run throughs and revisions
+	- Timing
 
 Wednesday 22nd
 - Go out in service
 - Talk
-	- Practice
+	- Peer review (if necessary)
+	- Full spoken run throughs and revisions
+	- Timing
+	- Third draft
 
 Thursday 23rd
  - Talk
@@ -70,12 +91,20 @@ Thursday 23rd
 
 Friday 24th
 - Go out in service
+- Prepare for [[Arcohaem]]
+	- Varying Arrival Times
+	- Transportation
+	- Food
 
 Saturday 25th
-- Group B [[Arcohaem]] Session
+- Group B [[Arcohaem]] Session (Afternoon)
+- Pick up Luca and Xavi
+- Go to Safeway
+	- 3x frozen pizza
+	- Drink
 
 Sunday 26th
-- Group A [[Arcohaem]] Session
+- Group A [[Arcohaem]] Session (Evening)
 
 
 ### Schoolwork

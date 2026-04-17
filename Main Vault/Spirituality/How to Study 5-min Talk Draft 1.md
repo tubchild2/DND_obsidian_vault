@@ -50,7 +50,7 @@ Points
 	- Subheadings
 	- Illustrations
 	- Expectations
-- Focus (?)
+- Take Notes
 	- Try to highlight points you want to remember, or annotate with JW Library. Reviewing these after you study will help you to remember the main points much clearer and faster.
 	- Answers to questions
 	- Main points
@@ -76,52 +76,18 @@ Points
 	- Don't introduce anything new
 	- Deliver final sentences with a note of finality
 
-### Draft 1
-##### intro
-Let me just describe a situation I've found myself in and you can see if you relate. You have some time to study, so you sit down and start going through the material. You feel really good in the moment; you're highlighting points, taking notes, and really finding it interesting. You pray and conclude, and get back to the rest of your day. Then, not 10 minutes later, you have absolutely no idea what you just read. 
 
-(if that didn't land) Maybe that's just me though I have a pretty fried attention span.
+### Ol' Reliable Ugly Draft
+Let me just describe a situation I've found myself in and you can see if you relate. You have some time to study, so you sit down and start going through the material. You feel really good in the moment; you're highlighting points, taking notes, and really finding it interesting. You pray and conclude, and get back to the rest of your day. Then, not 10 minutes later, you have absolutely no idea what you just read. (if that didn't land) Maybe that's just me though I have a pretty fried attention span.
 
 It's true, sometimes we might go through the motions of studying. Not all study sessions are created equal. But, how do we make our studies more productive? Well, there's four steps we're going to briefly cover in this discussion: preview, note, review, and apply. 
 
+The first step is to preview the article. What does previewing mean? Well, if you're reading from a Watchtower article or other study material, this means briefly considering the title, illustrations, and subheadings. If you're reading from the Bible, you could watch the "introduction-to" videos for the Bible book you're reading, the outline for the book, or the study points. Doing this will help you to establish what you expect to learn from the material, and what main points to focus on as you read.
 
-##### par 1
-Point #1 preview the article
-	- Glance over the article before you start reading it. Simply asking what you expect to learn about the theme can help you to focus on what's important. 
-	- Title
-	- Subheadings
-	- Illustrations
-	- Expectations
+The second step is to take notes. As you read, keep your eyes out for points you want to remember. That could be answers to questions, points that connect to the main theme, points you can use in the ministry, points you could share with someone you know, or something else. If you're studying from an article, make sure to read any cited scriptures, because these can contain these memorable points too. Marking this points for reference later will help you to remember them, and more importantly, apply them later. 
 
-##### par 2
-- Focus (?)
-	- Try to highlight points you want to remember, or annotate with JW Library. Reviewing these after you study will help you to remember the main points much clearer and faster.
-	- Answers to questions
-	- Main points
-	- Points for the ministry
-	- Points you can share
-	- Look up cited scriptures to better get these points
+Once you've finished the article, you're ready for the third step: review. See if you can recall the main points and supporting arguments. If you can't, review the notes you've taken. If you are struggling to understand something, come back to it later with some additional research. 
 
-##### par 3
-- Review
-	- Briefly review the notes or highlights you've made  
-	- See if you can recall the main points and supporting arguments
-	- If you are struggling to understand something, mark it so you can give it further clarification later by doing some additional research
-	- Spend some time thinking about what you read. This is the most important part. Brother Gangler talked about this in his talk.
+Finally, as Brother Gangler talked about in his talk a few weeks ago, meditate on it. Impress these points into your mind and think about how you can use what you've learned. This is the most important step for bridging the gap between study and real life, because if you study and don't do anything about it, you'll just forget. Paul thought about the main points... something something... scripture... explanation... application...
 
-##### par 4
-- Apply
-	- Think about the main points like Paul did
-		- Introduce scripture
-		- Explain scripture
-	- Impress them into your mind
-	- Think about how you can apply it / act in harmony with it
-
-##### par 5
-- Conclusion
-	- Emphasize theme of the talk
-	- Make main points clear and simple
-	- Make practical value clear
-	- Motivate listeners
-	- Don't introduce anything new
-	- Deliver final sentences with a note of finality
+So, to wrap up, what were the four steps to improving study? preview, take notes, review, and apply. Doing all of these will make your study sessions more fulfilling and helpful. Don't hesitate to use these points. Something something... conclusion with finality. 

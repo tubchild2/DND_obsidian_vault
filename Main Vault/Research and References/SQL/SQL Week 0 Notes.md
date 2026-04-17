@@ -1,3 +1,5 @@
+Notes from my other CIS class
+
 # CREATE
 CREATE TABLE \[NAME] (
 	column1 datatype PRIMARY KEY,

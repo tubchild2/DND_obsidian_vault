@@ -110,4 +110,5 @@ Boolean Operators
 | bit               |          | 1      | Values of 0 or 1                                                                                                                                             |
 **Datatype Conversion**
 - CAST(value AS DATATYPE)
+	- For concatenation, you sometimes need to cast numbers to varchars
 - CONVERT(DATATYPE, expression \[, style])
