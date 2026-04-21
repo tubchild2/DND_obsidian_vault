@@ -88,6 +88,13 @@ The second step is to take notes. As you read, keep your eyes out for points you
 
 Once you've finished the article, you're ready for the third step: review. See if you can recall the main points and supporting arguments. If you can't, review the notes you've taken. If you are struggling to understand something, come back to it later with some additional research. 
 
-Finally, as Brother Gangler talked about in his talk a few weeks ago, meditate on it. Impress these points into your mind and think about how you can use what you've learned. This is the most important step for bridging the gap between study and real life, because if you study and don't do anything about it, you'll just forget. Paul thought about the main points... something something... scripture... explanation... application...
+Finally, as Brother Gangler talked about in his talk a few weeks ago, meditate on it. Impress these points into your mind and think about how you can use what you've learned. This is the most important step for bridging the gap between study and real life, because if you study and don't do anything about it, you'll just forget. 
 
-So, to wrap up, what were the four steps to improving study? preview, take notes, review, and apply. Doing all of these will make your study sessions more fulfilling and helpful. Don't hesitate to use these points. Something something... conclusion with finality. 
+Paul thought about the main points... something something... scripture... explanation... application...
+
+So, to wrap up, what were the four steps to improving study? preview, take notes, review, and apply. Doing all of these will make your study sessions more fulfilling and helpful. Don't hesitate to use these points. 
+
+Something something... conclusion with finality. 
+
+
+### Draft 2

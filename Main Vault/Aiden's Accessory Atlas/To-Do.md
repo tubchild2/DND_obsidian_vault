@@ -13,52 +13,41 @@
 		- How does [[Terrik|the Wraith]] find people to work on the project?
 	- I'm not the greatest at writing mysteries. I think they should get some pieces, and then learn how they connect in a satisfying but unexpected way. 
 		- They learn some trucks are going on a routine, but the barrels in the truck are empty by the time they arrive and before they leave. So, when are they being filled up? The trick is that the trucks are being swapped and the real cargo is being hidden, but they're doing it in a really smooth way that's impossible to see on traffic cameras. That's an example of a session to session reveal that gives a piece of the campaign long reveal. 
+- Alric
+	- Representative of the patriotic [[Frigoshia|Frigoshian]]. He truly believes everything, is a charismatic psychopath, and is out to figure out what the Wolves are doing.
+	- He's a captain of his own battalion, and he spots them and tricks them into revealing as much information as he can. Then, he takes a leave of absence and continues following them for Act 1 and Act 2.
+	- He uses his intelligence, charisma, and endurance to follow their trail. He sets a trap for them, and confronts them multiple times (always to bargain, since direct confrontation is too risky). 
+	- He figures out what they're after when the Wolves figure out that their mission is a lie. Once he figures that out, he encounters [[Terrik|the Wraith]]. His persistence and unwillingness to believe that [[Frigoshia]] could do something like this gets him killed.
+	- He fought for [[Frigoshia|Frigoshian]] values, (in their eyes), gave 110%, and then died because he was fighting based off a set of morals someone else made, instead of on the objective right/wrong moral scale.
+	- A good side character and plot. Limited screentime. Used to parallel the Wolves from a [[Frigoshia|Frigoshian]] perspective.
+- Rewrite Act 2 - Part 3
+	- Part 2.5
+		- Arrival in [[Frigoshia]]
+		- Rosie
+		- Return of Alric
+		- He's on a leave of absence and is following them
+		- He lets them know he's following them to cause them to panic or something
+		- He uses his intelligence, charisma, and endurance to track them.
+		- He kidnaps or kills Rosie to use in his plans
+	- Part 3
+		- Alric continues his investigation and is led into the heart of the conspiracy
+		- Right when they figure everything out, and [[Terrik|the Wraith]] appears, Alric enters, unaware of what's going on
+		- He preaches [[Frigoshia|Frigoshian]] values
+		- [[Terrik|The Wraith]] kills Alric
 
 
 ### Schedule
 Thursday 16th
-- Shom Prom Preparation
-	- Pack
-		- Toiletries
-			- Toothbrush
-			- Toothpaste
-			- Floss
-			- Retainer
-			- Hairbrush
-			- Deodorant
-		- Clothes
-			- Suit x1
-				- Black Dress Shoes x1
-				- Black Belt x1
-			- Shoes x1
-			- Sunglasses x1
-			- Comfortable Shorts x1
-		- Entertainment
-			- Phone
-		- ETC
-			- Wallet
-			- Keys
-			- Snacks
-	- PACK BEFORE 7:00PM
 - Revise talk
 	- Finish ugly first draft
-	- UPDATE GITHUB REPOSITORY BY 7:00PM
-
-Friday 17th
-- Leave for WA
-- See what work on the talk you can get done on the way there
-- After that, log off and relax. You've earned some time off
-
-Saturday 18th
-- Shom Prom
 
 Sunday 19th
 - Return from WA
 - See what work on the talk you can get done on the way back and once you're home
 - Use your remaining money to purchase
-	- Shirts you like
-	- Different color and pattern ties
-	- Different color dress shirts
+	- New shirts 	
+	- New ties
+	- New dress shirts
 	- New jackets
 	- New overshirts
 
