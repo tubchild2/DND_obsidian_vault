@@ -95,6 +95,3 @@ Paul thought about the main points... something something... scripture... explan
 So, to wrap up, what were the four steps to improving study? preview, take notes, review, and apply. Doing all of these will make your study sessions more fulfilling and helpful. Don't hesitate to use these points. 
 
 Something something... conclusion with finality. 
-
-
-### Draft 2
