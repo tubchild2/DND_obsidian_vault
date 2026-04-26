@@ -4,6 +4,7 @@
 	- He should get personal and interact with them earlier
 	- He's not just a fighter, he's smart too. He should scam or trick them.
 	- He should be the one that alerted the navy to the Wolves' attempt at freeing Freyrhage
+	- He is [[Alric]] except a dominating physical presence who's even more narcissistic and less restrained
 - Consider loot placement throughout campaign
 - Better Call Saul Inspo
 	- The conspiracy in [[Arcohaem]] doesn't feel as big. It's underwhelming because it's just one guy pulling all the strings for his boss. It needs more depth, and they should uncover it by seeing some of the other operations they're doing. Like spotting a drug deal or overhearing a conversation which gives them inklings that all click. 
@@ -13,13 +14,6 @@
 		- How does [[Terrik|the Wraith]] find people to work on the project?
 	- I'm not the greatest at writing mysteries. I think they should get some pieces, and then learn how they connect in a satisfying but unexpected way. 
 		- They learn some trucks are going on a routine, but the barrels in the truck are empty by the time they arrive and before they leave. So, when are they being filled up? The trick is that the trucks are being swapped and the real cargo is being hidden, but they're doing it in a really smooth way that's impossible to see on traffic cameras. That's an example of a session to session reveal that gives a piece of the campaign long reveal. 
-- [[Alric]]
-	- Representative of the patriotic [[Frigoshia|Frigoshian]]. He truly believes everything, is a charismatic psychopath, and is out to figure out what the Wolves are doing.
-	- He's a captain of his own battalion, and he spots them and tricks them into revealing as much information as he can. Then, he takes a leave of absence and continues following them for Act 1 and Act 2.
-	- He uses his intelligence, charisma, and endurance to follow their trail. He sets a trap for them, and confronts them multiple times (always to bargain, since direct confrontation is too risky). 
-	- He figures out what they're after when the Wolves figure out that their mission is a lie. Once he figures that out, he encounters [[Terrik|the Wraith]]. His persistence and unwillingness to believe that [[Frigoshia]] could do something like this gets him killed.
-	- He fought for [[Frigoshia|Frigoshian]] values, (in their eyes), gave 110%, and then died because he was fighting based off a set of morals someone else made, instead of on the objective right/wrong moral scale.
-	- A good side character and plot. Limited screentime. Used to parallel the Wolves from a [[Frigoshia|Frigoshian]] perspective.
 - Rewrite Act 2 - Part 3
 	- Part 2.5
 		- Arrival in [[Frigoshia]]
@@ -35,24 +29,8 @@
 
 
 ### Schedule
-Saturday 25th
-- Group B [[Arcohaem]] Session (Afternoon)
-- Pick up Hunter, Bentley, and Xavi from meeting
-- Go to Safeway
-	- 3x frozen pizza
-	- Avoid caffeinating the children
-- Schoolwork	(if possible)
-	- SQL Quiz
-	- SQL Assignment
-- Set alarm for service tomorrow
-
 Sunday 26th
 - Group A [[Arcohaem]] Session (Evening)
-- Schoolwork	(if possible)
-	- SQL Quiz
-	- SQL Assignment
-- Go out in early morning service
-	- Get an absurd amount of coffee
 
 Monday 27th
 - Research plot devices or try to incorporate some
@@ -60,6 +38,9 @@ Monday 27th
 - Spirituality
 	- A-2
 	- Security for Vernonia
+- Schoolwork
+	- Check starred emails for NHS invite
+	- SQL Lab 3
 
 Tuesday 28th
 - Set Alarm for Service Tomorrow
@@ -79,7 +60,6 @@ Wednesday 29th
 		- [12](https://www.amazon.com/Dress-Up-America-Unisex-Holster-Adult/dp/B001I027RK/ref=sr_1_31?crid=30WJ88B4K53XZ&dib=eyJ2IjoiMSJ9.GZTQE3vSh3n0pBbbEwiyA5FklY2EeUJTPQOJTI-diLl-Qvn27rsozaAf3U9p1QhwzpnYRWF9S0xppgOlQco3obQ8X9fQbV5M0dfBze5Zt3KYH-AW0udW5oJ8zvkCH1jbjOsTOHdsdB5ZrI4C55Cwqz8uWtCDjSnhiRBlZijFTcyM9FMbsUGeht_RU7EqC_bQwjujzJgP288Jm8PygHeAdsAb_78eZh_r3Wt2GK2Jux13jM_GskaUywGi_gFG6RikZ7f_EGGxC1H2sl1vPEICScMzPpNICKGhMct9P3y62tk.RdpZzvhnTgdkdmTWiS0TDeN1WHJD7-xAFIzbSHoP8ZQ&dib_tag=se&keywords=Black%2BCowboy%2BHolster&qid=1776908355&sprefix=black%2Bcowboy%2Bholste%2Caps%2C162&sr=8-31&th=1) 
 	- Rubber Chicken for Holster
 		- ?
-	- 
 
 - Clothes
 	- Shirts

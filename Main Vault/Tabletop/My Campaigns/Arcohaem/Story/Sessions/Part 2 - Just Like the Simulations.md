@@ -4,7 +4,7 @@
 - Help to recap the last session
 
 
-### Chapter 1 - [[Ammalor]]
+### Chapter 4 - [[Ammalor]]
 ##### Purpose
 - Reintroduce the world and characters
 - Let the Wolves charter a ship to Freyrhage
@@ -35,14 +35,13 @@ Shops
 Ports
 - Most people see their military outfit and look away and hide
 - One shady guy isn't afraid
-	- His name is Marrek Renn. 
+	- His name is [[Marrek Renn|Marrek]] [[Marrek Renn|Renn]]. 
 	- He's an older, sketchy sailor.
 	- He asks for a lot of gp because of the volcanic activity in the north wiping out ships. He's sailing to Freyrhage anyways to make some shipments that are on a need to know basis.
 	- Freyrhage is the best place he can take them because of the blockade. 
 	- Mention the blockade
 	- Mention the tiny ships they have to take
-- Blah blah blah, they find a ship
-- This part isn't all that important
+	- He follows a strict code. He won't ask questions, nor does he want to, if they don't get involved in his business. He has friends in high places, so he's very upfront about being involved in criminal activity. 
 
 Sailing
 - They have to take tiny ships to avoid "volcanic activity" and to go undetected
@@ -56,7 +55,7 @@ Sailing
 
 
 
-### Chapter 2 - Freyrhage
+### Chapter 5 - Freyrhage
 ##### Purpose
 - Introduce the people of Freyrhage
 - Establish growing militia
@@ -128,7 +127,7 @@ People of Freyrhage
 
 
 
-### Chapter 3 - Borderlands
+### Chapter 6 - Borderlands
 ##### Purpose
 - Introduce [[Alric]]
 - Tease [[Terrik|the Wraith]]
@@ -137,7 +136,7 @@ People of Freyrhage
 ##### Plot
 **Introduction**
 - You leave the town of Freyrhage and begin to move west to continue your mission. 
-- Everyone give me a perception check (CUT THIS?)
+- Everyone give me a perception check
 	- (highest roller sees) you're in a basin surrounded by mountains and cliffs. In the very far distance, if just for a moment, you see a black silhouette atop a far cliff. It almost looks human, but it's too far away to see without a telescope or binoculars. 
 	- (if they look closer) It's gone
 - You're going to be walking for about 6 miles. Would anyone like to do anything during the journey? 
@@ -204,7 +203,7 @@ Combat
 
 
 
-### Chapter 4 - Me? I'm Nobody
+### Chapter 7 - Me? I'm Nobody
 ##### Purpose
 - Establish the mission to save people
 
@@ -278,7 +277,7 @@ Combat
 	- They pillage supplies for themselves
 
 
-### Chapter 5 - Nocturne
+### Chapter 8 - Nocturne
 ##### Purpose
 - Let them reflect
 - Let them hate
