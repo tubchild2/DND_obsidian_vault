@@ -63,7 +63,7 @@ A deep crimson creature with tattered wings, large white horns, and small spikes
 3. Use the followers of [[Terrik|the Wraith]] to strike at world leaders the day of the invasion and march soldiers armed with the new weapons into the capitals
 4. Ambush government buildings, weak points, BBEGs, and infrastructure with armies of young dragons and wyrmlings.
 5. Use the followers, the soldiers, and the remaining young dragons to establish martial law and local occupied rulership in the realms.
-6. Choke the remaining cities and villages out by destroying or seizing their sources of communication, food, water, metal, Eathyst, or anything else important to their culture / society.
+6. Choke the remaining cities and villages out by destroying or seizing their sources of communication, food, water, metal, [[Serendipita|Eathyst]], or anything else important to their culture / society.
 
 **PHASE IV**
 1. Hoard all of [[Serendipita]]'s wealth for himself

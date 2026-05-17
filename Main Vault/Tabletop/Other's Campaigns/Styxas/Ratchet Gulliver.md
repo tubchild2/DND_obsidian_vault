@@ -140,7 +140,7 @@ Tools:
 - Shield
 - Chain Shirt
 - 3 Days of Water
-- 30lbs of Eathyst + Way more from the bag
+- 30lbs of [[Serendipita|Eathyst]] + Way more from the bag
 - Map of Styxas
 - Illuminator's Tattoo. You can write things with your finger as if it were an ink pen. You can make it invisible to everyone but one creature as an action.
 - 340 gold.
@@ -196,7 +196,7 @@ Smokepowder Bombs.
 	- +1d4 if bomb is infused. Cannot mix elements.
 	- For each additional d4, player must succeed a DC18 Arcana check. DC increases by 2 for each d4.
 - Detonates if fuse is clicked (starts timer), or if exposed to fire (immediate)
-- Bombs are made from 3 Pytes of Eathyst (x2 Shards). They each contain x24 grains of Eathyst.
+- Bombs are made from 3 Pytes of [[Serendipita|Eathyst]] (x2 Shards). They each contain x24 grains of [[Serendipita|Eathyst]].
 - One bomb per 2hr rest. Two bombs per long rest. Five bombs per long rest if you forgo long rest benefits and risk DC15 CON save to be exhausted.
 - Creating the Mega Bomb
 	- Each bomb adds 

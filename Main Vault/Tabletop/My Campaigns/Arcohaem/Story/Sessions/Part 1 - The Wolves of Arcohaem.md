@@ -61,7 +61,7 @@ Notes:
 Immersive Opening
 - https://www.youtube.com/watch?v=pbNwQhKT3HY
 - The Winter of 12c, 1266. 1 week later.
-- You trudge through the last icy stretch of road, boots crunching in the snow, before the path opens up - and there it is. [[Hephaestus]], capital of the Republic, rising from the snow like a colossus of stone and iron. Large, bulky machines refine Eathyst in the distance, emitting a plume of black and purple smoke from the nearby mountain. 
+- You trudge through the last icy stretch of road, boots crunching in the snow, before the path opens up - and there it is. [[Hephaestus]], capital of the Republic, rising from the snow like a colossus of stone and iron. Large, bulky machines refine [[Serendipita|Eathyst]] in the distance, emitting a plume of black and purple smoke from the nearby mountain. 
 - The streets are wide, covered in snow, and dotted with civilians bundled in thick fur coats. Large posters line the frosted stone walls, their bright colors catching your eyes. Thousands of soldiers accompanied by large steel machines parade through the streets, giving you a sense of familiarity, and peace. 
 - As you walk through the city streets, bronze statues of heroes past watch silently from their opulent marble pedestals. The Senate building, a gargantuan amalgam of geometric stone shapes and pillars, dominates the skyline in front of you. It's strange, and different from what it used to be, but it's home. 
 - What do you do?
@@ -79,7 +79,7 @@ Immersive Opening
 	- It's a village burning down due to a [[Frigoshia|Frigoshian]] invasion. It's captioned, "He stayed silent, now they're all dead. Report [[Frigoshia|Frigoshian]] activity."
 	- Everyone's enlisted - what about you?
 	- It shows a soldier waving goodbye to a little girl. It's captioned, "For her future"
-	- It shows a group of [[Frigoshia|Frigoshians]] running away from one Republic soldiers. "[[Frigoshia|Frigoshian]]? Or just a coward in Fur."
+	- It shows a group of [[Frigoshia|Frigoshians]] running away from one Republic soldiers. "[[Frigoshia|Frigoshian]]? Or just a coward in Fur?"
 	- [[Frigoshia]] is fighting to live in squalor, don't let them win!
 - Citizen Encounter
 	- People within the Republic don't want the war to continue but have to out of self defense.
@@ -96,13 +96,13 @@ Immersive Opening
 		- Black and white comic with really bad printing errors. 
 		- It shows their group fighting a Wendigo with only pocket knives. 
 		- All of their features and the plot is incredibly exaggerated. 
-	- The Adventures of the Karlstad Crusaders #22: The Flames of [[Frigoshia]]! 
+	- The Adventures of [[the Karlstad Crusaders]] #22: The Flames of [[Frigoshia]]! 
 		- It depicts knights on horseback charging into an icy fortress
 	- Tales of [[Hephaestus]] #12: The Clockwork Titan!
 		- It's a very bad horror story about a clunky looking robot rebelling and fighting its creator.
 		- It's extremely silly. Was made for little kids.
 - Trains
-	- Transporting refined Eathyst from Pyrk to the east to be shipped off from Lemnaeus port
+	- Transporting refined [[Serendipita|Eathyst]] from Pyrk to the east to be shipped off from Lemnaeus port
 - Ice Fishing
 	- Out of town
 	- Secluded, empty field of thin ice

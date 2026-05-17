@@ -18,7 +18,7 @@
 | Melee Weapon   | 1d20 + STR + *proficiency bonus*        | *damage dice* + STR        |
 | Finesse Weapon | 1d20 + STR or DEX + *proficiency bonus* | *damage dice* + STR or DEX |
 | Ranged Weapon  | 1d20 + DEX + *proficiency bonus*        | *damage dice* + DEX        |
-| [[Serendipita\|Ether]] Attack   | 1d20 + *[[Serendipita\|ether]] mod*                      | *damage dice*              |
+| Spell Attack   | 1d20 + spellcasting mod                 | *damage dice*              |
 
 ### Loot by Level
 

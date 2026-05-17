@@ -10,9 +10,9 @@
 - [[Arcohaem Plot Overview]]
 
 ##### Sessions
-- [[Part 1 (original) - The Wolves of Arcohaem]] (deprecated)
+- [[CLASSIC Part 1 - The Wolves of Arcohaem]] (deprecated)
 - [[Part 1 - The Wolves of Arcohaem]]
-- [[Part 2 (original) - Just Like the Simulations]]
+- [[CLASSIC Part 2 - Just Like the Simulations]]
 - [[Part 3 - The Republic!]] 
 
 

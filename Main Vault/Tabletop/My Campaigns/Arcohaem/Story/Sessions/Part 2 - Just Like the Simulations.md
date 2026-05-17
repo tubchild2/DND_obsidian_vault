@@ -1,4 +1,4 @@
-### Chapter 0 - Recap
+### Chapter 3.5 - Recap
 ##### Purpose
 - Have everyone introduce their characters
 - Help to recap the last session

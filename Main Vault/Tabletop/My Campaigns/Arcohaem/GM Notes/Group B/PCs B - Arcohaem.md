@@ -9,6 +9,8 @@ aliases:
   - Iona
   - Lukas Havran
   - Lukas
+  - Tinkle Winkler
+  - Darrell
 ---
 
 ### History
@@ -108,7 +110,7 @@ Backstory:
 - Became a spy for the Republic to steal and lie for good, and to get away with much more.
 - A few years later, joined the [[PCs A - Arcohaem|Wolves of Arcohaem]].
 
-Theme: Living Waters (from Anima Mundi)
+Theme: Schala's Theme
 
 
 ### Hunter

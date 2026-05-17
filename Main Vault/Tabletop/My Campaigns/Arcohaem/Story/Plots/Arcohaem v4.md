@@ -22,7 +22,7 @@ Chapter 2 - Long Live the Republic
 	- It shows a group of [[Frigoshia|Frigoshians]] running away from one Republic soldiers. "[[Frigoshia|Frigoshian]]? Or just a coward in Fur."
 	- [[Frigoshia]] is fighting to live in squalor, don't let them win!
 - Soldiers are on parade
-- Trains are transporting refined Eathyst
+- Trains are transporting refined [[Serendipita|Eathyst]]
 - They are met by [[Kragknull|Commander Kragknull]] in the Republic Senate Building
 
 Chapter 3 - Your Mission
@@ -37,7 +37,7 @@ Chapter 3 - Your Mission
 - They're given some loot to prepare
 
 
-### [[Part 2 (original) - Just Like the Simulations]]
+### [[CLASSIC Part 2 - Just Like the Simulations]]
 Chapter 1 - [[Ammalor]]
 - They travel by caravan to the city of crafts; [[Ammalor]]
 - There's a large military presence. 

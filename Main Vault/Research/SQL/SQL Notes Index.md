@@ -2,3 +2,6 @@
 [[SQL Week 1 Notes]]
 [[SQL Week 2 Notes]]
 [[SQL Week 3 Notes]]
+[[SQL Week 4 Notes]]
+[[SQL Week 5 Notes]]
+[[SQL Week 6 Notes]]

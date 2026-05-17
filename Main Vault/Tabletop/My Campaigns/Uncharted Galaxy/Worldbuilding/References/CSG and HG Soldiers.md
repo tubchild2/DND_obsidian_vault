@@ -45,7 +45,7 @@ aliases:
 	A serum that granted the Dreadnaves additional organs, rapid healing, and enhanced physical abilities. 
 	The amount of serum is represented as a percentage (concentration), with the rest of it being alcohol.
 	Higher volumes and concentrations of the serum tend to produce more genetic aberrations, and can be inconsistent. 
-	Taking multiple injections changes your concentration. Use this [[Formulas|formula]]:
+	Taking multiple injections changes your concentration. Use this [[Formulas c1|formula]]:
  
 $$
 C_n = \frac {(C_1*Ml_1) + (C_2 *Ml_2)} {Ml_1+Ml_2}

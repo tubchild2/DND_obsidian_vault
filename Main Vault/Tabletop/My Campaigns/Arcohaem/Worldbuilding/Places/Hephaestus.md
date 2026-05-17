@@ -5,7 +5,7 @@ Location & Environment
 
 Function & Importance
 - Capital of the [[Republic of Arcohaem]]
-- Houses the primary Eathyst refinery
+- Houses the primary [[Serendipita|Eathyst]] refinery
 - Controls the Republic’s military
 - Most industrialized and wealthiest city in the Republic
 

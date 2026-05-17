@@ -31,7 +31,7 @@ CON: 26 (+8)
 - Full-size escape pod. Functions as an independent ship. Contains a cockpit, emergency supplies, and a seating area.
 - Maintenance room. Contains the shield generator, as well as the ship's engine. You need to be knowledgeable with either engineering or chemistry to interact with either proficiently.
 - Armory. Contains excess weapons, armors, sheet music, and items purchased by [[The Party]]. 
-	- Contains 2 +2AC [[Formulas]].
+	- Contains 2 +2AC [[Formulas c1]].
 	- Contains 6 survival knives.
 	- Contains 6 gas masks.
 	- Contains 5 tailored [[Item Catalogue|exosuits]]. 

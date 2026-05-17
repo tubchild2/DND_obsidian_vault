@@ -2,6 +2,8 @@
 aliases:
   - Ether
   - E-Tech
+  - Ideal
+  - Eathyst
 ---
 
 ![[The Five Realms of Serendipita.png]]
@@ -64,6 +66,18 @@ The following terminology is used by the citizens of Serendipita, as well as the
 | Gigapyte  | 1 Billion     | Boulder                         | LVL 8 spins    | VIII  |
 | Terrapyte | 1 Trillion    | Megalith                        | LVL 9 spins    | IX    |
 | Petapyte  | 1 Quadrillion | Freighter Shipment              | Unknown        | X     |
+##### Ideals
+Ideals are ether created representations of a given idea or concept. Very little is known about them. They come and go, and some only exist for picoseconds. The more general the ideal, the stronger but also less directed the creature. The more specific the ideal, the more intelligent but weaker the creature. No one knows how or why they form. They aren't accepted by the ethological community because of lack of proof. 
+
+The only one documented is the Ideal of Orphans, who will ask you for an amount of gold. If you do not give him gold, he will deal an absurd amount of psychic damage and vanish. While they can be funny, they can also be malevolent eldritch entities. Some scholars postulate that they exist throughout the known universe at the edge of reality, which is why we so rarely see them ourselves. If they do exist, they are far and away the most dangerous creatures in existence. 
+
+Some theorize they predate the first cataclysm, and are older than time itself. 
+
+
+##### The Cataclysms
+Time is the ultimate undoing of everything. Over and over, after an unknown period of time, the power man holds over the forces of nature reaches a breaking point, and everything burns and dies and is wiped away. Depending on the cataclysm, some very well protected or powerful people / objects can survive, but it is impossibly rare. Cataclysms are so ultimately destructive that society resets back to the stone age. It is in the back of the minds of all living creatures in Serendipita; the thought that no matter what, everything is going to be destroyed. 
+
+
 ##### Funnelers
 Funnelers are individuals that use Ether. Funnelers have what's known as a "Folcryst gland," which draws Ether directly from its home dimension and condenses it into a usable form that the funneler can shape. They aren't common, and they aren't uncommon. 
 
@@ -83,10 +97,37 @@ There are several concurrent modern studies of Eathyst. One of the most prominen
 
 ### Active Campaigns
 - Brandon's Campaign
+	- Players
+		- Avery Gilmer -- ?
+		- UNKNOWN
 - Styxas
 	- Set in Styxas
-	- GM -- Avery Gilmer
-	- Aiden's Character -- [[Ratchet Gulliver]]
-- [[Arcohaem]]
+	- GM -- Avery Gilmer / Byron Linck
+	- Players
+		- Aiden Warren -- [[Ratchet Gulliver]]
+		- Byron Linck -- Hynri Le Jyk (deceased)
+		- Avery Gilmer -- Vyron Koybayor
+		- Cole Warren -- Yavrum Vagarn
+		- Brandon Gibson -- Shigru Arifirith
+		- Zane -- Kallos
+		- Eddie Saldana -- Umigame
+- [[Arcohaem]] A
 	- Set in [[Arcohaem]]
 	- GM -- Aiden Warren
+	- Players
+		- Avery Gilmer -- [[PCs A - Arcohaem|Doornail]] "The Bulwark" Stein
+		- Cole Warren -- [[PCs A - Arcohaem|Brogus]] Bobbleheim 
+		- Brandon Gibson -- [[PCs A - Arcohaem|Malgruff]] the Soul-Tearer
+		- Aaron Takatsch -- [[PCs A - Arcohaem|Aeroneiros]]
+		- Skyler Hagen -- [[PCs A - Arcohaem|Rorik]] Valgok
+- [[Arcohaem]] B
+	- Set in [[Arcohaem]]
+	- GM -- Aiden Warren
+	- Non-cannon variant of [[Arcohaem]] A
+	- Players
+		- Hunter Wissenback -- [[PCs B - Arcohaem|Ostos]] "[[PCs B - Arcohaem|RON]]" Bjornson
+		- Bentley Wissenback -- [[PCs B - Arcohaem|Old Man Olaf]]
+		- Luca Dale -- [[PCs B - Arcohaem|Iona Kunetzova]]
+		- Xavi Demello -- [[PCs B - Arcohaem|Lukas Havran]]
+		- Gray Seibold -- [[PCs B - Arcohaem|Tinkle Winkler]] I
+		- JJ Bella -- [[PCs B - Arcohaem|Darrell]] Honor's'swift

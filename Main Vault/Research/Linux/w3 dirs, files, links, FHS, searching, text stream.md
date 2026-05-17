@@ -322,7 +322,7 @@ FHS
 	- ^ matches an expression if it appears at the beginning of a line
 	- $ matches an expression if it appears at the end of the line
 	- \ are used to escape out of these metacharacters
-	- man regex shows all the other metacharacters you can use
+	- man [[regex]] shows all the other metacharacters you can use
 - fgrep
 	- Fixed string grep
 	- Direct string comparisons

@@ -26,7 +26,7 @@ Chapter 2: Long Live the Republic
 	- [[Frigoshia]] is fighting to live in squalor, don't let them win!
 - Exploration
 	- Soldiers are on parade
-	- Trains are transporting refined Eathyst
+	- Trains are transporting refined [[Serendipita|Eathyst]]
 - Senate Building
 	- Protected by several guards accompanied by Commander Kragknull
 

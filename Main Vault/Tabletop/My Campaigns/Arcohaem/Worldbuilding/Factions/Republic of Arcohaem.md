@@ -90,14 +90,9 @@ The Neutral
 - Mr. F. A criminal for hire. Has killed, beaten, stolen, and blackmailed people. Inspired by Mike Ehrmantraut: morally neutral. Does what he's hired to do. Thinks law-breaking is ethically relative. Has lines he won't cross, like anything involving children or innocent people. He doesn't do anything for free, and he doesn't ask questions.
 
 The Bad
-- The White Azalea. A network of drug dealers. They purchase / manufacture drugs and illegal substances. Many of [[Arcohaem]]'s elite on both sides use drugs. Led by Bjorn Halvyr and his family. 
-	- Nightshade. The extract of a poisonous berry that can kill in minutes.
-	- Aberotene. A dangerously strong hallucinogen known to imbue aggression, insanity, and coma. 
-	- Paleamphetamine. An incredibly strong amphetamine that causes weight loss, restlessness, and pale skin. Causes you to stay up for days at a time, and makes you much stronger than normal.  
-	- Tazoverine. A nerve stimulant that causes a euphoric feeling and reduces pain. Makes you feel like you're floating, and causes psychosis after long-term usage. 
-	- Lumen-9. An experimental synthetic [[Serendipita|E-Tech]] drug. It causes temporary muscle growth, focus, energy, aggression, and restlessness. It's primary long-term effect is aggression. It's incredibly expensive and is only used by the absolute best of the best in terms of combat. It got its name from making the eyes of its users glow a low deep red.
+- [[The White Azalea]]. 
 - The Hollow. A decentralized underground black-market economy where anything can be bought. The hubs are well hidden, constantly moving, and protected by armed soldiers with access to [[Serendipita]]'s nastiest [[Serendipita|E-Tech]]. Deals are planned in advance, there's no browsing, and things move quickly. They themselves aren't an organization, but are rather a community or smaller organizations. Majority of [[Arcohaem]]'s elite on both sides deal with the hollow. 
-	- They trade illegal [[Serendipita|E-Tech]], stolen artifacts, legal documents, illegal intel, drugs (courtesy of the White Azalea), and even slaves. 
+	- They trade illegal [[Serendipita|E-Tech]], stolen artifacts, legal documents, illegal intel, drugs (courtesy of [[the White Azalea]]), and even slaves. 
 	- They represent a collective of pirates, thieves, bounty hunters, assassins, hitmen, corrupt lawyers, corrupt policemen, corrupt guards, spies, and illegal traders.  
 - [[Kaul|Chancellor Kaul]] is double dealing and committing massive amounts of treason with [[Atka|King Atka]], [[Malfaust]], and [[Terrik|the Wraith]].
 - Senator B. Current CEO of [[Castle Rock Technology]]. Has been using the war to sell weapons, and taking designs from [[Terrik|the Wraith]] via [[Kaul]]. 
@@ -115,7 +110,7 @@ The Bad
 	- On the Howling Front
 - [[Hephaestus]] (***CAPITAL***)
 	- Located by the volcano Pyrk
-	- Runs [[Serendipita]]'s primary Eathyst refinery due to trade deal with Styxas
+	- Runs [[Serendipita]]'s primary [[Serendipita|Eathyst]] refinery due to trade deal with Styxas
 	- Contains the Republic Senate Building
 - [[Ammalor]]
 	- Known for artisans, trade, and craftsmanship
@@ -135,7 +130,7 @@ The Bad
 	- Hosts the Republic navy
 	- One of the two primary trading ports with greater [[Serendipita]]
 		- Trades with Styxas and Delapagos
-		- The source of the unrefined Styxan Eathyst
+		- The source of the unrefined Styxan [[Serendipita|Eathyst]]
 - Hathor
 	- Largest tribe in [[Arcohaem]]
 	- Produces gourmet produce / animal products
@@ -211,5 +206,9 @@ The Bad
 	- Manages Majors and Colonels
 - General
 	- Manages Commanders
+- Royal Guard
+	- Protects the Chancellor
+- [[Terrik|Lord Commander]]
+	- Captain of the Royal Guard and hand of the King
 - Chancellor
 	- Manages Generals

@@ -5,6 +5,16 @@
 - Brave. He has no fear since he views himself as the protector of his family. Takes risks.
 - Naïve. Despite wanting to help, he's really dumb cause he's 9.
 
+**Tears in Rain / Walter White**
+- An antagonist that knows right from wrong but chooses not to act on it
+- Their time is running out, and fear of death is making them irrational
+- They're hunting down a goal they've had their whole life by whatever means necessary
+- Terminal
+- No inhibitions or restraint
+
+**Straight Man**
+- He has a really strikingly boring backstory and is a reasonable good person. Only works if the rest of the party is insane. He's an exaggerated parody of a normal person, like Tad Strange. He has no interesting backstory, he has no crazy or specific goals, he's here to compliment the other characters and RP with the NPCs. His interactions are successful because he handles things in the normal way.
+
 **Immortal**
 - A character with a healing factor and no other powers. He's constantly regenerating back into the peak human form
 
@@ -17,6 +27,10 @@
 **Terminal Lucidity**
 - Inspired by real story.
 - An Arabic man attempted suicide by fire, leaving his body scorched. He was rushed to the hospital, and hours before he died, he began walking around and kicking things. It was a rare case of terminal lucidity. A burn victim walking with shocking comprehension and strength before death is incredibly creepy.
+
+**Mysterious Stranger**
+- See that one Mark Twain claymation thing
+- Like Satan
 
 **Carter Hayes**
 - [[ID_ Good Fool]]
@@ -82,6 +96,10 @@ Dimensional Planes
 **The Traveler**
 - [[ID_ Traveler]]
 
+- Players have a monster manual in a fantasy world and they hunt monsters
+- Regular Show style premise. Put them into a built world and let them have tiny self-contained conflicts.
+- Time loop where the party wakes up and experiences an insane scenario that usually ends with them dying. Each day, the scenario changes wildly and does genre parodies like Community.
+
 **The Infection of the SMS-88**
 - Brain worm that can only infect people if they're isolated because it emits a bunch of really bright flashing colorful lights. Infected players work against the party to isolate and infect everyone else. The only thing that changes is their intentions and eye color (mention each players eye color in the very beginning and never again to give infected plausible deniability). Make sure players know beforehand that infections occur silently and they have to go along with them. One player is infected near the beginning to begin the conflict. If the party completes their task on the planet/ship, they win. If everyone is infected, they lose. Works best if players have multiple tasks throughout the map and/or separate skillsets that require separation. Make sure infection conditions are vague enough for deniability but strong enough so that people can argue. The goal is paranoia, distrust, and lack of information.
 - Uses The Thing (1984) OST
@@ -133,6 +151,31 @@ Betrayal
 - Have people need to read a long document before taking a test about it
 - The whole time they're doing this, try to distract them by playing tense, escalating music and loud noises and stuff
 - A test of nerves and focus
+
+**Some Ideas for DND classes**
+- Engineer
+	- Like artificer but you add modifiers to objects to allow you to create actually custom items
+	- Modifiers work like Minecraft enchantments but offer more mechanical abilities/synergies
+	- Formulist subclass for making potions
+	- Blacksmith subclass for making weapons / tools
+	- Saboteur subclass for making traps and specifically explosives
+- Telekinetic
+	- You can move objects and people with your mind. 
+	- Class of Body subclass for number / size / weight limits of abilities. Lifting a house and 30 knives. Tank / Environment Manipulation focused.  
+	- Class of Mind subclass for sensing / precision of abilities. Unlocking doors, sonar, and telepathy. Utility / Stealth focused.
+	- Class of Soul subclass for rapidness / velocity / power of abilities. Force push and crushing. Damage focused.
+- Hero
+	- Built around one weapon that you modify and grow in power with throughout the whole campaign
+	- You can recover the weapon at the start of a long rest if you lose it, but there are major consequences for doing so. Don't lose it!
+	- Oathbound subclass makes the weapon sentient. Your power is tied to a vow. Breaking the vow weakens it, keeping it empowers it, like a Paladin. You deal more damage to enemies that align with your values. 
+	- Runecarver makes the weapon sentient and filthy evil. It pushes you to do bad things and you have to make deals with it like a Warlock. Powerful but unstable and tied to RP.
+	- Warbonded gives the weapon a signature ability tied to you that you can customize. Powerful if used properly. The power here is in the customizability. 
+- Elemental for the 4 bending disciplines
+- Ruffian
+	- Charisma based class like Bard, skillset like Rogue
+	- Han Solo, Saul Goodman, and Nathan Drake types
+	- Incredibly persuasive, sneaky, and good with ranged weapons specifically. Skill junkies. Lower health and combat ability. Focus on negotiation, stealth, and ranged combat. 
+- Look into Pathfinder 2e Classes for ideas
 
 **Time Limit**
 - Institute a real-time element to the game to make people hurry and panic and to add elements of tension

@@ -6,7 +6,9 @@ aliases:
 
 ### Personality
 - Devout cultural fanatic
-- Obsessed with dragons
+- Obsessed with dragons and the supernatural
+	- Believes in Ideals
+	- Studies AOTH the Primordial of Chaos from ancient texts that predate the cataclysm.
 - Couldn't give a crap about the industrial revolution if he tried. Whatever allows them to become closer to their draconic ancestors.
 - Believes the ends justify the means
 	- Willing to use anything to maintain power

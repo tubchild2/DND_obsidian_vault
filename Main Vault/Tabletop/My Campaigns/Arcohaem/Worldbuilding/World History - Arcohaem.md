@@ -55,7 +55,7 @@
 
 
 
-### **The [[Republic of Arcohaem]]**
+### **THE [[Republic of Arcohaem]]**
 **The Founding of the Republic** - 12c 604
 - In hopes of reuniting the now mostly independent tribes, Theon Arcson's descendant, Cassius Arcson began to establish a senate based republic in which all of the tribes could collaborate for the greater good of [[Arcohaem]]. 
 - It was called the [[Republic of Arcohaem]], and it was made up of the north, central, and east tribes, for a total of 43 tribes, and 215 senators.
@@ -81,7 +81,7 @@
 - This expanded the Republic to a total of 56 tribes, and 281 senators.
 
 
-### **BLACK WINTER**
+### **THE BLACK WINTER**
 **The Black Winter** - 12c 1101
 - An especially harsh winter rocks [[Arcohaem]], limiting access to food and resources
 - Amid the mass starvation, a growing stigma is forming within the central colonies against traditionalism, as lack of access to advanced technology made this tragedy leagues worse.
@@ -90,29 +90,45 @@
 - [[Malfaust]] the red discovers 55 preserved chromatic dragon eggs from the Draconic Era.
 - [[Malfaust]] invents [[Hard-light]] weapons.
 
-### **DAWN OF A NEW ERA**
+### **THE DAWN OF A NEW ERA**
 **The Industrial Revolution** - 12c 1252
 - Electricity and [[Serendipita|Ether]] studies have been revolutionized over the past several years
-- The entirety of [[Serendipita]] is changing, but no where are these changes more apparent than in eastern [[Serendipita]]. Eathyst is mined, studied, and used in all of east [[Serendipita]], but refinery is expensive. 
-- A trade deal was offered by Hades of Styxas, one in which [[Arcohaem]] would use their natural resources and geothermal energy to refine Eathyst into a usable form. It would be incredibly profitable on both of their ends.
+- The entirety of [[Serendipita]] is changing, but no where are these changes more apparent than in eastern [[Serendipita]]. [[Serendipita|Eathyst]] is mined, studied, and used in all of east [[Serendipita]], but refinery is expensive. 
+- A trade deal was offered by Hades of Styxas, one in which [[Arcohaem]] would use their natural resources and geothermal energy to refine [[Serendipita|Eathyst]] into a usable form. It would be incredibly profitable on both of their ends.
 - The senate has been resisting these changes, especially the northern tribes. They feel that this new technology will harm their way of life, and they don't want it to change. They like that it's simple.
 - The deal was stuck on a stand still for a couple of years...
 
-**[[Terrik]]'s Fall From Grace** - 12c 1252
-- Captain [[Terrik]] of the [[Republic of Arcohaem]] was one of the greatest soldiers who'd ever lived. He had dedicated his life to training, strategy, and honor for the Republic. 
-- He was far more popular and more skilled than any of his peers. He was nationalistic, and what everyone from the Republic aspired to be. Above all else, [[Terrik]] was obsessed with vanity. He spent money on outfits, vases, art, mansions, carpets, etc.
-- [[Terrik]] was insulted by Senator Blackwater of Ravmyr. He wanted what he had, and was suspicious. He discovered that was connected to the White Azalea, and was killing people for power. [[Terrik]] confronted him and was attacked. In self-defense, he murdered him. He then stole many of his valuables and relished the ego push this kill gave him. He staged it as a suicide and imperfectly covered his tracks. 
-- The White Azalea wanted him dead. He began to fight back against them, slowly allowing himself to kill more and more freely. He believed he was securing justice, and it inflated his ego. He began to kill people in punishment for their corruption. His sense of vanity and ego drove him to indulge in worse and worse actions; the shame slowly faded with each worse action. He framed Senator Sigurd of Ravmyr for a murder, for which he was imprisoned. 
-- In an attempt to get blackmail on [[Terrik]] so that his Senator Sigurd could be freed, Sigurd's brother, Erik, broke into [[Terrik]]'s estate and began to search the home. Instead, he found [[Terrik]]'s fiancé, Ingrid, who (in a panic) he shot and wounded. [[Terrik]] heard the gunshot and found Ingrid, who'd bled out on the carpet. 
-- [[Terrik]] pursued the man into the streets of [[Hephaestus]], and beat him to death. In a panic, he imperfectly hid the body, and was caught. 
-- He was arrested, stripped of his titles, and publicly shamed. His extensive criminal record was discovered, and he was set to be executed. He regret nothing, and said he'd do it all again. He'd lost all faith in the Republic.
-- During his execution, hot oil was poured on his face and ignited, horrifically scarring him, but he managed to kill the torturer and escape.  
-- He fled to the wastes of Torbekk, where he was presumed dead. His skin turned pale and blue from the cold, and that combined with his scars made him look like a walking corpse.
-- The extreme emotional distress he'd been placed in caused him to flood and develop [[Serendipita|ether]] capabilities. Though a powerful funneler, he refuses to use it because he prefers traditional combat.
+**[[Terrik]]** - 12c 1252
+- Part 1
+	- [[Terrik]] came from dirt. He dedicated his life to his military service in pursuit of greater Republic values. He obsessed over his training, and would punish himself for doing anything sub optimally. He was a deeply insecure and sad man who didn't like who he was and where he came from.
+	- Over the years, he became renowned for his excellence. He became by far one of the greatest war heroes in [[Arcohaem]]. He used his funds to by clothes, art, mansions, food, and drink. His sense of vanity and ego compensated for his self-hatred. 
+	- He was being honored at a gala because he had saved several of his men. His war buddy was shot, and they made no difference in the war. He wasn't having a great time, and was feeling pessimistic about the war. Then, he was insulted and humiliated by Senator Blackwater of Ravmyr. He was acting strangely, and [[Terrik]] suspected he was drunk or high. He was hurt and wanted revenge. 
+- Part 2
+	- [[Terrik]] snuck into Blackwater's hotel room that night. He went rifled through his things, and discovered [[The White Azalea|Hush]], and connections to [[the White Azalea]]. Blackwater woke up to go to the bathroom, and while [[Terrik]] was trying to leave, Blackwater pulled a pistol on him. 
+	- Blackwater threatened and tried to kill him, and [[Terrik]] defended himself and killed him with his own gun. 
+- Part 3
+	- [[Terrik]] panicked and hid the body in the other room. He wrote a fake suicide note covered in [[The White Azalea|Hush]] and snuck out. 
+	- While leaving, [[Terrik]] felt a sickening sense of excitement. The thrill of what he had just done caused his heart to skip a few beats. He buried that and ran, knowing that was wrong.
+	- Reeling from his past actions, he became more self-destructive. He got drunk the next night and isolated himself. It ate away at him and he couldn't get it out of his head. 
+	- [[Terrik]] learned that he had gotten away with Blackwater's murder, and everyone in the Senate building was in shock at his "suicide"
+	- In the official statement to the public, they completely ignored [[the White Azalea]] connection. In fact, they lied about it. That made [[Terrik]] suspicious. [[Terrik]] then met with his war buddy's parents to console them, but the story they were told wasn't true. In fact, it was leaving out a lot of important details that painted him as a coward. 
+- Part 4
+	- [[Terrik]] hunted down the messenger behind Blackwater's memorial. He'd been paid to lie about it by the Chancellor so that the "image of the Republic wouldn't be harmed." He also apparently knew that foul play was involved in his death. 
+	- [[Terrik]] went home and contemplated. He picked up a dagger and left his home in disguise. He entered the messengers home and murdered him. He took the body this time and threw it in the river. 
+- Part 5
+	- It had been a few months. He was acting much more egotistical than before, and was insulting his girlfriend Ingrid. She said he'd changed, and she went to bed. It's implied he'd taken many more corrupt Republic lives. 
+	- Evan Blackwater broke into [[Terrik|Terrik's]] home in an attempt to get revenge. He encountered the couple and started crying. He knows [[Terrik]] did it, since his brother would never take his own life. [[Terrik]] denied it, causing Evan to break down even more. Evan says that he can't take [[Terrik]]'s life, but he can take the life of someone he cares about to show him what it's like. [[Terrik]] pleaded with him, and when he saw it wasn't going to work, he told his girlfriend to run. But it was too late, Evan shot her in the back and she collapsed.
+- Part 6
+	- [[Terrik]] picked her up and tried to talk to her. She was gone. Evan told him "now you know what it's like. My brother wasn't a good man, but he didn't deserve this." [[Terrik]] turned around with murder in his eyes. Evan ran, and [[Terrik]] chased after him. In the middle of a public square, [[Terrik]] beat Evan Blackwater to death. A crowd of people gathered around.
+	- [[Terrik]] was arrested, stripped of his titles, and publicly shamed. A bunch of phony charged were applied to him, and he was set to be executed. He collapsed in his cell, incapable of understanding how the Republic could do this to him, and bitter about losing everything he cared about. 
+	- During his private execution, hot oil was poured on his face and ignited, horrifically scarring him, but he managed to blind the torturer and escape. He went into exile.
+- Part 7
+	- He fled to the wastes of Torbekk, where he was presumed dead. His skin turned pale and blue from the cold, and that combined with his scars made him look like a walking corpse.
+	- The extreme emotional distress he'd been placed in caused him to flood and develop [[Serendipita|ether]] capabilities. Though a powerful funneler, he refuses to use it in combat because he prefers traditional hand-to-hand fighting.
 
 **[[Terrik]], the Hand of [[Malfaust]]** - 12c 1253
 - Hopelessly lost, [[Terrik]] set up camp inside of a cavern somewhere in the far north. 
-- He felt completely hopeless, defeated, and depressed. He'd lost absolutely everything he had, and had begun to develop some pessimistic philosophies. He believes that man is inherently evil, and that there's no way to fully undo it. The right thing is relative depending on the situation, but there's no way to make people see what he'd done as that. The thing he missed most was the fame and fortune.
+- He felt completely hopeless, defeated, and depressed. He'd lost absolutely everything he had, and had begun to develop some pessimistic philosophies. He believes that man is inherently evil, and that there's no way to fully undo it. The right thing is relative depending on the situation, but there's no way to make people see what he'd done as that. He missed his pride and vanity.
 - From the caverns, he heard a voice calling to him. He cautiously entered, weapons drawn. There, he encountered [[Malfaust]].
 - He was prepared to fight the beast (likely to his own demise) that was supposed to not only be extinct, but also blood boilingly evil.
 - [[Malfaust]] asked him questions to learn why he was wandering all alone. With not much to lose, [[Terrik]] told him.
@@ -138,7 +154,7 @@
 **Rising Tensions** - 12c 1254
 - [[Kaul]] becomes chancellor in a crisis vote after the current Chancellor is assassinated by [[Terrik|the Wraith]]. His body is found pinned to the ceiling with his own spear, covered with claw marks and scorched lacerations. Deaths like these have been happening for the past year on both sides, being attributed to a monster referred to by the public as "[[Terrik|The Wraith]] of [[Arcohaem]]" which is how [[Terrik]] officially got his alias.
 - [[Kaul]] pushes in the new changes; he wants more [[Serendipita|E-Tech]], the extremely profitable deal with Hades, the development of weapons to prevent assassinations like these from happening. This greatly upset of the northern tribes, who turned to [[Frigoshia]] for guidance. [[Atka]] resists and begins making threats about declaring independence, which is becoming a popular sentiment among the northern tribes.
-- The senate votes to accept the deal with Styxas with a 166-122 vote, making [[Hephaestus]] [[Serendipita]]'s new hub of Eathyst refinery. Their technology booms, but is bulky, inefficient, inelegant, and more concerned with raw power than efficiency. 
+- The senate votes to accept the deal with Styxas with a 166-122 vote, making [[Hephaestus]] [[Serendipita]]'s new hub of [[Serendipita|Eathyst]] refinery. Their technology booms, but is bulky, inefficient, inelegant, and more concerned with raw power than efficiency. 
 
 
 ### **THE CIVIL WAR**
@@ -170,8 +186,9 @@
 - [[Terrik|The Wraith]] met with [[Kaul]] and revealed who he was, and part of [[Malfaust]]'s plan. He dropped the "friend" act, and threatened to kill him, and his family, and his friends, and make someone else Chancellor who would listen to him if he didn't do exactly what he wanted. [[Terrik]] absolutely hates [[Kaul]] because of what he did to him. This was a serious complication, and it needed to be handled seriously. [[Kaul]] was terrified. He saw [[Malfaust]]'s plan as inevitable at this point, so he agreed that he'd help the mission to fail if he was promised a seat in [[Malfaust]]'s new empire. [[Terrik|The Wraith]] said that he'd be spared if he obeyed, as well as given a sizeable amount of wealth, but rulership belonged to his master. [[Kaul]] agreed.
 - [[Kaul]] needs the mission to fail, but he can't ignore it or the Senate will be suspicious of treason. So, using his influence, he selected the [[PCs A - Arcohaem|Wolves of Arcohaem]] to handle the mission, banking on their inconsistency to ruin the mission. They need to infiltrate [[Frigoshia]] and destroy the program before it's too late. This wasn't a popular or sensible decision, but [[Kaul]] knew how to put money in the right places to keep the wheels from squeaking, and he was trusted enough to get the mission approved.
 - [[Terrik|The Wraith]] has a plan
+	- He's going to seize control of [[Kaul|Chancellor Kaul]]'s royal guard so that he can observe his dealings. He's taking the name [[Terrik|Lord Commander Galen]]. He'll remain silent and avoid everyone unless the mission demands otherwise. 
 	- He's going to get [[Kragknull|Commander Kragknull]] (their overseer) framed so that he can get [[Kaul]] direct control over their mission to push them somewhere that'll get them killed.
 	- He's going to have [[Kaul]] develop a cover-up, but that's long-term; their deaths would be a means to buy him time and to distract the Senate.
-	- He's going to try to scare them off early.
-	- He's going to try to kill them once they're in enemy territory to make it seem like they failed.
-	- He's going to move the primary dragon breeding program to ensure they don't find anything even if they do make it there.
+	- He's going to try to scare them off early
+	- He's going to try to kill them once they're in enemy territory to make it seem like they failed
+	- He's going to move the primary dragon breeding program to ensure they don't find anything even if they do make it there

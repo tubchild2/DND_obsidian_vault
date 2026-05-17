@@ -11,6 +11,12 @@
 - Make NPCs helpful unless necessary
 - Start each session by painting an immersive picture
 
+## Groups
+- Avery, Skyler, Brandon, Cole, Aaron
+	- Focus on combat and progress
+- Xavi, Luca, Hunter, Bentley, JJ, Gray
+	- Focus on RP and story
+
 ## Creating Cities
 Cities should be simple, and distinctly themed with a visual component, that's gameplay first. It should be filled with cool themed experiences that appeal to your players (not all shops). Don't worry too much about details or realism unless they relate to gameplay.
 

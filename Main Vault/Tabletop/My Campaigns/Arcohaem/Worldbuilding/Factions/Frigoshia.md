@@ -80,9 +80,15 @@ As of 12c 1266
 - Norby
 - Sandstaor
 - Tjernfell
+	- Predominately high mountains and fjords
 - Beirdall
+	- Predominately taiga
+	- Dense snowy forests
 - Freyrhage
 	- On the Howling Front
+	- Coastal cliffs
+	- Arctic plateaus
+	- Transitions into shallow ravines towards the west
 - Ragklint
 - Lnvell
 - Ravmyr
@@ -92,6 +98,7 @@ As of 12c 1266
 	- On the Howling Front
 - Holtgard
 - Aburbekk
+	- Predominately high mountains and fjords
 - Vindberg
 	- On the Howling Front
 - Denndal

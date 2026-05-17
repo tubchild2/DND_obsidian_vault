@@ -25,7 +25,7 @@
 		- [x] [[Frigoshia]] is fighting to live in squalor, don't let them win!
 	- [x] Let them explore
 		- [x] Soldiers on parade
-		- [x] Trains transporting refined Eathyst.
+		- [x] Trains transporting refined [[Serendipita|Eathyst]].
 		- [x] Propaganda
 	- [x] Senate Building
 		- [x] Protected by several guards accompanied by Commander Kragknull. He welcomes them back to the Republic and leads them to the briefing room, which has 3 tall windows overlooking the city, and busts of Chancellor Kaul.

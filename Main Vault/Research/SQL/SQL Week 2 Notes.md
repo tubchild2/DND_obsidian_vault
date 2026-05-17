@@ -108,6 +108,7 @@ Boolean Operators
 | varbinary         | Other    |        | Stores variable length binary data up to a maximum of 2 gigabytes.                                                                                           |
 | bool              |          | 1      | stores a true or false value                                                                                                                                 |
 | bit               |          | 1      | Values of 0 or 1                                                                                                                                             |
+
 **Datatype Conversion**
 - CAST(value AS DATATYPE)
 	- For concatenation, you sometimes need to cast numbers to varchars

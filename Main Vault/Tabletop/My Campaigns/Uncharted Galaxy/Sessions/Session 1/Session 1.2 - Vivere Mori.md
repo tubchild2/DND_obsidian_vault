@@ -86,7 +86,7 @@ Slot Machines (Standard)
 | Three 20s       | 2000c        |
 
 
-- The bar. Chaz Grober is working as the bartender. You can order food, drinks, and (secretly) [[Formulas]]. 
+- The bar. Chaz Grober is working as the bartender. You can order food, drinks, and (secretly) [[Formulas c1]]. 
 		- They have a few specials today
 			- Jellyfish Pie
 			- Elysian Snake Steak
@@ -94,8 +94,8 @@ Slot Machines (Standard)
 			- Inferno Shot
 			- Aether Bloom
 			- Bohrium Sunrise
-	- See [[Formulas]]
-		- (be all secret about it) We've got all the best stuff. What kind of [[Formulas|formula]] you lookin for? I'm sure our guys can whip something up. 
+	- See [[Formulas c1]]
+		- (be all secret about it) We've got all the best stuff. What kind of [[Formulas c1|formula]] you lookin for? I'm sure our guys can whip something up. 
 
 ### Larry's Pawn Shop and General Store - Petroleum Pass
 **Exterior**
@@ -134,7 +134,7 @@ Slot Machines (Standard)
 	- [[Exotic Metals|Nethrium]]
 	- [[Exotic Metals|Illidium]]
 	- [[Galactic Standards]]
-	- [[Formulas]]
+	- [[Formulas c1]]
 	- [[Spins]]
 	- [[Vivimus]]
 	- [[Vivere Mori]]
