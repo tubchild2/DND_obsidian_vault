@@ -71,7 +71,7 @@ Prehistory
 - [[Mano di Dio|The Mano di Dio]] (the key ingredient in making a larger [[Portals C1|gateway]]) was stolen by [[Pluto]]. With no way to produce [[Exotic Metals|Nethrium]] without the [[Tessali]] (which was also stolen), Tod's plans were ruined. He became furious with [[Bradford]]. He'd keep him alive until he recovered the statue. In the meantime, Tod would grow in power to make himself a [[The True Nature of Existence|Key Item]]. 
 
 12024
-	He's spent 2000 years forcing [[Bradford]] to comb [[The Galaxy]] for [[Mano di Dio|the Mano di Dio]].
+	He's spent 2000 years forcing [[Bradford]] to comb [[The Galaxy c1]] for [[Mano di Dio|the Mano di Dio]].
 
 **Agenda**
 1. Become as powerful as physically possible to become a [[The True Nature of Existence|Key Item]]. 

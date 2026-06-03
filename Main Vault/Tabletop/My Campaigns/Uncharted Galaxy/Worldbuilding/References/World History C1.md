@@ -30,7 +30,7 @@ Prehistory
 	Simeon Galling privately reactivates the [[Armstrong Initiative]].
 
 10012
-	Simeon discovers the [[Tessali]], and [[Exotic Metals|Nethrium]]. [[House Galling]] becomes the richest and most corrupt house in [[The Galaxy]].
+	Simeon discovers the [[Tessali]], and [[Exotic Metals|Nethrium]]. [[House Galling]] becomes the richest and most corrupt house in [[The Galaxy c1]].
 
 10018 
 	Simeon Galling dies of old age, and his son [[Bradford]] is made [[House Galling|Patriarch]] of [[House Galling]]. He was harassed and not respected. 

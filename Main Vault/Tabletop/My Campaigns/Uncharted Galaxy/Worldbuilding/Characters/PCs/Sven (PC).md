@@ -125,7 +125,7 @@ Personality
 - **Physically fragile, yet bold.** Him and death are chill with one another.
 
 Backstory
-- **Born Under Mysterious Circumstances.** Born to changelings somewhere in [[The Galaxy]]. He never knew his parents. As a changeling, he has no culture, no history, no relatives, and no identity. 
+- **Born Under Mysterious Circumstances.** Born to changelings somewhere in [[The Galaxy c1]]. He never knew his parents. As a changeling, he has no culture, no history, no relatives, and no identity. 
 - **Frail as all Get Out.** Incredibly fragile due to a bone defect when shapeshifting. 
 - **Generally Good.** Raised in a [[Federation C1]] Orphanage. He was the victim of a lot of mistreatment from a young age. He was a good friend of an [[Illeth]] slave, and didn't buy into the propaganda about them.
 - **Heroic Aspirations.** Wanting to make a difference in the world, he joined the [[Federation C1]] army. On one mission, he was dispatched to kill a band of [[Heretics]]. They turned out to be an [[Illeth]] family that was more scared than anything. The father was wounded, so he carried him to safety.

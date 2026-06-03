@@ -191,14 +191,13 @@ The Bad
 	- Advanced [[Serendipita|E-Tech]] weapons
 	- Independently, they aren't very skilled
 	- Light Viking-Inuit armor
+- Major
+	- The Wolves classify as Majors; where most war-heroes operate
+	- Usually formed into strike teams, where each member functions as an equal
 - Captain
 	- Differentiated by bright blue and green stripes on their armor
 	- Leads a battalion of soldiers
 	- Allowed to operate war mounts
-- Major
-	- The Wolves classify as Majors; where most war-heroes operate
-	- Outrank Captains
-	- Usually formed into strike teams, where each member functions as an equal
 - Colonel
 	- Manages captains
 	- Allowed to operate [[Serendipita|E-Tech]] war vehicles

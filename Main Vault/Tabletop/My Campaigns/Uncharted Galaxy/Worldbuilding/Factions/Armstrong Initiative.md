@@ -6,7 +6,7 @@ aliases:
 ![[Armstrong Initiative Flag.png]]
 
 7070 
-	The Armstrong Initiative is founded by the [[Federation C1]] to produce humans that could match the rest of [[The Galaxy]]'s powerful creatures.
+	The Armstrong Initiative is founded by the [[Federation C1]] to produce humans that could match the rest of [[The Galaxy c1]]'s powerful creatures.
 
 7081 
 	The [[Federation C1]] has the initiative experiment with bioweaponry. They moved onto [[Vivimus]] and established a secure underground bunker in [[Beholder's Reach|Wyrm's Rest]]. During testing, a scientist named [[Mikhail Volkov]] created the [[Fernites|Fernite]], a creature designed to be as adaptable and viral as possible. It spread to him, and to the other scientists within minutes. The mutations followed soon after, as the creatures nearby were given part human DNA. The [[Fernites]] rapidly spread through [[Beholder's Reach|Wyrm's Rest]], and emerged onto the surface via geysers and eruptions within days. Once the [[Federation C1]] was informed, it was far too late. The virus was spreading far faster and more aggressively than they could contain. It quickly overtook the planet, so the initiative destroyed all evidence of their involvement. 

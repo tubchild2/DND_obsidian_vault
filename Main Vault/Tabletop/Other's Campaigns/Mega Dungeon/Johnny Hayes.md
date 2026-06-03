@@ -3,53 +3,15 @@ Species: Halfling
 Class: Bard
 Background: Wayfarer
 
-### **PERSONALITY**
-**FLAWS**
-- Terrible Memory
-	- Can't read
-	- Can't write
-	- Can't do math
-- No Plan
-	- Acts almost entirely off of improvisation because he's bad at making and following plans
-- Insecure
-	- Views everyone as literally superior.
-	- Isn't OK with this
-	- Don't tell me what I can't do!
-- Naive
-	- Very easily tricked because he gives takes many things at face value
+##### **Personality**
+An illiterate dyscalculic man with a terrible memory, no plan, and no insight. He's insecure because of his mental challenges and views everyone else as literally superior. He's a loving, encouraging, apologetic, forgiving, and brave knight in shining armor. He is commonly underestimated for his complete lack of... well most things, but he can entertain people and can be funny (intentionally or not). He likes the color green, chicken fingers, apple juice, and Weird Al Yankovic.
 
-**TRAITS**
-- Loving
-	- Refuses to let anything bad happen to anyone else if he can do anything about it
-	- Sees the best in people
-	- Trusts everyone
-- Encouraging
-	- Builds other people up and is genuinely impressed by everyone for something
-- Apologetic and Forgiving
-- Commonly underestimated
-	- He isn't intimidating
-	- He can be funny (intentionally or not)
-- Courageous
-	- He's fully aware he has no idea what he's doing, and he willingly goes into situations he's woefully unprepared for with full understanding that he'll more than likely lose, because he knows that it's the right thing to do.
-- Likes to entertain people
-	- Is currently learning to play the guitar
-	- Very determined to get better
-
-**GOALS**
+Goals
+- Prove himself
 - Help people
-- Become popular
-	- He really just needs a friend / self-esteem, but he doesn't know that
-	- He thinks being a really good guitarist will make him popular
-
-**FUN FACTS**
-- Favorite color: green
-- Favorite food: chicken fingers
-- Favorite drink: apple juice
-- Favorite artist: Weird Al Yankovic
-- Favorite song: Breathe (In the Air) by Pink Floyd
 
 
-### **ROLEPLAY REMINDERS AND BITS**
+##### **RP Bits**
 **ROLEPLAY REMINDERS**
 Physical
 - Use lots of hand movements

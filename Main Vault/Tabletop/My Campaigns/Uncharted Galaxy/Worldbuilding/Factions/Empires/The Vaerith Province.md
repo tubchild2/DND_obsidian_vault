@@ -9,7 +9,7 @@ aliases:
 
 ### General Information
 - The monarchy of the Aasimar. They predate humanity by a few thousand years. Descended from the eldritch alien Seraedeth. Birthed on Seraphin. 
-- Known for their general chillness. They're like the swiss, they don't get involved. They've had less wars than any other [[The Galaxy|local empire]]. 
+- Known for their general chillness. They're like the swiss, they don't get involved. They've had less wars than any other [[The Galaxy c1|local empire]]. 
 ### History
 - 4000 years ago they moved the capital to Vaerithh. 
 

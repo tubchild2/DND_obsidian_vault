@@ -1,194 +1,123 @@
-### **THE BEGINNING OF THE CYCLE**
-**The Dawn of the Cycle** - 12c 0
-- Following the last great cataclysm
-- World resets back to a primal state
-- Technology is reduced, people are scattered, and resources are scarce
-**The Dragons** - 12c 0
-- There are two kinds of dragons; metallic and chromatic. The metallic dragons are peaceful and friendly, but the chromatic dragons are aggressive and greedy.
-- They hated each other, and unfortunately, the metallic dragons weren't able to keep the chromatic dragons in check for very long. 
+#### The Draconic Age
+12c 0 - **The Dawn of the Cycle**
+	Following the last great cataclysm, the world has reset back to a primal state. Technology is reduced, people are scattered, and resources are scarce. 
+	Dominating the food chain are the dragons. The peaceful metallic dragons were driven out by the sadistic chromatic dragons.
+	This year, a fiery and radical natural leader named Leander Arcson is born. 
+
+12c 37 - **The Draconic Age Begins**
+	The chromatic dragons began to lord over the primitive surviving people. Anyone who didn't fully devote themselves to the dragons were enslaved, weaponized, or eaten. The dominant draconic empire was ruled by Tiamat, in the volcanic caverns beneath northwest [[Serendipita]]. 
+
+12c 44 - **The Contradraconic Rebellion**
+	There were hundreds of dragons, majority of which were young. Killing one was a long and brutal process. To earn their freedom, a band of rebels led by Leander began to take out the dragons one by one, and destroy any young dragons to prevent the birth of any new offspring. 
+
+12c 46 - **Theon**
+	Leander Arcson and his wife Anahita had a child named Theon. Around this time, fanatical tribes began to revolt from within the rebellion. They believed in rightful draconic rule, and slowed things down dramatically. 
+
+12c 117 - **The Draconic Age Ends**
+	After 80 years of conquest, almost all of [[Serendipita]] has been freed. Moral compromises had to be made to ensure man's victory, which unfortunately led to the assassination of a now misguided and distracted Leander Arcson by his son Theon. Theon was must more cruel and calculated, and led a far more successful campaign in his father's place. By the end of 117, the only remaining empire was that of Tiamat in modern-day [[Arcohaem]]. The battle took 3 months, and spanned the entire region. Tiamat obliterated the landscape, and almost all of the natives died. On New Year's Eve, they severed the last head of Tiamat, and finally freed the land. 
 
 
+#### The Tribes of [[Arcohaem]]
+12c 118 - **Remnants**
+	Seeing the fall of Tiamat, the remaining dragons went into hiding. Chief of which was [[Malfaust]] the Red, Tiamat's primary general. He wanted rulership, and had a cunning plan that would have to wait centuries. The heretical followers of Tiamat dispersed throughout [[Arcohaem]] in secret, and incorporated themselves silently into the growing mass of people. They constructed temples hidden deep in the mountains where they'd conduct their business, but their search for new dragons would be ultimately fruitless. 
 
-### **THE DRACONIC AGE**
-**The Draconic Age Begins in [[Arcohaem]]** - 12c 37
-- The metallic dragons were pushed out of [[Serendipita]] completely.
-- The remaining chromatic dragons, now unmatched in power, began to lord over the people. The people, with nothing but rudimentary technology and basic Ethology, were no match for them, so they had no choice but to obey.
-- Under draconic rule, those who didn't devote themselves with absolute conviction were enslaved, weaponized, or eaten.
-- In northwest [[Serendipita]] (now known as [[Arcohaem]]) Tiamat began the largest draconic empire from the expansive volcanic caverns situated there.
+12c 119 - **The Tribes of [[Arcohaem]]**
+	After a couple years, Theon Arcson claimed the land of [[Arcohaem]] (naming it after himself). He devoted its regions to the descendants of the tribes that once lived there. Each tribe was given complete political freedom and independence, but were to remain at peace with one another to function as a larger entity. Theon founded [[Hephaestus]], and operated as a spiritual leader to his people. 
 
-**The Rebellion Begins** - 12c 44
-- There were hundreds of dragons throughout northwest [[Serendipita]], some of which could level entire cities.
-- Killing a dragon was a long, brutal process. No matter what, over half of the aggressor's men would be lost.
-- To earn their freedom, a band of rebels began to form in the shadows and crevices where draconic influence wouldn't reach.
-- They were led by one Leander Arcson, a man who was born at the dawn of the cycle. His future son, Theon Arcson, would take his place after his death. He would be born in 12c 46.
-- Their plan was simple; destroy dragon eggs and young dragons first to prevent the development of more powerful dragons. Then, slowly pick off the remaining powerful dragons one at a time. Their plan hinged on two things: time, and numbers. Rebels were guaranteed to die in battle, but over time and with enough of them, they would claim victory.
+12c 122 - **Death of Theon**
+	Theon Arcson passed away at the age of 76. He had had 5 wives and 12 children. Without a single leader, even if only in spirit, small skirmishes and political rivalries began to form among the tribes that would escalate over the coming centuries. 
 
-**The Rebellion Invades [[Arcohaem]]** - 12c 117
-- After 80 years of bloody conquest, the rebels have pushed back the dragons into northwest [[Serendipita]]. It was a painful, grueling process, and wasn't even close to a clean victory. 
-- Fanatical tribes revolted against the rebellion, leading to several major setbacks in the war.
-- At the end of the year, they marched into Tiamat's territory. The battle took 3 months, and spanned the entire northwest region of [[Serendipita]]. Tiamat obliterated the region, all of the natives, and almost all of the rebellion. 
-- On New Year's Eve, they severed the heads of Tiamat, her many draconic children, and all of her servants. Her eggs were destroyed or neutralized for display, and [[Serendipita]] was finally freed.
-- The remaining dragons, seeing the fall of Tiamat, went into hiding.
+12c 604 - **The [[Republic of Arcohaem]]**
+	Theon Arcson's descendant, Cassius Arcson, began rallying for the establishment of a senate based Republic in [[Hephaestus]] to reunite the now mostly independent tribes. Over the past 3 years, more tribes had become interested, and it eventually gained enough traction to be accepted and established. Initially, it was made up of the 43 north, central, and eastern tribes. Each tribe elected 5 senators, each with their own aides, advisers, and delegates. The senate would meet and vote on matters raised by the Chancellor, who is elected by the Senate every few years. The culture of change and advancement flourished in the central tribes, which were now the capital of the Republic due to their proximity to [[Hephaestus]]. 
 
-**[[Malfaust]] The Red** - 12c 117
-- [[Malfaust]] was Tiamat's main general, and one of the lone survivors of the Draconic Era. 
-- He wanted to rule, but this time he wouldn't underestimate mankind. 
+12c 625 - **The North**
+	The northern tribes were much less interested in change and advancement than the central tribes. They valued culture, tradition, and honor. [[Frigoshia]], nestled in the mountains of Thrall, were far and away the most emblematic of these ideals. They were a warrior people that resisted change and fought to keep their lives intact. Several other northern tribes began siding with [[Frigoshia]] out of principle. 
+
+12c 656 - **The South**
+	Fearing that their lack of influence over greater [[Arcohaem]] could endanger their independence and way of life, the southern tribes decided to join the Republic. They have no interest in anything other than protecting their own interests and freedom, so they seldom participate. 
+
+12c 708 - **The [[East Arcohaem Trade Union|EATU]]**
+	Trade with greater [[Serendipita]] began to boom during this time with more accessible trade ships. Lemnaeus, an eastern tribe, controlled an incredibly profitable port, which the east didn't want to lose control over. So, they established the [[East Arcohaem Trade Union]], which was a subsect of the senate that meets privately to ensure the interests of the East are protected. The president of the [[East Arcohaem Trade Union|EATU]] has a seat in the senate and acts as a representative of the east.  
+	Thus, we enter the golden age of the Republic, with all 56 tribes, and 281 Senators.
 
 
+#### The Revolution
+12c 1101 - **The Black Winter**
+	An especially harsh winter rocked [[Arcohaem]], causing severe famines across the land. Repeatedly, the north has roadblocked the senate from investing in modern technology for [[Arcohaem]]. Because of this lack of modern technology and high population density, the central tribes were hit especially hard. This caused a growing stigma against the north and against their traditionalism. 
+	[[Malfaust]] had been wandering the Volcanic caverns for centuries, plotting his escape and eventual return to power. He'd been studying the people above, studying their technology, and inventing his own weapons, like [[Hard-Light]]. Due to the winter, [[Malfaust]] began to explore several previously inaccessible locations. In a cavern, hidden deeper underground than he'd even been before, [[Malfaust]] discovered a hidden cache with 55 frozen, perfectly preserved dragon eggs. 
 
-### **THE FOUNDING OF [[Arcohaem]]**
-**Theon Founds the Tribes of [[Arcohaem]]** - 12c 118
-- Not wanting to reestablish a monarchy, Theon Arcson claimed the land of [[Arcohaem]] (naming it after himself), and devoted its regions to the descendants of the tribes who once lived there.
-- Each tribe was allowed to exercise complete freedom and independence from one another, but were to remain at peace with one another to function as one larger entity. 
-- Theon lived in the tribe of [[Hephaestus]]. He wasn't a ruler, but more of a spiritual leader of [[Arcohaem]]. [[Arcohaem]] wouldn't truly unite for centuries.
+12c 1252 - **The Industrial Revolution**
+	Electrical and [[Serendipita|E-Tech]] studies have been revolutionized over the past several years. All of [[Serendipita]] was changing. A trade deal was offered b Hades of Styxas, in which [[Arcohaem]] would use its natural geothermal energy to refine his [[Serendipita|Eathyst]] for sale and distribution. It would be incredibly profitable on both of their ends, because their volcanoes could do it for basically free. The north immediately moved to reject the deal, placing it into limbo for a couple of years.
 
-**Roots Soaking in Blood** - 12c 120
-- The remaining followers of Tiamat dispersed throughout [[Arcohaem]] in secret, and incorporated themselves into the newly founded tribes. 
-- They contributed heavily to the overall culture, establishing a culture of warriors, honor, and hunting. 
-- Their descendants also carried on their legacy of greed, power, and subjection. 
-- Before they died out over the coming years, they longed for the return of the Draconic Age. They constructed a few hidden temples, but their search for dragon eggs would be ultimately fruitless. 
-
-**The Death of Theon Arcson** - 12c 122
-- About a decade after the end of the war, Theon Arcson passed away at the age of 76.
-- From this point on, [[Arcohaem]] lacked a singular leader, even if only in spirit. 
-- Though no wars would occur, small skirmishes and disagreements would escalate over the coming centuries. 
-
-
-
-### **THE [[Republic of Arcohaem]]**
-**The Founding of the Republic** - 12c 604
-- In hopes of reuniting the now mostly independent tribes, Theon Arcson's descendant, Cassius Arcson began to establish a senate based republic in which all of the tribes could collaborate for the greater good of [[Arcohaem]]. 
-- It was called the [[Republic of Arcohaem]], and it was made up of the north, central, and east tribes, for a total of 43 tribes, and 215 senators.
-- Each tribe selects 5 senators, each with their own aides, advisers, and delegates. The senate meets with all of the senators and votes. The senate is overseen and managed by the Chancellor, who is elected by the senate. 
-- The central tribes were the ones responsible for the creation of the senate, so they saw a boom in their economy and culture. They want to usher in change where possible, and protect the interests of [[Arcohaem]] wherever possible.
-- The Republic has a military that is controlled by the Senate / Chancellor. It's stored and trained in the central tribes.
-
-**The Northern Tribes** - 12c 625
-- [[Frigoshia]] began to harbor respect among the northern tribes.
-- [[Frigoshia]] represented everything the northern tribes believed in: honor, battle, and tradition. 
-- Their senators resisted change and fought to keep things how they were before.
-- The other northern tribes had a tendency to side with [[Frigoshia]] wherever possible.
-
-**The Southern Tribes** - 12c 656
-- Fearing that their lack of influence over greater [[Arcohaem]] could endanger their independence, the southern tribes decided to join the Republic. 
-- However, they have no interest in anything other than protecting their own interests and freedom, so they don't participate on most matters.
-- This expanded the Republic to a total of 56 tribes, and 280 senators. 
-
-**[[East Arcohaem Trade Union]]** - 12c 733
-- Trade with greater [[Serendipita]] began to boom during this time. 
-- Wishing to capitalize on their control over Lemnaeus, which controlled several profitable trade routes, the Eastern tribes established the [[East Arcohaem Trade Union]] ([[East Arcohaem Trade Union|EATU]]). 
-- They are a subsect of the senate that meets privately to make decisions collectively. The president of the [[East Arcohaem Trade Union|EATU]] has his own seat on the senate and acts as a senator and representative of the union.
-- This expanded the Republic to a total of 56 tribes, and 281 senators.
+12c 1253 - **[[Terrik|Terrik's]] Descent**
+- [[Terrik|The Wraith]] Part 1
+	- A boy named [[Terrik|Terrik Malvek]] was born in [[Hephaestus]] in 1226 to an abusive and poor family of bridge builders. They had absolutely nothing, and often blamed [[Terrik]] for ruining their relationship and for being too expensive to care for. [[Terrik]] would punish himself for doing anything sub-optimally, causing him severe and intense self hate. He was an aggressive and insecure kid who frequently acted out and got in trouble. His younger brother Otto got it worse than he did. Their only friend was a neighbor girl named Ingrid, whom [[Terrik]] had a crush on since he was little.
+	- [[Terrik]] dedicated his life to the pursuit of military service. He always had a knack for fighting and planning, and he felt it was his one ticket out of his household. He obsessed over his training, and would train until his bones cracked. When he was finally accepted, he quickly earned a reputation for being undefeated in combat. He earned the rank of Major, and then Captain. Otto started a business selling comics, and married Ingrid. 
+	- Despite getting everything he wanted, [[Terrik]] still hated himself. He went to his parent's funeral and wept. He knew they were bad parents, but he was still heartbroken he never made them proud. His father's will and testament left everything to his younger brother, because [[Terrik]] "abandoned them."
+	- He used his wealth to hide his insecurity, burying himself in clothes, art, mansions, drinks, and food. This led to him developing an incredibly temperamental ego. He didn't think he deserved any of it. He was competitive, got into fights with his peers, had issues with [[The White Azalea|Redline]] addiction, and had limited success socially/romantically because of his self-destructive tendencies. 
+- [[Terrik|The Wraith]] Part 2
+	- In 1251 Otto was drafted into the military to help to complete a mission in Delapagos. [[Terrik]] quickly got him into his battalion to protect him. Over the next year, they cleaned up their relationship, and worked together to complete the mission. [[Terrik]]'s brother slipped up, and their sect was discovered and ambushed. [[Terrik]] saved a group of civilians from the firefight, but blew their entire mission. He then discovered that his brother had been shot. [[Terrik]] brought him to the infirmary, but it was too late. The mission was cancelled and [[Terrik]] went home.
+	- To his horror, the senate held a gala in his honor because he had saved the civilians. [[Terrik]] was insulted that they were celebrating this. He looked out over [[Hephaestus]] and felt that he was doing the wrong thing. He had spent a year and a half trying to make the world a better place, and wound up not only failing, but getting his brother killed too. 
+	- He went back inside, accepted his medal, and went to the bar. There, he encountered a drunken Senator Blackwater of Ravmyr. Blackwater was a pacifist from the south, and he and his rich friends called [[Terrik]] a murderer. [[Terrik]] told him to shut up about things he didn't understand, so Blackwater called him a prole. [[Terrik]] punched him in the mouth, and was escorted out from his own gala. As he was leaving, he saw Blackwater hiding drugs. 
+- [[Terrik|The Wraith]] Part 3
+	- [[Terrik]] snuck into his hotel room that night and rifled through his things, looking for drugs. He collected evidence and took photos. He found a bunch of [[The White Azalea|Hush]], evidence of horrendous crimes, and connections to [[the White Azalea]]. Blackwater got home early and pulled a pistol on [[Terrik]]. Blackwater threatened to destroy his life using his contacts, and then when [[Terrik]] returned the threat, he tried to shoot him. [[Terrik]] survived and killed Blackwater in self defense. Panicking, he hid the body in the other room, and wrote a fake [[The White Azalea|Hush]]-covered suicide note. He snuck out. 
+	- He went to see his now widowed sister-in-law Ingrid, and his niece Abelia. [[Terrik]] was contemplating ending his life, because he knew he was a bad person. Ingrid told him that there are three people: there's who you think you are, there's who you want to be, and what you do. Who you think you are matters the least by far. Ever since they were kids [[Terrik]] had hated himself, and only ever saw his flaws. Nobody is perfect, and if you look hard enough, everybody is a horrible person. What matters is that he never stops trying to do what is right to him. As long as he never stops trying, he's a good person in her eyes. 
+	- As he was leaving, Abelia showed her a drawing she'd made. It was of the "Tall Man," who she said she had a nightmare about. He lived in the woods and would eat bad people. It was a shadowy creature with red eyes and horns. [[Terrik]] told her that he'd protect her. 
+- [[Terrik|The Wraith]] Part 4
+	- Blackwater's "suicide" stuck, meaning he'd gotten away with it. Maybe the police didn't want to bring any attention to [[the White Azalea]], or maybe there were other connections to worry about. [[Terrik]] was now firmly aware of the corruption in the Republic. 
+	- [[Terrik]] thought a lot about what Ingrid had said. He didn't know what was right anymore. All he wanted was to have something he could feel proud of, but all he's ever been good at is killing. Everything that's "good" has just been making him feel terrible. Like the gala, that was awful, and it was supposed to be a reward for him. 
+	- A few nights later, some men from [[the White Azalea]] kidnapped and beat Abelia. When [[Terrik]] found out, he went to the police, and nothing happened. Furious, he found and spoke to the detective at an abandoned lake house (the detective's suggestion). Through their conversation, he learns that not only is the detective protecting [[the White Azalea]], but he was actually the one who hurt Abelia. The detective wanted him to know that, to scare him off, because they know he killed Blackwater. The detective threatened him, and said that if he did anything else, they'd kill her, and if he hurt him, he'd go to jail for assaulting an officer. 
+	- [[Terrik]] beat the man half to death. Not wanting to face the legal consequences of someone finding him, he tied him to a chair weighed down with bricks. [[Terrik]] told him that he wasn't afraid of them, and that they should absolutely be afraid of him. He asked him how many people [[the White Azalea]] had under their thumb. The detective said everyone, and that if the system is already broken, then what's the point in trying to fix it? Why not just enjoy yourself? [[Terrik]] was disgusted. So he tipped the chair into the lake, killing the man. 
+	- [[Terrik]] realized something: getting revenge like this was the best he'd felt in a long time. He didn't know if what he was working for was actually making a difference, but this was. [[The White Azalea]] was an awful organization that he was uniquely suited for dismantling. 
+	- He returned to check in on Abelia, and found that she had been killed anyways, likely before [[Terrik]] even got to the lake house, and Ingrid was beaten unconscious. 
+- [[Terrik|The Wraith]] Part 5
+	- It had been 6 months since Blackwater. [[Terrik]] was much more prideful than ever, and was insulting Ingrid, who he'd now taken as his girlfriend. She said he'd changed, and she went to bed. It isn't clear how many, but [[Terrik]] had killed a lot of people. He stood on his balcony, looking out over everything, feeling like he'd won it all. 
+	- That night, Evan Blackwater broke into [[Terrik]]'s mansion. He encountered the couple and drew a pistol. He knows [[Terrik]] did it, since Evan would never take his own life. Evan was clearly not the murderer type, as he quickly began crying and shaking. [[Terrik]] tried to deescalate the situation. [[Terrik]] told him that he did it in self-defense, and that there are much bigger people to worry about. If he kills [[Terrik]], he's letting them win. Evan said he didn't want to kill [[Terrik]], he wanted to kill someone he loved, like how he did to him. [[Terrik]] told Ingrid to run and made a move at Evan, but he got a shot out and hit Ingrid. She collapsed on the floor. [[Terrik]] took Evan's gun and punched him down. He grabbed Ingrid and tried to talk to her, but she was already gone. Evan stood over the now shaking [[Terrik]], "now you know what it's like. My brother wasn't a good man, but he didn't deserve this." [[Terrik]] turned around and chased Evan down. In a public square, [[Terrik]] beat Evan to death with his bare hands. He assaulted anyone that tried to intervene, and publicly admitted to killing Senator Blackwater. 
+	- He was arrested, stripped of his titles, and publicly shamed. A bunch of phony charges were applied to him by the corrupt officers that wanted him dead. He was set to be executed, and sat in defeat. He didn't understand how the Republic could do this to him. 
+	- Senator [[Kaul]] personally attended his private execution and allowed the executioners to torture him before his death, something they were absolutely not allowed to do. Hot oil was poured on his face and ignited, horrifically scarring him, but he managed to blind the torturer and escape. 
+- [[Terrik|The Wraith]] Part 6
+	- He fled into the wastes of Torbekk, where he was presumed dead. His skin turned pale and blue from the cold, and that combined with his scars, made him look like a walking corpse. The extreme emotional distress he'd been placed in caused him to flood and develop [[Serendipita|ether]] capabilities. Though a powerful funneler, he refuses to use his abilities in combat because he prefers traditional hand-to-hand combat. 
+	- He debated ending his life. He had lost everything and everyone he cared about. He was hopeless, depressed, and utterly defeated. What Ingrid had told him rang in his head, but in a new light. He believes man is inherently evil, and there's no way to fix or undo that. His mission to fix the Republic was doomed from the start. What is "right" is relative to the situation. What they need is a new leader, someone powerful and intelligent enough to enforce what is good unto man. There's no way to make people see that though, so what was the point of him trying? 
+	- He made camp in a cave, where he heard a voice calling to him. He cautiously entered, and encountered [[Malfaust]]. He was ready to fight the beast (likely to his own demise). Dragons were not only meant to be extinct, but also blood-boilingly evil. 
+	- [[Malfaust]] was civil, and didn't try to fight. Instead, he asked him what had happened to him. [[Malfaust]] agreed that man was lesser. He had a plan to make things better. His ambitions required a messenger and soldier. Together, they could bring about a world free of corruption, and [[Terrik]] could do something truly, really good. No longer would he do "good" by what other men decide, he would be doing something that he believed was right. 
+	- [[Terrik]] believed him. And with nowhere else to go, or nothing else to fall back on, he agreed. He didn't trust [[Malfaust]], but was surprised by how intelligent he was. [[Malfaust]] taught him everything he knew, and equipped him with draconic armor and [[hard-light]] weapons. 
+	- [[Terrik]] wanted an alias, and he wanted to be [[Arcohaem]]'s worst nightmare. He then thought back to Abelia's drawing, and designed his suit around that. He would be a solid black shadowy creature with red eyes and horns, an envoy of a higher power, [[Terrik|the Wraith]] of [[Arcohaem]]. He would do whatever [[Malfaust]] said in order to form a new, better world. 
 
 
-### **THE BLACK WINTER**
-**The Black Winter** - 12c 1101
-- An especially harsh winter rocks [[Arcohaem]], limiting access to food and resources
-- Amid the mass starvation, a growing stigma is forming within the central colonies against traditionalism, as lack of access to advanced technology made this tragedy leagues worse.
+#### Rising Tensions
+12c 1253 - **[[Atka]]**
+[[Terrik|The Wraith]] appeared to [[Atka|Kry Atka]], a senator from [[Frigoshia]]. He introduced himself as a friend and envoy of one greater than he. He gave him advice, secrets, and predictions. He proved to be helpful, but only if their communications remained secret. [[Atka]] is a supernatural fanatic, and like the rest of the people of [[Frigoshia]], was deeply reliant on the old culture of [[Arcohaem]]. He began to trust [[Terrik|the Wraith]] as a muse of some kind.
+[[Terrik|The Wraith]] shows him the temples of old, that depict the true history of [[Arcohaem]]. He shows that this is the true source of [[Arcohaem|Arcohaemian]] culture, and that it's something they should bring back. [[Atka]] is enthralled and agrees. [[Atka]] already believed that mankind shouldn't rule itself, so when [[Terrik|the Wraith]] offered him a chance to make a better [[Arcohaem]] a reality, he jumped at the opportunity. 
+The deal was simple: if [[Atka]] helped rally the northern tribes to declare independence, [[Terrik|the Wraith]] would help make him king. Then, with that newfound power, they could bring the dragons back in broad daylight. [[Atka]], the lunatic that he is, agreed instantly. 
 
-**The Unsealing** - 12c 1101
-- [[Malfaust]] the red discovers 55 preserved chromatic dragon eggs from the Draconic Era.
-- [[Malfaust]] invents [[Hard-light]] weapons.
+12c 1253 - **[[Kaul]]**
+[[Terrik|The Wraith]] did not want to visit Senator [[Kaul|Caldus Kaul]], but [[Malfaust]] wanted him. Mysterious gifts, blueprints, and schematics began to appear on [[Kaul]]'s desk during the night. If someone was stationed to observe them, they wouldn't appear. Whatever the source, [[Kaul]] thought they were ingenious! Before he was a senator, [[Kaul]] worked as an [[Serendipita|E-Tech]] weapons engineer. The Senate would never approve construction of these things, though.
+[[Kaul]] waited in his office all night, and slowly drifted to sleep. He was awakened by [[Terrik|the Wraith]], who stood in his now locked office. He was suspicious at first, and attempted to grab a weapon, but [[Terrik|the Wraith]] had already taken and destroyed it. [[Terrik|The Wraith]] assured [[Kaul]] that he wasn't in any danger. Quite the opposite in fact.  
+[[Terrik|The Wraith]] offered him a deal. [[Kaul]] wanted to become Chancellor so he could wage war and make money off selling weapons. [[Terrik|The Wraith]] could help make this happen, and all [[Kaul]] would have to do is push the Senate into accepting the trade deal with Hades, and ushering in the technological changes [[Arcohaem]] desperately wanted. Then, [[Arcohaem]] would be cleaner, smarter, and safer. Their military would be unstoppable, and their citizens rich and happy. The Republic was founded off the ideals of progress anyways. 
+[[Kaul]] was suspicious. He told [[Terrik|the Wraith]] to give him time to consider it. He researched [[Terrik|the Wraith]] and found no evidence of his existence prior to this. He wanted that power, and he wanted those weapons. He utterly failed to track or decipher [[Terrik|the Wraith]]'s identity, but he saw no reason to think anything would be risky for him. So, he accepted. 
 
-### **THE DAWN OF A NEW ERA**
-**The Industrial Revolution** - 12c 1252
-- Electricity and [[Serendipita|Ether]] studies have been revolutionized over the past several years
-- The entirety of [[Serendipita]] is changing, but no where are these changes more apparent than in eastern [[Serendipita]]. [[Serendipita|Eathyst]] is mined, studied, and used in all of east [[Serendipita]], but refinery is expensive. 
-- A trade deal was offered by Hades of Styxas, one in which [[Arcohaem]] would use their natural resources and geothermal energy to refine [[Serendipita|Eathyst]] into a usable form. It would be incredibly profitable on both of their ends.
-- The senate has been resisting these changes, especially the northern tribes. They feel that this new technology will harm their way of life, and they don't want it to change. They like that it's simple.
-- The deal was stuck on a stand still for a couple of years...
-
-**[[Terrik]]** - 12c 1252
-- Part 1
-	- [[Terrik]] came from dirt. He dedicated his life to his military service in pursuit of greater Republic values. He obsessed over his training, and would punish himself for doing anything sub optimally. He was a deeply insecure and sad man who didn't like who he was and where he came from.
-	- Over the years, he became renowned for his excellence. He became by far one of the greatest war heroes in [[Arcohaem]]. He used his funds to by clothes, art, mansions, food, and drink. His sense of vanity and ego compensated for his self-hatred. 
-	- He was being honored at a gala because he had saved several of his men. His war buddy was shot, and they made no difference in the war. He wasn't having a great time, and was feeling pessimistic about the war. Then, he was insulted and humiliated by Senator Blackwater of Ravmyr. He was acting strangely, and [[Terrik]] suspected he was drunk or high. He was hurt and wanted revenge. 
-- Part 2
-	- [[Terrik]] snuck into Blackwater's hotel room that night. He went rifled through his things, and discovered [[The White Azalea|Hush]], and connections to [[the White Azalea]]. Blackwater woke up to go to the bathroom, and while [[Terrik]] was trying to leave, Blackwater pulled a pistol on him. 
-	- Blackwater threatened and tried to kill him, and [[Terrik]] defended himself and killed him with his own gun. 
-- Part 3
-	- [[Terrik]] panicked and hid the body in the other room. He wrote a fake suicide note covered in [[The White Azalea|Hush]] and snuck out. 
-	- While leaving, [[Terrik]] felt a sickening sense of excitement. The thrill of what he had just done caused his heart to skip a few beats. He buried that and ran, knowing that was wrong.
-	- Reeling from his past actions, he became more self-destructive. He got drunk the next night and isolated himself. It ate away at him and he couldn't get it out of his head. 
-	- [[Terrik]] learned that he had gotten away with Blackwater's murder, and everyone in the Senate building was in shock at his "suicide"
-	- In the official statement to the public, they completely ignored [[the White Azalea]] connection. In fact, they lied about it. That made [[Terrik]] suspicious. [[Terrik]] then met with his war buddy's parents to console them, but the story they were told wasn't true. In fact, it was leaving out a lot of important details that painted him as a coward. 
-- Part 4
-	- [[Terrik]] hunted down the messenger behind Blackwater's memorial. He'd been paid to lie about it by the Chancellor so that the "image of the Republic wouldn't be harmed." He also apparently knew that foul play was involved in his death. 
-	- [[Terrik]] went home and contemplated. He picked up a dagger and left his home in disguise. He entered the messengers home and murdered him. He took the body this time and threw it in the river. 
-- Part 5
-	- It had been a few months. He was acting much more egotistical than before, and was insulting his girlfriend Ingrid. She said he'd changed, and she went to bed. It's implied he'd taken many more corrupt Republic lives. 
-	- Evan Blackwater broke into [[Terrik|Terrik's]] home in an attempt to get revenge. He encountered the couple and started crying. He knows [[Terrik]] did it, since his brother would never take his own life. [[Terrik]] denied it, causing Evan to break down even more. Evan says that he can't take [[Terrik]]'s life, but he can take the life of someone he cares about to show him what it's like. [[Terrik]] pleaded with him, and when he saw it wasn't going to work, he told his girlfriend to run. But it was too late, Evan shot her in the back and she collapsed.
-- Part 6
-	- [[Terrik]] picked her up and tried to talk to her. She was gone. Evan told him "now you know what it's like. My brother wasn't a good man, but he didn't deserve this." [[Terrik]] turned around with murder in his eyes. Evan ran, and [[Terrik]] chased after him. In the middle of a public square, [[Terrik]] beat Evan Blackwater to death. A crowd of people gathered around.
-	- [[Terrik]] was arrested, stripped of his titles, and publicly shamed. A bunch of phony charged were applied to him, and he was set to be executed. He collapsed in his cell, incapable of understanding how the Republic could do this to him, and bitter about losing everything he cared about. 
-	- During his private execution, hot oil was poured on his face and ignited, horrifically scarring him, but he managed to blind the torturer and escape. He went into exile.
-- Part 7
-	- He fled to the wastes of Torbekk, where he was presumed dead. His skin turned pale and blue from the cold, and that combined with his scars made him look like a walking corpse.
-	- The extreme emotional distress he'd been placed in caused him to flood and develop [[Serendipita|ether]] capabilities. Though a powerful funneler, he refuses to use it in combat because he prefers traditional hand-to-hand fighting.
-
-**[[Terrik]], the Hand of [[Malfaust]]** - 12c 1253
-- Hopelessly lost, [[Terrik]] set up camp inside of a cavern somewhere in the far north. 
-- He felt completely hopeless, defeated, and depressed. He'd lost absolutely everything he had, and had begun to develop some pessimistic philosophies. He believes that man is inherently evil, and that there's no way to fully undo it. The right thing is relative depending on the situation, but there's no way to make people see what he'd done as that. He missed his pride and vanity.
-- From the caverns, he heard a voice calling to him. He cautiously entered, weapons drawn. There, he encountered [[Malfaust]].
-- He was prepared to fight the beast (likely to his own demise) that was supposed to not only be extinct, but also blood boilingly evil.
-- [[Malfaust]] asked him questions to learn why he was wandering all alone. With not much to lose, [[Terrik]] told him.
-- [[Malfaust]] told him that he had ambitions far beyond hiding out in caves. If [[Terrik]] helped him reestablish the power he deserved, he'd help [[Terrik]] reestablish and even exceed the power he deserved. Together, they could bring about a better world free of corruption, one tied to the roots of [[Arcohaem]].
-- [[Terrik]] related to [[Malfaust]]'s plight, and was surprised by how civil and intelligent [[Malfaust]] was. With nothing to lose, and nowhere to go but up, he agreed to be his new servant. [[Malfaust]] taught him everything he knew, and outfitted him with a [[Hard-light]] spear to boost his already aggressive style of combat.
-- [[Terrik]] would serve as [[Malfaust]]'s personal messenger and hand. He would do whatever [[Malfaust]] ordered, and in return, would have riches and power beyond his wildest dreams, and a chance at rebuilding [[Arcohaem]] with his new master. 
-- As his messenger, [[Terrik]] began to be referred to as [[Terrik|the Wraith]] of [[Arcohaem]]. He wore a mask and a stealth-focused suit both to conceal his identity, and to hide his disfigured face.
-
-**[[Atka]]'s Deal** - 12c 1253
-- [[Terrik|The Wraith]] appeared to Kry [[Atka]], a senator from [[Frigoshia]], and catches him off guard. He introduces himself as a friend, and envoy of one greater than him. He gives him advice, secrets, predictions. He proves to be helpful, but only if he remains secret.
-- [[Atka]] is a supernatural fanatic, and, like the people of [[Frigoshia]], deeply reliant on the culture of [[Arcohaem]]. He comes to trust the mysterious figure as a messenger.
-- [[Atka]] is led to "discover" the preserved dragon eggs, and incubate them in the sprawling volcanic caverns beneath [[Frigoshia]], as it's one of the few places on the planet hot enough to sustain them. [[Terrik|The Wraith]] tells him that it's important to connect to the [[Arcohaem|Arcohaemian]] culture, and it would ensure protection for the people if they were under his control. [[Atka]] believed in the rightful rule of Dragons, but he was just a senator. He agreed, and used his personal funds to start a secret operation to grow the brood.
-- [[Terrik|The Wraith]] offered [[Atka]] a deal. If [[Atka]] rallied the northern tribes to declare independence, he would ensure [[Atka]] would be made king, and that the true [[Arcohaem|Arcohaemian]] way of life, the [[Frigoshia|Frigoshian]] way of life, remained untouched by the industrial revolution, and by the Republic.
-- [[Atka]] accepted, now trusting this mysterious benefactor with his life.
-
-**[[Kaul]]'s Deal** - 12c 1253
-- Mysterious gifts, blueprints, and schematics began to appear on Caldus [[Kaul]]'s desk during the night. If someone was stationed to observe them, they wouldn't come. Whatever the source, they were ingenious! [[Kaul]] was a senator from [[Hephaestus]], but he used to be an [[Serendipita|E-Tech]] engineer, so he knew his stuff. These weapons were incredible, but the Senate would never approve them; the Northern tribes hated [[Serendipita|E-Tech]]. 
-- Wanting to meet the source, he waited in his office all night. He slowly drifted to sleep, and was awakened by [[Terrik|the Wraith]], who stood in his now locked office. 
-- He was suspicious at first, but [[Terrik|the Wraith]] assured [[Kaul]] that he was a friend, and an envoy of an even greater ally than he. He is invested in [[Kaul]]'s success, and would like for him to become Chancellor of the Republic. In fact, [[Terrik|the Wraith]] could help make this happen, if [[Kaul]] did something simple for him in return. 
-- The technological changes brought by the industrial revolution were vital changes that much of [[Arcohaem]] was resisting. If [[Kaul]] became chancellor, all he'd have to do was push the Senate into accepting the deal with Hades, and ushering in these new changes. It'll make the people safer, cleaner, and much richer. Power, safety, and security would be granted to all of the citizens. All those schematics for weapons he showed [[Kaul]] would suddenly be in the actual hands of the Republic. What's the worst that could happen?
-- Skeptical as always, but struggling to see what game he's playing at, [[Kaul]] agreed. [[Terrik|The Wraith]] vanished.
-
-**Rising Tensions** - 12c 1254
-- [[Kaul]] becomes chancellor in a crisis vote after the current Chancellor is assassinated by [[Terrik|the Wraith]]. His body is found pinned to the ceiling with his own spear, covered with claw marks and scorched lacerations. Deaths like these have been happening for the past year on both sides, being attributed to a monster referred to by the public as "[[Terrik|The Wraith]] of [[Arcohaem]]" which is how [[Terrik]] officially got his alias.
-- [[Kaul]] pushes in the new changes; he wants more [[Serendipita|E-Tech]], the extremely profitable deal with Hades, the development of weapons to prevent assassinations like these from happening. This greatly upset of the northern tribes, who turned to [[Frigoshia]] for guidance. [[Atka]] resists and begins making threats about declaring independence, which is becoming a popular sentiment among the northern tribes.
-- The senate votes to accept the deal with Styxas with a 166-122 vote, making [[Hephaestus]] [[Serendipita]]'s new hub of [[Serendipita|Eathyst]] refinery. Their technology booms, but is bulky, inefficient, inelegant, and more concerned with raw power than efficiency. 
+12c 1254 - **The Schism**
+[[Chancellor Harald]] was assassinated by [[Terrik|the Wraith]]. His body was pinned to the ceiling with his own spear, covered with claw marks and scorched lacerations. [[Kaul]] didn't expect this, and felt horrible. He confronted [[Terrik|the Wraith]], who couldn't care less what [[Kaul]] felt. In a crisis vote, [[Kaul]] is voted in as the new Chancellor of the Republic. Using his power, he ushers in [[Serendipita|E-Tech]] in [[Hephaestus]], accepts the trade deal with Hades, and develops insane new [[Serendipita|Ether]] powered weapons to protect the Republic. Their new [[Serendipita|E-Tech]] is bulky, rushed, inefficient, inelegant, and more concerned with raw brute power than efficiency. Within a year, [[Hephaestus]] is unrecognizable. [[Kaul]] has convinced people that the changes, though major, would allow them access to more food, supplies trade, money, and an overall easier way of life akin to the rest of the world. Additionally, it'd protect them from things like the Black Winter ever happening again. 
+[[Atka]] resists and begins growing supporters to declare independence. They're happy with the way things are right now and don't want it to change. Their culture is getting wiped out and replaced by the boring culture the rest of the world shares. They're losing their identity. They protest, skirmish, and refuse the changes. Even if their way of life is primitive, they're happy with who they are.
 
 
-### **THE CIVIL WAR**
-**The Calm** - 12c 1255
-- [[Hephaestus]] is unrecognizable. This past year has seen a staggering amount of development, turning it from a large village into an enormous city of booming industry. 
-- Through propaganda, [[Kaul]] has convinced the people that the changes, though major, would allow them access to more food, more supplies, more trade, more money, and an overall easier way of life more akin to the rest of the world. 
-- Railroads were constructed throughout central and eastern [[Arcohaem]].
-- The northern tribes protest, skirmish, and refuse to change. They want to keep their culture and way of life in tact, even if it is primitive. They're happy where they are.
+#### Today
+12c 1255 - **The Civil War**
+Tensions were incredibly high. Senator Rimeholt of Nedrena was travelling to [[Hephaestus]] on a diplomatic mission, when his ship was intercepted by [[Terrik|the Wraith]]. [[Terrik|The Wraith]] hunted him throughout the ship and slaughtered his entire crew. When he finally reached Rimeholt, he killed him with Republic weapons. 
+This act was so gross, and unwarranted, that it pushed the North into finally declaring independence. As they struggled to reorganize, [[Terrik|the Wraith]] threatened and blackmailed opposition to ensure [[Atka]] was made the primary monarch of the north. The north formed a monarchy under the name [[Frigoshia]]. The land the tribe of [[Frigoshia]] originally occupied was renamed to Torhild. Each tribe under [[Frigoshia]] elects a Baron that reports to the king. This move dropped the Republic to 35 tribes and 176 Senators. 
+The Republic declares war, but is unprepared for the [[Frigoshia|Frigoshian]] first strike. They butcher Karlstad and fight with cruel indifference and efficiency. Unlike the Republic, the north is largely made up of warrior tribes, meaning they're 10x better at fighting, even against the Republic's superior firepower. 
+In a massive panic, the Senate greenlit "[[Kaul]]'s" weapons. This led to a brutal territorial tug-of-war along what was later deemed, "The Howling Front."
+With [[Atka]] now king, their expanded resources allowed for the construction of multiple laboratories to study and rejuvenate the preserved dragon eggs. These were built under the guise of "military bunkers," and the tech they were using inside was kept secret from the rest of [[Frigoshia]]. 
+[[Terrik|The Wraith]] has been using [[Kaul|Chancellor Kaul]] to covertly purchase and ship incubation equipment through the Republic bank. When [[Kaul]] caught on to all of this, [[Terrik]] decided to reveal who he was, and what he's building. He completely abandoned the "friend" act and attacked him. [[Terrik]] hates [[Kaul]] for what he did to him before his execution. If [[Kaul]] wouldn't work with them, [[Terrik]] would kill him and his family and wouldn't lose a wink of sleep over it. [[Kaul]] agreed. 
 
-**The Beginning of the War** - 12c 1255
-- Tensions were incredibly high. Senator Rimeholt of Nedrena travelled to [[Hephaestus]] to attempt to negotiate, but while sailing, he encountered [[Terrik|the Wraith]]. He explained that his death was necessary to ensure the plans of his master went according to plan. [[Terrik|The Wraith]] impaled him, and framed the Republic military. He used Republic weapons, did it according to Republic protocol, wore his old Republic issued armor, and ensured a few witnesses survived.
-- This act was so gross, and unwarranted, that it pushed the North into finally declaring independence. As they struggled to reorganize, [[Terrik|the Wraith]] threatened and blackmailed opposition to ensure [[Atka]] earned the role of King, and the other senators became barons and advisers. 
-- The North is absorbed into [[Frigoshia]] under a monarch: [[Atka]]. There are 21 local Barons that each report to the King. This move dropped the Republic to 35 tribes, with 176 senators. 
-- The Republic declares war, but aren't prepared for the [[Frigoshia|Frigoshians]] deadly first strike. Their skilled warriors made quick work along the front, and they butchered northern Karlstad. They fought with cruel indifference and efficiency, with one of their soldiers matching Republic soldiers 10 to 1.
-- This incited a massive panic in the Republic. The fear allowed the Republic to justify the creation of a significantly larger army armed with the [[Serendipita|E-Tech]] weapons [[Kaul]] "designed." Though less skilled, they outnumbered the [[Frigoshia|Frigoshians]], and had superior firepower. 
-- This led to a brutal territorial tug-of-war along what was later deemed, "The Howling Front."
-
-**Denial of Peace** - 12c 1266
-- The war has raged on, with neither side making any major progress or showing any signs of slowing.
-- Relying on thinning Yak products and root vegetables, the [[Frigoshia|Frigoshian]] people are beginning to go hungry. All food is being pushed away from the lower-class and towards the military.
-- A [[Frigoshia|Frigoshian]] Baron was sent to extend an olive branch, but was assassinated by [[Terrik|the Wraith]].
-- The Republic economy is booming, though! [[Kaul]] is incredibly popular among the Senate because of how much easier he's made their lives.
-
-**Today** - 12c 1266
-- [[Atka]] has kept his end of the bargain. Now that he's king, he expanded the draconic operation tenfold. The dragons had hatched and grown up. With over 50 of them, even if they're just Juveniles, he could do some serious damage. Unbeknownst to the public, a lot of food was actually going to the dragons. 
-- That's not all though. Unbeknownst to everyone but [[Atka]], [[Terrik]], [[Kaul]], and some scientists, [[Malfaust]] has been attempting to artificially produce more dragon eggs by experimenting on young dragons with aging [[Serendipita|E-Tech]]. He created [[Amalgamma]], a nightmarish amalgam of young female dragons, and it's almost ready to produce. Once it is, everything will be ready for the invasion.
-- A group of lost Republic soldiers discovered a routine [[Frigoshia|Frigoshian]] transport of dragon eggs and incubation equipment in the middle of nowhere by accident. They attack the transport to take it for themselves so that they can get back home safely, and once they do, they discover what they were transporting.
-- Once they had knowledge of [[Atka|King Atka]]'s draconic plot, they swiftly alerted the Senate, which immediately voted for a strike team to infiltrate [[Frigoshia]] and destabilize it. They can't get an army into [[Frigoshia]] right now, and they can't divert troops away from the capital in case of a draconic invasion.
-- [[Terrik|The Wraith]] met with [[Kaul]] and revealed who he was, and part of [[Malfaust]]'s plan. He dropped the "friend" act, and threatened to kill him, and his family, and his friends, and make someone else Chancellor who would listen to him if he didn't do exactly what he wanted. [[Terrik]] absolutely hates [[Kaul]] because of what he did to him. This was a serious complication, and it needed to be handled seriously. [[Kaul]] was terrified. He saw [[Malfaust]]'s plan as inevitable at this point, so he agreed that he'd help the mission to fail if he was promised a seat in [[Malfaust]]'s new empire. [[Terrik|The Wraith]] said that he'd be spared if he obeyed, as well as given a sizeable amount of wealth, but rulership belonged to his master. [[Kaul]] agreed.
-- [[Kaul]] needs the mission to fail, but he can't ignore it or the Senate will be suspicious of treason. So, using his influence, he selected the [[PCs A - Arcohaem|Wolves of Arcohaem]] to handle the mission, banking on their inconsistency to ruin the mission. They need to infiltrate [[Frigoshia]] and destroy the program before it's too late. This wasn't a popular or sensible decision, but [[Kaul]] knew how to put money in the right places to keep the wheels from squeaking, and he was trusted enough to get the mission approved.
-- [[Terrik|The Wraith]] has a plan
-	- He's going to seize control of [[Kaul|Chancellor Kaul]]'s royal guard so that he can observe his dealings. He's taking the name [[Terrik|Lord Commander Galen]]. He'll remain silent and avoid everyone unless the mission demands otherwise. 
-	- He's going to get [[Kragknull|Commander Kragknull]] (their overseer) framed so that he can get [[Kaul]] direct control over their mission to push them somewhere that'll get them killed.
-	- He's going to have [[Kaul]] develop a cover-up, but that's long-term; their deaths would be a means to buy him time and to distract the Senate.
-	- He's going to try to scare them off early
-	- He's going to try to kill them once they're in enemy territory to make it seem like they failed
-	- He's going to move the primary dragon breeding program to ensure they don't find anything even if they do make it there
+12c 1266 - **Modern Day**
+[[Atka]] has kept up his side of the bargain. They've been able to hatch 50+ dragons, even if they're just Juveniles. The [[Frigoshia|Frigoshian]] populace was starting to run out of food, not only because of the harsh winter and taxation, but because a lot of resources are going to the dragons. 
+From his lair, [[Malfaust]] has been attempting to find a way to produce more dragon eggs. He's been using [[Serendipita|E-Tech]] to experiment on young female dragons. This led to the creation of multiple mutant dragon children, and [[Amalgamma]], a nightmarish amalgam of young female dragons and [[Serendipita|E-Tech]] designed to produce eggs. Once it's completed, [[Malfaust]] can use his draconic army to reclaim [[Arcohaem]], and eventually [[Serendipita]]. 
+A group of lost Republic soldiers discovered a routine [[Frigoshia|Frigoshian]] transport in the middle of nowhere that contained incubation equipment and records of the dragon program. They reported it to the Senate, which voted for a strike team to infiltrate [[Frigoshia]] to destabilize it. They can't get an army into [[Frigoshia]] right now, and they can't divert troops away from the capital in case of a draconic invasion. 
+[[Kaul]] obviously couldn't let this mission succeed, but as Chancellor he needed to go along with it. [[Terrik|The Wraith]] told him what was going to happen. 
+1. The Chancellor would get the least reputable strike team he could find to lead the mission.
+2. [[Terrik]] would seize control of [[Kaul]]'s royal guard under an alias to allow him to be closer to the mission.
+3. [[Terrik]] will meet them directly along their mission to attempt to scare them or kill them off entirely to make it seem like they're cowards/failed. 
+4. Together, they'll frame the strike team's commander to allow [[Kaul]] direct control over their mission to push them into getting themselves killed.
+5. [[Kaul]] is going to develop a cover-up for the incubation program to frame it as a hoax. 
+6. [[Atka]] is going to relocate the dragon breeding program to ensure they don't find anything even if they do make it there.

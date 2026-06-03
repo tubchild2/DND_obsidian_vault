@@ -111,7 +111,7 @@ Slot Machines (Standard)
 	- A compass that points to the nearest edible item. He bought this from a fat gnome he met on his last visit to Proxima Centauri B. 
 	- A [[Item Catalogue|stuffed Glorby]]. The Adventures of Glorby is an alien cartoon show popular on Kepler-22b. In each episode, Glorby faces a new bully who teaches him a new lesson about life. He uses his words to dismantle the situation, then engages the bully in gladiatorial combat. It's a different culture.
 	- A [[Item Catalogue|universal translator]]. Handy, pretty new, he bought it on his most recent visit to mars. 
-	- A [[Item Catalogue|portable library]] device. It resembles a flip-phone. It's pretty old. It was made back when the [[Federation C1]] was trying to market the internet to the rest of [[The Galaxy]], who promptly denied it. 
+	- A [[Item Catalogue|portable library]] device. It resembles a flip-phone. It's pretty old. It was made back when the [[Federation C1]] was trying to market the internet to the rest of [[The Galaxy c1]], who promptly denied it. 
 	- A hoverboard that gets faster the louder the user screams. Created as a training toy for kids on a planet called [[Item Catalogue|Screamo-10]]. Scream endurance is important to their culture.  
 	- A [[Item Catalogue|short range teleporter]]. It works once a day, and can teleport you up to 60ft. It was tinkered by some gnomes he met on a space station. It uses an enormous amount of energy because it uses FTL warp drive technology.  
 	- A pair of boots for sinking in liquid mercury. He traded them from someone for some Venusian pottery a couple months ago. 

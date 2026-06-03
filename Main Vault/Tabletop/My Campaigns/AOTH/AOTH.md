@@ -1,6 +1,11 @@
-The Primordial of Chaos. One of the oldest and most powerful ideals in existence. Resides on the edge of the universe. Though unintelligent, he is attracted to order and seeks to undo it. He causes chaos and indulgence. The closer he is, the more you feel his presence. Has functionally unlimited power and cannot be killed. 
+Represents the fundamental concept of chaos and discord. Possesses functionally limitless power and cannot die in the traditional sense. He can warp reality and psychically overpower anything. 
 
-His weakness conceptually is order and harmony, but it can only stun or slow him. He can be sent away if he loses interest, but only objects or beings of unbelievable power can make him lose interest. If he's determined enough, he can ignore this and proceed anyway, and there's nothing that can stop him.
+Typically, [[AOTH]] resides in his domain at the edge of the universe, where he creates and manages chaos throughout the universe subconsciously. However, occasionally, he can be attracted to unnatural amounts of order and harmony. He is vulnerable to it, but he seeks to undo it. He behaves entirely off instinct and has no real consciousness. 
+
+Only objects of unbelievable power can potentially distract or and send him away, but otherwise, he cannot be stopped. The only known object in [[Serendipita]] potentially capable of doing that is [[AOTH's Pendant]]. 
+
+As he approaches, his presence is felt and known with progressively greater understanding. Some beings may appear to be mentally overwhelmed and obsessed with him and his coming presence. The impending doom causes a wide variety of indulgent and panicked behaviors. 
+
 
 
 ![[AOTH.webp]]

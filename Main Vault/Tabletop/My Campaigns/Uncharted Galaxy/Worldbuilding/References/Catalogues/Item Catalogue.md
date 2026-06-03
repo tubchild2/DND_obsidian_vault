@@ -75,7 +75,7 @@ aliases:
 - Food compass. Points to the nearest edible object. Alters diet based on the user's species. 
 - Portable heat based radar. Shows your surroundings from a top-down view point in shades of green. It first calculates the average temperature of the area, and then displays anomalies. This can detect nearby creatures, people, or unnaturally hot or cold objects. 
 - Stuffed Glorby. The Adventures of Glorby is a children's cartoon on Kepler-22b. Gladiatorial combat mixed with sweet messages about family.
-- Portable Library Device. Resembles a flip phone. Made back when the [[Federation C1]] was attempting to market the internet to [[The Galaxy]], who promptly denied it.
+- Portable Library Device. Resembles a flip phone. Made back when the [[Federation C1]] was attempting to market the internet to [[The Galaxy c1]], who promptly denied it.
 - Screamo-10. A hoverboard that gets faster the louder you scream. Made for kids.
 - Mercury boots. Dense enough to cause the wearer to sink in mercury.
 - Ring of Frostbite. Deals cold damage if worn for too long.

@@ -3,6 +3,7 @@ aliases:
   - Chancellor Kaul
   - Caldus Kaul
   - Chancellor Caldus Kaul
+  - Caldus
 ---
 ![[Chancellor Kaul.jpg]]
 

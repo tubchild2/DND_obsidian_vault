@@ -1,1 +1,3 @@
 A ship captain that was smuggling [[The White Azalea|Hush]]. Was illegally apprehended by [[PCs A - Arcohaem|Doornail]] and tied to the Figurehead of the ship, where he suffered intense hypothermia from the arctic waters, diaper rash, and emotional distress. He lost the respect of all of his peers and has been in a downward spiral ever since. He feels completely and utterly humiliated. 
+
+Full Legal Name: Ren McShill

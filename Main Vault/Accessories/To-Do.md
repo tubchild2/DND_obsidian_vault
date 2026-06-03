@@ -1,7 +1,4 @@
-### [[Arcohaem]]
-- Better Call Saul inspiration.
-	- The Network. The network reaches everywhere, and there's far more people involved than just [[Terrik|the Wraith]] and [[Malfaust]].
-	- The Mystery. Reveal the mystery in a more organic segmented manner, in which each plot point leads to the next and seem unrelated, until it all finally clicks. 
+### General
 - White Island ruins. Mo's Idea. 
 	- Wall collapsed and incinerated miners; that's what you think! Maybe it was dragons or smt idk
 	- Sulphur mining
@@ -11,51 +8,64 @@
 	- More screen time
 	- Not the primary villain but he is the one responsible for everything
 	- Specific things he's planning
-- Give Rosie more time and meaningful scenes
-- Tai Lung inspiration
-	- Prison Break
-	- Vendetta and threatening
+- Put a jack in the box somewhere
+- Update [[Terrik]]'s backstory flashbacks to reflect the altered history in the updated [[World History - Arcohaem]] document
+
+**Session Specific Notes**
+- Part 5
+	- Winkler Nation
+		- Firmly established in [[Hephaestus]]
+		- Contacts with [[PCs B - Arcohaem|Tinkle Winkler]] (not in part 4)
+- Part 6
+	- Give Rosie more time and meaningful scenes
+	- The Network. The network reaches everywhere, and there's far more people involved than just [[Terrik|the Wraith]] and [[Malfaust]].
+	- The Mystery. Reveal the mystery in a more organic segmented manner, in which each plot point leads to the next and seem unrelated, until it all finally clicks. 
+- Part 7
+	- [[Terrik|Terrik's]] escalation needs to be better
+		- He goes from killing one dude in self-defense to killing a bunch of corrupt people
+	- [[Terrik|The Wraith]]'s miniature will be painted with Musou Black
+- Part 9
+	- Tai Lung inspiration prison break
 
 
-### Schedule
-Saturday 16th
-- Schoolwork
-	- SQL Assignment (4 questions)
-- Spirituality
-	- Assembly
-	- JW HUB new thing
-
-Sunday 17th
-- Schoolwork
-	- SQL Assignment (4 questions)
-- Spirituality
-	- Early Morning
-	- Service
-- [[Arcohaem]]
-	- Group B Part 3
-
-Go thrifting in mid-late may
-Prepare for part with Cason
-
+### To Schedule
+- Thrifting for Bella's Grad Party
+- Star Wars Watch Party #1
+	- The Phantom Menace
+	- Attack of the Clones
+- Star Wars Watch Party #2
+	- Clone Wars 2:12-15 Mandalore Arc
+	- Clone Wars 3:15-17 Mortis Arc
+	- Clone Wars 4:7-10 Umbara Arc
+- Star Wars Watch Party 
+	- Clone Wars 4:21-22 Return of Maul
+	- Clone Wars 5:14-16 Death Watch Arc
+	- Clone Wars 5:17-20 Ashoka's Trial Arc
+	- Clone Wars 6:1-4 Fives' Arc
+- Star Wars Watch Party #4
+	- Revenge of the Sith
+	- Clone Wars 7:9-12 Siege of Mandalore
+- Star Wars Watch Party #5
+	- Rogue One
+	- A New Hope
+- Star Wars Watch Party #6
+	- The Empire Strikes Back
+	- Return of the Jedi
+- LOTR Watch Party
+	- The Fellowship of the Ring
+	- The Two Towers
+	- Return of the King
+- [[Arcohaem]] A4-12
+- [[Arcohaem]] B5-12
 
 
 ### Shopping
-##### Budget
-- Cash
-	- 141 (not up to date)
-- Digital
-	- 159.82 (not up to date)
-- Total Budget
-	- 300.82 (not up to date)
-
 ##### Items
 - Bella's Graduation Costume
 	- Black Cowboy Hat
 		- [16.30](https://www.amazon.com/Utaly-Womens-Western-Cowgirl-Fedoras/dp/B0B719HXDQ/ref=sr_1_22?crid=3RQGBDU6Y5RJ8&dib=eyJ2IjoiMSJ9.sdMqH-NXNH5Qq0N_2gkV513ORNDEmsPOh5SIVfTj6EDR37xeh92UCaS6mFmTciRg3AdfxPUSfTKJa0B3lf9lGSFeah7w8BoBLhmq_PlQFhEOWLIQWPget_4isgA8kfmL1QlsGC8EI0V623E-2pbENuvuEuGyY2nWiFX7y8qV5dKqC_kSQMSLDSTPSUDPRV-fhymyBJZGB8P9bwOyE-xoCFH27tzgm6dsyUELKWzjvi3KjawuwwqQ4Eg3YuFD9_sUfwGm-bl7njk5cut5nJ2TLrwqCFIxNJMFYYjZ2YSdkls.oXUkkRCisWMwfkUyqd85fD-uaIdA881fwogPIlcGbRY&dib_tag=se&keywords=cowboy%2Bhat&qid=1776908087&sprefix=cowboyhat%2Caps%2C171&sr=8-22&th=1&psc=1) 
 	- Bandana
 		- [5](https://www.amazon.com/Raylarnia-Novelty-Bandanas-Paisley-Bandanas-Black/dp/B01FZ0ULAS/ref=sr_1_7?crid=165DQEQ81XOER&dib=eyJ2IjoiMSJ9.LuIE36QNDNTsTYLHBg30ry8B4TTgxXb52Vk63GV46EPjeeRWIGtI0hnMHTq6NeB2vfn5HK6Q1H4TQ2LuTN1kZNC42KQg11-Z6g9g9tgfIva9u8hsjDRymDwTdDZkjOewv_newhwXsRVj76-AJYSKxSRbVvv8q11mN3-bx6x6H9NtGJYYerSPO1BCr_yBw0IaqKvUC3RzTUioLljy7D3hNqE9CBQBUCTSilUABaOpk01uAD167q1c4OFWWOBu_agCM2Ld32nRyhSh79uQWFWdYZjN7_G4Jb12vsJltTfjv5A.w-KqualtdRXk_GpbljnaIUpjtwOnE6trsdWBB0P4Kek&dib_tag=se&keywords=Black%2BBandana&qid=1776908281&sprefix=black%2Bbandan%2Caps%2C272&sr=8-7&th=1) 
-	- Black Duster
-		- Go thrifting with Landon and Skyler for this
 	- Holster
 		- [12](https://www.amazon.com/Dress-Up-America-Unisex-Holster-Adult/dp/B001I027RK/ref=sr_1_31?crid=30WJ88B4K53XZ&dib=eyJ2IjoiMSJ9.GZTQE3vSh3n0pBbbEwiyA5FklY2EeUJTPQOJTI-diLl-Qvn27rsozaAf3U9p1QhwzpnYRWF9S0xppgOlQco3obQ8X9fQbV5M0dfBze5Zt3KYH-AW0udW5oJ8zvkCH1jbjOsTOHdsdB5ZrI4C55Cwqz8uWtCDjSnhiRBlZijFTcyM9FMbsUGeht_RU7EqC_bQwjujzJgP288Jm8PygHeAdsAb_78eZh_r3Wt2GK2Jux13jM_GskaUywGi_gFG6RikZ7f_EGGxC1H2sl1vPEICScMzPpNICKGhMct9P3y62tk.RdpZzvhnTgdkdmTWiS0TDeN1WHJD7-xAFIzbSHoP8ZQ&dib_tag=se&keywords=Black%2BCowboy%2BHolster&qid=1776908355&sprefix=black%2Bcowboy%2Bholste%2Caps%2C162&sr=8-31&th=1) 
 	- Rubber Chicken for Holster

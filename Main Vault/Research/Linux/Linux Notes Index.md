@@ -18,3 +18,6 @@
 
 **Week 6**
 [[w6 storage concepts, file systems]]
+
+**Week 7**
+[[w7 Ownership, Permissions, Archive and Backup, Troubleshooting Storage]]

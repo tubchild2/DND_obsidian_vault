@@ -114,7 +114,7 @@ Chapter 4 - Nocturne
 - Level up to 12
 
 
-### [[Part 3 - The Republic!]]
+### [[Part 3 - For The Republic!]]
 Chapter 1: Rain Fire
 - [[Kragknull]] reaches out to them on a personal level
 	- If they discuss what happened last session

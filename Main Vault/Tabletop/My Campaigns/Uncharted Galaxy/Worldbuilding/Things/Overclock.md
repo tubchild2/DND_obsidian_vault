@@ -3,9 +3,9 @@
 ### Overview
 Overclock is a hallucinogenic illegal substance produced by combining ecstasy and cocaine with additional stimulants. The user feels stronger, faster, and tougher, but damages their memory, reasoning, and speech. When snorted or eaten, it causes immediate straining sensations throughout the body, which slowly convert into a feeling of raw energy. It releases tons of endorphins, which causes it to be very addictive. 
 
-It's distributed by coalition of cartels. They evade and enervate the laws of their local governments to maintain a complex web of shipments and producers throughout [[The Galaxy]]. They hide in plain sight, and make deals in high places to keep the wheels from squeaking. 
+It's distributed by coalition of cartels. They evade and enervate the laws of their local governments to maintain a complex web of shipments and producers throughout [[The Galaxy c1]]. They hide in plain sight, and make deals in high places to keep the wheels from squeaking. 
 
-Among these cartels is the [[Sinola Cartel]], which controls the distribution routes for overclock throughout the [[The Galaxy|central plate]] of [[The Galaxy]]. 
+Among these cartels is the [[Sinola Cartel]], which controls the distribution routes for overclock throughout the [[The Galaxy c1|central plate]] of [[The Galaxy c1]]. 
 
 ### Consumption
 Grants advantage on strength, dexterity, and constitution checks.

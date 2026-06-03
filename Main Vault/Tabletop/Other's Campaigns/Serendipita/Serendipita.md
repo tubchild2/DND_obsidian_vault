@@ -1,0 +1,141 @@
+---
+aliases:
+  - Ether
+  - E-Tech
+  - Ideal
+  - Eathyst
+---
+
+![[The Five Realms of Serendipita.png]]
+
+![[Serendipita Power Dynamic.canvas]]
+
+
+### Serendipita
+The World of Serendipita is remarkably varied. It's a high fantasy sandbox where anything you can imagine probably already happened. Serendipita contains everything from the harsh deserts of Styxas to the arctic wastes of [[Arcohaem]]. All manners of flora and fauna exist and can be found. As a side note, there aren't religions in this universe. This world was created by Avery Gilmer. All credit goes to him.
+
+The 5 Realms
+- Styxas
+	- Desert
+	- Mines Eathyst
+- Fol'Gar'Eth
+	- Plains / River
+	- Studies Ether
+	- Mysterious and Secretive
+- Terragon
+	- Plains
+	- Late 90s / early 2000s E-Tech
+	- Significant consumer of Eathyst
+- Delapagos
+	- Tropics
+	- India / Jamaica
+- [[Arcohaem]]
+	- Arctic atop *mostly* volcanic caverns
+	- In the midst of a civil war
+	- 56 tribes of varying technologies
+
+
+### History
+It's 12c 1266, amidst the Industrial Revolution. Rudimentary computer-like E-Tech is already being invented in Terragon, and the whole world is changing by the minute. Anything that could happen likely already has. The universe resets after calamities. This knowledge is in the back of everyone's minds but they can't place it. It's been 12 cycles now.
+
+
+### Ether
+##### Overview
+Magic doesn't exist. Everything unnatural in Serendipita is powered by a particle called Ether. It's invisible, and intangible until condensed and shaped. It's remarkably important to all of society, but still poorly understood. Ether enters the world through "valves," which are points in space, time, people, or any manner of objects.
+
+The following terminology is used by the citizens of Serendipita, as well as the metric breakdown of Ether's power:
+
+| Original    | Variant                |
+| ----------- | ---------------------- |
+| Spell       | Spin                   |
+| Spellcaster | Funneler<br>Ether User |
+| Magic       | Ether                  |
+| Magic Item  | E-Tech<br>Ether Item   |
+| Wizard      | Scholar                |
+| Sorcerer    | Conduit                |
+| Warlock     | Fanatic                |
+
+| Unit      | In Pits       | Equivalent Eathyst Power Source | Effect         | Grade |
+| --------- | ------------- | ------------------------------- | -------------- | ----- |
+| Pit       | 1             | Particle                        | Brief flicker  | I     |
+| Pot       | 2             | Grain                           | Flash of light | II    |
+| Pite      | 4             | Pebble                          | Ember          | III   |
+| Pote      | 8             | Rock                            | Sparks         | IV    |
+| Pyte      | 16            | Shard                           | LVL 0-4 Spins  | V     |
+| Kilopyte  | 1,024         | Gem                             | LVL 5-6 Spins  | VI    |
+| Megapyte  | 1 Million     | Node                            | LVL 7 spins    | VII   |
+| Gigapyte  | 1 Billion     | Boulder                         | LVL 8 spins    | VIII  |
+| Terrapyte | 1 Trillion    | Megalith                        | LVL 9 spins    | IX    |
+| Petapyte  | 1 Quadrillion | Freighter Shipment              | Unknown        | X     |
+##### Ideals
+Ideals are ether created representations of a given idea or concept. Very little is known about them. They come and go, and some only exist for picoseconds. The more general the ideal, the stronger but also less directed the creature. The more specific the ideal, the more intelligent but weaker the creature. No one knows how or why they form. They aren't accepted by the ethological community because of lack of proof. 
+
+While they can be funny, they can also be malevolent eldritch entities. Some scholars postulate that they exist throughout the known universe at the edge of reality, which is why we so rarely see them ourselves. If they do exist, they are far and away the most dangerous creatures in existence. 
+
+Some theorize they predate the first cataclysm, and are older than time itself. 
+
+The [[Liber Idealium]] catalogued all known Ideals, but was lost to time. 
+
+
+##### The Cataclysms
+Time is the ultimate undoing of everything. Over and over, after an unknown period of time, the power man holds over the forces of nature reaches a breaking point, and everything burns and dies and is wiped away. Depending on the cataclysm, some very well protected or powerful people / objects can survive, but it is impossibly rare. Cataclysms are so ultimately destructive that society resets back to the stone age. It is in the back of the minds of all living creatures in Serendipita; the thought that no matter what, everything is going to be destroyed. 
+
+
+##### Funnelers
+Funnelers are individuals that use Ether. Funnelers have what's known as a "Folcryst gland," which draws Ether directly from its home dimension and condenses it into a usable form that the funneler can shape. They aren't common, and they aren't uncommon. 
+
+Funnelers are inert until they unlock their abilities by "flooding." These moments, colloquially referred to as "floods," typically involve intense stress, trauma, or exposure to ether-rich environments. Funnelers aren't abundant or rare in Serendipita.
+
+Notes to be Aware of:
+- Paladins are knights that have made personal dedications or commitments so strong that it unlocked a mental or emotional barrier and granted them access to Ether. Violating said oath can take away that power. 
+- Clerics are medical mages. Their focus and inclination is on helping others. 
+- Fanatics are unbelievably rare. They essentially borrow funneling from powerful sentient sources of Ether. This typically requires active upkeep of some kind of deal. 
+- Druids are Funnelers that are fundamentally connected to nature. How this connection came to be varies from druid to druid.
+
+
+##### E-Tech
+E-Tech harnesses Ether using a form of crystalized Ether called Eathyst.
+
+Eathyst is mined in the deserts of Styxas, refined in the Volcanoes of [[Arcohaem]], and studied with deep secrecy in Fol'Gar'Eth. As my lengthy conversations with Avery have shown, Eathyst is complicated. It's essentially solid Ether that produces Ether in very small quantities. Its purity and how well it's refined also greatly improve its Ether production.
+
+E-Tech is extremely varied; it's used in everything from trains to kitchen appliances. It's akin to the discovery of electricity in that way, but it's much more powerful.
+
+There are several concurrent modern studies of Eathyst. One of the most prominent is that of unstable Eathyst: Eathyst produces a relatively tiny amount of excess ether particles. Since it's made of crystallized Ether, finding a way to compromise its chemical integrity and release its Ether would be incredibly powerful. If a million microscopic particles can produce a LVL 7 spin, then imagine what a large, tangible chunk of Eathyst could do when fully harnessed? Some believe this would be the equivalent to a nuclear device, if not millions of times more so. A small hand-sized node of Eathyst has ~10^25 particles of Ether in it, which is 10^13 times stronger than a LVL 9 spin. The minute this problem is solved, all hell will break lose. Some theorize that this could be powerful enough to cause / prevent a cycle.
+
+
+### Active Campaigns
+- Brandon's Campaign
+	- Players
+		- Avery Gilmer -- ?
+		- UNKNOWN
+- Styxas
+	- Set in Styxas
+	- GM -- Avery Gilmer / Byron Linck
+	- Players
+		- Aiden Warren -- [[Ratchet Gulliver]]
+		- Byron Linck -- Hynri Le Jyk (deceased)
+		- Avery Gilmer -- Vyron Koybayor
+		- Cole Warren -- Yavrum Vagarn
+		- Brandon Gibson -- Shigru Arifirith
+		- Zane -- Kallos
+		- Eddie Saldana -- Umigame
+- [[Arcohaem]] A
+	- Set in [[Arcohaem]]
+	- GM -- Aiden Warren
+	- Players
+		- Avery Gilmer -- [[PCs A - Arcohaem|Doornail]] "The Bulwark" Stein
+		- Cole Warren -- [[PCs A - Arcohaem|Brogus]] Bobbleheim 
+		- Brandon Gibson -- [[PCs A - Arcohaem|Malgruff]] the Soul-Tearer
+		- Aaron Takatsch -- [[PCs A - Arcohaem|Aeroneiros]]
+		- Skyler Hagen -- [[PCs A - Arcohaem|Rorik]] Valgok
+- [[Arcohaem]] B
+	- Set in [[Arcohaem]]
+	- GM -- Aiden Warren
+	- Non-cannon variant of [[Arcohaem]] A
+	- Players
+		- Hunter Wissenback -- [[PCs B - Arcohaem|Ostos]] "[[PCs B - Arcohaem|RON]]" Bjornson
+		- Bentley Wissenback -- [[PCs B - Arcohaem|Old Man Olaf]]
+		- Luca Dale -- [[PCs B - Arcohaem|Iona Kunetzova]]
+		- Xavi Demello -- [[PCs B - Arcohaem|Lukas Havran]]
+		- Gray Seibold -- [[PCs B - Arcohaem|Tinkle Winkler]] I
+		- JJ Bella -- [[PCs B - Arcohaem|Darrell]] Honor's'swift

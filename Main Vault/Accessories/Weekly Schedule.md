@@ -17,8 +17,8 @@ Exercise - Chest, Biceps, Side Delts
 
 ### Tuesday
 Schoolwork
-- Linux Reading A
-- Linux Reading A Testout Assignments
+- Linux Reading
+- Linux TestOut Assignments
 
 Spirituality
 - Thursday Meeting Study
@@ -27,9 +27,10 @@ Spirituality
 
 ### Wednesday
 Schoolwork
-- Linux Reading B
-- Linux Reading B Testout Assignments
 - Linux Quiz
+- Linux Community Campfire
+- Linux Brightspace Lab Assignment
+- Linux Reflection
 
 Spirituality
 - Saturday Meeting Study
@@ -45,9 +46,7 @@ Exercise - Back, Triceps
 
 ### Thursday
 Schoolwork
-- Linux Community Campfire
-- Linux Brightspace Lab Assignment
-- Linux Reflection
+- SQL Assignment (50%)
 
 Spirituality
 - Bible Reading
@@ -56,7 +55,7 @@ Spirituality
 
 ### Friday
 Schoolwork
-- SQL Assignment
+- SQL Assignment (50%)
 
 Spirituality
 - Bible Reading

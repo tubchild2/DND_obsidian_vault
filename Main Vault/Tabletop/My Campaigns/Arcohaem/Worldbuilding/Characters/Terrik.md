@@ -12,7 +12,7 @@ aliases:
 ### The Wraith's Sound
 **Long Distance Call**
 ![[call.wav]]
-![[Wraith Call 2.wav]]
+![[call2.wav]]
 ![[call3.wav]]
 
 **Close Call**
@@ -25,7 +25,7 @@ aliases:
 ![[wraith7.wav]]
 
 
-# Statblock
+### Statblock
 **The Wraith of [[Arcohaem]]**
 Medium Humanoid (human), lawful evil
 CR 17 - 18,000 XP
@@ -96,6 +96,8 @@ Languages
 **Lightweight**
 	The Wraith cannot take fall damage.
 
+**Interference**
+	Radio signals within 2 miles of the Wraith are scrambled.
 
 
 ---
@@ -175,10 +177,9 @@ The Wraith can take 3 Legendary Actions, choosing from the options below. Only o
 1. Dismemberment (calling card)
 2. Strangling
 3. Cave in Skull
-4. Rip Heart Out
-5. Decapitation
-6. Claw Throat
-7. Punch Through Chest
+4. Decapitation
+5. Claw Throat
+6. Punch Through Chest
 
 **How He Fights**
 - The Prowler (Into the Spiderverse)
@@ -186,7 +187,7 @@ The Wraith can take 3 Legendary Actions, choosing from the options below. Only o
 - Death (Puss in Boots)
 
 ### Overview
-Terrik Malvek was the greatest soldier in all of [[Arcohaem]]. While trying to uproot corruption by killing criminals, he became corrupt himself, and was scarred and exiled. He became the Wraith; the hand of [[Malfaust]]. He is known only through rumors as an unstoppable monster that kills without resistance. He is to be feared.
+Terrik Malvek was the greatest soldier in all of [[Arcohaem]]. While trying to uproot corruption by killing criminals, he became corrupt himself, and was scarred and exiled. He became the Wraith; the hand of [[Malfaust]]. He is known only through rumors as an unstoppable monster that kills without resistance. He is an incredibly powerful funneler but he never uses those abilities in combat. 
 
 
 ### History (overview)

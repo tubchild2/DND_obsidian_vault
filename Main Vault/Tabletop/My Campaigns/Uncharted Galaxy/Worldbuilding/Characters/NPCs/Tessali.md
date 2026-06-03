@@ -13,7 +13,7 @@ aliases:
 - A [[Hyperbeings|Hyperbeing]].
 ### History
 - Grew millions of years ago. Was one of the first and few [[Hyperbeings]]. 
-- Started exploring [[The Galaxy]] as a passive observer. 
+- Started exploring [[The Galaxy c1]] as a passive observer. 
 - Discovered [[The Chronicle of the Sleeper]]
 - Was wounded by [[House Galling]] in 10012
 - Tortured for its [[Exotic Metals|Nethrium]] until 10024, where [[Pluto]] found and rescued it. Exhausted and thoroughly wounded, it was essentially braindead. 

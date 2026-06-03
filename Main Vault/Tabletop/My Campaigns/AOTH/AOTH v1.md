@@ -1,6 +1,6 @@
 A sequel to [[Arcohaem]]
 
-After the events of [[Arcohaem]], a wealth of order and harmony emerged in [[Arcohaem]]. This, along with the work of some devotees using [[AOTH's Pendant]] (which was found in Malfaust's Lair), has attracted [[AOTH]] to [[Arcohaem]]. He begins moving from the edge of the universe towards [[Serendipita]]. He'll be there in a few weeks.
+After the events of [[Arcohaem]], the work of some devotees using [[AOTH's Pendant]] (which was found in [[Malfaust]]'s Lair), has attracted [[AOTH]] to [[Arcohaem]]. He begins moving from the edge of the universe towards [[Serendipita]]. He'll be there in a few weeks.
 
 Set in a smaller town. They occasionally leave via portals and other forms of transportation, but they usually return to the town to interact with and observe the other characters. 
 
@@ -12,6 +12,10 @@ Themes
 - Self doubt
 - What people do when doomed
 - Gaining perspective on things
+
+I'm not a bad person, but it's hopeless to try and get better. 
+If I had one day left on earth, I wouldn't do what I want, because I don't think I deserve it. 
+I'd go back to things that I hate that make me hate myself because it's comfortable. 
 
 Inspirations
 - Majora's Mask
@@ -68,3 +72,8 @@ The main drive of this climax will be [[AOTH]] using their own friends and famil
 Humans are flawed, selfish, violent, weak, and transient. But, no matter how bad things may be, and no matter how meaningless morality may feel, you can always do what is right, and that has value even without reward. At their lowest point, they can choose humanity, order, and unity. They can resist giving in. This will stun [[AOTH]], and leave him susceptible to banishment. He'll go away, but the people of [[Arcohaem]] will have suffered irreversible emotional harm and are inarguably worse off. 
 
 The story ends there, on kind of a bleak note. Yes, they saved [[Arcohaem]], but they lost things that were much more meaningful and had their emotions toyed with and broken by an eldritch being that didn't even know they were there and was acting entirely on base subconscious instinct. They lost friends, family, relationships, belongings, meaning, and anything else it could tear from them. They gained hope, though, and a persistent understanding that life sucks, but doing the right thing anyway is powerful nonetheless. 
+
+
+
+### Alternate Idea
+Maybe just write a book about this. Make it a tragedy about like 1 character specifically who can't handle it. 

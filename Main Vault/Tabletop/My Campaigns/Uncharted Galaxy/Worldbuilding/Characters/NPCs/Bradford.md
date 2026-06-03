@@ -58,7 +58,7 @@ https://open.spotify.com/track/6awsYAefJczdOMMZp13RYZ?si=86db7a83bec84733
 
 10020
 - Late one night, [[Primordial of Order|Tod]] appeared outside of Bradford's bedroom door. The two had a private conversation. [[Primordial of Order|Tod]] told Bradford he was an angel, and that he needed Bradford's help. Bradford was skeptical at first, but [[Primordial of Order|Tod]] demonstrated his power and Bradford apologized profusely. 
-- [[Primordial of Order|Tod]] said that he needed to bring about a new age for [[The Galaxy]], one where everyone would be absolutely equal. There would be no work, no stress, no hunger, no thirst. In his world, people would be truly free. He just needed more "angels." All Bradford would need to do is build another, bigger [[Portals C1|gateway]], and he'd be greatly rewarded. Bradford agreed, and Bradford was officially a servant of [[Primordial of Order|Tod]]. 
+- [[Primordial of Order|Tod]] said that he needed to bring about a new age for [[The Galaxy c1]], one where everyone would be absolutely equal. There would be no work, no stress, no hunger, no thirst. In his world, people would be truly free. He just needed more "angels." All Bradford would need to do is build another, bigger [[Portals C1|gateway]], and he'd be greatly rewarded. Bradford agreed, and Bradford was officially a servant of [[Primordial of Order|Tod]]. 
 - Bradford immediately made plans with the [[Armstrong Initiative]], and the [[Doctrine of St. Galling|CSG]] to commission a large [[Exotic Metals|Nethrium]] statue to open a larger [[Portals C1|gateway]]. They agreed, and he spent nearly all of their [[Exotic Metals|Nethrium]] on building the statue, which was later named the [[Mano di Dio]]. In exchange, [[Primordial of Order|Tod]] made Bradford an [[Ether Users C1|Ether User]]. 
 
 10024
@@ -68,7 +68,7 @@ https://open.spotify.com/track/6awsYAefJczdOMMZp13RYZ?si=86db7a83bec84733
 - Enraged, [[Primordial of Order|Tod]] had Bradford execute everyone present (including his own men) to prevent word of the [[Armstrong Initiative]] from getting out. [[Primordial of Order|Tod]] then ordered Bradford to pursue [[Pluto]]. They found nothing, so [[Primordial of Order|Tod]] used Bradford to kill [[Pluto]]'s friends and family. He then relentlessly pursued [[Pluto]] with an army of bounty hunters, and the full military might of [[House Galling]]. 
 
 12024
-	Bradford has spent 2000 years combing [[The Galaxy]] for the [[Tessali]] and [[Mano di Dio|the Mano di Dio]], all for [[Primordial of Order|Tod]]. He's done many unspeakable acts in his name, and it's been an agonizing, slow, tedious crawl. He's even more reclusive, and is neither respected nor hated. He relies heavily on other people to make decisions, and only really cares about finding the [[Mano di Dio]]. 
+	Bradford has spent 2000 years combing [[The Galaxy c1]] for the [[Tessali]] and [[Mano di Dio|the Mano di Dio]], all for [[Primordial of Order|Tod]]. He's done many unspeakable acts in his name, and it's been an agonizing, slow, tedious crawl. He's even more reclusive, and is neither respected nor hated. He relies heavily on other people to make decisions, and only really cares about finding the [[Mano di Dio]]. 
 
 **Agenda**
 1. Earn something real for himself that no one can deny he deserved

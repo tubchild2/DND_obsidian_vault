@@ -11,6 +11,8 @@ The [[PCs A - Arcohaem|Wolves of Arcohaem]] are an elite Republic strike team de
 - [[PCs B - Arcohaem|Iona]] Kunetzova, a human water-sorcerer that's naturally shy that fights so that people can have a choice in participating in the war--unlike him
 - lord [[PCs B - Arcohaem|Lukas]] San [[House Havran|Havran]], a human fire-sorcerer that's arrogant, loyal, and manipulative. He was raised as a Republic noble, where he was overlooked, so he joined the military to prove himself. 
 
+
+# [[Part 1 - The Wolves of Arcohaem]]
 ### Chapter 1:  In Medias Res
 It's the winter of 12c, 1266. 5 years ago, the Wolves were formed. 5 weeks ago, they were dispatched to locate Krothmire. Krothmire is a secret [[Frigoshia|Frigoshian]] prison camp hidden deep in the eastern Howling Front (the unmoving line of combat between [[Frigoshia]] and the Republic). The war prisoners there are forced to work in forges, and kept barely alive. The cover of night coupled with a powerful snowstorm has given them an opportunity to approach the prison undetected. 
 
@@ -35,6 +37,8 @@ Arriving at the hulking Senate building, they enter to receive their mission. Th
 
 They then planned their mission. They're going to travel to [[Ammalor]] and charter a ship, before sailing around the Howling Front, and entering [[Frigoshia]] from the North (The Wastes Pale). They'll push through the wastes, before sneaking into the capital [[Frigoshia|Torhild]] to search for and eliminate the dragon program.
 
+
+# [[Part 2 - Just Like the Simulations]]
 ### Chapter 4: [[Ammalor]]
 The Wolves moved from [[Hephaestus]] to [[Ammalor]] to search for a ship to charter. It's known far and wide for its artisans, trade, and craftsmanship. The ports are bustling, the shops and overflowing with merchandise, and the streets are lined with the rich and powerful. 
 
@@ -91,8 +95,53 @@ Just then, they heard a voice say, "Hey! I was wondering if you'd even show up!"
 
 [[PCs B - Arcohaem|Olaf]] tells him that they're here to sabotage supply lines, but he doesn't buy it. They're far too high-ranking for that, and Freyrhage hasn't been active in a long time. He counts down from five, and then shoots Emily in the face. He asks again, and points the gun at Danielle. [[PCs B - Arcohaem|Ron]] climbs down from outside and attempts to shoot him, but misses, causing him to shoot Danielle. [[PCs B - Arcohaem|Lukas]] screams, and [[Alric]] nonchalantly tells him to relax. He told them the rules, and they broke them. [[PCs B - Arcohaem|Lukas]] panics and reveals their true mission to [[Alric]]. He's skeptical, because he hasn't heard anything about dragons and he's a captain. [[PCs B - Arcohaem|Ron]] suggests he hear it from [[Kragknull|Commander Kragknull]], who quickly realizes they're being interrogated and poorly lies. [[Alric]] shuts it down. [[PCs B - Arcohaem|Ron]] makes another move, and [[Alric]] shoots Danny. With only Erik remaining, [[PCs B - Arcohaem|Ron]] uses Death Ward to protect him from death. [[PCs B - Arcohaem|Iona]] then water bubbles [[Alric]], knocking him prone. This action causes [[Alric]] to again fire at Erik, but Death Ward protects him from death, and instead knocks him unconscious. They all seize the opportunity to beat and trap [[Alric]]. He convinces them to keep him alive long enough to get information out of him. They take his body and flee as Freyrhage is raided and burned down. No one else makes it out. 
 
-
 ### Chapter 8 - Nocturne
 After running for hours into the night, they make camp and reflect. They contact [[Kragknull]], who's infuriated that they'd reveal the mission. [[Alric]] is injected with [[PCs B - Arcohaem|Olaf]]'s truth serum, and reveals that he truly doesn't know anything about Dragons. He also broadcast their conversation on an open channel, meaning there's a good chance someone overheard. They decide they're done with [[Alric]], and all take turns beating and killing him, with Erik Persson dealing the killing blow. [[PCs B - Arcohaem|Lukas]] turns him to ash, and [[PCs B - Arcohaem|Iona]] dissolves his bones in acid. While dying, [[Alric]] smiled, enjoying the pain and getting outplayed by someone else. 
 
 They will continue their mission with a newfound hate for [[Frigoshia]]. A deep-seated distaste that has finally boiled over into pure unadulterated hatred.
+
+
+# [[Part 3 - For the Republic!]]
+### Chapter 9 - Rain Fire!
+This isn't cannon, but [[PCs B - Arcohaem|Ron]] did reach out to the interdimensional halfling lawyer [[Small Goodman N ON]] to attempt to sue [[PCs A - Arcohaem|Doornail]] for violating the terms and conditions of his oath. 
+
+It had been a couple days of travelling. They'd moved out of Freyrhage and into Beirdall. Beirdall is completely surrounded by water and is easily accessible from Karlstad, making its western river a deeply contested territory. 
+
+It's about 4 in the morning, meaning it's still completely dark outside. The Wolves made camp by a small creek cutting through the woods. Ever since Freyrhage, they've been hearing loud mechanical noises getting louder and closer. Tonight, they heard the following: 
+
+![[call.wav]]
+
+They're all a little paranoid, but it doesn't seem pressing right now. [[PCs B - Arcohaem|Ron]] consumes 5 pounds of frostberries and 2.5 pounds of [[PCs B - Arcohaem|Tinkle Winkler]]'s frostberry jam. 
+
+Speaking of, where was [[PCs B - Arcohaem|Tinkle Winkler]]? Apparently, he had stayed behind to help try to grow "Winkler Nation." He had been mildly successful, amassing a group of 5-ish loyal followers in [[Hephaestus]]. He took his own boat into Freyrhage and caught a brief glimpse of the destruction therein. After that, he continued moving, and saw the remnants of the [[Frigoshia|Frigoshian]] encampment. Eventually, he found the rest of the Wolves, but it took awhile. 
+
+As they're walking, they encounter a group of orphans hiding out in the middle of the woods in a rudimentary fort. They're triplets, and they were living near here but their parents were killed in the skirmish. They're names are Boggis, Bunce, and Bean. One's short, one's fat, and one's lean. 
+
+Boggis quickly sides with [[PCs B - Arcohaem|Tinkle Winkler]] after learning about the glory of Winkler Nation. Bunce and Bean go back and forth between [[PCs B - Arcohaem|Lukas]] and [[PCs B - Arcohaem|Olaf]], but eventually side with [[PCs B - Arcohaem|Olaf]] after [[PCs B - Arcohaem|Lukas]] lights their hair on fire in what can only be described as racially motivated vengeance for the actions of Captain [[Alric]]. 
+
+As they continue moving west towards the river, they begin to hear the sounds of explosions and gunfire, and find the beaches swarming with Republic soldiers. [[Frigoshia]] has sent a galleon up the river to attempt to destroy the Republic camp. Just then, they spot some people they haven't seen in ages: the [[The Karlstad Crusaders|Karlstad Crusaders]]!
+
+The [[The Karlstad Crusaders|Karlstad Crusaders]] are a contemporary of the [[PCs A - Arcohaem|Wolves of Arcohaem]]. They've served under [[Commander Ragnar]] for a few years, but have been around the Republic military elite since the beginning of the war. They're composed of four members:
+- [[The Karlstad Crusaders|Sigvald Brenn]] is a Dragonborn Paladin and the leader of the group. He's a reasonable man who's loyal to his men. He grew up poor, but he managed to go to the same high school as [[PCs B - Arcohaem|Lukas]] due to his cousin's connections. 
+- [[The Karlstad Crusaders|Drek Halvos]] is a Changeling Fighter / Rogue, and the spy of the group. He's a sadistic kleptomaniac who's in the war for the violence and the spoils. While off-duty, he's obsessed with money. He's uncomfortable to be around unless you know him very well. He had a violent incident at an Arcobee's and was arrested and eventually drafted into the military.
+- [[The Karlstad Crusaders|Aska]] Taure is a Minotaur Barbarian, and the tank / cook of the group. He's got a loud laugh, is super kind and warm, and loves food. He also is incredibly gullible and pretty stupid. Half of his belief system is built on obvious lies. 
+- Karl "[[The Karlstad Crusaders|Oscar]]" [[The Karlstad Crusaders|Oskarby]] is a Tortle Cleric and the medic / moral compass of the group. He's a quiet and kind dude who likes Arizona iced tea, writing, and painting. He really doesn't want to be here. He was drafted at first, but is making the best of things with the Crusaders.
+
+Suddenly, canon fire forces them to all take cover. 
+
+### Chapter 10: Shoreline Siege
+Over the next several hours, they fight their way through a small army of [[Frigoshia|Frigoshian]] soldiers and their minions. [[PCs B - Arcohaem|Lukas]] and [[PCs B - Arcohaem|Iona]] create walls of fire and ice, [[PCs B - Arcohaem|Olaf]] is thrown by [[PCs B - Arcohaem|Ron]] to the other side of the river, [[PCs B - Arcohaem|Tinkle Winkler]] protects and stays with Erik Persson and the orphans, [[PCs B - Arcohaem|Lukas]] explodes a [[Frigoshia|Frigoshian]] galleon, and the [[The Karlstad Crusaders|Karlstad Crusaders]] work together to clear out the enemies on the sidelines. 
+
+After the battle, a [[Frigoshia|Frigoshian]] begs for mercy. They don't make the same mistake twice. They kill him quickly. 
+
+Strangely, they spot a small group of ~6 [[Frigoshia|Frigoshians]] sprinting away from the battle after seeing the ship go down. They're too far away to catch up, but they're moving in the same direction as the Wolves need to go in. 
+
+### Chapter 11: We Go Way Back
+They have some time to relax and eat a meal with [[the Karlstad Crusaders]]. [[The Karlstad Crusaders|Aska]] makes them food and tells some tales he heard:
+- I was talking to a guy and he said he saw the [[Frigoshia|Frigoshians]] drink blood from the skull of a Chupacabra. Chupacabras are demon dog things. My uncle's best friend Kai swears to this day that he saw one. 
+- A soldier we captured told us about a time that Captain [[Alric]] blew up a school with nothing but tree sap and spices. 
+- One time a bunch of [[Frigoshia|Frigoshians]] tried being friends with Republic soldiers, and then while the Republic soldiers were sleeping, they cut off their wangs! Can't trust 'em!
+
+[[The Karlstad Crusaders|Drek]] attempted to rob [[PCs B - Arcohaem|Olaf]], and [[PCs B - Arcohaem|Olaf]] robbed his stuff back. Karl and [[PCs B - Arcohaem|Iona]] shared Arizona Iced Tea while he tended to their wounds. [[The Karlstad Crusaders|Drek]] walked around naked while Karl washed his clothes. Then, [[The Karlstad Crusaders|Sigvald]] and [[The Karlstad Crusaders|Aska]] got into an argument over whether or not [[Terrik|the Wraith]] is real. [[The Karlstad Crusaders|Sigvald]] and [[Commander Ragnar]] think it's just a bunch of unrelated killings that have been fallaciously linked after the fact. [[The Karlstad Crusaders|Aska]] swears he knows people who've seen it. [[PCs B - Arcohaem|Lukas]] shares that he's seen it and they don't believe him. [[The Karlstad Crusaders|Sigvald]] agrees to take the orphans and Erik back to [[Hephaestus]], and they all part ways. 
+
+[[Kragknull]] contacts them with some important private information. A bunch of people disappeared last night, including the overseer of the Republic bank. All of his files were burned or looted, so there's a lot of paranoia right now. The Chancellor is so panicked that he elected a new [[Terrik|Lord Commander]] to oversee the Royal Guard. He's from out of government, so no one really knows him yet. Some dude named [[Terrik|Galen]]. Here's the issue. [[Kragknull]] and [[Finn]] believe they know who's responsible. However, if they're wrong, they could be executed. He isn't allowed to do what he's about to do, but he has to for the sake of the Republic. He hopes their mission goes well and that they return safely, cause they're his favorite team he's ever commanded. Also, the place they're moving through next is incredibly isolated. The communicators tend to break down there due to some kind of "interference." Basically, they're gonna be on their own for the first time. [[PCs B - Arcohaem|Iona]] tells [[Kragknull]] he loves him, and they all say goodbye.

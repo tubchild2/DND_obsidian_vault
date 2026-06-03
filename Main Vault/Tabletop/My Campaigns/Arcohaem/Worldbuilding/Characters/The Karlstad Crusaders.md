@@ -8,7 +8,7 @@ aliases:
   - Aska
   - Karl Oskarby
   - Oskarby
-  - Oskar
+  - Oscar
 ---
 A strike team and peer of the [[PCs A - Arcohaem|Wolves of Arcohaem]]
 Serve under [[Commander Ragnar]] 
@@ -87,12 +87,12 @@ Personality
 	- Believes the worst about [[Frigoshia|Frigoshians]]
 	- Sincerely spreads obviously fabricated tall tales he heard
 		- I was talking to a guy and he said he saw the [[Frigoshia|Frigoshians]] drink blood from the skull of a Chupacabra. Chupacabras are demon dog things. My uncle's best friend Kai swears to this day that he saw one. 
-		- A soldier we captured told us about a time that Captain [[Alric]] blew up a school with nothing but tree sap and spices. They're crafty!
+		- A soldier we captured told us about a time that Captain [[Alric]] blew up a school with nothing but tree sap and spices. 
 		- One time a bunch of [[Frigoshia|Frigoshians]] tried being friends with Republic soldiers, and then while the Republic soldiers were sleeping, they cut off their penises. Can't trust 'em!
 		- One time my cousin saw [[Terrik|the Wraith]] working with the [[Frigoshia|Frigoshians]]. I don't know what they were doing but I believe it; they're into some crazy stuff. 
 
 
-##### Karl "Oskar" Oskarby
+##### Karl "Oscar" Oskarby
 Class: Cleric
 Species: Tortle
 Level 9

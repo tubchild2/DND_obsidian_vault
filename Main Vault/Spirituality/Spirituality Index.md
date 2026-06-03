@@ -1,5 +1,6 @@
 Projects
-- [[What is Prophecy 5-min Talk Draft 6]]
-- [[Starting a Conversation Feb 26 2026 Draft 2]] 
-- [[How to Study 5-min Talk Draft 1]]
-- [[How to Study 5-min Talk Draft 2]]
+- [[5m Talk - What is Prophecy - v6]]
+- [[5m Talk - How to Study - v3]]
+- [[StartConvo - Robert Raymond - 2.26.26 v2]] 
+- [[StartConvo - Cason Benson - 5.28.26 v4]]
+- [[Report - London Knudsen - v1]]

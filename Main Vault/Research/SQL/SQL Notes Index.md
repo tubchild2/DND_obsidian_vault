@@ -5,3 +5,4 @@
 [[SQL Week 4 Notes]]
 [[SQL Week 5 Notes]]
 [[SQL Week 6 Notes]]
+[[SQL Week 7 Notes]]

@@ -1,6 +1,7 @@
 ---
 aliases:
   - King Atka
+  - Kry Atka
 ---
  ![[King Atka.jpg|500]]
 

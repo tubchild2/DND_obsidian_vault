@@ -4,7 +4,7 @@
 # Description
 The air is heavy and dry, suffused with a choking haze of crimson fog that blankets the landscape as far as the eye can see. The needlelike mountains splinter the burnt-orange sky. The sun, a dull bloated orb, casts a harsh hazy red glow on the planet below, the light diffused from miles of toxic fog. The ground around you is scorched in shades of blood and rust. Around you, rivers of flowing magma careen out of the rocky hillsides, their flow disappearing into a cloud of thick dust. Fierce, searing winds scour the land at hurricane speeds, reducing unprotected structures and unwary wanderers to fragments scattered on the breeze. Charred and snapped bones jut out from the earth, and jets of steam hiss from nearby vents.
 
-Located in the [[The Galaxy|Eastern Plate]]. 
+Located in the [[The Galaxy c1|Eastern Plate]]. 
 # History
 Vivimus was a hostile world from the start. From its turbulent formation, the planet had a fiercely volcanic surface wrapped in a choking atmosphere of dense carbon dioxide, nitrogen, and methane. Jagged mountains and mile-deep cliffs defined its landscape, while superheated magma veins and rivers of toxins sliced across the land, their lethal chemicals weaving through valleys and ravines. Although the air shimmered in relentless 95°F heat, life was created to flourish in this extreme climate. The planet became home to unique thermosynthagenic plants and animals—species capable of transforming ambient heat into energy, their bodies built to thrive in the thick, toxic haze and the unending cycle of daylight from Vivimus’ binary stars.
 
@@ -16,7 +16,7 @@ By 7083, the entire planet teetered on the edge of collapse. As the [[Fernites]]
 In 7105, Finn Galling to interest in the planet due to it's abundant thermal energy, chemicals, and rare metals. He set up a small mining colony called Muri Vivi. 
 
 # Physical Characteristics
-- Located in the [[The Galaxy|central plate]] of [[The Galaxy]]. 
+- Located in the [[The Galaxy c1|central plate]] of [[The Galaxy c1]]. 
 - Black deserts (Entire valleys covered in [[Fernites]])
 - Black volcanoes (Volcanic systems overtaken by [[Fernites]]. They spew black magma and erupt more)
 - Supermassive steam vents (Steam vents that erupt and uproot square miles of earth)
