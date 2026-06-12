@@ -8,8 +8,11 @@ They know they're going to die, so they've temporarily let themselves go. They'r
 **Tad Strange**
 In a world where everything is insane, introduce a man with absolutely nothing going on. He is surrounded by the exceptional, but he's just an accountant. He has a strikingly boring by-the-books backstory, and is a reasonable good person. He's just trying his best to accomplish his life goals. In his story, focus on his potential feelings of inadequacy, self-doubt, or boredom. His interactions are typically successful because he isn't an exaggerated character and most people aren't awed or bored by him. 
 
+**Unlucky**
+A man who cannot succeed.
+
 **Mystery Man**
-A man who regularly interacts with people and suggests that he knows more than he lets on. He's never explained or understood, and makes people uncomfortable. Similar to the G-Man, or to the Happy Mask Salesman. The universe has rules that he flagrantly operates outside of. He has goals and intentions, and there is a method to his madness, but the protagonists aren't made to know that. 
+A man who regularly interacts with people and suggests that he knows more than he lets on. He's never explained or understood, and makes people uncomfortable. Similar to the G-Man, or to the Happy Mask Salesman. The universe has rules that he flagrantly operates outside of. He has goals and intentions, and there is a method to his madness, but the protagonists aren't made to know that. Perhaps he's always around but always out of sight. 
 
 **The Angel**
 A being of such great power that they view humanity as pointless. Why care about them when you can just make more? Not actively hostile, but not actively interested. It serves its own goals, which often operate on scales indifferent to humanity. Inspired by the Mysterious Stranger by Mark Twain.
@@ -26,6 +29,9 @@ A cunning perfectionist obsessed with military perfection. He fights honorably, 
 **William with Uber Eats**
 A man who works as a delivery driver for a non-specified company. He has to deliver whatever is ordered to wherever it's requested no questions asked. So, there could be an active shooter or something, and he'd have to deliver chicken fingers. He can also be used to deliver other things. He hates his job. 
 He answers questions like Dr. Arroyo from Conan O'Brien's appearance on Hot Ones. Where did you go to school? "1981." Are you even a real doctor? "I was supposed to be." It's all non-sequiturs, and it isn't clear why he's doing this awful job.
+
+**Charlie Larson**
+Charlie was a troubled 11 year old child that stole a wish-granting machine without understanding how it worked. He wished to be the best at everything. It trapped his mind and body within an infinite space with infinite time. To exit, he would need to be better than everyone else who'd ever lived or ever would live at everything. Since he couldn't die or age in there, he was forced to actually reach that goal. It's unclear how much time he spent in there, but after one second from our perspective, he exited. He's an adult now. His goals after that time could be interesting. Would he want a friend? Would he want to die? Would he want to share his knowledge? Would he destroy all of those wish-granting machines? Would he want to go back in? 
 
 
 ##### Worldbuilding
@@ -65,6 +71,9 @@ A small percentage of the population is born with access to an electric based ma
 	Master: flight, absorbing lightning
 Practitioners serve an evil empire and wield long, thin needle-like swords. Majority of them don't push based beginner / intermediate. The king and his hand are pushing advanced / master though. Most people who are born with this ability are discovered quickly, and then either indoctrinated into the government or killed. Maybe the protagonist was born with a godlike potential for these abilities, and the story watches his progress from newbie to one of the most powerful characters in that universe. He goes on a crusade and adventure to free people and eventually to defeat the evil king. It's a standard plot but the action would be cool.
 
+**Maxwell's Silver Hammer**
+Whoever it strikes survives, but experiences one incredibly unlucky event within the next 7 days.
+
 
 ##### Plots
 **Battleworld**
@@ -80,11 +89,13 @@ The players exist in a perpetual day-long time loop. Each day, they're placed in
 A parasite has infected a cave system on an alien planet. It can only infect people while isolated, since it emits a bunch of bright colorful lights. The party is dispatched to investigate the disappearance of the previous crew. One player is infected in the very beginning off-camera to seed the conflict, and will attempt to isolate and infect the other players. If even one infected makes it out on the ship, the infected win. Players have multiple tasks throughout the map that require unique non-sharable skillsets that encourage separation. The goal is to instill paranoia, distrust, and confusion. Have incompatible characters with incompatible motivations and incompatible attachments. Reasonable motivations + stakes lead to PvP. Players must know beforehand that infections can occur silently, and that they have to go along with it. Use The Thing (1984)'s OST. 
 
 **The Truman Show**
-The players are in an inauthentic reality, and everyone else is part of a hivemind. They need to figure out what's going on and escape. Take inspiration from [[Postmodernism, Simulacra, and Irony]]. 
+The players are in an inauthentic reality, and everyone else is part of a hivemind. They need to figure out what's going on and escape. Take inspiration from [[Postmodernism, Simulacra, and Irony]]. Truman show the players by having every NPC, and maybe even some real events that interfere with the tabletop be carefully scripted. 
 
 **Party in the CIA**
 The players are spies who are placed in foreign territory and need to complete a mission, but it goes haywire and they have to adapt to the expanding conspiracy. That's just the backdrop though, the real fun comes from taking them to absurd places and putting them in insane situations while staying completely serious. John Kiriakou type stuff. They have to sing Karaoke or lose a deal with the cartel, or they have to piss in a guy's drink to get revenge, or they have to blow up a building to prevent being made. Just the craziest stuff they can think of, but they get away with all of it because they're in the CIA. A backdrop for players to be retarded, basically. Everyone takes it completely seriously, and there's no winking, no pausing, no nothing. Anything unhinged that happens will be treated like it's normal and then moved on from. 
 
+**Never Alone**
+The players are attempting to investigate a place that's entirely abandoned. They're split up, and left completely powerless. The entire journey is lonely and unsettling, and it's repeatedly teased that there's something observing them. At the end, they learn that the place was abandoned under mysterious circumstances because of some radio tower. To escape, they need to activate it. While they activate it, they begin to hear things behind them that are getting louder. White glowing text appears out of thin air that just says, "do not turn." if they turn and look, they die, without knowing what it is. If they swallow their curiosity and complete the task, the thing vanishes and they get to go home. 
 
 
 ##### Plot Elements
@@ -117,7 +128,8 @@ Someone infiltrates your ship / camp / home while you're asleep. They have a tho
 **Adrift**
 Your ship / submarine is adrift and rapidly running out of oxygen. There aren't enough escape pods. You can try to fix the ship, but eventually someone may have to be left behind. 
 
-
+**Daisy Bell**
+Use Daisy Bell as a motif for the progress of technology. 
 
 
 ##### Mechanics

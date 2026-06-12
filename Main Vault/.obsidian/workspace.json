@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81b3e57fe597f24c",
+        "id": "bb175b54db5781d4",
         "type": "tabs",
         "children": [
           {
-            "id": "5181039a88135ee1",
+            "id": "4c718639da3be78d",
             "type": "leaf",
             "state": {
-              "type": "full-calendar-view",
-              "state": {},
-              "icon": "calendar-glyph",
-              "title": "Calendar"
+              "type": "markdown",
+              "state": {
+                "file": "Redmond List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Redmond List"
             }
           }
         ]
@@ -90,11 +94,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Redmond List.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Redmond List"
             }
           },
           {
@@ -163,34 +168,34 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5181039a88135ee1",
+  "active": "4c718639da3be78d",
   "lastOpenFiles": [
-    "Accessories/Ideas/ID_ TTE Pitch.md",
-    "Accessories/Idea Index.md",
-    "Accessories/Ideas/ID_ SummerProj.md",
     "Accessories/To-Do.md",
-    "Calendar/2026-06-03 Ritalin.md",
-    "Calendar/2026-06-03 Pick Gift for Brandon.md",
-    "Calendar/2026-07-12 Styxas.md",
-    "Calendar/2026-07-10 Rehearse Arcohaem A3.md",
-    "Calendar/2026-06-27 Rehearse Arcohaem B4.md",
-    "Calendar/2026-06-28 Arcohaem B4.md",
-    "Calendar/2026-07-07 Prep Arcohaem A3 pt 2.md",
-    "Calendar/2026-07-06 Prep Arcohaem A3.md",
+    "Calendar/2026-08-05 Poop.md",
+    "Calendar/(Every W) Close Party.md",
+    "Redmond List.md",
+    "Accessories/Idea Index.md",
+    "Research/SQL/SQL Week 10 Notes.md",
+    "Accessories/Favorites.md",
+    "Calendar/2026-06-06 BBQ.md",
+    "Calendar/2026-06-07 Thrifting w Skyler Landon.md",
+    "Drawing 2026-06-05 10.35.07.excalidraw.md",
+    "Research/SQL/SQL Week 9 Notes.md",
+    "Calendar/2026-06-05 Gift for Brandon shirt or 20 bucks.md",
+    "Calendar/2026-06-05 Get Card for Brandon.md",
+    "Calendar/2026-06-05 Go to Bank.md",
+    "Calendar/2026-06-04 Go to Bank.md",
+    "Drawing 2026-06-03 12.43.12.excalidraw.md",
+    "Research/Linux/w10 IPv4, Network and Interface Config, Hostname DNS Config, Root Usage, Public Key Authentication, Security Best Practices.md",
+    "Calendar/(Every U,S,F,R,W) Bible Study.md",
+    "Calendar/2026-07-29 Doctor Appointment.md",
+    "Calendar/2026-06-05 Doctors Appointment.md",
+    "Calendar/(Every R) Midweek Meeting.md",
+    "2026-06-03.md",
+    "Research/Data Communications Notes/Data Comm Index.md",
+    "Calendar/2026-06-06 Hall Maintenance.md",
+    "Calendar/2026-06-13 Hall Maintenance.md",
     "Calendar/2026-07-11 Arcohaem A3.md",
-    "Calendar/2026-06-26 Bella's Grad Party.md",
-    "Calendar/2026-06-23 Vernonia 5pm-3am Security.md",
-    "Calendar/2026-06-19 Convention.md",
-    "Calendar/2026-06-16 Rehearse Arcohaem B4.md",
-    "Calendar/2026-06-15 Prep Arcohaem B4.md",
-    "Calendar/2026-06-12 Redmond Trip.md",
-    "Calendar/2026-06-11 Part with Cruz.md",
-    "Calendar/2026-06-11 Pack for Redmond.md",
-    "Calendar/2026-06-10 Practice Part with Cruz.md",
-    "Calendar/2026-06-09 Job Search.md",
-    "Calendar/2026-06-09 Fall Registration.md",
-    "Calendar/2026-06-08 SQL Assignment 10.md",
-    "Calendar/2026-06-08 Order Costume.md",
     "Calendar",
     "Daily Notes",
     "Excalidraw",
@@ -213,7 +218,7 @@
     "Tabletop/My Campaigns/Arcohaem/Media/Pictures/Maps/Battlemaps/Aburbekk Pass Frigoshian Alternate 20x15.png",
     "Tabletop/My Campaigns/Arcohaem/Media/Pictures/Maps/Battlemaps/Ship 20x15.png",
     "Tabletop/My Campaigns/Arcohaem/Media/Pictures/Maps/Battlemaps/Aburbekk Pass 20x15.png",
-    "Tabletop/My Campaigns/AOTH/AOTH's Pendant.webp",
+    "Tabletop/My Campaigns/Arcohaem 2 - AOTH/AOTH's Pendant.webp",
     "Home Network.canvas",
     "TTE/Character Maker.canvas",
     "TTE/RPGE Character Maker.canvas",

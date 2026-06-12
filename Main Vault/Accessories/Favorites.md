@@ -100,56 +100,7 @@ Ranking
 
 ### Songs
 Ranking
-1. Time - Pink Floyd
-2. Time to Pretend - MGMT
-3. Dancing Queen - ABBA
-4. Religious Man - Mister Loco
-5. Jay - Disasterpeace
-6. Sanctuary - Joji
-7. On Melancholy Hill - Gorillaz
-8. Raindrops Keep Fallin' on My Head - B.J. Thomas
-9. Brain Damage - Pink Floyd
-10. Dakota - Stereophonics
-11. The Son of Flynn - Daft Punk
-12. The Promise - When In Rome
-13. All Alone - Fun. 
-14. Somebody That I Used to Know - Gotye 
-15. Eclipse - Pink Floyd
-16. Nope your too late i already died - wifiskeleton, i wanna be a jack-o-lantern
-17. Carry On - Fun.
-18. TRON Legacy (End Titles) - Daft Punk
-19. Ecophony Rinne 4. Reincarnation - Geinoh Yamashirogumi
-20. Stars - Fun.
-21. Overture - Daft Punk
-22. Dog Days Are Over - Florence + The Machine
-23. End of Beginning - Djo
-24. Fantasy - Mariah Carey
-25. Video Killed The Radio Star Single Version - The Buggles
-26. Melty Molten Galaxy - Nintendo
-27. Gateway Galaxy - Nintendo
-28. Paparazzi - Lady Gaga
-29. Never Ending Circles - CHVRCHES
-30. Plastic Beach (feat. Mick Jones and Paul Simonon) - Gorillaz, Mick Jones, Paul Simonon
-31. Tiny Cities (feat. Beck) - Flume, Beck
-32. Mr. Brightside - The Killers
-33. Hysteria - Def Leppard
-34. Fortunate Son - Creedence Clearwater Revival
-35. Electric Love - BORNS
-36. The Fool On The Hill - The Beatles
-37. Animal - Def Leppard
-38. Comfortably Numb - Pink Floyd
-39. Weekend Friend - Goth Babe
-40. I Wish I Was a Black Guy - Julian Smith
-41. Hot N Cold - Katy Perry
-42. Yoshi Star Galaxy - Nintendo
-43. Requiem - Geinoh Yamashirogumi
-44. Last Son - David Fleming
-45. Something Stupid (From "Better Call Saul") - Lola Marsh
-46. Into a Nighttime Sky - Jeremy Zuckerman
-47. Vale Decem - Murray Gold
-48. Like a Surgeon 2022 Version - "Weird Al" Yankovic
-49. Puzzle Plank Galaxy - Nintendo
-50. Basic Being Basic - Djo
+\*See Favorites on Spotify
 
 
 ### Comedians

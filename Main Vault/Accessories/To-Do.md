@@ -8,8 +8,7 @@
 	- More screen time
 	- Not the primary villain but he is the one responsible for everything
 	- Specific things he's planning
-- Put a jack in the box somewhere
-- Update [[Terrik]]'s backstory flashbacks to reflect the altered history in the updated [[World History - Arcohaem]] document
+
 
 **Session Specific Notes**
 - Part 5
@@ -21,6 +20,7 @@
 	- The Network. The network reaches everywhere, and there's far more people involved than just [[Terrik|the Wraith]] and [[Malfaust]].
 	- The Mystery. Reveal the mystery in a more organic segmented manner, in which each plot point leads to the next and seem unrelated, until it all finally clicks. 
 - Part 7
+	- Update [[Terrik]]'s backstory flashbacks in 7, 8, and 9 to reflect the altered history in the updated [[World History - Arcohaem]] document
 	- [[Terrik|Terrik's]] escalation needs to be better
 		- He goes from killing one dude in self-defense to killing a bunch of corrupt people
 	- [[Terrik|The Wraith]]'s miniature will be painted with Musou Black
@@ -29,7 +29,6 @@
 
 
 ### To Schedule
-- Thrifting for Bella's Grad Party
 - Star Wars Watch Party #1
 	- The Phantom Menace
 	- Attack of the Clones
@@ -63,15 +62,18 @@
 ##### Items
 - Bella's Graduation Costume
 	- Black Cowboy Hat
-		- [16.30](https://www.amazon.com/Utaly-Womens-Western-Cowgirl-Fedoras/dp/B0B719HXDQ/ref=sr_1_22?crid=3RQGBDU6Y5RJ8&dib=eyJ2IjoiMSJ9.sdMqH-NXNH5Qq0N_2gkV513ORNDEmsPOh5SIVfTj6EDR37xeh92UCaS6mFmTciRg3AdfxPUSfTKJa0B3lf9lGSFeah7w8BoBLhmq_PlQFhEOWLIQWPget_4isgA8kfmL1QlsGC8EI0V623E-2pbENuvuEuGyY2nWiFX7y8qV5dKqC_kSQMSLDSTPSUDPRV-fhymyBJZGB8P9bwOyE-xoCFH27tzgm6dsyUELKWzjvi3KjawuwwqQ4Eg3YuFD9_sUfwGm-bl7njk5cut5nJ2TLrwqCFIxNJMFYYjZ2YSdkls.oXUkkRCisWMwfkUyqd85fD-uaIdA881fwogPIlcGbRY&dib_tag=se&keywords=cowboy%2Bhat&qid=1776908087&sprefix=cowboyhat%2Caps%2C171&sr=8-22&th=1&psc=1) 
-	- Bandana
-		- [5](https://www.amazon.com/Raylarnia-Novelty-Bandanas-Paisley-Bandanas-Black/dp/B01FZ0ULAS/ref=sr_1_7?crid=165DQEQ81XOER&dib=eyJ2IjoiMSJ9.LuIE36QNDNTsTYLHBg30ry8B4TTgxXb52Vk63GV46EPjeeRWIGtI0hnMHTq6NeB2vfn5HK6Q1H4TQ2LuTN1kZNC42KQg11-Z6g9g9tgfIva9u8hsjDRymDwTdDZkjOewv_newhwXsRVj76-AJYSKxSRbVvv8q11mN3-bx6x6H9NtGJYYerSPO1BCr_yBw0IaqKvUC3RzTUioLljy7D3hNqE9CBQBUCTSilUABaOpk01uAD167q1c4OFWWOBu_agCM2Ld32nRyhSh79uQWFWdYZjN7_G4Jb12vsJltTfjv5A.w-KqualtdRXk_GpbljnaIUpjtwOnE6trsdWBB0P4Kek&dib_tag=se&keywords=Black%2BBandana&qid=1776908281&sprefix=black%2Bbandan%2Caps%2C272&sr=8-7&th=1) 
+		- (Borrow Hunter's for Free)
 	- Holster
-		- [12](https://www.amazon.com/Dress-Up-America-Unisex-Holster-Adult/dp/B001I027RK/ref=sr_1_31?crid=30WJ88B4K53XZ&dib=eyJ2IjoiMSJ9.GZTQE3vSh3n0pBbbEwiyA5FklY2EeUJTPQOJTI-diLl-Qvn27rsozaAf3U9p1QhwzpnYRWF9S0xppgOlQco3obQ8X9fQbV5M0dfBze5Zt3KYH-AW0udW5oJ8zvkCH1jbjOsTOHdsdB5ZrI4C55Cwqz8uWtCDjSnhiRBlZijFTcyM9FMbsUGeht_RU7EqC_bQwjujzJgP288Jm8PygHeAdsAb_78eZh_r3Wt2GK2Jux13jM_GskaUywGi_gFG6RikZ7f_EGGxC1H2sl1vPEICScMzPpNICKGhMct9P3y62tk.RdpZzvhnTgdkdmTWiS0TDeN1WHJD7-xAFIzbSHoP8ZQ&dib_tag=se&keywords=Black%2BCowboy%2BHolster&qid=1776908355&sprefix=black%2Bcowboy%2Bholste%2Caps%2C162&sr=8-31&th=1) 
-	- Rubber Chicken for Holster
-		- [8](https://www.amazon.com/POPLAY-Rubber-Chicken-Squeeze-Novelty/dp/B01LYW69OL/ref=sr_1_5?crid=253QA6SIBA508&dib=eyJ2IjoiMSJ9.qYLAM_aMz33jq-_crZPE6THLeC-4AV6yTeh_NSyiOqpx-Y_GgVPpffqgxVg7K8yKk7nPhYKhLtPjAaiwmcrv6lROAEHo8ml_4h4-7IST1zVzs7Pr5jsjRIryH74ebltZeqdA939HBm9c-0QkYBGth8BycQUSYIsuId1F9S5Jje6BqHXZw7xNxi76F95ms9Xzc54YXGQIbm8FUU3Q2YJ9MR8rTCaKb1yQSghY3qqkKmZg2SKGIIk-YRouHWkW9XZMZvQ9haU0cQYLad4WmUVR7S2Fq1DqDbvnVkUu0wjUCsA.29DZS-HZdagnoDDAPsxn8WEdf4TaH8Keg1KuWvi5un0&dib_tag=se&keywords=Rubber%2Bchicken%27&qid=1777312592&sprefix=rubber%2Bchicke%2Caps%2C181&sr=8-5&th=1) 
-	- Total
-		- 41.30
+		- (Borrow Hunter's for Free)
+	- Bandana
+		- (Borrow Skyler's for Free)
+- Bella's Graduation Gift
+	- $30
+	- Card
+- Easton's Graduation Gift
+	- $30
+	- Card
+
 - Clothes
 	- Dark Side of the Moon Shirt
 		- [18.99](https://www.amazon.com/Floyd-Album-Music-Stickers-X-Large/dp/B06Y2H4YHZ/ref=sr_1_6?crid=1RMNJR0TZLEF2&dib=eyJ2IjoiMSJ9.Wm6w5teqZDNEmOOi5tNVEmX4XA_Pt1U1vWTNDwOantXyZFcgbElbj2G_pNIuJs7uBqgAV7QrZXrNlJc5POwnacOSSigpccWvSEjZgmL-Lpn7SA3iFIhnGTCboAkZVBZ5yJGaLp6xrQINHayYQnSbIzWzMy1uSEPAgtPanlfkLzLkesi8KqMGiMvjRO2usBjHxXmJwoBlARv70AEbBgaQ7DkVypXyai_K2SHPIj2_T0cyLT2ewWzod88ow0uUZ5dIkvdry9njQMCppwkXTgBvV6ScTzWN-V7Z5vGfQrVYQ4o.wdtR2l0kMG2Yp-Klcpatq9GmVU98JdUbWVeLzQbOowc&dib_tag=se&keywords=Pink%2BFloyd%2BShirt&qid=1776893288&sprefix=pink%2Bfloydshirt%2Caps%2C160&sr=8-6&th=1&psc=1) 
