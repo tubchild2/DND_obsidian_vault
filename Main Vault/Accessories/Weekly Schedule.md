@@ -1,7 +1,5 @@
 ### Monday
 Schoolwork
-- SQL Reading
-- SQL Quiz
 
 Spirituality
 - Bible Reading
@@ -17,8 +15,6 @@ Exercise - Chest, Biceps, Side Delts
 
 ### Tuesday
 Schoolwork
-- Linux Reading
-- Linux TestOut Assignments
 
 Spirituality
 - Thursday Meeting Study
@@ -27,10 +23,6 @@ Spirituality
 
 ### Wednesday
 Schoolwork
-- Linux Quiz
-- Linux Community Campfire
-- Linux Brightspace Lab Assignment
-- Linux Reflection
 
 Spirituality
 - Saturday Meeting Study
@@ -46,7 +38,6 @@ Exercise - Back, Triceps
 
 ### Thursday
 Schoolwork
-- SQL Assignment (50%)
 
 Spirituality
 - Bible Reading
@@ -55,7 +46,6 @@ Spirituality
 
 ### Friday
 Schoolwork
-- SQL Assignment (50%)
 
 Spirituality
 - Bible Reading

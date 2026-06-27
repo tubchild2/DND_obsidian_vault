@@ -8,7 +8,11 @@
 	- More screen time
 	- Not the primary villain but he is the one responsible for everything
 	- Specific things he's planning
+- A room between the rooms
+- Give a lore reason for why [[Terrik]] doesn't like the water. He has a fear of it.  
 
+
+https://www.youtube.com/watch?v=NoT8twNWpfA
 
 **Session Specific Notes**
 - Part 5
@@ -17,6 +21,10 @@
 		- Contacts with [[PCs B - Arcohaem|Tinkle Winkler]] (not in part 4)
 - Part 6
 	- Give Rosie more time and meaningful scenes
+	- Tip the players off that [[Terrik|the Wraith]] is coming to give them a chance to start running and hiding. It won't make a difference but it'll make it much more tense. 
+		- They hear him before they see him.
+		- Dead silence as they run away from any open windows and doors.
+		- They feel a primal fear, like a child being afraid of the dark, or afraid of the outside world, or a fear that someone is going to break in. You know he's here, but you don't know where. 
 	- The Network. The network reaches everywhere, and there's far more people involved than just [[Terrik|the Wraith]] and [[Malfaust]].
 	- The Mystery. Reveal the mystery in a more organic segmented manner, in which each plot point leads to the next and seem unrelated, until it all finally clicks. 
 - Part 7
@@ -89,3 +97,7 @@
 		- [19.99](https://www.amazon.com/Comdecevis-Corduroy-Lightweight-Waterproof-Windbreaker/dp/B0FLY8K6JG/ref=sr_1_8?dib=eyJ2IjoiMSJ9.dwaSyrqF_EXAXLvyROXd03G6OXM0Tdn6UEodkEeleQwfRlpyXN-qzeHfKnJMh6cv9RaEEFDJPh0DXj3Hpex-owb0hdszMrOF7z7wMxvK_wwEYiRtpgYH-ArHg9WWx2aS9KHBxycoVrpjySLhXvMI_aEJdoFNcO-m92blZN68tB4bgPfT7F3LXkc7xMqiAuuKFlg3S97KaXx0vCqbg8HNZtqV4tERt-bXNuGzmQ3PpRE3vou4-Rh8AxBbu6QhE1Wuue2IBsjv6EUCvXXPUtr8mhPYqyrShqi7z0mkk0KiRO0.gPgowHewjg0K9Ce4Xzh61isnPhR6N-rDBY1hPIabFWo&dib_tag=se&keywords=Bomber%2Bjacket&qid=1776894942&refinements=p_36%3A-2800%2Cp_n_g-101015233022111%3A121075132011%2Cp_n_pt_nav_size_men_international_size%3A2475470011&rnid=2475465011&sr=8-8&th=1&psc=1) 
 	- Total
 		- 123.85
+
+- Thumb Mobies
+	- https://www.amazon.com/dp/B00005OCKR?ref=ive_vftp_hero_cx_pfo_vse-cards-ingress0
+	- https://www.amazon.com/Blair-Thumb-Megan-Cavanagh/dp/B00005TNF1/ref=sr_1_1?crid=2DI9BT65PGRHN&dib=eyJ2IjoiMSJ9.SqkCwQkNHZ7dEm6XWf5eCVfSIOBMA3TqA68aHVCX3TDvBP7waqOCYiv3pkwWlRSdMFGeWRlnH-a09c8A-1ctDWXH85_-hblJSn4zH_JGquw.h1e8iM6bcLWgQ6bxErfTdNVRpoLytP0SbLMAA0s_vL8&dib_tag=se&keywords=The+Blair+Thumb&qid=1782423946&sprefix=the+blair+thum%2Caps%2C168&sr=8-1

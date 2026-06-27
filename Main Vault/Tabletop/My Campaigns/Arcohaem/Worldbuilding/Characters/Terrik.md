@@ -44,6 +44,8 @@ Saving Throws
 	DEX +12
 	CON +13
 	WIS +9
+	INT +4
+	CHA +2
 
 Skills 
 	Athletics +13
@@ -82,7 +84,7 @@ Languages
 
 **Deflect Attack (Reaction) (3/Day)**
 	When the Wraith is hit by a melee attack, he can expend his reaction to reduce the damage by 1d10 + 13. If this reduced the damage to 0, he can immediately make one unarmed strike against the attacker as part of the same reaction.
-	When the Wraith is hit by an [[Serendipita|ether]] attack, he can expend his reaction to reduce the damage by 1d10 + 20. If this reduced the damage to 0, he can immediately use his [[Hard-Light]] spear to deflect the attack back to the attack. The attacker must repeat any necessary saving throws or take half of the damage.  
+	When the Wraith is hit by an [[Serendipita|ether]] attack, he can expend his reaction to reduce the damage by 1d10 + 20. If this reduced the damage to 0, he can immediately use his [[Hard-Light]] spear to deflect the attack back to the attack. The attacker must repeat any necessary saving throws or take half of the damage. 
 
 **Action Surge (1/Short Rest)**
 	On his turn, the Wraith can take an additional action
@@ -98,15 +100,19 @@ Languages
 
 **Interference**
 	Radio signals within 2 miles of the Wraith are scrambled.
+	Additionally, [[Serendipita|ether]] abilities that grant supernatural flight within 2 miles fail to function. 
 
 
 ---
 **-- ACTIONS --**
 **Multiattack**
-	The Wraith makes two attacks using any combination of his [[hard-light]] spear and claw gauntlets. 
-	The Wraith can forgo the use of weapons and make a combination of 4 unarmed strikes / throws.
-	Using Shield Breaker expends all 4 unarmed strikes. 
-	Using Grapple expends all 4 unarmed strikes. 
+	The Wraith can make 4 attacks
+	(-4) Strangle
+	(-4) Shield Breaker
+	(-2) [[Hard-Light]] Spear
+	(-2) Claw Gauntlets
+	(-1) Unarmed Strike
+	(-1) Throw
 
 **[[Hard-Light]] Spear**
 	Melee Weapon. +13 to hit, reach 10ft., one target. 

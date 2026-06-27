@@ -9,13 +9,13 @@ They know they're going to die, so they've temporarily let themselves go. They'r
 In a world where everything is insane, introduce a man with absolutely nothing going on. He is surrounded by the exceptional, but he's just an accountant. He has a strikingly boring by-the-books backstory, and is a reasonable good person. He's just trying his best to accomplish his life goals. In his story, focus on his potential feelings of inadequacy, self-doubt, or boredom. His interactions are typically successful because he isn't an exaggerated character and most people aren't awed or bored by him. 
 
 **Unlucky**
-A man who cannot succeed.
+A man who cannot succeed. Everything he tries fails through an insane cascade of cause and effect that's entirely beyond his control. 
 
 **Mystery Man**
 A man who regularly interacts with people and suggests that he knows more than he lets on. He's never explained or understood, and makes people uncomfortable. Similar to the G-Man, or to the Happy Mask Salesman. The universe has rules that he flagrantly operates outside of. He has goals and intentions, and there is a method to his madness, but the protagonists aren't made to know that. Perhaps he's always around but always out of sight. 
 
 **The Angel**
-A being of such great power that they view humanity as pointless. Why care about them when you can just make more? Not actively hostile, but not actively interested. It serves its own goals, which often operate on scales indifferent to humanity. Inspired by the Mysterious Stranger by Mark Twain.
+A being of such great power that they view humanity as pointless. Why care about them when you can just make more? Not actively hostile, but not actively interested. It serves its own goals, which often operate on scales indifferent to humanity. Inspired by the Mysterious Stranger by Mark Twain. 
 
 **Johnathan Carter Hayes**
 An illiterate dyscalculic man with a terrible memory, no plan, and no insight. He's insecure because of his mental challenges and views everyone else as literally superior. He's a loving, encouraging, apologetic, forgiving, and brave knight in shining armor. He is commonly underestimated for his complete lack of... well most things, but he can entertain people and can be funny (intentionally or not). He likes the color green, chicken fingers, apple juice, and Weird Al Yankovic. Inspired by Charlie Kelly, Peter Parker, and Steve Harrington. 
@@ -96,6 +96,9 @@ The players are spies who are placed in foreign territory and need to complete a
 
 **Never Alone**
 The players are attempting to investigate a place that's entirely abandoned. They're split up, and left completely powerless. The entire journey is lonely and unsettling, and it's repeatedly teased that there's something observing them. At the end, they learn that the place was abandoned under mysterious circumstances because of some radio tower. To escape, they need to activate it. While they activate it, they begin to hear things behind them that are getting louder. White glowing text appears out of thin air that just says, "do not turn." if they turn and look, they die, without knowing what it is. If they swallow their curiosity and complete the task, the thing vanishes and they get to go home. 
+
+**Blair Witch the Reality Show**
+Kind of a cross between Jury Duty and the Blair Witch. Hire a group to make a documentary, then play a bunch of escalating pranks on them that escalate in intensity and become less and less believable as they go on. 
 
 
 ##### Plot Elements

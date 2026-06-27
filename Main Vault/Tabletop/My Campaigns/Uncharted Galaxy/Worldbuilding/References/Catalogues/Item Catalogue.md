@@ -4,8 +4,6 @@ aliases:
   - Jank Flashlight
   - Janky Flashlights
   - Jank Flashlights
-  - Flashlight
-  - Flashlights
   - House Galling Uniform
   - House Galling Uniforms
   - Exosuit
