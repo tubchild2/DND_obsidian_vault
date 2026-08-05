@@ -23,7 +23,7 @@
 - On November 11th (The Day of Blood / Chi No Hi), people begin to show symptoms system-wide. 88% of humanity died within the next 3 months. The lack of trade, infrastructure, and resources led to mass starvation and improvised governments. Almost all consistent contact across planets and space stations was lost overnight. All of frontier society collapsed in weeks, leaving majority of the solar system riddled with dead civilizations and space stations.
 - Technologically speaking, majority of the system reverted to feudal Japan as that was all they could afford.
 	- Guns, bombs, ships, and anything that runs on electricity is incredibly expensive and rare beyond [[Earth L55]].
-- Thousands of [[The Confederacy]]'s now independent space-faring military camps unionized and formed the Imperium.
+- Thousands of [[The Confederacy]]'s now independent space-faring military camps unionized and formed [[the Imperium]].
 - [[The Confederacy]] is attempting to regain control by fostering dependence on their resources, jobs, and protection.
 	- To help with this, and out of greed, the Great Houses jacked up their prices.
 	- [[The Confederacy]] is a cruel organization, but they have weapons, ships, infusions, hybrids, clones, and implants.

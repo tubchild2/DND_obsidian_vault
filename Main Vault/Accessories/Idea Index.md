@@ -74,10 +74,22 @@ Practitioners serve an evil empire and wield long, thin needle-like swords. Majo
 **Maxwell's Silver Hammer**
 Whoever it strikes survives, but experiences one incredibly unlucky event within the next 7 days.
 
+**Bioscientific Magic System**
+It's akin to our world, but the geography, terrain, temperatures, flora, and fauna are all extreme versions of themselves. The deserts are way bigger, hotter, and feature much more insane dunes, with fiery creatures and monsters freaking everywhere. The plants can generate lightning, frogs can vomit bombs, and there are fantastical creatures from near every genre present and accounted for. The hardest thing to do with this is to design the ecosystem to be in balance with itself. 
+
+**Psycho-Technological Magic System**
+A wild-west inspired world centered around the mining and use of a blood red metal called [[Sanguinine]]. This metal has psychokinetic properties; it's an incredibly powerful energy source that can be controlled psychically by any living creature in contact with it. It arrived in a massive meteor that turned the world to a desert, and it's being mined in a new gold rush. It's used to power everything so it's in insanely high demand. It's not exactly locked down yet, but bigger and purer nodes are going to produce exponentially more and more energy. The energy it produces can be focused with lenses and certain types of wires, is thousands of degrees Fahrenheit, and can be used to power things like with electricity. It's post-apocalyptic, meaning there are a ton of cramped and specifically very tall and thin superstructures that people have moved into after they fell into ruin. The sun is extra hot in this world, so it's important to stay out of the heat during the day, meaning a lot happens indoors, at night, or very quickly cause it's like 110 outside during the day. There is no formal government, just bigger and badder clans with bigger and badder weapons. Visually, a lot of rough edges, black and red silhouettes, and an emphasis on verticality and spikes. Tech is rough, bulky, and dark. 
+
+**It's Portals All The Way Down**
+Like in Deltarune, it's possible to create gateways to worlds based on your immediate surroundings. The objects and themes of those spaces become tangible universes with their own histories based upon the history on the higher plane. It's hard to explain, but essentially, you can turn a room into another universe based off what was in that room. Unlike Deltarune, though, you can keep going down. You can keep abstracting away smaller and simpler universes. Time slows the deeper you go, like in Inception. And, as the worlds themes and makeup become simpler, so too do the abilities and minds of those sentient beings living in them. After you go down enough layers, you become like a God. But, as you quickly realize, your universe isn't real either; it's also an abstraction. You can find the exit gateway and go higher and higher up. The worlds become increasingly complex and the beings in it become more and more unknowably powerful. Logic tells you that the worlds are structured like an inverted tree, and at some point you'll reach the original true universe at the top. You don't know how far you'll have to go to get there, as after enough layers, the creatures around you become godlike eldritch horrors beyond your comprehension. It's impossible to reach the top, and no one will ever know what's up there. 
+
 
 ##### Plots
 **Battleworld**
 An extradimensional overseer populates the world at the dawn of each season with life, monsters, weapons, and resources. The natural ecosystem would tear itself apart in a second if not for these portals to the unknown world. There's no off-limits genres or ideas, given they follow the rules of the world and are taken seriously by the characters. It's similar to Adventure Time and Regular Show in that matter. The protagonists have a monster manual, and are assigned targets at the beginning of each session like bounty hunters. The focus is on having fun and goofing off in this silly DND world while getting loot, fighting monsters, and saving people.
+
+**Prank Reality Show**
+[[ID_ Jury Duty Style]]
 
 **Refrain**
 The players exist in a perpetual hour-long time loop. Each of them are assigned unique escape requirements that clash with the other players and demand quick thinking and adaptation. The further out from the starting point they explore, the more complex things get, and the harder the memorization becomes. 
@@ -134,10 +146,15 @@ Your ship / submarine is adrift and rapidly running out of oxygen. There aren't 
 **Daisy Bell**
 Use Daisy Bell as a motif for the progress of technology. 
 
+**The Players are the Power**
+A tabletop game in which the players and their characters are separate entities that both exist in universe. The entire power system is built on meta-gaming and breaking the fourth wall to get information and power. An out-of-the-box mechanical experience. 
 
 ##### Mechanics
 **Stress Management**
 Have players need to recall and use complex information in tense situations. Give them a packet of in-universe information about something, and have them need to use it under a time limit to escape a monster. Horror + Stakes > Horror.
+
+**There's a Room Between Those Two Rooms**
+A doorway connects two rooms together, but a third exists between them on occasion. It can pass between them to allow entry into it temporarily. Unfortunately, getting out is a whole other process. 
 
 **Bad Map**
 Give players plotting a heist incomplete information so that they can plan, but not enough to be fully prepared. Maintain room for unpredictability. 

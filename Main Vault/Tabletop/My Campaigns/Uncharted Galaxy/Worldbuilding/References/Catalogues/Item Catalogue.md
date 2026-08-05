@@ -6,8 +6,6 @@ aliases:
   - Jank Flashlights
   - House Galling Uniform
   - House Galling Uniforms
-  - Exosuit
-  - Exosuits
   - Fernite Vaccine
   - Fernite Vaccines
   - Fernite Vaccinations
@@ -20,7 +18,6 @@ aliases:
   - Pluto House Galling ID Card
   - Pluto's Note
   - Pluto's Cottage Maps
-  - Moon Boots
   - Map of Pluto's Cottage
   - Maps of Pluto's Cottage
   - Pluto's Cottage Map

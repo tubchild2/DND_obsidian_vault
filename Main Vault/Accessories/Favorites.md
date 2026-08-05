@@ -100,8 +100,7 @@ Ranking
 
 ### Songs
 Ranking
-\*See Favorites on Spotify
-
+\*This ranking changes too frequently. See 'Favorites' on Spotify.
 
 ### Comedians
 Ranking

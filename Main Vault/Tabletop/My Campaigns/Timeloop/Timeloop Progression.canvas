@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"766fe75651a98b4b","type":"text","text":"Phone","x":-125,"y":-60,"width":169,"height":52,"color":"4"},
+		{"id":"f0448c289643eddd","type":"text","text":"Credit Card","x":120,"y":-60,"width":169,"height":52,"color":"4"},
+		{"id":"36d7a75c72bf9c28","type":"text","text":"Backpack","x":360,"y":-60,"width":169,"height":52,"color":"4"},
+		{"id":"d83cee4ecfa27ca5","type":"text","text":"Mid Game","x":120,"y":-200,"width":169,"height":52,"color":"1"},
+		{"id":"89f92d19a895b48f","type":"text","text":"Late Game","x":360,"y":-200,"width":169,"height":52,"color":"1"},
+		{"id":"93696e54af45514c","type":"text","text":"End Game","x":600,"y":-200,"width":169,"height":52,"color":"1"},
+		{"id":"65cbe59221704fba","type":"text","text":"Early Game","x":-125,"y":-200,"width":169,"height":52,"color":"1"},
+		{"id":"55825bf84c3a0dbd","type":"text","text":"Shame","x":-125,"y":-112,"width":169,"height":52,"color":"3"},
+		{"id":"542c87e8d7da7da5","type":"text","text":"Lockpick","x":120,"y":80,"width":169,"height":52,"color":"4"},
+		{"id":"0b0aa8aa2c637875","type":"text","text":"Humility","x":120,"y":28,"width":169,"height":52,"color":"3"},
+		{"id":"2281a3f4d5ea629d","type":"text","text":"Grief","x":120,"y":-112,"width":169,"height":52,"color":"3"},
+		{"id":"6dd680766ae80d94","type":"text","text":"Jealousy","x":-125,"y":180,"width":169,"height":52,"color":"3"},
+		{"id":"9690418dd54801c1","type":"text","text":"Camera","x":-125,"y":232,"width":169,"height":52,"color":"4"},
+		{"id":"911a7c43148288b7","type":"text","text":"Handbook","x":120,"y":232,"width":169,"height":52,"color":"4"},
+		{"id":"2165f5a4a305bd4d","type":"text","text":"Legacy","x":120,"y":180,"width":169,"height":52,"color":"3"},
+		{"id":"90ad642179b190c7","type":"text","text":"Patience","x":360,"y":-112,"width":169,"height":52,"color":"3"},
+		{"id":"448e60295e9f20bb","type":"text","text":"Elevator Pass","x":-125,"y":392,"width":169,"height":52,"color":"4"},
+		{"id":"14305eaeb4116fdb","type":"text","text":"Mask","x":360,"y":80,"width":169,"height":52,"color":"4"},
+		{"id":"9a117be11c3f1ae7","type":"text","text":"Watch","x":-125,"y":80,"width":169,"height":52,"color":"4"},
+		{"id":"9aaa85caccf94cc0","type":"text","text":"Selflessness","x":-125,"y":340,"width":169,"height":52,"color":"3"},
+		{"id":"be2b49d462bd4eeb","type":"text","text":"Forgotten Man","x":-125,"y":28,"width":169,"height":52,"color":"3"},
+		{"id":"660844e3b19e9e28","type":"text","text":"Determination","x":360,"y":28,"width":169,"height":52,"color":"3"},
+		{"id":"9d56097ce9691cd2","type":"text","text":"Finale","x":601,"y":-112,"width":169,"height":52,"color":"3"},
+		{"id":"7b9b80bf96ebe420","type":"text","text":"Daisy Bell","x":601,"y":28,"width":169,"height":52,"color":"3"},
+		{"id":"3b514314c1fc4298","type":"text","text":"Escape","x":601,"y":180,"width":169,"height":52,"color":"3"},
+		{"id":"ada8e88c048b5585","type":"text","text":"Unloaded Camera","x":601,"y":80,"width":169,"height":52,"color":"4"}
+	],
+	"edges":[
+		{"id":"e089eb4c53bd1d75","fromNode":"9690418dd54801c1","fromSide":"right","toNode":"911a7c43148288b7","toSide":"left"},
+		{"id":"27c06b64726b5b5d","fromNode":"9a117be11c3f1ae7","fromSide":"right","toNode":"542c87e8d7da7da5","toSide":"left"},
+		{"id":"236aca70801a118d","fromNode":"766fe75651a98b4b","fromSide":"right","toNode":"f0448c289643eddd","toSide":"left"},
+		{"id":"404892ccfdcd448e","fromNode":"f0448c289643eddd","fromSide":"right","toNode":"36d7a75c72bf9c28","toSide":"left"},
+		{"id":"f193af9f707f1d26","fromNode":"542c87e8d7da7da5","fromSide":"right","toNode":"14305eaeb4116fdb","toSide":"left"}
+	]
+}

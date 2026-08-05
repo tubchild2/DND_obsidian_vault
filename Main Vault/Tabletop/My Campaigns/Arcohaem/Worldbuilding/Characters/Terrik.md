@@ -31,7 +31,7 @@ Medium Humanoid (human), lawful evil
 CR 17 - 18,000 XP
 
 Armor Class 20 ([[Malfaust]]'s Armor)
-Hit Points 357/357 (35d8 + 200)
+Hit Points 291/457 (35d8 + 300)
 Speed 50ft., Climb 50ft
 Proficiency Bonus +6
 
@@ -39,6 +39,7 @@ Proficiency Bonus +6
 | --- | --- | --- | --- | --- | --- |
 | 25  | 23  | 24  | 19  | 17  | 15  |
 | +7  | +6  | +7  | +4  | +3  | +2  |
+
 Saving Throws 
 	STR +13
 	DEX +12
@@ -81,6 +82,7 @@ Languages
 **-- TRAITS --**
 **Legendary Resistance (3/Day)**
 	If the Wraith fails a saving throw, he can choose to succeed instead.
+	X - 0 - 0
 
 **Deflect Attack (Reaction) (3/Day)**
 	When the Wraith is hit by a melee attack, he can expend his reaction to reduce the damage by 1d10 + 13. If this reduced the damage to 0, he can immediately make one unarmed strike against the attacker as part of the same reaction.
@@ -102,6 +104,8 @@ Languages
 	Radio signals within 2 miles of the Wraith are scrambled.
 	Additionally, [[Serendipita|ether]] abilities that grant supernatural flight within 2 miles fail to function. 
 
+**Hydrophobia**
+	The Wraith will not enter water unless his life completely depends on it. He will spend as little time as possible in the water.
 
 ---
 **-- ACTIONS --**

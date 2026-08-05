@@ -125,7 +125,7 @@ Chapter 8 - Nocturne
 - Level up to 12
 
 
-### [[Part 3 - For The Republic!]]
+### [[Tabletop/My Campaigns/Arcohaem/Story/Sessions/Part 3 - For The Republic!]]
 Chapter 9: Rain Fire
 - [[Kragknull]] reaches out to them on a personal level
 	- If they discuss what happened last session

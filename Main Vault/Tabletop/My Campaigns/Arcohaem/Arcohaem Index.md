@@ -13,7 +13,7 @@
 - [[CLASSIC Part 1 - The Wolves of Arcohaem]] (deprecated)
 - [[Part 1 - The Wolves of Arcohaem]]
 - [[CLASSIC Part 2 - Just Like the Simulations]]
-- [[Part 3 - For The Republic!]] 
+- [[Tabletop/My Campaigns/Arcohaem/Story/Sessions/Part 3 - For The Republic!]] 
 
 
 

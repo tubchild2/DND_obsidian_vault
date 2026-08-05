@@ -10,6 +10,7 @@ Exercise - Chest, Biceps, Side Delts
 - Flat Chest Flies
 - Hammer Curls
 - Lateral Raises
+notes
 
 
 
@@ -33,6 +34,8 @@ Exercise - Back, Triceps
 - DB Pullovers
 - DB Overhead Extensions
 - Tricep Dips
+notes
+- needs better back exercises
 
 
 
@@ -56,7 +59,13 @@ Exercise - Shoulders, Biceps
 - DB Rear Delt Flies
 - DB Lateral Raises
 - DB Curls
-- DB Preacher Curls
+(notes)
+- cut Preacher Curls
+
+I DONT THINK IM DOING REAR DELT FLIES PROPERLY
+
+TOO TALL FOR PREACHER CURLS
+- Hammer curls?
 
 
 
@@ -65,11 +74,12 @@ Spirituality
 - Bible Reading
 
 Exercise - Quads, Hamstrings, Calves
-- Nordic Hamstring Curls
 - DB RDLs
 - Bulgarian Split Squats
 - DB Squats
 - DB Calf Raises
+(notes)
+- cut Nordic Hamstring Curls
 
 
 

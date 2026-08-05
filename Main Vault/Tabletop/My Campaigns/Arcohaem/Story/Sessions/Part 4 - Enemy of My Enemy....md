@@ -179,8 +179,6 @@ And then, you finally see him **(PLAY SFX NOW)**. [[Terrik|The Wraith]]'s beady 
 
 
 ### Chapter 14: Stranger Danger
-
-
 ##### Section A
 Lobby
 	Running down the hall you arrive at a small lobby area. There are a few chairs, and a knocked open door on the north wall. The walls are a dingy white stone that's been intricately carved. You hear deafening metallic banging as something thunders down the hallway. 
@@ -404,6 +402,7 @@ Rope Bridge Ambush
 	(NW Door)
 		--> Lab
 
+
 ##### Section C
 Ice Tower Room
 	You enter a gigantic cylindrical room, with the early morning light beginning to shine in from the top of it. The sun is rising, and you're very nearly out of the bunker. The room is made up of suspended carved platforms and rope bridges, with multiple offshoot doors leading into smaller sectors. The dim light is reflecting off the icy rope bridges, and you hear the sound of dripping meltwater. The room is about 20ft across. Everything is frozen over and slippery.
@@ -453,7 +452,6 @@ Mid-Ambush Puzzle
 
 
 ### Chapter 15: Roots
-
 Cold Forest Ambience
 	https://www.youtube.com/watch?v=p28ofrGv9fs
 

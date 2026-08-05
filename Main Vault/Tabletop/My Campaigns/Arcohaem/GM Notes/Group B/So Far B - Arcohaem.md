@@ -102,8 +102,8 @@ They will continue their mission with a newfound hate for [[Frigoshia]]. A deep-
 
 
 # [[Part 3 - For the Republic!]]
-### Chapter 9 - Rain Fire!
-This isn't cannon, but [[PCs B - Arcohaem|Ron]] did reach out to the interdimensional halfling lawyer [[Small Goodman N ON]] to attempt to sue [[PCs A - Arcohaem|Doornail]] for violating the terms and conditions of his oath. 
+### Chapter 9: Rain Fire!
+This isn't cannon, but [[PCs B - Arcohaem|Ron]] did reach out to the interdimensional halfling lawyer [[Small Goodman N ON (old)]] to attempt to sue [[PCs A - Arcohaem|Doornail]] for violating the terms and conditions of his oath. 
 
 It had been a couple days of travelling. They'd moved out of Freyrhage and into Beirdall. Beirdall is completely surrounded by water and is easily accessible from Karlstad, making its western river a deeply contested territory. 
 
@@ -145,3 +145,64 @@ They have some time to relax and eat a meal with [[the Karlstad Crusaders]]. [[T
 [[The Karlstad Crusaders|Drek]] attempted to rob [[PCs B - Arcohaem|Olaf]], and [[PCs B - Arcohaem|Olaf]] robbed his stuff back. Karl and [[PCs B - Arcohaem|Iona]] shared Arizona Iced Tea while he tended to their wounds. [[The Karlstad Crusaders|Drek]] walked around naked while Karl washed his clothes. Then, [[The Karlstad Crusaders|Sigvald]] and [[The Karlstad Crusaders|Aska]] got into an argument over whether or not [[Terrik|the Wraith]] is real. [[The Karlstad Crusaders|Sigvald]] and [[Commander Ragnar]] think it's just a bunch of unrelated killings that have been fallaciously linked after the fact. [[The Karlstad Crusaders|Aska]] swears he knows people who've seen it. [[PCs B - Arcohaem|Lukas]] shares that he's seen it and they don't believe him. [[The Karlstad Crusaders|Sigvald]] agrees to take the orphans and Erik back to [[Hephaestus]], and they all part ways. 
 
 [[Kragknull]] contacts them with some important private information. A bunch of people disappeared last night, including the overseer of the Republic bank. All of his files were burned or looted, so there's a lot of paranoia right now. The Chancellor is so panicked that he elected a new [[Terrik|Lord Commander]] to oversee the Royal Guard. He's from out of government, so no one really knows him yet. Some dude named [[Terrik|Galen]]. Here's the issue. [[Kragknull]] and [[Finn]] believe they know who's responsible. However, if they're wrong, they could be executed. He isn't allowed to do what he's about to do, but he has to for the sake of the Republic. He hopes their mission goes well and that they return safely, cause they're his favorite team he's ever commanded. Also, the place they're moving through next is incredibly isolated. The communicators tend to break down there due to some kind of "interference." Basically, they're gonna be on their own for the first time. [[PCs B - Arcohaem|Iona]] tells [[Kragknull]] he loves him, and they all say goodbye.
+# [[Part 4 - Enemy of My Enemy...]]
+### Chapter 12: Now That's a Famous Hat
+They're very close to entering Torhild, the capital of [[Frigoshia]]. They've been hiking and camping for days now. The woods and mountains all look the same, and they've lost track of where they are. By their best estimation, they're somewhere in the western wilderness of Havbo. 
+
+It's about 10pm, and they're all lying in a circle by the campfire. Sleeping will be difficult, though, as for the past few nights, those noises they've been hearing in the woods have been getting louder and closer. It can't be more than a mile away this time. 
+
+![[call2.wav]]
+
+That coupled with the knowledge that they've lost all contact with the outside world has made the past few nights stressful. No one had actually tried using the radio yet, but [[Kragknull|Commander Kragknull]] said it wouldn't work due to unspecified "interference."
+
+All of the [[Serendipita|Ether]] users in the group began to notice a low, dull pressure. Like their ears needed to pop, or like there's static buildup in the air. They weren't sure how, but it felt like their abilities were being tampered with. 
+
+They decided to attempt to use the radio, and this is what they heard:
+![[SOStotheworld.wav]]![[Wraith Radio.wav]]
+The immediate theory was that the second transmission was coming from a train, but some believed it may have been some form of mechanical march. The first transmission was much more ambiguous. 
+
+They built an ice shield around them to protect them from any potential attackers, and [[PCs B - Arcohaem|Olaf]] began teaching a chipmunk pattycake. [[PCs B - Arcohaem|Lukas]] and [[PCs B - Arcohaem|Ron]] began a routine night watch to make sure they weren't caught off guard. [[PCs B - Arcohaem|Tinkle Winkler]] camouflaged himself outside in the snow and mud. 
+
+The fire slowly died down, and most everyone began to doze off. [[PCs B - Arcohaem|Lukas]], the first on the night watch, heard a branch snap a few feet away, into the woods. His eyes snapped open. The pitch black darkness meant very little could be seen beyond blurry silhouettes. He squinted his eyes as they adjusted to the darkness. About 10ft back, behind the ice dome, and behind everyone, partially obscured by a tree, was a tall, stretched shape lurching back and forth. His blinked hard, and the figure was gone. 
+
+Inside the dome, [[PCs B - Arcohaem|Ron]] noticed a tall, slim shape in the middle of the camp where the campfire once was. He got closer and lit a torch to investigate. It was a head on a pike, missing its eyelids. The face was beaten, and locked in a melted, droopy, almost horrified expression. Below the head was a small, parchment note written in shoddy bloodied handwriting--akin to a child fingerpainting. The message was short and simple, "Tommy shouldn't play in the woods." He investigated the face, but it was bruised and bloodied to such an extreme degree that he couldn't identify age or gender; his best guess as a medical professional was that this was a very young boy--possibly 10-12 years old. 
+
+It was at this point they realized they hadn't seen that group of [[Frigoshia|Frigoshians]] that ran ahead of them anywhere. They'd been moving in the same direction, but they'd somehow stayed ahead of them this whole time. 
+
+The party shot awake and began clamoring for answers. How did this get *inside* the dome without an entry or exit point? Who was on the pike? Why was this thing leaving messages for them? The vulnerability of their situation caused a creep of adrenaline that kept their red and stinging eyes forced awake. They decided the best course of action was to leave. [[PCs B - Arcohaem|Lukas]] attempted to use fly, but the staticky feeling from earlier returned, and all he did was create a large spray of red mist. Something was tampering with their abilities and keeping them from using any [[Serendipita|ether]] abilities to get away. 
+
+There was a town not a half-mile along the border of the woods they could camp at and potentially fortify. The reached the town of Arrah under the light of the full moon. It looked abandoned, possibly for decades. Their standard issue Republic flashlights cast thin, muted beams across the narrow forest path. There were next to no standing structures left, but there was a white wooden wall about 20-30ft to their right. 
+
+The lone wall was riddled with deep, violent claw marks, and splattered with a mist of blood. By the wall was the tail end of some deep red drag marks leading off into the woods. The only evidence of what was here prior was a severed leg in [[Frigoshia|Frigoshian]] armor. The leg was completely ripped out of its socket, armor and all. Powerfully painted into the wall with the same bloody red as the parchment, was the message, "GO HOME WOLVES."
+
+They began to argue about where to go next. Their mission so far had been to enter the capital from the north, since it's thinly guarded due to the harsh wilderness and gigantic mountain range. The way forward is protected by this forest, regardless of what direction they enter from. If they don't want to go through the woods, they could backtrack and attempt to enter Torhild from the south, which means going through the Howling Front, and through all of their primary defenses. There was good reason they wanted to avoid that. They could also listen to the writing on the wall and just go home. 
+
+Not wanting to risk the mission, they cautiously entered the forest of Arrah...
+
+
+### Chapter 13: Mr. White? He's the Devil
+It was pitch black, and all that could be heard over the sounds of the forest was the crunch of snow under your feet. Tinkle, leading the formation, then stepped on something that didn't feel like snow. Looking down, he saw a severed [[Frigoshia|Frigoshian]] head. Similar to the leg, it'd been completely ripped off by something very strong. 
+
+Suddenly, about ten meters ahead of them, they saw the dim flicker of light, and whispers. [[PCs B - Arcohaem|Lukas]] snuck forward to investigate and found not a monster, but a group of grievously wounded [[Frigoshia|Frigoshian]] soldiers. None of them were wearing their helmets, but were instead tending to their wounds, pointing spears into the darkness, and scouring some old maps. Their commander turns around and spots [[PCs B - Arcohaem|Lukas]], he then lets out a high-pitch screech, and yells, "God dang it! What the he-don't do that to me man!"
+
+[[PCs B - Arcohaem|Lukas]] prepares to firebolt the group, but the man--Major [[Vetle Ritva|Ritva]]--began to break down the situation. 
+
+"Wait! We come in peace! Please, just listen to me first." He pleaded. [[PCs B - Arcohaem|Lukas]] paused, then lowered his guard to let the man speak. 
+
+"About twenty minutes ago, we were making camp in Arrah when we were ambushed. We couldn't hear it or see it until it was too late; it tore us apart in seconds. It's faster than you, it's stronger than you, and it's smarter than you. Our maps are outdated, but there's a cave system about a hundred meters north of here that cuts through the mountains and will get us out of the woods. We can escape this thing if we stick together! I know you're from the Republic, but there's safety in numbers, and if we split up, we'll all die. I'm willing to let bygones be bygones just this once. I'm not saying I agree with you on anything, and I'm not guaranteeing anything once we make it through the pass, but I don't want my men to die, and I assume we at least have that much in common."
+
+The rest of the party joined [[PCs B - Arcohaem|Lukas]] and began deliberating. [[Vetle Ritva|Vetle]] paced back and forth, not wanting to waste any more of their already very limited time. They begrudgingly decided to go with the [[Frigoshia|Frigoshians]] and bolted deeper into the woods. As the ran, a piercing call cut through the eerie silence of the woods. It felt right behind them as they ran. 
+
+![[call3.wav]]
+
+They arrived at a small clearing surrounding a bolted metal door with a bulletproof glass pane. The [[Frigoshia|Frigoshians]] began rapidly unbolted the hatch, but years of icy rainfall had frozen it over. They began to panic and rapidly bang on the latch with their weapons. 
+
+The party assisted, and manages to melt or move the ice off the door. The rest shattered, and the door slowly creaked halfway open. They clamored to get inside, but before they could, they heard one of the [[Frigoshia|Frigoshians]] standing guard scream. [[PCs B - Arcohaem|Ron]] whipped his head around, only to see his body being dragged into the darkness by his feet. They rushed inside. BANG! BANG! BANG! All three of the locks on the door slam shut. The door was at least half a foot of solid steel. 
+
+Everyone else began to take huge relieved breaths to prepare to keep moving, but [[PCs B - Arcohaem|Ron]] peered out the dirty window to look for [[Terrik|the Wraith]]. Muffled screams and gunshots got quieter and quieter, until nothing but silence remained. [[PCs B - Arcohaem|Ron]] got closer to the window, until BANG! The severed head of the [[Frigoshia|Frigoshian]] guard smashed into the glass so hard that it left huge spiderwebbing cracks all throughout it. Seeing this, the rest of the [[Frigoshia|Frigoshians]] stood and began to sprint away. Then, they finally saw him. [[Terrik|The Wraith]]'s beady red eyes and black horns emerged from the darkness and began to approach the door. 
+
+At this point, [[PCs B - Arcohaem|Iona]] rightly questioned [[Vetle Ritva|Vetle]] on why the "cavern pass" he was discussing featured a gigantic bunker. [[Vetle Ritva|Ritva]] said his maps were outdated, and he didn't know it was going to be there. They all sprinted through the bunker anyways. They ran through a cracking tile hallway with dim red lights, and heard a loud crash behind them. Suddenly, the entire freaking vault door was thrown down the hall towards them, bashing [[PCs B - Arcohaem|Tinkle Winkler]] in the back of the head, and knocking him prone. The door lodged itself in the wall, and the sound of [[Terrik|the Wraith]]'s crashing footsteps thundered down the hallway. [[PCs B - Arcohaem|Tinkle Winkler]] got to his feet and they all continued running deeper and deeper into the structure...
+
+
+### Chapter 14: Stranger Danger
+### Chapter 15: Roots

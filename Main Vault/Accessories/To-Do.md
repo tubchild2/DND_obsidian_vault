@@ -8,13 +8,26 @@
 	- More screen time
 	- Not the primary villain but he is the one responsible for everything
 	- Specific things he's planning
-- A room between the rooms
-- Give a lore reason for why [[Terrik]] doesn't like the water. He has a fear of it.  
 
+X Files / Creepypasta / PBG
 
+A game that's the game they play in movies
 https://www.youtube.com/watch?v=NoT8twNWpfA
 
 **Session Specific Notes**
+- Prep [[Arcohaem]] Group A Session 3
+	- Test Laptop w/ Speakers
+	- Introduce emotional / narrative stakes
+	- Clarify the goal
+	- Rebalance
+		- 2x Enemy Damage
+		- 50% Enemy Count
+		- Remorhaz
+	- Simplify [[The Karlstad Crusaders|Karlstad Crusaders]]
+		- [[The Karlstad Crusaders|Sigvald]] and [[The Karlstad Crusaders|Aska]] are fighting on the main lines
+		- [[The Karlstad Crusaders|Karl Oskarby]] and [[The Karlstad Crusaders|Drek]] are together and helping from a distance
+	- Replace ship battlemap w/ bridge battlemap
+Design, print, assemble
 - Part 5
 	- Winkler Nation
 		- Firmly established in [[Hephaestus]]
@@ -34,6 +47,10 @@ https://www.youtube.com/watch?v=NoT8twNWpfA
 	- [[Terrik|The Wraith]]'s miniature will be painted with Musou Black
 - Part 9
 	- Tai Lung inspiration prison break
+
+**POST [[ARCOHAEM]]**
+- Make [[AOTH]], [[Timeloop Game]], or [[SANGUINE OVERVIEW]].
+- Worldbuild the crap out of one world
 
 
 ### To Schedule
@@ -62,25 +79,12 @@ https://www.youtube.com/watch?v=NoT8twNWpfA
 	- The Fellowship of the Ring
 	- The Two Towers
 	- Return of the King
-- [[Arcohaem]] A4-12
+- [[Arcohaem]] A3-12
 - [[Arcohaem]] B5-12
 
 
 ### Shopping
 ##### Items
-- Bella's Graduation Costume
-	- Black Cowboy Hat
-		- (Borrow Hunter's for Free)
-	- Holster
-		- (Borrow Hunter's for Free)
-	- Bandana
-		- (Borrow Skyler's for Free)
-- Bella's Graduation Gift
-	- $30
-	- Card
-- Easton's Graduation Gift
-	- $30
-	- Card
 
 - Clothes
 	- Dark Side of the Moon Shirt
