@@ -33,6 +33,9 @@ He answers questions like Dr. Arroyo from Conan O'Brien's appearance on Hot Ones
 **Charlie Larson**
 Charlie was a troubled 11 year old child that stole a wish-granting machine without understanding how it worked. He wished to be the best at everything. It trapped his mind and body within an infinite space with infinite time. To exit, he would need to be better than everyone else who'd ever lived or ever would live at everything. Since he couldn't die or age in there, he was forced to actually reach that goal. It's unclear how much time he spent in there, but after one second from our perspective, he exited. He's an adult now. His goals after that time could be interesting. Would he want a friend? Would he want to die? Would he want to share his knowledge? Would he destroy all of those wish-granting machines? Would he want to go back in? 
 
+**The Equalizer**
+A being who's power is the nullification of explosives, energy weapons, electricity, plasma, and mutations. The effect is stronger the closer you get. He can't unleash any attacks himself, and his powers are always active. Anyone who attempts to fight him has to beat him in a fair fight on totally equal ground. The only things that work on him are mechanical / primitive weapons. 
+
 
 ##### Worldbuilding
 **Alien Space**
@@ -78,10 +81,16 @@ Whoever it strikes survives, but experiences one incredibly unlucky event within
 It's akin to our world, but the geography, terrain, temperatures, flora, and fauna are all extreme versions of themselves. The deserts are way bigger, hotter, and feature much more insane dunes, with fiery creatures and monsters freaking everywhere. The plants can generate lightning, frogs can vomit bombs, and there are fantastical creatures from near every genre present and accounted for. The hardest thing to do with this is to design the ecosystem to be in balance with itself. 
 
 **Psycho-Technological Magic System**
-A wild-west inspired world centered around the mining and use of a blood red metal called [[Sanguinine]]. This metal has psychokinetic properties; it's an incredibly powerful energy source that can be controlled psychically by any living creature in contact with it. It arrived in a massive meteor that turned the world to a desert, and it's being mined in a new gold rush. It's used to power everything so it's in insanely high demand. It's not exactly locked down yet, but bigger and purer nodes are going to produce exponentially more and more energy. The energy it produces can be focused with lenses and certain types of wires, is thousands of degrees Fahrenheit, and can be used to power things like with electricity. It's post-apocalyptic, meaning there are a ton of cramped and specifically very tall and thin superstructures that people have moved into after they fell into ruin. The sun is extra hot in this world, so it's important to stay out of the heat during the day, meaning a lot happens indoors, at night, or very quickly cause it's like 110 outside during the day. There is no formal government, just bigger and badder clans with bigger and badder weapons. Visually, a lot of rough edges, black and red silhouettes, and an emphasis on verticality and spikes. Tech is rough, bulky, and dark. 
+A wild-west inspired world centered around the mining and use of a blood red metal called sanguine or something. This metal has psychokinetic properties; it's an incredibly powerful energy source that can be controlled psychically by any living creature in contact with it. It arrived in a massive meteor that turned the world to a desert, and it's being mined in a new gold rush. It's used to power everything so it's in insanely high demand. It's not exactly locked down yet, but bigger and purer nodes are going to produce exponentially more and more energy. The energy it produces can be focused with lenses and certain types of wires, is thousands of degrees Fahrenheit, and can be used to power things like with electricity. It's post-apocalyptic, meaning there are a ton of cramped and specifically very tall and thin superstructures that people have moved into after they fell into ruin. The sun is extra hot in this world, so it's important to stay out of the heat during the day, meaning a lot happens indoors, at night, or very quickly cause it's like 110 outside during the day. There is no formal government, just bigger and badder clans with bigger and badder weapons. Visually, a lot of rough edges, black and red silhouettes, and an emphasis on verticality and spikes. Tech is rough, bulky, and dark. 
 
 **It's Portals All The Way Down**
 Like in Deltarune, it's possible to create gateways to worlds based on your immediate surroundings. The objects and themes of those spaces become tangible universes with their own histories based upon the history on the higher plane. It's hard to explain, but essentially, you can turn a room into another universe based off what was in that room. Unlike Deltarune, though, you can keep going down. You can keep abstracting away smaller and simpler universes. Time slows the deeper you go, like in Inception. And, as the worlds themes and makeup become simpler, so too do the abilities and minds of those sentient beings living in them. After you go down enough layers, you become like a God. But, as you quickly realize, your universe isn't real either; it's also an abstraction. You can find the exit gateway and go higher and higher up. The worlds become increasingly complex and the beings in it become more and more unknowably powerful. Logic tells you that the worlds are structured like an inverted tree, and at some point you'll reach the original true universe at the top. You don't know how far you'll have to go to get there, as after enough layers, the creatures around you become godlike eldritch horrors beyond your comprehension. It's impossible to reach the top, and no one will ever know what's up there. 
+
+**White Island ruins. Mo's Idea.** 
+Wall collapsed and incinerated miners; that's what you think! Maybe it was dragons or smt idk. Sulphur mining. Largely abandoned for being so dangerous. Fish turn teeth black
+
+**Solar Changes**
+A planet orbiting a bigger star, so seasons and years last much longer. Maybe alter the tilt of the planet to change severity of seasons. Maybe alter the spin of the planet to change the length of the day. 
 
 
 ##### Plots
@@ -111,6 +120,10 @@ The players are attempting to investigate a place that's entirely abandoned. The
 
 **Blair Witch the Reality Show**
 Kind of a cross between Jury Duty and the Blair Witch. Hire a group to make a documentary, then play a bunch of escalating pranks on them that escalate in intensity and become less and less believable as they go on. 
+
+**Sinister Six**
+Spend a whole campaign introducing a crew of unique and isolated villains with differing motivations. Then have them all come back at the end to specifically go after the protagonists. 
+Maybe take it one step further and make almost the entire story low-stakes character pieces, setup, and worldbuilding, then have the finale fire all of Chekhov's Guns at once. 
 
 
 ##### Plot Elements
@@ -148,6 +161,9 @@ Use Daisy Bell as a motif for the progress of technology.
 
 **The Players are the Power**
 A tabletop game in which the players and their characters are separate entities that both exist in universe. The entire power system is built on meta-gaming and breaking the fourth wall to get information and power. An out-of-the-box mechanical experience. 
+
+**X-Files / G-Files / Creepypasta**
+Take inspiration from classical creepypastas but do a really believable one. 
 
 ##### Mechanics
 **Stress Management**

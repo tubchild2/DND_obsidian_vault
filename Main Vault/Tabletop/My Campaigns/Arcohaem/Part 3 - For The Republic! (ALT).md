@@ -35,9 +35,9 @@ They encounter the [[The Karlstad Crusaders|Karlstad Crusaders]], who are here h
 
 
 ### Chapter 10: Shoreline Siege
-The party, [[the Karlstad Crusaders]], and the orphan cross the river and enter the cramped and destroyed West End. There, they encounter several [[Frigoshia|Frigoshian]] soldiers. 
+The party, [[The Karlstad Crusaders]], and the orphan cross the river and enter the cramped and destroyed West End. There, they encounter several [[Frigoshia|Frigoshian]] soldiers. 
 
-Attempt to separate [[the Karlstad Crusaders]] as soon as possible to prevent initiative bloat. Keep the [[Frigoshia|Frigoshian]] soldier's turns simple. Greatly buff their attacks as well. 
+Attempt to separate [[The Karlstad Crusaders]] as soon as possible to prevent initiative bloat. Keep the [[Frigoshia|Frigoshian]] soldier's turns simple. Greatly buff their attacks as well. 
 
 The orphan gets scared and start running out of cover. He's greeted by a [[Frigoshia|Frigoshian]] captain. He speaks kindly and reassures him. He sees that he's scared, so he wipes off a tear with his leather glove. He pulls out his pistol and gives it to the child, and starts talking to him about what it's used for. He then finds out they've been with a Republic strike team, and his demeaner instantly shifts to disappointment, and the party has an opportunity to intervene. If they get noticed, he shoots the kid. If they don't do anything, he shoots the kid. If they execute a quick and stealthy plan, they can save him, but he'll still try to shoot the kid (he'll likely miss or simply wound him). 
 
@@ -45,7 +45,7 @@ The orphan gets scared and start running out of cover. He's greeted by a [[Frigo
 ### Chapter 11: We Go Way Back
 They make it out of the city with the [[The Karlstad Crusaders|Karlstad Crusaders]], and notice that a small group of [[Frigoshia|Frigoshians]] ran off into the woods ahead of them. They're much further ahead than them, so it's unlikely they can catch them, but they are there. 
 
-They all make camp together. It's a somber moment. If the orphan survived, he's scared but falls asleep next to one of [[the Karlstad Crusaders]]. The [[The Karlstad Crusaders|Karlstad Crusaders]] say they'll get him back home. They can't leave Bierdall anyways. The Wolves' mission is more important than theirs, whatever it is. 
+They all make camp together. It's a somber moment. If the orphan survived, he's scared but falls asleep next to one of [[The Karlstad Crusaders]]. The [[The Karlstad Crusaders|Karlstad Crusaders]] say they'll get him back home. They can't leave Bierdall anyways. The Wolves' mission is more important than theirs, whatever it is. 
 
 They spend time with the Crusaders. They talk about the things they've seen, the Republic, and about the food [[The Karlstad Crusaders|Aska]] cooks. [[The Karlstad Crusaders|Aska]] and [[The Karlstad Crusaders|Drek]] get into an argument about whether or not [[Terrik|the Wraith]] is real. 
 

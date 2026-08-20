@@ -54,7 +54,7 @@ I am going to quit DND, which means quitting Avery and Asher's games. That much 
 
 The hard thing is going to be reworking [[Arcohaem]] to not be in [[Serendipita]]. 
 
-In the new world, likely called Terra or something, [[Arcohaem]] is going to be an island somewhere akin to Norway geographically. There are other nations nearby, but they're separated by mountains or water. They have trade deals and such, but are isolated places. I'm literally going to stake the entirety of [[Arcohaem]] and cut/paste it into a big ocean with new island neighbors.
+In the new world, likely called Terra or something, [[Arcohaem]] is going to be an island somewhere akin to Norway geographically. There are other nations nearby, but they're separated by mountains or water. They have trade deals and such, but are isolated places. I'm literally going to take the entirety of [[Arcohaem]] and cut/paste it into a big ocean with new island neighbors.
 
 Magic is going to be the product of mutation. There are common classes of mutations, and some really unique and creative ones. It's been this way since some biological catastrophe that occurred prior to the Draconic Era. Mutations are naturally dormant until your body and mind are pushed by extreme stress or trauma. Then, you can mutate and acquire your abilities. Mutations can be passed down to children. 
 
@@ -63,3 +63,7 @@ That same catastrophe probably created all the crazy species and monsters that e
 Maybe I'll lift [[Sanguinine]] from my other universe and use it as the [[Serendipita|E-Tech]] replacement. Or, I can create an entirely new fictional power source (I'll probably do that since [[Sanguinine]] should be saved since it's SO FREAKING COOL). Regardless, some type of ore or crystal with latent power was discovered and began being mined. It caused rapid industrialization and the development of some crazy weapons and stuff in other parts of the world. [[Arcohaem]] resisted, and when it finally gave it, the Republic rushed into it, which is why it's so bulky and inefficient. 
 
 [[Malfaust]] is just a crazy powerful dragon, and his tech is just very well designed with some really good materials. He's very intelligent. 
+
+
+**The New Solution**
+I'm quitting Styxas and ending Arcohaem A. I'll see how things go with Asher's game since his game is really silly so I doubt it's offensive. I'll keep Arcohaem in Avery's world since I'm not actually doing anything bad, I'll just limit references. 

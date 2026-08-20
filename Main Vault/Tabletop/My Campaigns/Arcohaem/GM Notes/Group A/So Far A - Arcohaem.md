@@ -66,3 +66,7 @@ Realizing what was coming, the group completely abandoned the town. [[PCs A - Ar
 [[Alric]] [[Alric|Grimvell]] descended into the ravine with them and was promptly overwhelmed and robbed. They believe his cover story about his wife and kids, but they aren't taking any chances. [[PCs A - Arcohaem|Malgruff]] mauls the man to death and they steal his really cool picture camera. 
 
 They keep moving west, and make camp in the woods. Since no one warned anyone, Freyrhage was likely destroyed in the impending raid. On the bright side, the Wolves are making incredible time!
+
+
+### Chapter 6: Bad News Bears
+Cole and Skyler quit, I lost interest in GMing this group because of Avery's disruptive gameplay, and the whole thing fell apart without the two people I actually really knew. This group is over because of lack of interest. 

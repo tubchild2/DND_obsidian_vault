@@ -125,7 +125,7 @@ Chapter 8 - Nocturne
 - Level up to 12
 
 
-### [[Tabletop/My Campaigns/Arcohaem/Story/Sessions/Part 3 - For The Republic!]]
+### [[Part 3 - For The Republic!]]
 Chapter 9: Rain Fire
 - [[Kragknull]] reaches out to them on a personal level
 	- If they discuss what happened last session
@@ -375,7 +375,7 @@ Chapter 23
 Chapter 24
 - They run and hide. 
 - Close with a flashback
-	- [[Terrik]] snuck into Blackwater's hotel room that night. He went rifled through his things, and discovered [[The White Azalea|Hush]], and connections to [[the White Azalea]]. Blackwater woke up to go to the bathroom, and while [[Terrik]] was trying to leave, Blackwater pulled a pistol on him. 
+	- [[Terrik]] snuck into Blackwater's hotel room that night. He went rifled through his things, and discovered [[The White Azalea|Hush]], and connections to [[The White Azalea]]. Blackwater woke up to go to the bathroom, and while [[Terrik]] was trying to leave, Blackwater pulled a pistol on him. 
 	- Blackwater threatened and tried to kill him, and [[Terrik]] defended himself and killed him with his own gun. 
 
 ### [[Part 8 - The Devil...]]
@@ -385,7 +385,7 @@ Chapter 25
 	- While leaving, [[Terrik]] felt a sickening sense of excitement. The thrill of what he had just done caused his heart to skip a few beats. He buried that and ran, knowing that was wrong.
 	- Reeling from his past actions, he became more self-destructive. He got drunk the next night and isolated himself. It ate away at him and he couldn't get it out of his head. 
 	- [[Terrik]] learned that he had gotten away with Blackwater's murder, and everyone in the Senate building was in shock at his "suicide"
-	- In the official statement to the public, they completely ignored [[the White Azalea]] connection. In fact, they lied about it. That made [[Terrik]] suspicious. [[Terrik]] then met with his war buddy's parents to console them, but the story they were told wasn't true. In fact, it was leaving out a lot of important details that painted him as a coward. 
+	- In the official statement to the public, they completely ignored [[The White Azalea]] connection. In fact, they lied about it. That made [[Terrik]] suspicious. [[Terrik]] then met with his war buddy's parents to console them, but the story they were told wasn't true. In fact, it was leaving out a lot of important details that painted him as a coward. 
 - The Wolves head to the Gala and recover from the previous encounter with [[Terrik|the Wraith]]
 - Arriving at the Gala, they're recognized by [[Finn|Senator Finn]]. He'll help to get them in as his aides.
 - He tells them about [[Kragknull]], who was framed for assassinating the banker. They were suspicious of [[Kaul]], and before they could really learn anything, everything went down. [[Kragknull]] is on the run somewhere in Terragon now.
@@ -456,7 +456,7 @@ Chapter 32
 # **ACT 4: Malfaustian Bargain**
 ### Overview
 Saving [[Arcohaem]]
-- Part 10: Making a plan, returning to the Republic as "traitors," and witnessing the other side of the hate. Surviving an ambush from their old allies: [[the Karlstad Crusaders]]. 
+- Part 10: Making a plan, returning to the Republic as "traitors," and witnessing the other side of the hate. Surviving an ambush from their old allies: [[The Karlstad Crusaders]]. 
 - Part 11: Storming the lair, and learning what [[Amalgamma]] really is, and what the war's really been about. 
 - Part 12: The final battle and moral test. 
 
@@ -479,7 +479,7 @@ Chapter 34
 	- Security is akin to Half-Life 1
 
 Chapter 35
-- Surviving an ambush from their old allies: [[the Karlstad Crusaders]] (they've levelled up to slightly below the Wolves)
+- Surviving an ambush from their old allies: [[The Karlstad Crusaders]] (they've levelled up to slightly below the Wolves)
 - The Crusaders are who the Wolves were at the start of this campaign. 
 - High-stakes RP and trying to convince them to stop
 	- The Crusaders don't want to fight them at first and disobey orders to try and get them to flee. 

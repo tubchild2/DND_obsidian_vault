@@ -1,1 +1,1 @@
-Commander of [[the Karlstad Crusaders]]. Peer of [[Kragknull|Commander Kragknull]]
+Commander of [[The Karlstad Crusaders]]. Peer of [[Kragknull|Commander Kragknull]]

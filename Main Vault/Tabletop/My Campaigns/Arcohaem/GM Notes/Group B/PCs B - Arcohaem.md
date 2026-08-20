@@ -33,7 +33,7 @@ Past Missions:
 
 
 ### Gray
-Name: Tinkle Winkler I
+Name: Tinkle Winkler I (real name is Robert)
 Species: Human
 Class: Paladin
 Background: Soldier
@@ -71,9 +71,9 @@ Personality:
 - Schizophrenic (psychosis)
 - Serious
 
-Goal: 
-Backstory: 
-Theme: 
+Goal: ??
+Backstory: ?? 
+Theme: ??
 
 
 ### Bentley
@@ -209,3 +209,34 @@ Additional Notes
 - They weren't close, but he knows who he is, and he knows that him and [[Kragknull]] used to be on the [[PCs A - Arcohaem|Wolves of Arcohaem]].
 
 Theme: We Move Lightly
+
+
+## SKYLER!!
+Name: Rorik Valgok
+Species: Dwarf
+Class: Scholar (wizard)
+Background: Sage
+
+Personality: 
+- Stubborn
+- Loyal
+- Hot-headed but kind at heart
+- Gritty (brooding?)
+- Likes cheese, aged ale, aged elven women, stories, loyalty, and respect
+- Dislikes forest ents, elven men, wine, [[Frigoshia|Frigoshians]]
+Flaws:
+- Cheese (greatest weakness)
+- Racist to tree ents
+
+Goal: 
+- Make good money
+- Avenge the death of his wife Elanor 
+- Struggles with the morality of killing innocents
+
+Backstory:
+- He came from the mountain's of Sindri and was a respected dwarf who would use [[Serendipita|ether]] 
+- His wife Elanor was killed under mysterious circumstances by something with a burning spear
+- From that day on he vowed to avenge his wife no matter the costs. 
+- He was middle-class and he has that classic one eye scar with the white eye (you know what I'm talking about)
+
+Theme: diggy diggy hole

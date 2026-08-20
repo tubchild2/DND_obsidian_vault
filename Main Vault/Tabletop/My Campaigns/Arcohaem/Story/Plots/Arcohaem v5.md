@@ -119,7 +119,7 @@ Chapter 8 - Nocturne
 - Level up to 12
 
 
-### [[Tabletop/My Campaigns/Arcohaem/Story/Sessions/Part 3 - For The Republic!]]
+### [[Part 3 - For The Republic!]]
 Chapter 9: Rain Fire
 - [[Kragknull]] reaches out to them on a personal level
 	- If they discuss what happened last session
@@ -309,14 +309,14 @@ They investigate the conspiracy behind the dragon program, and learn the truth a
 Chapter 23: It's Always Worse
 - Skip forward 2 days. They've been branded traitors by the Republic, and a new team is being assembled by [[Kaul|Chancellor Kaul]] to handle the dragon program. 
 - They witness the horrors of the Howling Front on both sides now. 
-- They need access to resources only the criminal underground has. They're pressured into getting involved with [[the White Azalea]]. Whatever choice they make, they're already associated at this point, and things escalate once they believe that the Wolves have information that they need. It's terrifying. They're drugged/beaten/robbed/threatened.  
+- They need access to resources only the criminal underground has. They're pressured into getting involved with [[The White Azalea]]. Whatever choice they make, they're already associated at this point, and things escalate once they believe that the Wolves have information that they need. It's terrifying. They're drugged/beaten/robbed/threatened.  
 - [[Kragknull|Commander Kragknull]] is here. He was captured while fleeing and brought here. He has information he needs to tell them, but he can't do it while they're being watched.
 - They're interrogated. The interrogator has put [[Serendipita|Ether]] sensitive cuffs on all of them to prevent them from escaping. If they use any [[Serendipita|Ether]], then boom! They get shocked. The interrogator zeroes in on one person. If they don't cough up the information they're after, he's going to shoot his friends one at a time.
 
 Chapter 24: Shawshank
 - They make their escape together.
 - [[Kragknull]] is wounded in the escape, but he'll live.
-- While separated from [[Kragknull]], they're discovered by a rookie gangster who's going to report them to [[the White Azalea]]. Now, they're in a tricky situation. If they let him go, he could alert [[the White Azalea]]. If they trap/kill him, they're bad people because he's innocent. 
+- While separated from [[Kragknull]], they're discovered by a rookie gangster who's going to report them to [[The White Azalea]]. Now, they're in a tricky situation. If they let him go, he could alert [[The White Azalea]]. If they trap/kill him, they're bad people because he's innocent. 
 
 Chapter 25: The Plan
 - [[Kragknull]] learned that the banking overseer (Estis Macarra) learned that [[Kaul]] was using Republic funds to fund the dragon program. [[Kaul]] had him executed, and [[Kragknull]] was framed for the murder while investigating with [[Finn|Senator Finn]].

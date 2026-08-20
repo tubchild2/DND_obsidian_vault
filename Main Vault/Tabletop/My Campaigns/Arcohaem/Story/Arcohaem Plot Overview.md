@@ -96,6 +96,6 @@ Learning the truth
 
 Act 4
 Saving [[Arcohaem]]
-- Part 10: Making a plan, returning to the Republic as "traitors," and witnessing the other side of the hate. Surviving an ambush from their old allies: [[the Karlstad Crusaders]]. 
+- Part 10: Making a plan, returning to the Republic as "traitors," and witnessing the other side of the hate. Surviving an ambush from their old allies: [[The Karlstad Crusaders]]. 
 - Part 11: Storming the lair, and learning what [[Amalgamma]] really is, and what the war's really been about. 
 - Part 12: The final battle and moral test. 

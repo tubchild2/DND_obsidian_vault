@@ -16,7 +16,7 @@ Chapter 8: I don't know man I just want them to be on the same chapter
 
 ### Chapter 9: Rain Fire!
 ##### Purpose
-- Introduce them to [[the Karlstad Crusaders]]
+- Introduce them to [[The Karlstad Crusaders]]
 - Initiate Combat
 
 ##### Plot
@@ -33,7 +33,7 @@ Chapter 8: I don't know man I just want them to be on the same chapter
 
 **[[The Karlstad Crusaders]]**
 - Moving down the hill, you fully enter the battlefield. You see soldiers running back and forth swinging swords, glaives, and pistols, and flaming arrows descending on piles of dead bodies. 
-- They meet [[the Karlstad Crusaders]] and have time to interact. 
+- They meet [[The Karlstad Crusaders]] and have time to interact. 
 - Suddenly, cannon-fire from the river forces them to take cover and launches them into combat. 
 
 
@@ -43,7 +43,7 @@ Chapter 8: I don't know man I just want them to be on the same chapter
 
 ### Chapter 10: Shoreline Siege
 ##### Purpose
-- Let them bond with [[the Karlstad Crusaders]]
+- Let them bond with [[The Karlstad Crusaders]]
 - Let them get vengeance on the [[Frigoshia|Frigoshians]]
 
 **[[The Karlstad Crusaders|Sigvald]]**
@@ -155,12 +155,12 @@ Initiative
 
 ### Chapter 11: We Go Way Back
 ##### Purpose
-- Develop a friendship with [[the Karlstad Crusaders]]
+- Develop a friendship with [[The Karlstad Crusaders]]
 - Let them decide for themselves how they feel about the [[Republic of Arcohaem]]
 
 ##### Plot
 **Republic Outpost**
-- They get to safety with [[the Karlstad Crusaders]]
+- They get to safety with [[The Karlstad Crusaders]]
 - Now on the other side of the river, they're in the abandoned Republic camp.
 - Looking around, they reexperience the same propaganda from earlier through a new, experienced perspectives. The pages are dirtier, and torn up, but it's the same stuff.
 	- ROLL 2d6 (if the first is a 6, reroll it)
@@ -217,7 +217,7 @@ Initiative
 	- Goodbye for now Wolves.
 - Final Reflection
 	- What are your characters thinking about this whole war now that you've seen both sides of it?
-	- What did your characters think of [[the Karlstad crusaders]]?
+	- What did your characters think of [[The Karlstad Crusaders]]?
 	- Anything else you'd like to do before next session?
 
 **Level up to 13**

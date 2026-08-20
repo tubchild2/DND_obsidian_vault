@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "880c55d773dec18f",
+        "id": "e0ef39f10fa48eca",
         "type": "tabs",
         "children": [
           {
-            "id": "fa2636c2490db641",
+            "id": "25008a847244070a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Celeste Speed Running Log.md",
+                "file": "Tabletop/My Campaigns/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Celeste Speed Running Log"
+              "title": "Part 5 - Friend of My Friend"
+            }
+          },
+          {
+            "id": "938ab5b91c0df89a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Packing List.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Packing List"
             }
           }
         ]
@@ -56,7 +70,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -96,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Celeste Speed Running Log.md",
+                "file": "Accessories/Meals.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -155,7 +169,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,60 +185,60 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "fa2636c2490db641",
+  "active": "25008a847244070a",
   "lastOpenFiles": [
+    "Packing List.md",
+    "Tabletop/My Campaigns/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
+    "Accessories/Idea Index.md",
+    "Vault Overview.md",
+    "Celeste Speed Running Log.md",
+    "Accessories/Things I'll Never Tell People.md",
+    "Accessories/Tabletop Packing List.md",
     "Accessories/Weekly Schedule.md",
-    "Spirituality/Tabletop Issue Breakdown.md",
-    "Tabletop/My Campaigns/Arcohaem/GM Notes/Group B/So Far B - Arcohaem.md",
+    "Accessories/Simple Workout Routine.md",
     "Tabletop/My Campaigns/Arcohaem/GM Notes/Group B/PCs B - Arcohaem.md",
+    "Tabletop/My Campaigns/Arcohaem/GM Notes/Little Ron.md",
+    "Spirituality/5m Talk - Why Do Jehovah's Witnesses Maintain Political Neutrality.md",
+    "Accessories/To-Do.md",
+    "Tabletop/My Campaigns/Arcohaem/Media/Music/Little Ron (piano only).wav",
+    "Tabletop/My Campaigns/Arcohaem/Media/Music/Little Ron.wav",
+    "Tabletop/My Campaigns/Arcohaem/Media/Music",
+    "Spirituality/Tabletop Issue Breakdown.md",
+    "Accessories/Wishlist.md",
+    "Tabletop/My Campaigns/Vaerith/Worldbuilding/Things/The Ring of Seraephin and the Ring of Lunalia.md",
+    "Tabletop/My Campaigns/Arcohaem/Story/Sessions/Part 4 - Enemy of My Enemy....md",
+    "Tabletop/My Campaigns/Arcohaem/GM Notes/Group A/PCs A - Arcohaem.md",
     "Tabletop/My Campaigns/Arcohaem/Story/Plots/Arcohaem v6.md",
     "Tabletop/My Campaigns/Arcohaem/Worldbuilding/World History - Arcohaem.md",
-    "Tabletop/Other's Campaigns/Serendipita/Serendipita.md",
+    "Tabletop/My Campaigns/Vaerith/Worldbuilding/Things/Moonwrought.md",
+    "Tabletop/My Campaigns/Vaerith/References/The Quest - Vaerith.md",
+    "Tabletop/My Campaigns/AOTH/AOTH v1.md",
+    "Accessories/Meals.md",
+    "Playlist Organization Project.md",
+    "Tabletop/My Campaigns/Sanguine/Plots/Sanguine v6.md",
+    "Tabletop/My Campaigns/AOTH/AOTH.webp",
+    "Arcohaem Redux/Worldbuilding",
+    "Arcohaem Redux/Story",
+    "Arcohaem Redux/References",
+    "Arcohaem Redux/Media",
+    "Arcohaem Redux/GM Notes",
+    "Arcohaem Redux",
+    "Tabletop/My Campaigns/Arcohaem.zip",
     "Tabletop/Other's Campaigns/Serendipita/Serendipita Power Dynamic.canvas",
-    "Accessories/Idea Index.md",
-    "Tabletop/My Campaigns/Sanguine/Sanguine World History.md",
-    "Tabletop/My Campaigns/Sanguine/Plots/Sanguine v3.md",
-    "Tabletop/My Campaigns/Sanguine/Plots/Sanguine v4.md",
-    "Tabletop/My Campaigns/Sanguine/SANGUINE OVERVIEW.md",
-    "Tabletop/My Campaigns/Sanguine/Plots/Sanguine v5.md",
-    "Accessories/Ideas/ID_ Jury Duty Style.md",
-    "Tabletop/My Campaigns/Timeloop/Timeloop Game.md",
-    "Tabletop/My Campaigns/Arcohaem 2 - AOTH/AOTH v1.md",
-    "Tabletop/My Campaigns/Arcohaem/Story/Sessions/Part 4 - Enemy of My Enemy....md",
-    "Celeste Speed Running Log.md",
-    "Tabletop/My Campaigns/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
-    "Tabletop/My Campaigns/Arcohaem/Worldbuilding/Characters/Vetle Ritva.md",
-    "Tabletop/My Campaigns/Sanguine/Plots/Small Stories.md",
-    "Tabletop/My Campaigns/Sanguine/Ferromancy.md",
-    "Tabletop/My Campaigns/Sanguine/Sanguinine.md",
     "Pasted image 20260728184529.png",
-    "Group C.md",
-    "Tabletop/My Campaigns/Sanguine/Plots/Sanguine v2.md",
     "Tabletop/My Campaigns/Sanguine/Media/sanguine_map_v6.png",
-    "Tabletop/My Campaigns/Sanguine/Factions of Terra.md",
-    "Tabletop/My Campaigns/Sanguine/Plots",
-    "Research/DaVinci Resolve",
     "Tabletop/My Campaigns/Sanguine/Media/sanguine_map_v4.png",
     "Tabletop/My Campaigns/Sanguine/Media/sanguine_map_v3.png",
     "Tabletop/My Campaigns/Sanguine/Media/sanguine_map_v2.png",
-    "Tabletop/My Campaigns/Sanguine/Media",
     "Tabletop/My Campaigns/Sanguine/Media/sanguine_map_v1.png",
-    "Tabletop/My Campaigns/Sanguine",
     "Tabletop/My Campaigns/Arcohaem/Media/Pictures/Maps/Arcohaem Tribes w Landmarks.png",
     "Tabletop/My Campaigns/Arcohaem/Media/Pictures/Maps/Arcohaem Tribes.png",
     "Tabletop/My Campaigns/Arcohaem/Media/Pictures/Maps/Arcohaem Land.jpg",
     "Tabletop/My Campaigns/Timeloop/Timeloop Progression Map.canvas",
     "Tabletop/My Campaigns/Timeloop/Timeloop Progression.canvas",
-    "Tabletop/My Campaigns/Timeloop",
     "Untitled.canvas",
     "Tabletop/My Campaigns/Arcohaem/Media/Graphs/Session 4 Bunker.canvas",
-    "Tabletop/My Campaigns/Arcohaem/Media/SFX/signal from the pit.wav",
-    "Tabletop/My Campaigns/Arcohaem/Media/SFX/Wraith Radio.wav",
-    "Tabletop/My Campaigns/Uncharted Galaxy/SFX/bass Wyrms.wav",
-    "Tabletop/My Campaigns/Uncharted Galaxy/SFX/Audio Tape 7.7.12024.wav",
-    "Calendar",
     "Tabletop/My Campaigns/Uncharted Galaxy/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
-    "Research/SQL/Pasted image 20260526142930.png",
     "Home Network.canvas",
     "TTE/Character Maker.canvas",
     "TTE/RPGE Character Maker.canvas",

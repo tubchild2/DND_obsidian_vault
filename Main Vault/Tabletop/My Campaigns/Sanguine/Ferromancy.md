@@ -23,7 +23,7 @@ The more [[Sanguinine]] you have in your blood, the greater your Ferromantic pot
 
 While your potential is unchanged, your ability to fully take advantage of the mutation requires both regular exercise and skill. It typically takes ~4 years of perfect daily training to reach your maximum power. As you progress, your body will mutate and you will gain enhanced control over the [[Sanguinine]]. Notably, your size does not increase as much as your muscle density, allowing for Ferromancers to have a shockingly lean build while weighing hundreds of additional pounds. The activation of the genes from the gene editing also keep you younger and healthier for far longer than normal.
 
-Being in contact with external [[Sanguinine]] grants Ferromancers access to the energy produced by the node. This provides a quick way to produce and manipulate plasma without needing an absurdly high Ferromantic potential. That's why they line their weapons and armor with it. 
+Being in contact with external [[Sanguinine]] grants Ferromancers access to the energy produced by the node. This provides a quick way to produce and manipulate plasma without needing an absurdly high Ferromantic potential. That's why they line their weapons and armor with it. However, they are not invincible to lightning nor to the damage it causes to the body. Having extremely powerful electric currents pass through your body regardless of how well you can control them hurts very bad. Ferromancers use lightning redirection as self-defense only. 
 
 | Years | Title    | Reached Potential |
 | ----- | -------- | ----------------- |

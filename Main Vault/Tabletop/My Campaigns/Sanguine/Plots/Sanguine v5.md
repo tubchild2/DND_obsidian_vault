@@ -62,16 +62,5 @@ Mell questions why anyone would like Austin in the first place, but as he gets t
 This helps Mell to better appreciate his own imperfections. 
 
 
-
+###### Chapter 5: Vengeance
 Mell has unchecked anger issues. He wants to get revenge on people, and it would make his life easier to just kill people who keep escaping justice. The number one person he wants to kill is Inquisitor Primus. 
-
-
-
-
-
-incorporate some small stories
-Incorporate some action
-Incorporate some settings
-Specify some cool narrative devices
-Add more women
-Add an overarching plot

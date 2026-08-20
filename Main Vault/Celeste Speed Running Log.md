@@ -24,17 +24,17 @@ Arrival Time
 Get better at 5, 6, and 7
 
 
-Remaining Full Clears
-- [ ] 1a
+Full Clears
+- [x] 1a
 - [x] 2a
-- [ ] 3a
+- [x] 3a
 - [ ] 4a
 - [ ] 5a
 - [ ] 6a
 - [ ] 7a
 - [ ] 8a
 
-Remaining Goldens
+Goldens
 - [x] 1a
 - [x] 1b
 - [x] 1c

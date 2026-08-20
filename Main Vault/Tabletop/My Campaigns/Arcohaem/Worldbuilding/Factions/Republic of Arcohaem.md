@@ -92,7 +92,7 @@ The Neutral
 The Bad
 - [[The White Azalea]]. 
 - The Hollow. A decentralized underground black-market economy where anything can be bought. The hubs are well hidden, constantly moving, and protected by armed soldiers with access to [[Serendipita]]'s nastiest [[Serendipita|E-Tech]]. Deals are planned in advance, there's no browsing, and things move quickly. They themselves aren't an organization, but are rather a community or smaller organizations. Majority of [[Arcohaem]]'s elite on both sides deal with the hollow. 
-	- They trade illegal [[Serendipita|E-Tech]], stolen artifacts, legal documents, illegal intel, drugs (courtesy of [[the White Azalea]]), and even slaves. 
+	- They trade illegal [[Serendipita|E-Tech]], stolen artifacts, legal documents, illegal intel, drugs (courtesy of [[The White Azalea]]), and even slaves. 
 	- They represent a collective of pirates, thieves, bounty hunters, assassins, hitmen, corrupt lawyers, corrupt policemen, corrupt guards, spies, and illegal traders.  
 - [[Kaul|Chancellor Kaul]] is double dealing and committing massive amounts of treason with [[Atka|King Atka]], [[Malfaust]], and [[Terrik|the Wraith]].
 - Senator B. Current CEO of [[Castle Rock Technology]]. Has been using the war to sell weapons, and taking designs from [[Terrik|the Wraith]] via [[Kaul]]. 

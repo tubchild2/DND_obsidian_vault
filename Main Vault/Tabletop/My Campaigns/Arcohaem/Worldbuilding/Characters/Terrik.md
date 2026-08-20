@@ -86,7 +86,7 @@ Languages
 
 **Deflect Attack (Reaction) (3/Day)**
 	When the Wraith is hit by a melee attack, he can expend his reaction to reduce the damage by 1d10 + 13. If this reduced the damage to 0, he can immediately make one unarmed strike against the attacker as part of the same reaction.
-	When the Wraith is hit by an [[Serendipita|ether]] attack, he can expend his reaction to reduce the damage by 1d10 + 20. If this reduced the damage to 0, he can immediately use his [[Hard-Light]] spear to deflect the attack back to the attack. The attacker must repeat any necessary saving throws or take half of the damage. 
+	When the Wraith is hit by an [[Serendipita|ether]] attack, he can expend his reaction to reduce the damage by 1d10 + 20. If this reduced the damage to 0, he can immediately use his [[Hard-light]] spear to deflect the attack back to the attack. The attacker must repeat any necessary saving throws or take half of the damage. 
 
 **Action Surge (1/Short Rest)**
 	On his turn, the Wraith can take an additional action
@@ -113,12 +113,12 @@ Languages
 	The Wraith can make 4 attacks
 	(-4) Strangle
 	(-4) Shield Breaker
-	(-2) [[Hard-Light]] Spear
+	(-2) [[Hard-light]] Spear
 	(-2) Claw Gauntlets
 	(-1) Unarmed Strike
 	(-1) Throw
 
-**[[Hard-Light]] Spear**
+**[[Hard-light]] Spear**
 	Melee Weapon. +13 to hit, reach 10ft., one target. 
 	Hit: 20 (2d12 + 7) piercing damage plus 9 (2d8) fire damage.
 
@@ -162,7 +162,7 @@ Languages
 The Wraith can take 3 Legendary Actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. He regains spent legendary actions at the start of his turn.
 
 **Strike (1 action)**
-	The Wraith makes one Unarmed Strike, Claw Attack, or attack with his [[Hard-Light]] Spear.
+	The Wraith makes one Unarmed Strike, Claw Attack, or attack with his [[Hard-light]] Spear.
 
 **Lunge (1 action)**
 	The Wraith moves up to 25ft. without provoking opportunity attacks, and can make one unarmed strike at a creature within range. 

@@ -96,7 +96,7 @@ Immersive Opening
 		- Black and white comic with really bad printing errors. 
 		- It shows their group fighting a Wendigo with only pocket knives. 
 		- All of their features and the plot is incredibly exaggerated. 
-	- The Adventures of [[the Karlstad Crusaders]] #22: The Flames of [[Frigoshia]]! 
+	- The Adventures of [[The Karlstad Crusaders]] #22: The Flames of [[Frigoshia]]! 
 		- It depicts knights on horseback charging into an icy fortress
 	- Tales of [[Hephaestus]] #12: The Clockwork Titan!
 		- It's a very bad horror story about a clunky looking robot rebelling and fighting its creator.
