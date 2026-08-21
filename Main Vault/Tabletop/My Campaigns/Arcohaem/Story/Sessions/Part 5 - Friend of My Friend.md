@@ -19,7 +19,9 @@ After the whole situation from last session, you all take a very hard and very w
 ###### Lukas
 Lukas wakes up to find himself in his old encampment. It's been 10 years since the ambush. He climbs out of his old cot and looks around. The sun is rising, people are running to their duties, and orders are being barked over the PA system. Suddenly, bright strobing text begins to flash in his eyes. 
 
-SAVE THEM.
+*SAVE THEM.*
+*SAVE THEM.*
+*SAVE THEM.*
 
 Lukas has run this scenario through his head god knows how many times. He dashes out of his quarters and down the hall, yelling, 
 
@@ -33,35 +35,33 @@ Lukas has run this scenario through his head god knows how many times. He dashes
 
 "No! No! No! Please! Listen to me! You need to get everyone out of here it's going to be here soon!" A red phone starts ringing, and everyone stops to listen to the ringing. 
 
-"You can't remember this can you?" Everyone stares at you and the commander. "I'm sorry, I need to take this Lukas." The moment he starts moving, everyone starts moving around again, and they return to ignoring you. 
-
-Lukas is confused and upset. Something is wrong. He breaths heavily through his nose and furrows his brow, looking for some way to try and get people's attention. As he searches, his eyes meet another man at the end of the busy hall. He doesn't recognize him, and he isn't wearing a military outfit. It's something almost... regal. The man is intensely staring at him, and a single tear is running down his cheek. It looks as if he's trying to remember him but he can't, or he's searching for something to say, but the words keep escaping him. Lukas approaches slowly, confused by the man's presence. The humming grows louder and louder. 
+"You can't remember this can you?" Everyone stares at you and the commander. "I'm sorry, I need to take this Lukas." The moment he starts moving, everyone starts moving around again, and they return to ignoring him. Lukas is confused and upset. Something is wrong. He breathes heavily through his nose and furrows his brow, looking for some way to try and get people's attention. As he searches, his eyes meet another man at the end of the busy hall. He doesn't recognize him, and he isn't wearing a military outfit. It's something almost... regal. The man is intensely staring at him, and a single tear is running down his cheek. It looks as if he's trying to remember him but he can't, or he's searching for something to say, but the words keep escaping him. Lukas approaches slowly, confused by the man's presence. The humming grows louder and louder. 
 
 "Something..." the man says, the humming growing louder and louder, "Something is wrong!" 
 
-WRONG. WRONG. WRONG...
+*SOMETHING IS WRONG.* 
+*SOMETHING IS WRONG.* 
+*SOMETHING IS WRONG.*
 
-...
-
-WRONG. WRONG. 
-
-The words flash across Lukas' vision. What's going on? Nothing is right! The humming grows louder and louder and louder and louder and louder and louder and louder-
-
-Lukas hears the hiss of a can opening as if it's right in his ear, and is jolted awake. 
+The words flash across Lukas' vision. What's going on? The humming grows louder and louder and louder and louder and louder and louder and louder until Lukas hears the hiss of a can opening as if it's right in his ear, and is jolted awake. 
 
 
 ###### Iona
 Iona is back in his bedroom at Kezlov's house. This must have been back when he was 15. It's the middle of the night, and he's tucked into bed. It's completely quiet. Not even wind or crickets interrupt the overwhelming silence. His room is missing windows and doors, trapping him inside. There's a small square opening in the wall at about his stomach's level that leads out into a white hallway. 
 
+*shffft*
+
 Something moves under his bed. It's quiet and fast. He wouldn't have heard it if it wasn't so unnaturally silent in his room. He pauses for a moment and thinks of what to do next. He doesn't move, or make any noise. His eyes widen at the thought of what could have made that noise. Iona tries to picture it, and his perception shifts to beneath the bed. 
 
 ...
 
-Nothing in his years of training and world experience could have prepared him for what he saw. He can't understand it. It's deeper and deeper, louder and louder, crawling closer and closer. What shape could move that way? He tried to picture it, but all he felt was a sharp pain in his nose and temples. His nose starts gushing blood.
+There's a hole under his bed. What could be down there?
 
-He scrambles out of bed and calls for Kezlov's help. He crawls through the opening in the wall and begins running down a dark and pale hallway. He feels it again. More blood drips onto the floor. He looks up and it's been smeared across the walls. All of the doors are gone. At the end of the hall is a single circular clock with Kezlov's lips and lidless eyes. 
+...
 
-"Iona? You aren't supposed to leave your room, silly!" Said the clock as it vanished into the wall. Iona suddenly hears the loud sound of a pipe bursting, and the hiss of steam. He clenches his whole body in fear, and his eyes shoot open. 
+Nothing in his years of training and world experience could have prepared him for what he saw. He can't understand it. It's deeper and deeper, louder and louder, crawling closer and closer. What shape could move that way? He tried to picture it, but all he felt was a sharp pain in his nose and temples. His nose starts gushing blood. He scrambles out of bed and calls for Kezlov's help. He crawls through the opening in the wall and begins running down a dark and pale hallway. He feels it again. More blood drips onto the floor. He looks up and it's been smeared across the walls. All of the doors are gone. At the end of the hall is a single circular clock with Kezlov's lips and lidless eyes. 
+
+"Iona? You aren't supposed to leave your room, silly!" Said the clock as it vanished into the wall. The creature is in the bedroom now. The thought of it causes his nose, ears, and eyes to start bleeding. A sharp pain rushes through his head and he collapses to the ground. The creature came from his bedroom, but deep deep beneath the earth. Iona suddenly hears the sound of a pipe bursting, and the hiss of steam. He clenches his whole body in fear, and his eyes shoot open. 
 
 
 ###### Ron
@@ -90,7 +90,7 @@ The stage around them all morphs into an animated retelling of his life. It show
 The animation shifts to show him in the army, then with the Wolves of Arcohaem. It shows all his fallen comrades, and all the people he's saved. It also shows a huge tally of the people he's killed. The conveyor belts start getting fuzzy in his mind. Something is off about the people he's saving; they look weird--almost inhuman. The plates of food start looking progressively redder, but he can't make out what's on them. 
 
 *Cause you know he had to go*
-*Only to his mother's woe*
+*Leave his mother all alone*
 *Cause he knows that she'll be* 
 *A-OK*
 *Other days*
@@ -124,33 +124,33 @@ Ron looks around. He's in some kind of building, but he can't see any exits. The
 "Ron. Are you ok? Look. I can prove it. Watch this." The man shrinks back behind the set. The animation reels to life, and a new song begins to play, now sung by the tomato. 
 
 *It's not new*
-*You know it too*
+*You knew it too*
 
 *Well to say*
-*That it's somehow*
+*that it's somehow*
 
 *Gone away*
 *Every day you'd*
 
-*Beg to stay*
+*Fill your tray*
 *Every way*
 
 *Oh no Ron*
-
 *Oh are you feeling* 
 
 *Well my boy*
-
-*I'm worried 'bout you*
+*I'm worried for you*
 
 *Please don't think*
-
 *You're crazy but you*
+
 *Always loved to eat tomatoes*
 
 They all turn to him with smiles on their faces as if that was definitive proof he loved tomatoes as a kid. They circle around him again and grab him by the arms and shoulders. They stare at him awaiting a response, but Ron is baffled. 
 
-"What? What is going on? What are you talking about? Who are you people? Get off me!" Ron begins to struggle. The taco grabs a tomato and tries forcing it into Ron's mouth. Ron resists, and then bites the Taco's hand. The Taco curses and holds his hand. The others look furious with Ron. The music slowly fades in again.
+"What? What is going on? What are you talking about? Who are you people? Get off me!" Ron begins to struggle. The taco grabs a tomato and tries forcing it into Ron's mouth. Ron resists, and then bites the Taco's hand. The Taco curses and holds his hand. The others look furious with Ron. 
+
+The blindfolded children from the audience stand and begin to pile onto and restrain Ron. They force him into a chair and tie him down. Ron's heart pounds, his vision narrows, and his stomach drops. All the mascots are touching him so much he can't see anything. The tall man is loading mutilated Frigoshian bodies and tomatoes onto his plate. They're all trying to force feed him them, but he keeps resisting. Ron finally gets to see himself, and he's covered in grease and his body is disgusting and fattened. The music slowly fades in again.
 
 *Oh little Ron*
 *Oh little Ron*
@@ -168,7 +168,7 @@ They all turn to him with smiles on their faces as if that was definitive proof 
 *Took the lead*
 *Led astray*
 
-The blindfolded children from the audience stand and begin to pile onto and restrain Ron. They force him into a chair and tie him down. Ron's heart pounds, his vision narrows, and his stomach drops. All the mascots are touching him so much he can't see anything. The tall man is loading mutilated Frigoshian bodies and tomatoes onto his plate. They're all trying to force feed him them, but he keeps resisting. Ron finally gets to see himself, and he's covered in grease and his body is disgusting and fattened. All the mascots applaud and scream the lyrics. Ron begins thrashing in the chair as they bring in a large metal pipe to force feed him. He feels the slurry of bones and tomato being pumped down into his stomach. He gags and clenches his fists in fear and agony. 
+All the mascots applaud and scream at him. Ron begins thrashing in the chair as they bring in a large metal pipe to force feed him. He feels the slurry of bones and tomato being pumped down into his stomach. He gags and clenches his fists in fear and agony. 
 
 *Oh!*
 *O-oh no!*
@@ -176,10 +176,12 @@ The blindfolded children from the audience stand and begin to pile onto and rest
 *This-*
 *This is what happens*
 *To kind men*
-*Who don't watch*
+*Who forget*
 *Where they've been*
 
-*But we see him now*
+*But*
+
+*We see him now*
 *We feel so proud*
 *When we all*
 *See him fight*
@@ -187,7 +189,7 @@ The blindfolded children from the audience stand and begin to pile onto and rest
 *For the grand*
 *Republic's light*
 
-Fireworks begin detonating on stage, lighting everything on fire.
+Fireworks and confetti begin detonating on stage, lighting everything on fire.
 
 *Oh no*
 
@@ -205,7 +207,7 @@ Robert wakes up in a hospital bed. To his right are flowers, and Rorik is passed
 
 "Medicine... please..."
 
-"What?" The doctor smirks and tilts his head at the idea.
+"What?" The doctor grins and tilts his head in confusion at the thought of it.
 
 "Please... I need help."
 
@@ -217,13 +219,13 @@ Robert wakes up in a hospital bed. To his right are flowers, and Rorik is passed
 
 "I don't?"
 
-"Of course not!" The doctor can barely get the words out without laughing. Robert is confused. Or is his name... wait. He can't remember? The doctor stares at him and shakes his head, still laughing to himself about what he asked. 
+"Of course not!" The doctor can barely get the words out without chuckling to himself. Robert is confused. Or is his name... wait. He can't remember? The doctor stares at him and shakes his head, still laughing to himself about what he asked. 
 
 "Why am I here if I don't want help?" Robert asks. 
 
 "Don't worry about it. Someone is coming to give you what you really want." 
 
-"What do I want... or... is he going to do?" 
+"What does he... or... do I want?" 
 
 "You don't want to know that, silly!"
 
@@ -245,7 +247,7 @@ Robert wakes up in a hospital bed. To his right are flowers, and Rorik is passed
 
 "Their name? I shouldn't ask their name?"
 
-"You don't want to know that, silly! Silly! Silly! Silly! Silly! Silly!" The man smiles at him and keeps repeating it, his words breaking down and losing their humanity more and more. He keeps his uncomfortable smile, like a teacher looking at a struggling student. 
+"You don't want to know that, silly! Silly! Silly! Silly! Silly! Silly!" The man smiles at him and keeps repeating it, his words breaking down and losing their meaning more and more until they become nothing but sound. 
 
 "SSSSSSSSSSSSSSSSSSSSS"
 

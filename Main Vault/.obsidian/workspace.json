@@ -35,7 +35,8 @@
               "title": "Packing List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +186,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "25008a847244070a",
+  "active": "938ab5b91c0df89a",
   "lastOpenFiles": [
-    "Packing List.md",
+    "Tabletop/My Campaigns/Arcohaem/Media/Music/Little Ron.wav",
+    "Tabletop/My Campaigns/Arcohaem/GM Notes/Group B/Little Ron.md",
     "Tabletop/My Campaigns/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
+    "Packing List.md",
+    "Tabletop/My Campaigns/Arcohaem/Media/Music/Little Ron (piano only).wav",
     "Accessories/Idea Index.md",
     "Vault Overview.md",
     "Celeste Speed Running Log.md",
@@ -197,11 +201,8 @@
     "Accessories/Weekly Schedule.md",
     "Accessories/Simple Workout Routine.md",
     "Tabletop/My Campaigns/Arcohaem/GM Notes/Group B/PCs B - Arcohaem.md",
-    "Tabletop/My Campaigns/Arcohaem/GM Notes/Little Ron.md",
     "Spirituality/5m Talk - Why Do Jehovah's Witnesses Maintain Political Neutrality.md",
     "Accessories/To-Do.md",
-    "Tabletop/My Campaigns/Arcohaem/Media/Music/Little Ron (piano only).wav",
-    "Tabletop/My Campaigns/Arcohaem/Media/Music/Little Ron.wav",
     "Tabletop/My Campaigns/Arcohaem/Media/Music",
     "Spirituality/Tabletop Issue Breakdown.md",
     "Accessories/Wishlist.md",
@@ -215,7 +216,6 @@
     "Tabletop/My Campaigns/AOTH/AOTH v1.md",
     "Accessories/Meals.md",
     "Playlist Organization Project.md",
-    "Tabletop/My Campaigns/Sanguine/Plots/Sanguine v6.md",
     "Tabletop/My Campaigns/AOTH/AOTH.webp",
     "Arcohaem Redux/Worldbuilding",
     "Arcohaem Redux/Story",
