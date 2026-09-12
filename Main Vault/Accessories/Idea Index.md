@@ -1,3 +1,7 @@
+##### My Writing Style
+I think I like high concept worlds and ideas grounded with realistic characters. 
+I like themes related to morality, time, and self-worth. 
+
 ##### Characters
 **Kenny Lewis**
 A hopeful child who's dad is fighting in the war. He believes he's coming back and refuses to let go of that. He hasn't killed anyone, but he's willing to fight bad guys to protect his mom. He views himself as the protector of his family, so he takes very bold risks. No matter how bad he wants to help, he's still a pretty weak and naive 9 year old. 
@@ -36,8 +40,25 @@ Charlie was a troubled 11 year old child that stole a wish-granting machine with
 **The Equalizer**
 A being who's power is the nullification of explosives, energy weapons, electricity, plasma, and mutations. The effect is stronger the closer you get. He can't unleash any attacks himself, and his powers are always active. Anyone who attempts to fight him has to beat him in a fair fight on totally equal ground. The only things that work on him are mechanical / primitive weapons. 
 
+**The Illusionist**
+A person who has the superpower to manipulate space and perception in a way similar to the backrooms / the architects from inception. Given no one is observing and the space manipulation is seamless, they can make walls and doorways appear, manipulate space, create impossible geometry, and screw with people's heads. They would make a killing as a magician or a haunted house owner. To get to work, they'll link their front door with the closet at work and just walk through it to skip commuting. If someone they didn't want to talk to was following them, they could make the hallway double back on itself so they end up running back to where they started. 
 
-##### Worldbuilding
+**Burton Bowler**
+Burton Bowler's parents lost custody of his when he was 7, and he was later placed in the care of his abusive grandmother. Because of genetic misfortune and his traumatic childhood, he developed a combination of possessive dissociative identity disorder, narcolepsy, and something brand new called unihemispheric slow-wave sleep. So, in addition to switching alters normally, falling asleep forces another alter front until they fall asleep or recede. Occasionally, they both need rest at the same time, but two are never awake at once. 
+
+Burton is the host. He's introverted and quiet. He keeps to himself and his hobbies and lives alone. He's constantly exhausted and fighting the urge to fall asleep. He has to nurse wounds he wakes up with, go to work, and live a normal life. He isn't completely innocent; he does harbor animosity against people, but his conscience prevents him from standing up for himself or trying to make a difference. 
+
+Alter 2 is a persecutor-protector. All he wants is to protect Burton and prepare him for more traumatic experiences. He'll front whenever Burton is threatened emotionally, physically, or verbally, he'll hurt himself to punish Burton / prepare him for future abuse, and he'll obsessively exercise, eat, and clean himself. He's selfish, stubborn, and defensive. He's known to go on holy moral missions to protect Burton, which can (in semi-rare cases) involve criminal activity. He isn't violent, he's more of another variant of Burton with more of a motivation to incite change. 
+
+Burton is already struggling to manage this. Thankfully, neither of them are powerful enough to do anything drastic. Well, they were. One day, Burton acquires superpowers. He can conjure and manipulate a functionally unlimited amount of energy. That means that he has telekinesis, flight, invulnerability, super strength, super speed, and more. The only drawback is that it's only active when he wants it to be. If he isn't actively trying to protect himself, he's just a guy. 
+
+Now that Alter 2 has power, he can start talking some sense into the people exploiting Burton. The problem is, he's going a bit too far and planning things that could hurt people. He won't kill, but that still leaves a lot of cruelty on the table. Burton has to suppress his powers and his alter, which means staying awake and staying away from perceivable threats. This is making Alter 2 punish him harder and lash out even more. It's a vicious cycle. 
+
+The goal of this story isn't to destroy Alter 2, but more to talk some sense into him. He isn't evil, just vindictive and protective. The first story could be about Burton accepting that his alter exists, the second could tackle Burton accepting his alter serves a purpose, and the third could be about integration and friendship. 
+
+
+
+##### Worldbuilding / Atmosphere
 **Alien Space**
 A place where everything uses intense, vivid, and unnatural colors. Unknowable organisms existing in massive spaces you can't understand, supported by music with long, drawn out, and deep chords, and melodies that are off and incomplete. 
 
@@ -90,12 +111,29 @@ Like in Deltarune, it's possible to create gateways to worlds based on your imme
 Wall collapsed and incinerated miners; that's what you think! Maybe it was dragons or smt idk. Sulphur mining. Largely abandoned for being so dangerous. Fish turn teeth black
 
 **Solar Changes**
-A planet orbiting a bigger star, so seasons and years last much longer. Maybe alter the tilt of the planet to change severity of seasons. Maybe alter the spin of the planet to change the length of the day. 
+A planet orbiting a bigger star, so seasons and years last much longer. Maybe alter the tilt of the planet to change severity of seasons. Maybe alter the spin of the planet to change the length of the day. This could actually lead to a lot of interesting worlds since this radically changes how long seasons last, how intense they are, and how the day/night cycle works. 
+
+**Uploaded Consciousness**
+A scientist uploaded the mind of an animal into a simulation and forced it's brain to live and die over and over with infinite variations of itself. Then, he started uploading people into the simulation. Same difference: the source file for the person can be cloned infinitely and vary based on its experiences. The simulation lets the consciences interact with each other, perform basic tasks in a simulated world, and chat with the outside world (I.E. the scientist.) Where things become troubling in when the minds begin being implemented in the real world. Additionally, they could have them on a life/death cycle for no reason, and we could watch as someone in the simulation (who's fully aware of the simulation by the way, this isn't the matrix or something, they know things are different) try to leave, get in contact with someone, develop a friendship, and then realize they're decaying and that there are variants of themselves saved on the computer. 
+
+**Spaceman**
+Like that one unexplained photograph of the girl in the field with a spaceman in the background. Juxtaposition of finding a spaceman in the middle of a flowery field is interesting and kind of uncanny. 
+Frame 17. Similar to spaceman. That unexplained photo of those people who went hiking and were found dead, and their recovered cameras had that blurry photo of the figure in the distance. That was their last photo. It was probably just one of them. 
+People go missing, recovered photos, strange details. Archived, altered broadcasts. 
+
+**Tasmanian Tiger**
+Their mouths can open up to 80 degrees!
+
+**Hallway**
+There was something about exploring an apartment building earlier today that made me uncomfortable. It was the low ceilings, the white walls, the completely empty design, and the presence of doors where they weren't necessary. 
 
 
 ##### Plots
 **Battleworld**
 An extradimensional overseer populates the world at the dawn of each season with life, monsters, weapons, and resources. The natural ecosystem would tear itself apart in a second if not for these portals to the unknown world. There's no off-limits genres or ideas, given they follow the rules of the world and are taken seriously by the characters. It's similar to Adventure Time and Regular Show in that matter. The protagonists have a monster manual, and are assigned targets at the beginning of each session like bounty hunters. The focus is on having fun and goofing off in this silly DND world while getting loot, fighting monsters, and saving people.
+
+**Fantastics**
+I'm not sure about that name, but it's essentially a story about a family that simultaneously gets superpowers. I'm thinking somewhere between the Incredibles and Malcolm in the Middle. The family drama and relationships would be center stage, and it'd be a small, street-level story. They aren't born with their abilities, they develop simultaneously, and none of them are superheroes or supervillains. They're going to continue living their lives as normally as they can, which means each character can have their own plots at school, or at work, or at home, or at friends' homes, etc. Kind of a mid idea but if the relationship drama is well done it could be compelling. 
 
 **Prank Reality Show**
 [[ID_ Jury Duty Style]]
@@ -124,6 +162,9 @@ Kind of a cross between Jury Duty and the Blair Witch. Hire a group to make a do
 **Sinister Six**
 Spend a whole campaign introducing a crew of unique and isolated villains with differing motivations. Then have them all come back at the end to specifically go after the protagonists. 
 Maybe take it one step further and make almost the entire story low-stakes character pieces, setup, and worldbuilding, then have the finale fire all of Chekhov's Guns at once. 
+
+**Trapped**
+A game in which an uploaded consciousness was trapped inside of it. He isn't hostile or crazy, he just wants out and is sick of being in the game. He's starting to forget things about his life prior to being in the game. 
 
 
 ##### Plot Elements
@@ -160,10 +201,25 @@ Your ship / submarine is adrift and rapidly running out of oxygen. There aren't 
 Use Daisy Bell as a motif for the progress of technology. 
 
 **The Players are the Power**
-A tabletop game in which the players and their characters are separate entities that both exist in universe. The entire power system is built on meta-gaming and breaking the fourth wall to get information and power. An out-of-the-box mechanical experience. 
+A tabletop game in which the players and their characters are separate entities that both exist in universe. The entire power system is built on meta-gaming and breaking the fourth wall to get information and power. An out-of-the-box mechanical experience. It could be really fascinating if the antagonist was a real person who was trapped in the game, and I introduced means of travelling ascending and descending through the levels. 
 
 **X-Files / G-Files / Creepypasta**
 Take inspiration from classical creepypastas but do a really believable one. 
+
+**Avatar**
+The character in the game has DID and the other personality is the player. The entire plot hinges on your choices and how the character's other personality reacts to them. 
+
+**Funny YouTube Channel Concept**
+This isn't really a plot idea, but I think it'd be a funny premise for a YouTube channel that the owner of the channel is paying someone else to do all of the gameplay and filming and are making stranger and stranger requests and are this really mysterious figure that just has a seemingly unlimited amount of cash at their disposal. For example, an episode could center around the channel paying someone to beat Terraria, and all of the instructions and payments only come through the mail. 
+
+**15 Universes**
+There is a multiverse, but it's really lame. Only like 15 universes were made before God patched it or something. Now somebody has to keep them in check and it's really a tough job. One person at a time is gifted with the power to ensure order across all of them. 
+
+**Narrator**
+A man cursed with hearing a constant omniscient narration of his life. The narrator never breaks character or addresses that he's real, but can be exploited to gain information about things the man wouldn't have regularly accessed. I could do a whole suite of stories about acquiring video game mechanics in real life. 
+
+**Dramatic Irony in Tabletop RPGs**
+It's difficult to create tension in TTRPGs since the characters know everything the players know. Tension usually comes from lack of information, high stakes, anticipation, time pressure, or impossible choices. So, it'd be cool to have one player know a piece of key information the OTHER players don't know, but they are unable to share it for some reason. This creates dramatic irony for them, because it's both a piece of information they have that others don't, and the tension between revealing their secret or not. 
 
 ##### Mechanics
 **Stress Management**
@@ -202,6 +258,12 @@ The Hero has one signature weapon that they modify and grow with throughout the 
 **(CLASS) Ruffian**
 The Ruffian is your Han Solo, your Nathan Drake, your Saul Goodman. They're an incredibly persuasive, sneaky, and well rounded class built around charisma. They focus on negotiation, stealth, and trap setting. The core fantasy is scheming and cooperation. 
 
+**(CLASS) Avatar**
+This is a really out there concept, but what if there was a class centered around abusing game mechanics? They're just a normal dude but they get access to an unlimited inventory, they can hear the narrator, they hear music cues, they can see the map, idk. I think it could be really fun but it'd need to be carefully balanced. 
+
+**(CLASS) Regular Dude**
+A class that doesn't do anything but track how a normal person would progress through life. I'm surprised this doesn't exist already. 
+
 
 
 ##### Games
@@ -225,3 +287,7 @@ It's like Catan and Civ 6 but faster and on a procedurally generated board. Thin
 Open source no-limits DNDbeyond
 [[ID_ SummerProj]]
 [[ID_ TTE Pitch]]
+
+**How I'd Fix Doctor Who**
+A pitch for a series resurrection 
+[[ID_ How I'd Fix Doctor Who]]

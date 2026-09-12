@@ -29,7 +29,7 @@ Research and References
 Personal References
 - [[Simple Workout Routine]]
 - [[Tabletop Packing List]]
-- [[Weekly Schedule]]
+- [[Workout Schedule]]
 - [[Wishlist]]
 - [[To-Do]]
 

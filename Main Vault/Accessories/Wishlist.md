@@ -1,21 +1,13 @@
-Barbell Set
-
 I really want a better CPU or a new PC
 
 I want to buy a whole bunch of gifts for people and write them cards because I appreciate them
-
-Cord Management
 
 Desk mount monitor stand x3
 - https://www.amazon.com/gp/product/B081YBBXYL/ref=ox_sc_act_title_2?smid=A19IZDOTRUQIYS&th=1
 - $21.29 each
 - $63.87 total
 
-Get new black office chair that's comfortable and can recline
-Get new headphones
-Get new mouse
 Get new webcam
-Get Super Metroid poster for closet door
 
 
 - Clothes
@@ -33,8 +25,3 @@ Get Super Metroid poster for closet door
 		- [19.99](https://www.amazon.com/Comdecevis-Corduroy-Lightweight-Waterproof-Windbreaker/dp/B0FLY8K6JG/ref=sr_1_8?dib=eyJ2IjoiMSJ9.dwaSyrqF_EXAXLvyROXd03G6OXM0Tdn6UEodkEeleQwfRlpyXN-qzeHfKnJMh6cv9RaEEFDJPh0DXj3Hpex-owb0hdszMrOF7z7wMxvK_wwEYiRtpgYH-ArHg9WWx2aS9KHBxycoVrpjySLhXvMI_aEJdoFNcO-m92blZN68tB4bgPfT7F3LXkc7xMqiAuuKFlg3S97KaXx0vCqbg8HNZtqV4tERt-bXNuGzmQ3PpRE3vou4-Rh8AxBbu6QhE1Wuue2IBsjv6EUCvXXPUtr8mhPYqyrShqi7z0mkk0KiRO0.gPgowHewjg0K9Ce4Xzh61isnPhR6N-rDBY1hPIabFWo&dib_tag=se&keywords=Bomber%2Bjacket&qid=1776894942&refinements=p_36%3A-2800%2Cp_n_g-101015233022111%3A121075132011%2Cp_n_pt_nav_size_men_international_size%3A2475470011&rnid=2475465011&sr=8-8&th=1&psc=1) 
 	- Total
 		- 123.85
-- Thumb Mobies
-	- https://www.amazon.com/dp/B00005OCKR?ref=ive_vftp_hero_cx_pfo_vse-cards-ingress0
-	- https://www.amazon.com/Blair-Thumb-Megan-Cavanagh/dp/B00005TNF1/ref=sr_1_1?crid=2DI9BT65PGRHN&dib=eyJ2IjoiMSJ9.SqkCwQkNHZ7dEm6XWf5eCVfSIOBMA3TqA68aHVCX3TDvBP7waqOCYiv3pkwWlRSdMFGeWRlnH-a09c8A-1ctDWXH85_-hblJSn4zH_JGquw.h1e8iM6bcLWgQ6bxErfTdNVRpoLytP0SbLMAA0s_vL8&dib_tag=se&keywords=The+Blair+Thumb&qid=1782423946&sprefix=the+blair+thum%2Caps%2C168&sr=8-1
-- Spider-Man BND Posters
-- Spider-Man 3 Poster
