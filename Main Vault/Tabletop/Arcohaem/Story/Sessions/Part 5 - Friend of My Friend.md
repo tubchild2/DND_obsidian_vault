@@ -286,7 +286,7 @@ Robert wakes up in a hospital bed. To his right are flowers, to his left is his 
 
 "Of course not!" The doctor can barely get the words out without chuckling to himself. Robert is confused. Or is his name... wait. He can't remember. The doctor stares at him and shakes his head, still laughing to himself about what he asked. 
 
-"Why am I here if I don't want help?" Tinkler asks. 
+"Why am I here if I don't want help?" Tinkle asks. 
 
 "Don't worry about it. Someone is coming to give you what you really want." 
 
@@ -300,7 +300,7 @@ Robert wakes up in a hospital bed. To his right are flowers, to his left is his 
 
 "Hello." a voice whispers. He turns to his left to find a man in a purple robe kneeling besides his bed. Rorik has vanished, and they're completely alone. 
 
-"Who... who are you?" Tinkler dizzily asks. 
+"Who... who are you?" Tinkle dizzily asks. 
 
 "I'm sorry?" The man says, tilting his head in confusion. 
 
@@ -316,7 +316,7 @@ Robert wakes up in a hospital bed. To his right are flowers, to his left is his 
 
 "I want the nurse. Go away!"
 
-"But Robert..." He leans closer. "You don't want me to go."
+"But Tinkle Winkler..." He leans closer. "You don't want me to go."
 
 "I... what? Yes... I don't..."
 
@@ -324,7 +324,7 @@ Robert wakes up in a hospital bed. To his right are flowers, to his left is his 
 
 "SSSSSSSSSSSSSSSSSSSSS"
 
-Robert snaps awake. 
+Tinkle Winkler snaps awake. 
 
 
 ##### Rorik
@@ -462,7 +462,7 @@ Winkler Nation is going great! Boggis Bunce and Bean have been great spokespeopl
 
 
 
-## Chapter 17: The Pass
+## Chapter 17: The Basilisk's Pass
 #### Aurora
 
 	https://www.youtube.com/watch?v=cvR7FdlRbpQ
@@ -524,7 +524,7 @@ This used to be a house. Everything is dark, rotten, and covered in ice. In the 
 *What do you do?*
 
 (Investigating the town)
-	DC19
+	DC18
 		There are footprints in the snow. 
 
 (Investigating the tunnel)
@@ -702,7 +702,7 @@ DC18 Perception
 
 Chest
 	Unlabeled Bottle
-		An extremely potent hallucinogen. 1 dose.  
+		An extremely potent hallucinogen. 3 doses.  
 
 
 
@@ -952,13 +952,16 @@ DC19 DEX
 	- Half damage
 	- Prone
 - Failure: 
-	- 6d10 Force + 2d10 Fire damage 
-	- (30 + 11 = 41 total damage)
+	- 6d10 Force + 4d10 Fire damage 
 	- Prone
 Everyone roll initiative
 
 **INITIATIVE ORDER HERE**
-1. N/A
+20 Bentley
+20 Luca
+13 Hunter
+3 Gray
+1 Xavi
 
 
 **"Combat"**
@@ -993,7 +996,7 @@ There's a man in an unfamiliar outfit ripping the wires out of the door. He sees
 *What do you do?*
 
 (attacking the door)
-- The door has 100/100hp
+- The door has 0/100hp
 
 
 ## Chapter 18: Does He Know?

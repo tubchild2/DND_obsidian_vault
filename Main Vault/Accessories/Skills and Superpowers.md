@@ -1,0 +1,100 @@
+Superpower
+- S+ (Beyond Excellent)
+	- Plot Manipulation
+	- Reality Warping
+	- Time Travel
+	- Probability Manipulation
+	- Super Speed
+	- Energy Constructs
+- S (Excellent)
+	- Energy Manipulation
+	- Telekinesis
+	- Magnetism
+	- Gravity Manipulation
+	- Pocket Dimensions
+	- Portal Creation
+	- Teleportation
+	- Omniscience
+	- 4th Wall Awareness
+	- Possession
+	- Power Absorption
+- A (Great)
+	- Power Mimicry
+	- Biological Manipulation
+	- Precognition
+	- Telepathy
+	- Adaptation
+	- Healing Factor
+	- Immortality
+	- Shapeshifting
+	- Super strength
+	- Invulnerability
+	- Elemental Manipulation
+	- Earth Manipulation
+	- Water Manipulation
+	- Weather Manipulation
+	- Elasticity
+	- Air Manipulation
+	- Deception
+	- Flight
+	- Invisibility
+	- Underwater Breathing
+	- Danger Sense
+- B (Good, with drawbacks)
+	- Light Manipulation
+	- Electricity Manipulation
+	- Fire Manipulation
+	- Food Manipulation
+	- Acid Manipulation
+	- Necromancy
+	- Heat Ray Vision
+- C (Mid. I'd still take them I guess)
+	- Inventing
+	- Hacking
+	- Camouflage
+	- Empathy
+	- Sound Manipulation
+	- Super Sight
+	- X-Ray Vision
+	- Weapon Summoning
+	- Super Hearing
+	- Omnilingualism
+- D (Actively bad)
+	- Love Manipulation
+	- Hive Mind
+	- Abstract Existence
+	- Sonic Scream
+	- Super Smell
+	- Power Nullification
+- F (Useless)
+	- 
+
+Artistic
+- Painting
+- Drawing
+- Digital Art
+- 3D Modeling
+- Sculpting
+- Writing
+- Music Production
+- Composition
+- Photography
+- Singing
+- Instruments
+- Cinematography
+- Acting
+- Editing
+- Game Development
+
+Scientific
+- Programming
+- Chemistry
+- Astronomy
+- Physics
+- Mathematics
+- Engineering
+
+Trades
+- Plumbing
+- Electrician
+- Painter

@@ -1,6 +1,8 @@
 ---
 aliases:
   - Senator Finn
+  - Finn Waters
+  - Waters
 ---
 ![[Senator Finn.jpg|400]]
 

@@ -60,6 +60,7 @@ Backstory:
 
 Theme: You Need to Retire
 
+A goodhearted man with a mind for business. He was a valuable strategist before a sailing accident damaged his skull and gave him severe brain damage. The trauma forced him to develop comfortable delusions of grandeur, in which he's a rich philanthropic noble named Tinkle Winkler. Now, he's relatively unintelligent, but he still has the political skill needed to further his new goal: recover Winkler Nation, which was "lost," and grow in power as a businessman and leader. He has been in the army for 7 years now. He hasn't been fully diagnosed by any doctors due to his insistence that he doesn't need a doctor. Even though he's not the same man he used to be, he's still a valued member of the team. 
 
 ### JJ
 Name: Darrell Honor's'swift
@@ -75,6 +76,7 @@ Goal: ??
 Backstory: ?? 
 Theme: ??
 
+Darrel was only on the team for a month. He vanished in action a few weeks ago, likely due to his worsening schizophrenia. He got the job due to nepotism, and they weren't able to get a replacement in time. 
 
 ### Bentley
 Name: Old Man Olaf
@@ -112,6 +114,7 @@ Backstory:
 
 Theme: Schala's Theme
 
+Olaf is a mixed bag. On one hand, he loves animals, simple games, and vodka martinis. On the other, he is a compulsive liar, kleptomaniac, and murderer, with an extensive and horrible criminal record dating back very far before his induction into the military. He was raised to be a monk in a monastery in Kessek, but he was kicked out for repeated counts of theft, assault, and for chasing and terrorizing an Irish (?) boy and his family. After decades as a vagrant and wanted man, he was given the choice of life in prison or conscription. He chose to join the military, and his success as a killer and spy earned him a spot on the Wolves of Arcohaem. Recently, his old age has prompted severe cognitive decline. He lacks almost all morals, and is obsessed with his goal of finding and befriending a sentient animal. Nobody knows for sure who he is or what he's done. We don't even know if his name is even Olaf. What we do know is that he's one of the most dangerous men in the Republic. 
 
 ### Hunter
 Name: Ostos "Ron" Bjornson
@@ -148,6 +151,8 @@ Backstory:
 
 Theme: Father Kolbe's Preaching
 
+Ron was raised by a blunt and practical family of Goliaths in Hathor. They instilled in Ron a deep desire to provide practical care for others, and to strive to maintain strong relationships with friends and family. When his brother was involved in a lumber accident, Ron developed his abilities as a cleric and prevented him from losing his arm. That began a long medical career, which ultimately led to him joining the Republic military to protect people and contribute to stopping the cruelty of the Frigoshians. He was placed into the Wolves of Arcohaem as their primary medic, and has developed a close friendship with them since. Ron has an insatiable appetite, and will eat anything and everything, with the sole exception of tomatoes. Over time in the military, his altruism has degraded a little; he'll hurt people if he has to, and he's developed a deep hatred for elves. If not for Ron, however, the Wolves likely would've died countless times by now. 
+
 
 ### Luca
 Name: Iona Kunetzova
@@ -180,6 +185,8 @@ Backstory:
 
 Theme: Jyn Erso & Hope Suite
 
+Iona was abandoned, and grew up stealing food on the streets of SOMEWHERE. A year after the civil war began, when he was 15, he was caught and placed in government housing under the care of Kezlov. He named him, valued him, and introduced him to letter writing as a form of therapy. Iona knew that when he was 18, he would be conscripted as a punishment for his criminal record, which left a constant feeling of dread throughout his childhood. Once that day came, he said goodbye to Kezlov, and was taken to Hephaestus to begin his training. He developed Vettilurgic abilities, which made him uniquely adaptable to the arctic environment, and earned him a spot on the Wolves of Arcohaem. He didn't choose most things about his life, so he hates when things are out of control. He still writes letters to nobody to vent how he truly feels without confronting people about it. He's naturally shy, but he's since warmed up to the Wolves, especially to Lukas Havran, who are like family to him. 
+
 
 ### Xavi
 Name: Lord Lukas San [[House Havran|Havran]]
@@ -209,3 +216,5 @@ Additional Notes
 - They weren't close, but he knows who he is, and he knows that him and [[Kragknull]] used to be on the [[PCs A - Arcohaem|Wolves of Arcohaem]].
 
 Theme: We Move Lightly
+
+Lukas was raised in a high-status household. He doesn't like to talk about his childhood. He left home to prove himself in the military. He lied about his age, and during his first battle, his entire battalion was wiped out by the Wraith. He barely managed to escape. He took the dagger the Wraith wielded to kill his commander, and finally developed his ether abilities. Over the next 5 years, he learned to control his powers and became one of the strongest funnelers in his entire bloodline. Now 25 years old, he's a member of the Wolves of Arcohaem, especially Iona. He's arrogant over his success, but composed on the battlefield. He's extremely loyal to the Wolves. He wants to prove himself to everyone, but probably most of all to himself. 

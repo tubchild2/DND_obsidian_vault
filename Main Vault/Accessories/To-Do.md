@@ -17,26 +17,35 @@ Here's a breakdown of the new color coordination I'm using for the task board:
 
 
 
-### Session 5
+### Session 6
+**Writing**
+- Structure the session
+- Analyze engagement
+- Write draft
+- Revise
+- Make maps
+- Schedule
+- Final revision
+
+**Post-Session**
+- Write Recap
+- Update Website
+
 
 
 ### **Future Sessions and Stuff**
-- Part 6 
-	- Pay off the guy who was sabotaging them. Maybe he could be the big bad of this session?
-	- Give Rosie more time and meaningful scenes
-	- Ritva is V from Rorik's past. He freed him from the prison in Arrah. 
-	- Foreshadow the Wraith
-	- Tip the players off that [[Terrik|the Wraith]] is coming to give them a chance to start running and hiding. It won't make a difference but it'll make it much more tense. 
-		- They hear him before they see him.
-		- Dead silence as they run away from any open windows and doors.
-		- They feel a primal fear, like a child being afraid of the dark, or afraid of the outside world, or a fear that someone is going to break in. You know he's here, but you don't know where. 
-	- The Network. The network reaches everywhere, and there's far more people involved than just [[Terrik|the Wraith]] and [[Malfaust]].
-	- The Mystery. Reveal the mystery in a more organic segmented manner, in which each plot point leads to the next and seem unrelated, until it all finally clicks. 
+- Unclear
+	- Give Tinkle Winkler a chance at taking his medication
 - Part 7
+	- The Wraith will likely go after Lukas and Ron first, since Lukas stole his picture, and Ron took it from Lukas.
+	- All that stuff that didn't seem to be related in part 6 becomes important
+	- Before the major twist, split the players into two ideologies. One that trusts Chancellor Kaul and won't give the Frigoshians a chance, and one that will. Make them regret being racist. Make them think they can nuke the Frigoshians or something. 
 	- Update [[Terrik]]'s backstory flashbacks in 7, 8, and 9 to reflect the altered history in the updated [[World History - Arcohaem]] document
 	- [[Terrik|Terrik's]] escalation needs to be better
 		- He goes from killing one dude in self-defense to killing a bunch of corrupt people
 	- [[Terrik|The Wraith]]'s miniature will be painted with Musou Black
+	- Use the fact that they believe the Wraith is proto to your advantage to bait them into a trap. Pay off Proto being a prototype Amalgamma. Have it jump the players. Maybe it IS the Wraith and the healing process after being tortured was really brutal. 
+	- If Ron doesn't take the Wraith's deal, he'll tell him that he shouldn't backed out when he had the chance. 
 - Part 8
 	- When they interact with the Wraith
 		- (if they mention them escaping last time they fought)
@@ -49,7 +58,7 @@ Here's a breakdown of the new color coordination I'm using for the task board:
 	- Mural #5 is going to be instrumental in the reveal of who Malfaust is
 - Parts 10, 11, and 12
 	- When all hope seems lost, Winkler Nation is going to return and help the Wolves clutch a victory.
-	- Marrek the boat guy will return
+	- Marrek the boat guy will return. Pay off Marrek telling Lukas he'd get what was coming to him
 	- Some of the Karlstad Crusaders will believe them and return to help. 
 	- They can tell their families to take shelter, likely at House Havran. 
 	- Then, all of their families and especially House Havran (since a lot of people are taking refuge there) will be attacked by dragons, forcing a high stakes battle to save everyone in the house. They're either eaten or taken to Malfaust as bait.
@@ -57,6 +66,7 @@ Here's a breakdown of the new color coordination I'm using for the task board:
 	- Frigoshia is going to storm the Republic to try and kill the dragons. They're terrified of what's going on, and the whole military on the Republic's side is in shambles without leadership.  
 	- Rorik and Vetle Ritva will reunite
 	- During the finale, when Kaul is trying to talk his way out of being arrested, we'll see a bunch of their old allies in the audience. The Karlstad Crusaders, Marrek, Ron's family, Kezlov, the Havrans, Vetle Ritva, Senator Finn, Frigoshian soldiers, Republic soldiers, etc. 
+	- In the lab, give Olaf a sentient animal friend.
 	- When they finally meet Malfaust, he'll smell the black and red rings they may have grabbed in the temple in session 5. It'll make him nostalgic for the old times. He won't attack them, he'll just seal them in and continue with his plan to convince them to join him. If they attack or demonstrate obvious intent to attack, he'll start fighting them. 
 	- Malfaust's plan to convince them of his teachings is going to involve a series of bombings, and a moral conundrum. The choice is going to be to surrender and allow the bombings to commence, or to let the citizens of Arcohaem die in more vicious dragon attacks. This is his attempt to show that there's no such thing as moral absolutism. 
 		- If they stop Malfaust and endanger the citizens, he'll add another layer by poisoning someone they all care about and forcing them to make the tough moral decision to end their life, or to make some other kind of tough moral decision to demonstrate moral complexity. 

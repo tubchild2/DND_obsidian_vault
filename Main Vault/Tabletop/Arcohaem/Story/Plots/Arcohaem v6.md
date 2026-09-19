@@ -275,7 +275,7 @@ Chapter 15: Roots
 	- They're more likely to escape the second time, but [[Terrik|the Wraith]] watches them do so and then vanishes.
 
 ### [[Part 5 - Friend of My Friend]]
-Chapter 16: Change of Plans
+Chapter 16: Change of Plans!
 - After last session, they began to have really intense, vivid nightmare with disturbing imagery and vague interpretations. They're somewhat related to loyalty, honor, and pride. It's the devices and the sedative within, but they don't know that yet.
 - They haven't received contact from [[Kragknull]] in over a week, but they're awakened to the sound of their communicators!
 - It's, Chancellor [[Kaul]]?! He isn't as fun or nice as [[Kragknull]], and he seems very stressed about their mission.
@@ -288,7 +288,7 @@ Chapter 16: Change of Plans
 		- It'll save them a lot of time, since it cuts through a secret fjord in the mountains. The [[Frigoshia|Frigoshian]] military used to use it before an avalanche took most of it out. Now, they have the blockade, so they have no need to clear it.
 		- There used to be a settlement there, so it should be a pretty cut and dry path, and there shouldn't be anyone for miles because of local superstitions and general lack of interest. 
 
-Chapter 17: The Pass
+Chapter 17: The Basilisk's Pass
 - It's not just hidden, this thing is dang near invisible! How would anyone ever find out about this? 
 - Things get creepy. 
 	- Unsettling noises
@@ -344,6 +344,8 @@ Chapter 21
 - [[Vetle Ritva]] is here and recovering from his wounds. If he spots them, he'll give them the Doakes look but ultimately not interfere with whatever they're doing out of honor for them saving him in Part 4. 
 - Rosie sticks up for them and sends the detective off
 - More non-sequiturs, but they find a way into [[Atka]]'s private library. 
+- Cliff hanger ending
+- Level up to 14 if not already
 
 
 # **ACT 3: Hearts of Gold**
@@ -369,7 +371,7 @@ Chapter 23
 - They're baited into a trap by someone high ranking from the Republic pretending to be there to help them. 
 - They get locked in a room with [[Terrik|the Wraith]]. 
 - Just then, Rosie gets involved while trying to apologize and help them. She doesn't see [[Terrik|the Wraith]], and is in the wrong place at the wrong time. She's so unwilling to accept that [[Frigoshia]] might be corrupt that she gets murdered in a brutal way by [[Terrik|the Wraith]]. 
-- [[Terrik|The Wraith]] is going to genuinely, whole-heartedly, try to kill one of them. Likely a healer. 
+- [[Terrik|The Wraith]] is going to genuinely, whole-heartedly, try to kill them all. 
 - That's not it though, this whole thing is a manufactured trap. Rocket launchers start exploding the building, they fall through multiple stories, the building starts flooding and catching fire in different places, the entire perimeter is surrounded, and more. 
 - [[Terrik|The Wraith]] doesn't appear publicly, meaning that if they get outside he'll stop pursuing them. 
 

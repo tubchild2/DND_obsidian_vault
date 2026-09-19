@@ -64,4 +64,4 @@
 
 ##### Party B
 - [[PCs B - Arcohaem]]
-- [[So Far B - Arcohaem]]
+- [[CLASSIC So Far B - Arcohaem]]

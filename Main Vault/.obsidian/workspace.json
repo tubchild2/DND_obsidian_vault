@@ -4,66 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2b02261ec5fb1265",
+        "id": "9f22a5e6fd6b7637",
         "type": "tabs",
         "children": [
           {
-            "id": "70f56b7d3817dbe8",
+            "id": "f9b517c96f2650ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tabletop/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
+                "file": "Accessories/Workout Schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part 5 - Friend of My Friend"
-            }
-          },
-          {
-            "id": "ca58b61fc2bf6365",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accessories/To-Do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To-Do"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "bff9ea8a326ddd9a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2146e0fedcaf13af",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Tabletop/Arcohaem/Media/Pictures/Maps/Battlemaps/Temple v4 DM version.png"
-              },
-              "icon": "lucide-image",
-              "title": "Temple v4 DM version"
-            }
-          },
-          {
-            "id": "ae9fc96a8b8abe8b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Tabletop/Arcohaem/Media/Pictures/Maps/Battlemaps/Temple Escape Resized 24x24.png"
-              },
-              "icon": "lucide-image",
-              "title": "Temple Escape Resized 24x24"
+              "title": "Workout Schedule"
             }
           }
         ]
@@ -164,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tabletop/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
+                "file": "Tabletop/Arcohaem/Story/Sessions/Part 6 - The Big Bad Wolves.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -237,63 +192,62 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "charted-roots:Open Charted Roots control center": false,
-      "webpage-html-export:Export as HTML": false
+      "charted-roots:Open Charted Roots control center": false
     }
   },
-  "active": "ca58b61fc2bf6365",
+  "active": "f9b517c96f2650ed",
   "lastOpenFiles": [
-    "Tabletop/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
-    "Accessories/To-Do.md",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Battlemaps/Temple v4 DM version.png",
-    "Tabletop/Arcohaem/Media/Music/LR bridge.wav",
-    "Accessories/Favorites.md",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Battlemaps/Temple Escape Resized 24x24.png",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Battlemaps/Temple v4.png",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Battlemaps/Temple v3 DM Version.png",
-    "Accessories/Idea Index.md",
-    "Tabletop/Arcohaem/Worldbuilding/World History - Arcohaem.md",
-    "Tabletop/Arcohaem/Story/Plots/Arcohaem v6.md",
-    "Tabletop/Arcohaem/Worldbuilding/Characters/Marrek Renn.md",
-    "Tabletop/Arcohaem/Story/Sessions/Part 4 - Enemy of My Enemy....md",
-    "Tabletop/Arcohaem/Story/Sessions/Part 2 - Just Like the Simulations.md",
-    "Tabletop/Arcohaem/Media/Music/LR outro 2.wav",
+    "Accessories/Wishlist.md",
+    "Accessories/Tabletop Packing List.md",
+    "Accessories/Skills and Superpowers.md",
     "ror2 all items.md",
-    "Untitled 1.md",
-    "Tabletop/Arcohaem/Part 3 - For The Republic! (ALT).md",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Battlemaps/Temple v3.png",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Battlemaps/Aburbekk Pass 20x15.png",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Battlemaps/Temple v3 DM Notes.png",
-    "Spirituality/Talk 3/Talk Draft 3.md",
-    "Spirituality/Talk 3/Talk Draft 2.md",
-    "Spirituality/Talk 3/Talk Draft 1.md",
-    "Tabletop/Arcohaem/GM Notes/Group B/Ron Bjornson Dream.md",
-    "Tabletop/Arcohaem/GM Notes/Group B/PCs B - Arcohaem.md",
+    "Vault Overview.md",
+    "Tabletop/Arcohaem/Story/Sessions/Part 6 - The Big Bad Wolves.md",
+    "Tabletop/Arcohaem/Story/Plots/Arcohaem v6.md",
+    "Accessories/To-Do.md",
+    "Post Arcohaem TTRPG.md",
+    "Accessories/Idea Index.md",
+    "Stories/Sanguine/Sanguine World History.md",
+    "Stories/Sanguine/SANGUINE OVERVIEW.md",
+    "Stories/Sanguine/Ferromancy.md",
+    "Stories/Sanguine/Media/sanguine_map_v6.png",
+    "Stories/Sanguine/Factions of Terra.md",
+    "Celeste Speed Running Log.md",
+    "Accessories/Dream Home (incomplete).md",
+    "Accessories/Actually hold on maybe there's some solid advice here.md",
+    "Accessories/Poot.md",
+    "Stories/AOTH/golb.png",
+    "Stories/AOTH/AOTH's Pendant.md",
+    "Stories/AOTH/AOTH's Pendant.webp",
+    "Stories/AOTH/AOTH.webp",
     "Tabletop/Arcohaem/GM Notes/Group B/So Far B - Arcohaem.md",
-    "Tabletop/Arcohaem/Story/Sessions/Part 1 - The Wolves of Arcohaem.md",
-    "Tabletop/Arcohaem/Worldbuilding/Factions/The White Azalea.md",
-    "TEMP Temple Plan.md",
-    "Packing List.md",
-    "New Dreams.md",
+    "Tabletop/NEON/Small Goodman N ON (old).md",
+    "Tabletop/NEON/Small Goodman.png",
+    "Tabletop/NEON/N ON Notes.md",
+    "Tabletop/NEON/Gigi's Cyborg Furry.md",
+    "Tabletop/NEON/Cedtris Macarra.md",
+    "Tabletop/Mega Dungeon/Multimedia/The Theme of Johnny Hayes.wav",
+    "Tabletop/Mega Dungeon/Multimedia/Johnny Hayes Heroforge 3.png",
+    "Tabletop/Mega Dungeon/Johnny Hayes.md",
+    "Tabletop/Vaerith/References/World History - Vaerith.md",
+    "Tabletop/Vaerith/Pictures/Ancient Aasimar.png",
+    "Tabletop/Vaerith/Pictures/amateur eterologist.png",
+    "Tabletop/Vaerith/Pictures/Birdfolk Translation.png",
+    "Tabletop/Vaerith/Pictures/Ashkara 4.png",
+    "Stories",
+    "Stories/Rocket Man",
+    "Tabletop/Arcohaem/Media/Music/LR bridge.wav",
+    "Tabletop/Arcohaem/Media/Music/LR outro 2.wav",
     "Spirituality/Talk 3",
-    "Spirituality/5m Talk - What is Prophecy - v6.md",
-    "Spirituality/Talk 3/5m Talk - How to Study - v3.md",
     "Tabletop/Arcohaem/Media/Music/Little Ron.wav",
     "Tabletop/Arcohaem/Media/Music/LR outro.wav",
     "Tabletop/Arcohaem/Media/Music/LR v3.wav",
     "Tabletop/Arcohaem/Media/Music/LR break.wav",
-    "Tabletop/Arcohaem/Media/Music/LR v2.wav",
-    "Tabletop/Arcohaem/Media/Music/LR v1.wav",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Arcohaem Tribes.png",
-    "Tabletop/Timeloop/Timeloop Progression Map.canvas",
-    "Tabletop/Timeloop/Timeloop Progression.canvas",
-    "Tabletop/My Campaigns/Arcohaem/Media/Music/Little Ron (piano only).wav",
-    "Tabletop/AOTH/AOTH.webp",
+    "Stories/Timeloop/Timeloop Progression Map.canvas",
+    "Stories/Timeloop/Timeloop Progression.canvas",
     "Tabletop/Serendipita/Serendipita Power Dynamic.canvas",
-    "Pasted image 20260728184529.png",
     "Untitled.canvas",
     "Tabletop/Arcohaem/Media/Graphs/Session 4 Bunker.canvas",
     "Tabletop/Uncharted Galaxy/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",

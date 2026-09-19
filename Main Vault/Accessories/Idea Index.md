@@ -221,6 +221,7 @@ A man cursed with hearing a constant omniscient narration of his life. The narra
 **Dramatic Irony in Tabletop RPGs**
 It's difficult to create tension in TTRPGs since the characters know everything the players know. Tension usually comes from lack of information, high stakes, anticipation, time pressure, or impossible choices. So, it'd be cool to have one player know a piece of key information the OTHER players don't know, but they are unable to share it for some reason. This creates dramatic irony for them, because it's both a piece of information they have that others don't, and the tension between revealing their secret or not. 
 
+
 ##### Mechanics
 **Stress Management**
 Have players need to recall and use complex information in tense situations. Give them a packet of in-universe information about something, and have them need to use it under a time limit to escape a monster. Horror + Stakes > Horror.
@@ -239,15 +240,21 @@ The party is apprehended and have to lie to escape. They may be separated, so th
 
 **(CLASS) Engineer**
 The Engineer uses an item modifier system to allow them to actually create custom items. The modifiers work like Minecraft enchantments, but offer more mechanical abilities / synergies. There are three available subclasses: 
-	Formulist (potions)
-	Blacksmith (weapons/tools
-	Saboteur (traps/explosives). 
+	Defender (sentries)
+	Blacksmith (items)
+	Saboteur (traps)
+
+**(CLASS) Alchemist**
+The alchemist can create potions and acids to affect the people and objects around them. They use a recipe / item modifier system to dynamically create potions with the items they find. They work like Minecraft enchantments, but offer more mechanical abilities / synergies. 
+	Subclass A (potions)
+	Subclass B (poisons)
+	Subclass C (explosives)
 
 **(CLASS) Telekinetic**
 The Telekinetic can move things with their mind. They can dish out an insane amount of damage, but they tire out fast. There are three available subclasses:
-	Psion (mental influence)
-	Rampart (power/quantity)
-	Specter (precision/sense)
+	Psion (psychic influence)
+	Rampart (power / quantity)
+	Specter (precision / senses)
 
 **(CLASS) Hero**
 The Hero has one signature weapon that they modify and grow with throughout the whole adventure. They can recover the weapon if lost, but there are major consequences for doing so. There are three available subclasses:
@@ -259,11 +266,22 @@ The Hero has one signature weapon that they modify and grow with throughout the 
 The Ruffian is your Han Solo, your Nathan Drake, your Saul Goodman. They're an incredibly persuasive, sneaky, and well rounded class built around charisma. They focus on negotiation, stealth, and trap setting. The core fantasy is scheming and cooperation. 
 
 **(CLASS) Avatar**
-This is a really out there concept, but what if there was a class centered around abusing game mechanics? They're just a normal dude but they get access to an unlimited inventory, they can hear the narrator, they hear music cues, they can see the map, idk. I think it could be really fun but it'd need to be carefully balanced. 
+This is a really out there concept, but what if there was a class centered around abusing game mechanics? They're just a normal dude but they get access to an unlimited inventory, they can hear the narrator, they hear music cues, they can see the map, idk. I think it could be really fun but it'd need to be carefully balanced. Their powers center around omniscience and cheating. Things they do at the table could effect things on lower levels. 
 
 **(CLASS) Regular Dude**
-A class that doesn't do anything but track how a normal person would progress through life. I'm surprised this doesn't exist already. 
+A class that doesn't do anything. They're just completely normal.
 
+**(CLASS) Gambler**
+A class built around luck manipulation and chance. They can bend luck a few times per day, they can take huge risks on attacks, go double or nothing on dice rolls, and they have a deck of cards that yields both positive and negative results depending on what they draw. 
+
+**(CLASS) Shifter**
+A class built around teleportation and portals. They can manipulate local spacetime in small ways. They can send enemies forwards in time, perceive things before they happen, link doorways, and at high levels, create impossible geometry, banish people to faraway nightmarish places, and summon monsters. Like Chell, Nightcrawler, etc. You're also a powerful narrative device for prophetic warnings.
+
+**(CLASS) Beast Handler**
+A class built around having a set of consistent animal companions that grow in power with you that you can command at will. Any buffs you gain also apply to your animal companions. They can be anything you want. 
+
+**(CLASS) Architect**
+A class built around forming light constructs. As they progress, their constructs get bigger, more detailed, and stronger. They could make appendages, armors, attacks, barriers, clothing, defenses, duplicates, elements, entities, environments, objects, platforms, restraints, structures, support, vehicles, weapons, and more at will. Subclasses would focus on a smaller subsection of constructs for either offense, defense, or utility / support applications. 
 
 
 ##### Games
