@@ -1,4 +1,4 @@
-I really want a better CPU or a new PC
+My GPU is like 4-5 generations out of date, and it can barely get 60fps in Minecraft 1.8.9
 
 I want to buy a whole bunch of gifts for people and write them cards because I appreciate them
 

@@ -32,6 +32,22 @@ Past Missions:
 - Duel with the Red Knight. The Red Knight is a mysterious third-party that roams the [[Arcohaem|Arcohaemian]] plains searching for murderers. He's slaughtered countless camps of [[Frigoshia|Frigoshian]] and Republic soldiers. Back when Arrius was still in the party, he had an encounter with him. The Red Knight created a wall of fire around them and challenged Arrius to a duel. Arrius outfought him 3 times, so the Red Knight decided to let him go. He was never seen by the Wolves again. Legends say he was cursed with more power than he can ever use, so now he roams as a symbol of power and justice. A mythological symbol of the faults in both sides of the war.
 
 
+### Character
+Picture
+
+Played by
+
+Species
+Class
+Background
+
+Overview
+Goal
+Theme
+
+
+
+
 ### Gray
 Name: Tinkle Winkler I (real name is Robert)
 Species: Human

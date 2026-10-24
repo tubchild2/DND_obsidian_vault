@@ -1,4 +1,4 @@
-### Chapter 12: Now That's a Famous Hat
+**********### Chapter 12: Now That's a Famous Hat
 **DM Notes**
 - Set up PC downstairs. 
 - Use predominately unarmed strikes. 

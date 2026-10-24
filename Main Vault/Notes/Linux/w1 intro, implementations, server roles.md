@@ -25,7 +25,7 @@ TestOut Lab Simulator
 ### **Linux Introduction**
 Key Words
 - Linux Kernel: the actual operating system
-- GUIL: a graphical user interface that the user interacts with
+- GUI: a graphical user interface that the user interacts with
 - Distribution: a unique compilation of the Linux kernel (free and open to all) with utilities, desktop environments, applications, and more.
 
 OS Introduction

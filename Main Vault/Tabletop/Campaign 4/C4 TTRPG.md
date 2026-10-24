@@ -1,3 +1,4 @@
+### Overview
 Exploration
 	DM paints picture
 	Players declare actions
@@ -5,7 +6,7 @@ Exploration
 	DM applies consequences
 
 Combat
-	Simultaneous resolution of party based turns
+	Simultaneous resolution of party / spotlight based turns
 	Players can move and perform an action
 	Bonus actions are granted by features
 
@@ -199,6 +200,7 @@ Features
 - Luck manipulation
 - Double or nothing
 - Precision and trick shots
+- Josh Navarro's lucky rolls mechanic
 Drawbacks
 - You can gamble and lose hard
 Subclasses

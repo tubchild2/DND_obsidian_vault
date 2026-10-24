@@ -185,7 +185,7 @@ Chapter 12: Now That's a Famous Hat
 - They haven't seen that group of [[Frigoshia|Frigoshians]] anywhere. But, they have been hearing things in the woods. The same noises as earlier, but louder and closer than ever before. You have a feeling it can't be anything more than a mile away this time. As you laid down to sleep tonight, you heard this: ![[call2.wav]]
 - So, the past few days have been stressful. You've felt paranoid; like you're being watched. Sleeping has been difficult, but you finally managed to close your eyes for just a moment. But then, you hear a branch snap. 
 - You all open your eyes and notice a silhouette in the middle of your camp. As your eyes adjust, you realize that it's a severed head of a boy no older than 9 on a pike. It's beaten, missing its eyelids, and is fresh. Next to it is a small note card.
-	- "Theodore shouldn't have played in the woods beyond town."
+	- "Tommy shouldn't play in the woods."
 - What do you do?
 
 - They were told by [[Kragknull|Commander Kragknull]] that the radio wouldn't be working due to undisclosed, "interference in the area", but they haven't actually tried it yet. 
@@ -317,7 +317,7 @@ Chapter 18: Does He Know?
 - Level up to 14
 
 
-### [[Part 6 - The Big Bad Wolves]]
+### [[CLASSIC Part 6 - The Big Bad Wolves]]
 Chapter 19
 - The Wolves enter into [[Frigoshia]]
 - Rosie

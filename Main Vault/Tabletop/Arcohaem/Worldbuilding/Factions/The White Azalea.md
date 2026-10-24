@@ -13,6 +13,8 @@ aliases:
   - Redline
   - Bellatoxine
 ---
+Formed in 1122
+
 A network of drug dealers. They purchase / manufacture drugs and illegal substances. 
 Many of [[Arcohaem]]'s elite on both sides use drugs. 
 

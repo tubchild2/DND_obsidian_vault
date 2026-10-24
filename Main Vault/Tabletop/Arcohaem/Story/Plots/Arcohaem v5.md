@@ -267,7 +267,7 @@ Chapter 18: Did He Know?
 - Level up to 14
 
 
-### [[Part 6 - The Big Bad Wolves]]
+### [[CLASSIC Part 6 - The Big Bad Wolves]]
 Chapter 19: Finding the Program
 - They're in the heart of [[Frigoshia]]. They are looking around, and they see that [[Frigoshia]] is much more nuanced than they thought. This is represented by a character named Rosie, who's husband was a Republic deserter who was found and hanged. She speaks to them about how both sides are deeply flawed.
 - They think they're going to get ambushed by [[Terrik|the Wraith]], but it's actually [[Kragknull]]! 

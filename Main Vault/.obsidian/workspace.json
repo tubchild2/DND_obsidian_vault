@@ -4,24 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "9f22a5e6fd6b7637",
+        "id": "ce0409e31bcddb88",
         "type": "tabs",
         "children": [
           {
-            "id": "f9b517c96f2650ed",
+            "id": "b54a00e6e700aa86",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessories/Workout Schedule.md",
+                "file": "Notes/Sociology/SOC w5 ch9 - Social Stratification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Workout Schedule"
+              "title": "SOC w5 ch9 - Social Stratification"
+            }
+          },
+          {
+            "id": "ef70b40876145555",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accessories/Aiden's Schoolwork.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aiden's Schoolwork"
+            }
+          },
+          {
+            "id": "0b0a23b1399e4e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Sociology/SOC w4 ch5 - Socialization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOC w4 ch5 - Socialization"
+            }
+          },
+          {
+            "id": "f1b9e99c0bb27e05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Sociology/SOC w4 ch4 - Society.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SOC w4 ch4 - Society"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,22 +131,12 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "d49f8ccb213cbcf0",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 240.5
   },
   "right": {
     "id": "7efababeab0f1b4b",
@@ -119,7 +152,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tabletop/Arcohaem/Story/Sessions/Part 6 - The Big Bad Wolves.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -179,76 +211,73 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 212.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": true,
+      "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false,
-      "charted-roots:Open Charted Roots control center": false
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "f9b517c96f2650ed",
+  "active": "ef70b40876145555",
   "lastOpenFiles": [
-    "Accessories/Wishlist.md",
-    "Accessories/To-Do.md",
-    "Accessories/Tabletop Packing List.md",
-    "Accessories/Simple Workout Routine.md",
-    "Accessories/Jayden's Puzzle Vault.md",
-    "Accessories/Poot.md",
-    "Accessories/Workout Schedule.md",
-    "School.md",
-    "Accessories/Ideas/Skills and Superpowers.md",
-    "ror2 all items.md",
-    "Vault Overview.md",
-    "Tabletop/Arcohaem/Story/Sessions/Part 6 - The Big Bad Wolves.md",
-    "Tabletop/Arcohaem/Story/Plots/Arcohaem v6.md",
-    "Post Arcohaem TTRPG.md",
+    "Notes/Sociology/SOC w4 ch4 - Society.md",
+    "Tabletop/Arcohaem/Media/Pictures/Maps/Full Arcohaem 4k.png",
+    "Notes/Sociology/SOC w4 ch5 - Socialization.md",
+    "Tabletop/Arcohaem/Media/Pictures/Maps/Full Arcohaem 8k.png",
+    "Accessories/Aiden's Schoolwork.md",
+    "Notes/Sociology/SOC w5 ch9 - Social Stratification.md",
     "Accessories/Idea Index.md",
-    "Stories/Sanguine/Sanguine World History.md",
-    "Stories/Sanguine/SANGUINE OVERVIEW.md",
-    "Stories/Sanguine/Ferromancy.md",
-    "Stories/Sanguine/Media/sanguine_map_v6.png",
-    "Stories/Sanguine/Factions of Terra.md",
-    "Celeste Speed Running Log.md",
-    "Accessories/Dream Home (incomplete).md",
-    "Accessories/Actually hold on maybe there's some solid advice here.md",
-    "Stories/AOTH/golb.png",
-    "Stories/AOTH/AOTH's Pendant.md",
-    "Stories/AOTH/AOTH's Pendant.webp",
-    "Stories/AOTH/AOTH.webp",
-    "Tabletop/Arcohaem/GM Notes/Group B/So Far B - Arcohaem.md",
-    "Tabletop/NEON/Small Goodman N ON (old).md",
-    "Tabletop/NEON/Small Goodman.png",
-    "Tabletop/NEON/N ON Notes.md",
-    "Tabletop/Mega Dungeon/Multimedia/The Theme of Johnny Hayes.wav",
-    "Tabletop/Mega Dungeon/Multimedia/Johnny Hayes Heroforge 3.png",
-    "Tabletop/Vaerith/Pictures/Ancient Aasimar.png",
-    "Tabletop/Vaerith/Pictures/amateur eterologist.png",
-    "Tabletop/Vaerith/Pictures/Birdfolk Translation.png",
-    "Tabletop/Vaerith/Pictures/Ashkara 4.png",
-    "Stories",
-    "Stories/Rocket Man",
-    "Tabletop/Arcohaem/Media/Music/LR bridge.wav",
-    "Tabletop/Arcohaem/Media/Music/LR outro 2.wav",
-    "Spirituality/Talk 3",
-    "Tabletop/Arcohaem/Media/Music/Little Ron.wav",
-    "Tabletop/Arcohaem/Media/Music/LR outro.wav",
-    "Tabletop/Arcohaem/Media/Music/LR v3.wav",
-    "Tabletop/Arcohaem/Media/Music/LR break.wav",
-    "Stories/Timeloop/Timeloop Progression Map.canvas",
-    "Stories/Timeloop/Timeloop Progression.canvas",
-    "Tabletop/Serendipita/Serendipita Power Dynamic.canvas",
+    "Accessories/To-Do.md",
+    "Notes/Sociology/SOC w3 ch3 - Culture.md",
+    "Notes/Sociology/SOC w1 ch1 - Intro to Sociology.md",
+    "Notes/Sociology/SOC w2 ch2 - Research.md",
+    "Notes/Sociology/SOC Ideas.md",
+    "Part 6 - Ethnocentrism.md",
+    "Tabletop/Arcohaem/Worldbuilding/Factions/Frigoshia.md",
+    "Tabletop/Arcohaem/Worldbuilding/Factions/Republic of Arcohaem.md",
+    "Tabletop/Arcohaem/Story/Plots/Arcohaem v7.md",
+    "Untitled.md",
+    "Notes/Data Communications Notes/The Application Layer.md",
+    "Notes/Data Communications Notes/The Network Layer.md",
+    "Dihscussion 5.md",
+    "Tabletop/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
+    "a.md",
+    "Frigoshia Redone.md",
+    "Rough Library Sketch.md",
+    "Tabletop/Arcohaem/Worldbuilding/Characters/Thane.md",
+    "Vault Overview.md",
+    "Tabletop/Arcohaem/References/Arcohaem Enemy Index.md",
+    "Notes/Chess/Checkmates/CM Arabian Mate.png",
+    "Notes/Chess/Checkmates/CM Back Knight Mate.png",
+    "Notes/Chess/Checkmates/CM Ur Trash.png",
+    "Notes/Chess/Checkmates",
+    "Notes/Chess/Checkmates/CM Rook Knight.png",
+    "Notes/Chess/Checkmates/CM Back Rank.png",
+    "Notes/Chess/img coords.png",
+    "Notes/Chess",
+    "atlas-vtt/collections/Arcohaem/scenes/Arcohaem Tribes w Landmarks.atlasmap",
+    "Tabletop/Arcohaem/Media/Pictures/Maps/Arcohaem Tribes.png",
+    "atlas-vtt/collections/Arcohaem/scenes/Arcohaem Tribes w Landmarks.thumb.jpg",
+    "atlas-vtt/collections/Arcohaem/scenes/scene-1790962695630-56hm6b.json",
+    "atlas-vtt/collections/Arcohaem/maps/map-1790962684312-dtriew.json",
+    "atlas-vtt/collections/Arcohaem/players",
+    "atlas-vtt/collections/Arcohaem/encounters",
+    "atlas-vtt/collections/Arcohaem/scenes",
+    "atlas-vtt/collections/Arcohaem/characters",
+    "atlas-vtt/collections/Arcohaem/maps",
     "Untitled.canvas",
+    "Tabletop/Serendipita/Serendipita Power Dynamic.canvas",
+    "Stories and Projects/Timeloop/Timeloop Progression Map.canvas",
+    "Stories and Projects/Timeloop/Timeloop Progression.canvas",
     "Tabletop/Arcohaem/Media/Graphs/Session 4 Bunker.canvas",
     "Tabletop/Uncharted Galaxy/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
     "Home Network.canvas",

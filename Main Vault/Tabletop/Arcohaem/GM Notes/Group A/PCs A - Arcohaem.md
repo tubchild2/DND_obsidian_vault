@@ -214,3 +214,9 @@ Backstory:
 - He was middle-class and he has that classic one eye scar with the white eye (you know what I'm talking about)
 
 Theme: diggy diggy hole
+
+
+
+Rorik was born in the mountains of Sindri. Early on, he developed a reputation as an ether user, and made a career of it. He married his beloved Elanor, and had a comfortable life... until the war started. The entire fortress was awakened by a thunderous mechanical call followed by blood-curdling screaming. Several Sindri nobles were killed in the attack, including Elanor. She was pierced through the stomach with something that must've been burning hotter than Sindri's greatest furnaces. The attack was blamed on Frigoshian spies, and from that day on, Rorik vowed to get his revenge. He joined the Republic military, and his calculated ferocity and years of experience as a funneler allowed him to quickly rise through the ranks. He then met Thoren Kragknull, and contributed to founding the Wolves of Arcohaem. 
+
+He went missing a little under a year ago. Unfortunately, he was hit by a shell and blasted into a pit. A squadron of ambushing Frigoshian troops forced the Wolves to leave him behind, where he most likely died.

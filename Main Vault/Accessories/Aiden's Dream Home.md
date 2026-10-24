@@ -1,3 +1,7 @@
+Olan Rogers
+Clark Kent
+Charlie Kelly
+Luna
 
 PNW Green Forest Mansion
 

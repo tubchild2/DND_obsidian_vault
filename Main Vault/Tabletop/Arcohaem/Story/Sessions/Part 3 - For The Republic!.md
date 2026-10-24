@@ -179,7 +179,7 @@ Initiative
 - They get past that and have time to make camp with the Crusaders and actually interact
 	- [[The Karlstad Crusaders|Aska]] offers them food
 	- [[The Karlstad Crusaders|Aska]] tells tall tales he's heard about 
-	- [[The Karlstad Crusaders|Sigvald]] offers to translate the Draconic on the dagger
+	- [[The Karlstad Crusaders|Sigvald]] offers to translate the Draconic on the dagger (NOPE!)
 	- [[The Karlstad Crusaders|Drek]] tries to rob [[PCs B - Arcohaem|Olaf]] / [[PCs A - Arcohaem|Malgruff]] because "he thought it'd be funny"
 	- Karl tends to people's wounds
 	- Karl drinks Arizona iced tea and writes some science fiction stories about gigantic monsters fighting huge robots to save the planet.

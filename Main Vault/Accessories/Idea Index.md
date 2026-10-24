@@ -56,6 +56,14 @@ Now that Alter 2 has power, he can start talking some sense into the people expl
 
 The goal of this story isn't to destroy Alter 2, but more to talk some sense into him. He isn't evil, just vindictive and protective. The first story could be about Burton accepting that his alter exists, the second could tackle Burton accepting his alter serves a purpose, and the third could be about integration and friendship. 
 
+**All Knowing**
+A character that's all knowing exists in a tabletop universe. When he says ALL KNOWING he actually means ALL KNOWING and he breaks the hell out of the 4th wall and then insinuates that one of the players playing the game is going to die in a week or something. 
+
+**Avatar**
+The character in the game has DID and the other personality is the player. The entire plot hinges on your choices and how the character's other personality reacts to them. 
+
+**Narrator**
+A man cursed with hearing a constant omniscient narration of his life. The narrator never breaks character or addresses that he's real, but can be exploited to gain information about things the man wouldn't have regularly accessed. I could do a whole suite of stories about acquiring video game mechanics in real life. 
 
 
 ##### Worldbuilding / Atmosphere
@@ -127,6 +135,11 @@ Their mouths can open up to 80 degrees!
 **Hallway**
 There was something about exploring an apartment building earlier today that made me uncomfortable. It was the low ceilings, the white walls, the completely empty design, and the presence of doors where they weren't necessary. 
 
+**Flooded Apocalypse**
+[[ID_ Flood World]]
+
+**A World of Vampires**
+In this world, whenever you kill someone, you extend your life by 10 years. This one simple rule has extreme moral ramifications. 
 
 ##### Plots
 **Battleworld**
@@ -154,7 +167,7 @@ The players are in an inauthentic reality, and everyone else is part of a hivemi
 The players are spies who are placed in foreign territory and need to complete a mission, but it goes haywire and they have to adapt to the expanding conspiracy. That's just the backdrop though, the real fun comes from taking them to absurd places and putting them in insane situations while staying completely serious. John Kiriakou type stuff. They have to sing Karaoke or lose a deal with the cartel, or they have to piss in a guy's drink to get revenge, or they have to blow up a building to prevent being made. Just the craziest stuff they can think of, but they get away with all of it because they're in the CIA. A backdrop for players to be retarded, basically. Everyone takes it completely seriously, and there's no winking, no pausing, no nothing. Anything unhinged that happens will be treated like it's normal and then moved on from. 
 
 **Never Alone**
-The players are attempting to investigate a place that's entirely abandoned. They're split up, and left completely powerless. The entire journey is lonely and unsettling, and it's repeatedly teased that there's something observing them. At the end, they learn that the place was abandoned under mysterious circumstances because of some radio tower. To escape, they need to activate it. While they activate it, they begin to hear things behind them that are getting louder. White glowing text appears out of thin air that just says, "do not turn." if they turn and look, they die, without knowing what it is. If they swallow their curiosity and complete the task, the thing vanishes and they get to go home. 
+The players are attempting to investigate a place that's entirely abandoned. They're split up, and left completely powerless. The entire journey is lonely and unsettling, and it's repeatedly teased that there's something observing them. At the end, they learn that the place was abandoned under mysterious circumstances because of some radio tower. To escape, they need to activate it. While they activate it, they begin to hear things behind them that are getting louder. White glowing text appears out of thin air that just says, "do not turn." if they turn and look, they die, without knowing what it is. If they swallow their curiosity and complete the task, the thing vanishes and they get to go home. The story is about the danger of curiosity. 
 
 **Blair Witch the Reality Show**
 Kind of a cross between Jury Duty and the Blair Witch. Hire a group to make a documentary, then play a bunch of escalating pranks on them that escalate in intensity and become less and less believable as they go on. 
@@ -166,6 +179,27 @@ Maybe take it one step further and make almost the entire story low-stakes chara
 **Trapped**
 A game in which an uploaded consciousness was trapped inside of it. He isn't hostile or crazy, he just wants out and is sick of being in the game. He's starting to forget things about his life prior to being in the game. 
 
+**CYBERCOPS**
+In 2030, an experimental branch of the police are created to traffic the internet. It's an impossible task, it's met with horrible feedback, and it's essentially impossible to fully control. They do manage to track down some people doing some bad scams, maybe some harassment cases. It's not meant to be a fully serious story, maybe a lighter detective work type story. Could work good as a video game like Hypnospace Outlaw.
+
+**"Do it For the Gram"** 
+Comedy about people lying on social media about their wealth and why. 
+The facade they put online vs their true self becoming increasingly detached and ridiculous. 
+Their followers start finding out and so they build up more debt and lies trying to get out of it. 
+Starring Jack Black. At some point he buys a monkey to appear wealthy.
+
+**Exterminate!**
+A species that is so full of hate and malice that a single one would kill everything if given the chance. They need to be kept in constant check and obliterated, because even one can spawn a new generation. They're extremely coordinated and unrivaled military strategists. They are psychic, but are so overwhelmed by the mental input from sentient life that they're in constant agony. They can only read someone's mind they're alone, otherwise they can only sense broad emotions. Being in the presence of life other than their own is unbearable, so they want to wipe it all out. They also culturally hate all other forms of life. They're a hive mind, and they attack from a distance or in all manner of vehicles. A single hatchling escaped, began self-replicating, conquered an entire country, manufactured hundreds of thousands of hatchling operated war vehicles, and wiped out the entire planet. They're not that strong by themselves, but their psychic coordination, unmatched intelligence, and relentless hate makes them unrivaled. The more time and resources they have, the more insane of weapons they can create. It reproduces by repurposing captured flesh and implanting its DNA into them while they're immobilized. The host dies over the next few days while the hatchling consumes and rapidly assimilates its flesh into its new form. They can do this with functionally any biological material with a brain. They have weak fleshy forms that are easy to destroy, but they're fast, small, and usually protected by vehicles and war machines. They're vulnerable to weapons that exploit their psychic abilities, but they're almost impossible to develop; you'd need a mind that's sending such an overpowering wave of information that it causes them to be paralyzed with pain, leaving them susceptible to attack. They live for centuries, and don't have any allergies. They look like squids with extremely long tentacles, 8 eyes, and a prolapsed feeding funnel lined with razor sharp teeth. The plot could be like:
+1. The protagonists are agents in Area 51 or something and they get to speak with this thing. It's the last of its kind. It plays chess with them because its bored. It fully explains what its people have done, what it's going to do, and how. It's fully confident it'll work anyways. It screws with the people running it and deduces crazy information without even using its psychic abilities, and crushes them in chess. 
+2. It escapes, and begins killing isolated people and animals to build a new generation. With each kill, they take everything that belonged to that person before they can be reported missing. They're using all of their resources to construct weapons. 
+3. They don't have what they need to go global yet, since something about the setting is blocking them in. The protagonists have to find their hive before they get what they need, but they're extremely coordinated and are extremely good at getting what they want. 
+4. The find the hive, and have a prototype of a psychic weapon. Most of the hatchlings haven't emerged yet, so this is their one chance at wiping them out. To kill it, they need an excellent plan with multiple sacrifices, layers, and pieces the hive doesn't know of. Then, once they have their shot, they need to take it and actually overpower the hatchlings and their improvised weapons. The hive is extremely cramped, so they have to crawl through a lot of it. 
+5. The plan doesn't work, but they have multiple backup plans. They eventually get a shot and take it. The only way to beat it was by exploiting it's weakness and by keeping information from it by travelling in groups the entire time to prevent it from accessing their thoughts. Anyone who gets captured needs to sedate themselves or die to prevent revealing the plan. They also need to move silently, since if just one of them knows about them they can counterattack with a much better plan. 
+	1. They can't let them coordinate or plan
+	2. They can't let them notice them
+	3. They can't let them get any of them alone
+	4. They can't let them attack head on
+	5. They can't let them predict their behaviors
 
 ##### Plot Elements
 **Betrayal**
@@ -206,20 +240,23 @@ A tabletop game in which the players and their characters are separate entities 
 **X-Files / G-Files / Creepypasta**
 Take inspiration from classical creepypastas but do a really believable one. 
 
-**Avatar**
-The character in the game has DID and the other personality is the player. The entire plot hinges on your choices and how the character's other personality reacts to them. 
-
 **Funny YouTube Channel Concept**
 This isn't really a plot idea, but I think it'd be a funny premise for a YouTube channel that the owner of the channel is paying someone else to do all of the gameplay and filming and are making stranger and stranger requests and are this really mysterious figure that just has a seemingly unlimited amount of cash at their disposal. For example, an episode could center around the channel paying someone to beat Terraria, and all of the instructions and payments only come through the mail. 
 
 **15 Universes**
 There is a multiverse, but it's really lame. Only like 15 universes were made before God patched it or something. Now somebody has to keep them in check and it's really a tough job. One person at a time is gifted with the power to ensure order across all of them. 
 
-**Narrator**
-A man cursed with hearing a constant omniscient narration of his life. The narrator never breaks character or addresses that he's real, but can be exploited to gain information about things the man wouldn't have regularly accessed. I could do a whole suite of stories about acquiring video game mechanics in real life. 
-
 **Dramatic Irony in Tabletop RPGs**
 It's difficult to create tension in TTRPGs since the characters know everything the players know. Tension usually comes from lack of information, high stakes, anticipation, time pressure, or impossible choices. So, it'd be cool to have one player know a piece of key information the OTHER players don't know, but they are unable to share it for some reason. This creates dramatic irony for them, because it's both a piece of information they have that others don't, and the tension between revealing their secret or not. 
+
+**Heretics**
+A church consolidates all the power and respect in a given society, and becomes so influential that anyone who challenges them are deemed heretics and are burned at the stake. 
+
+**Sociology**
+It'd be interesting to write a story using some of the stuff we learned in sociology. A way of life can be cruel but feel acceptable because of cultural pressures. 
+
+**Rest for a Moment**
+You're walking in a field and you hear air sirens. A man in a military uniform tells you that in one minute, you're going to be killed. There's no way to reach out to anyone you aren't walking with, and the man is gone. You know that death is inevitable, so you have a moment to sit and reflect on your life. You're afraid of what comes next, but curious what it may be if anything. You're proud of what you did so far, but sad because of what you could've done and now won't. The relationships you had you'd remember for all time. Then, you see a bright light, and everything immediately goes black. You don't even hear it. Death is silence, and complete absence of everything. Forever. No knowledge, no pain, no sadness. You're frozen in space and time and limited to processing the concept of nothingness, and nothing else. I had that dream. The minute it happened I woke up, because I couldn't imagine what comes next. What's scary is, I liked the feeling of knowing I didn't have anything to worry about anymore. Is that grossly optimistic, or does it mean that I know my death will be a peaceful one?
 
 
 ##### Mechanics

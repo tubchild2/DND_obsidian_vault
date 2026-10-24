@@ -27,10 +27,10 @@ Research and References
 - [[SQL Notes Index]]
 
 Personal References
-- [[Simple Workout Routine]]
+- [[Workout Routine 1]]
 - [[Tabletop Packing List]]
-- [[Workout Schedule]]
-- [[Wishlist]]
+- [[Workout Routine 2]]
+- [[Aiden's Wishlist]]
 - [[To-Do]]
 
 Other
