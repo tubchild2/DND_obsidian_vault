@@ -10,6 +10,7 @@ aliases:
 
 ### Personality
 - Distrustful
+- Scared
 - Greedy
 - Manipulative
 - Clever
@@ -23,3 +24,5 @@ Caldus Kaul was born in 12c 1213 in [[Hephaestus]]. He took a quick interest in 
 Using his influence and connections, he managed to secure a seat in the Senate. He'd spend the next several decades performing loyal service to the Republic.
 
 In 1253, he took a deal from [[Terrik|the Wraith]] that would get him elected Chancellor, but would require him to advocate for more industrialization. He did what we was asked, and it led to the start of the civil war. 
+
+In 1556, once he found out what the Wraith was doing, he was attacked and forced into cooperation. The Wraith would ruin his life, take everything from him, and kill him. 

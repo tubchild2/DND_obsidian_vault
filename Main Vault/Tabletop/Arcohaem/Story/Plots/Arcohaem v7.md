@@ -197,62 +197,127 @@ Introduction to Torhild, setup for Torhild arc. Make them care about Frigoshians
 
 **Chapter 19: Into Torhild**
 - Getting into Torhild
+- They're about out of food. 
 - Kaul tries to get them to believe Frigoshia is evil
 - Figuring out logistics like housing, food, water, etc.
 - Break out the corkboard and plan
 	- See Part 8 Chapter 26 for information to cover
 - Tease the Wraith hunting them
 
-**Chapter 20: I'm Feeling Xenophobic**
+**Chapter 20: Culture Schoked**
 - Light exploration and culture shock
-- Introduction
-	- Torhild rules, folkways, layout, important NPCs
-	- Recurring characters and citizens of Torhild
-		- Vetle Ritva: friend and ally on the inside
-		- Rosie: ex-husband was killed for being a Republic defector
-		- Ham: morally upstanding Frigoshian leader
-	- Secret police
-	- Tease the trapper
-- Kaul asks them for details on what they're doing
+- Introduction to Frigoshian basics
+	- Torhild rules, layout, folkways, important NPCs
+	- History
+		- Philosophers
+		- Tribal founding and history
+		- Rebellion
+		- Reorganization
+			- Early chaos
+			- Kaul's followers vs dissenters 
+			- Feudal implementation
+			- First deployment
+			- Economic reform
+		- Frigoshian prime
+			- Pillaged supplies
+		- Slow decay
+			- Starvation
+	- Languages
+		- Common
+		- Frigoshian (occasionally mixed in)
+	- Technology
+		- Mostly medieval
+		- Renaissance
+	- Businesses
+		- Skilled work, everyone takes pride in what they do, no one is part of the machine
+		- No one is alienated from each other, from themselves, or from their work
+		- Very community oriented
+	- Land
+		- 1 tribe overseen by 1 tribal baron
+		- 3 towns overseen by 3 overlords
+		- 12 regions overseen by 12 lesser lords
+		- Local policing don by 120 constables and 60 grunts
+		- 3300 citizens in their town, and 9900 citizens in their tribe
+		- Tribe is a well developed medieval town with 12+ castles, a beautiful mountain range in the distance, hills, rivers, and lakes. 
+	- Characters
+		- Vetle Ritva
+			- Friend and ally on the inside
+			- Believes in Frigoshian values
+			- Believes Frigoshians deserve to win the war
+			- Doesn't agree with the killing
+		- Rosie
+			- Her ex-husband was killed for being a Republic defector
+			- Believes in Frigoshian culture
+			- Doesn't believe in the war
+			- Where Frigoshians should be
+		- Citizens
+		- Baron
+		- Overlords
+		- Ham
+			- Lesser Lord of region of town they're in
+			- A good sensible man
+		- Lesser Lords
+		- Constables
+		- Grunts
+	- Setup
+		- Secret police exist and are a threat (led by Magnus)
+		- Tease the trapper
+		- Other mechanics
+		- Propaganda
+		- Non-sequiturs that won't make sense until part 9.
+		- The wraith's cultural perception is very different in Frigoshia. He's seen as a protector and symbol of fear, like Batman. He'll only kill people who are bad. 
+		- Welcome Wagon greets them once they get a house and they direct the plot
+- Free to do as they please without any preplanned structure
+- Kaul asks them for details on what they're doing. Tease his role. 
 - Find a strong lead that the dragon program is real
-- Non-sequiturs that won't make sense until part 9.
 
-**Chapter 21: Culture Shocked**
+**Chapter 21: Welcome Wagon**
 - Kaul tells them the people who found the "Frigoshian" transport with dragon incubators may have been lying. They have evidence something exists, so this doesn't hold. 
 - The sun is setting, and they know the Wraith is after them.
 - They hear him before they see him. This gives them a moment to prepare in absolute silence. 
-- Wraith encounter.
+- Wraith encounter. They see him move past their front window. 
 - The Wraith begins grooming one of the Wolves for a future deal in Part 8 in which they leave the wolves and join him and Malfaust. 
+	- God comes in 3 days
 
 ###### Part 7: May We Come in?
 Cork board investigation, the city investigates back. Make some players love Frigoshia, and others hate it. 
 
-**Chapter 22: **
+**Chapter 22**
 - Tier II areas were "unlocked" with the information they got last session
 - Kaul tries to get them to go home but something is off about the things he's saying. 
 	- He's throwing them off
 - Corkboard and plan for the day
 	- See Part 8 Chapter 26 for information to cover
 
-**Chapter 23: I'm Feeling Xenocentric**
-- Split the party by ideology (sympathetic for Frigoshia, loyal to the Republic)
-	- It'd be cool if some players ran into a group of kids who have a lemonade stand empire and are engaging in snowball turf wars with another empire. 
+**Chapter 23: Xenocentrism**
+- Micro-level exploration focused on the immersion of sympathetic half of party. Try not to immerse other, loyal half. Appeal to love, kindness, and independence. An expansion on what they previously experienced. 
+	- The people of Frigoshia are being taken advantage of, something weird is happening with Kaul / the Republic, and the program might not even exist. Kaul is scared of something and really doesn't want them to find anything.
+	- The program supposedly began after the war, since it's being spearheaded by Atka. Atka only rose to power because those who opposed him died under mysterious circumstances, suggesting an alliance between Atka and the Wraith. 
+	- Very few people actually know about those bunkers in the wastes pale.
+	- Plant seeds for these players to have the following belief: they should play it safe and analyze what's happening. The Wraith / trapper are their real targets. 
+	- They make real progress towards finding the program, but it's less about that and more about the people they meet and their stories. 
+	- Non-sequiturs that won't make sense until part 9.
+	- The secret police are after them. Tease the consequences for failure, and why you DONT want to fight them. Make sure they understand that. 
+	- Societal Roles
+	- Honor
+	- Values
+	- Norms
+	- Art
+	- Nonverbal communication
+- One player is being groomed for the Wraith deal. They should have an experience this session that shows them the importance of occasional disloyalty. 
+	- God comes in 2 days
 - Advance characters
-	- Rosie: befriends their personas, not their actual selves
+	- Rosie: befriends their personas, not their actual selves. She may die like Howard for being in the wrong place at the wrong time
 	- Vetle: he owes them one for saving his life, but he's no traitor!
-	- Ham: won't take kindly to spies obviously, but he's fair 
-- Demonstrate both halves of Frigoshia (cruel elite, exploited commoners)
-- Let them make real progress towards finding the program
-- Escalate secret police pursuit
-- Continue grooming one player for the Wraith deal. 
-- Non-sequiturs that won't make sense until part 9.
+	- It'd be cool if some players ran into a group of kids who have a lemonade stand empire and are engaging in snowball turf wars with another empire. 
 
 **Chapter 24**
 - The leader of the secret police, Magnus, visits their home with about 10 other men
-- Magnus was friends with Alric due to them using similar methods. The day before Alric went missing, Magnus received a broadcast from him warning about potential spies attempting to infiltrate the capital. 
-- He isn't in on it, and he doesn't know the trapper. 
-- He behaves like Alric but less relaxed and is a powerful ether user. 
-- He'll investigate their home and look for Republic equipment, and he'll quiz them on their documentation. 
+	- Magnus was friends with Alric due to them using similar methods. The day before Alric went missing, Magnus received a broadcast from him warning about potential spies attempting to infiltrate the capital. 
+	- He isn't in on it, and he doesn't know the trapper. 
+	- He behaves like Alric but less relaxed and is a powerful ether user. 
+	- He'll investigate their home and look for Republic equipment, and he'll quiz them on their documentation.
+
 
 ###### Part 8: Premonition
 Final hardcore investigation, fully separating the party by ideology, pushing them to argue
@@ -262,27 +327,29 @@ Final hardcore investigation, fully separating the party by ideology, pushing th
 - Corkboard and plan for the day
 	- See Part 8 Chapter 26 for information to cover
 
-**Chapter 26: I'm Only Ambivalent**
+**Chapter 26: Xenophobia**
 - Finding the program
+- Macro-level exploration focused on the immersion of loyal half of party. Try not to immerse other, sympathetic half. Appeal to honor, action, vengeance, and loyalty. 
+	- The Frigoshian government is evil and extremely corrupt, Kaul is just doing his job, the program exists in some capacity--government or not, and all the tax money is going somewhere no one can identify. 
+	- Plant seeds for them to have the following belief: they should finish their mission, avenge their lost loved ones, and become legends. 
+	- Non-sequiturs that won't make sense until part 9.
+	- Almost the entire government is unaware of the dragon program. They were warned by Alric that the Wolves were coming, so they're suspicious they'll appear, but that's about it. Even Alric, Magnus, and the secret police aren't in on it. 
+	- Some other group that appears to be associated with the king is in on it. They're working with the Wraith and the trapper. They know the Wolves' every move and seem to have nothing to do with the government. 
+	- Societal Roles
+	- Honor
+	- Values
+	- Norms
+	- Art
+	- Nonverbal communication
+- Continue grooming one player for the Wraith deal. 
+	- God comes in 1 day
 - Advance characters
-	- Rosie: might die like Howard for being in the wrong place at the wrong time
 	- Vetle: he owes them one for saving his life, but he's no traitor!
 	- Ham: won't take kindly to spies obviously, but he's fair 
-- They should be aware of the split conspiracy by this point
-	- Almost the entire government is unaware of the dragon program. They were warned by Alric that the Wolves were coming, so they're suspicious they'll appear, but that's about it. Even Alric and the secret police aren't in on it. 
-	- Some other group that appears to be associated with the king is in on it. They're working with the Wraith and the trapper. They know the Wolves' every move and seem to have nothing to do with the government. 
-- They should be split into two ideologies by this point
-	- The people of Frigoshia are being taken advantage of, something weird is happening with Kaul / the Republic, the program might not even exist, and they should play it safe and think more critically about what's happening. They should figure out who the Wraith / the Trapper are working with. 
-	- The Frigoshian government is evil and extremely corrupt, Kaul is just doing his job, the program exists in some capacity--government or not, and all the tax money is going somewhere no one can identify. They should finish their mission. 
-- Continue grooming one player for the Wraith deal. 
-- Non-sequiturs that won't make sense until part 9.
 
 **Chapter 27**
 - Getting to follow the trapper and get their revenge. He reveals the location of the dragon program after they beat him up. He makes it crazy satisfying to kick his butt. He'll use what Kaul knows against them all. He isn't a fighter, he's a slippery spy. 
 - Level up to 14
-
-
-
 
 #### Act 3
 This act completely reveals the truth about the grand Arcohaemian conspiracy, the Wraith, and Malfaust. 

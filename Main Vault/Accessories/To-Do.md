@@ -16,13 +16,6 @@ Here's a breakdown of the new color coordination I'm using for the task board:
 | Salmon           | Tasks        |
 
 ### Worldbuilding Fixes
-**Easter Eggs**
-- Put something on the website that hides a teaser for next session
-
-**SOCIOLOGY**
-- Republic social stratification and backing ideology
-- Frigoshian social stratification and backing ideology
-
 **Levelling**
 - Repair Arcohaem v7 levelling
 
@@ -50,11 +43,29 @@ Here's a breakdown of the new color coordination I'm using for the task board:
 
 
 ### Session 6
-**GOALS**
-
-
 **OUTLINING**
-
+- Map
+	- Torhild
+	- 3 Cities (treat them as different districts of one city)
+	- Districts
+		- Businesses
+		- Housing
+	- Lakes, rivers, hills, cliffs, and mountains
+	- Flora and fauna
+- Character Reference
+	- Citizens
+	- Overlords
+	- Barons
+	- Lords
+	- Constables
+	- Grunts
+	- Magnus
+	- Secret Police
+- Timeline reference
+	- What businesses are open when
+	- What things happen when
+	- How does time progress
+	- How long will they be there
 
 **SCENE DESCRIPTIONS**
 
@@ -63,7 +74,12 @@ Here's a breakdown of the new color coordination I'm using for the task board:
 
 
 **PRACTICE**
-
+- Update website with new societal structures
+- Put something on the website that hides a teaser for next session
+	- Map?
+	- Waypoints?
+	- Characters?
+	- Events?
 
 **Outlining**
 - Set up / nightmare reeling / communicator error

@@ -4,81 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "ce0409e31bcddb88",
+        "id": "5ce84b77e59df242",
         "type": "tabs",
         "children": [
           {
-            "id": "b54a00e6e700aa86",
+            "id": "3a0a094e47913134",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Sociology/SOC w5 ch9 - Social Stratification.md",
+                "file": "Tabletop/Arcohaem/Story/Sessions/Part 6 - Ethnocentrism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SOC w5 ch9 - Social Stratification"
+              "title": "Part 6 - Ethnocentrism"
             }
           },
           {
-            "id": "c52483759fff6cb4",
+            "id": "dbf0675a916acd96",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Midterm 2 Project.md",
+                "file": "Accessories/To-Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Midterm 2 Project"
-            }
-          },
-          {
-            "id": "ef70b40876145555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Accessories/Aiden's Schoolwork.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Aiden's Schoolwork"
-            }
-          },
-          {
-            "id": "0b0a23b1399e4e75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Sociology/SOC w4 ch5 - Socialization.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOC w4 ch5 - Socialization"
-            }
-          },
-          {
-            "id": "f1b9e99c0bb27e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Sociology/SOC w4 ch4 - Society.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SOC w4 ch4 - Society"
+              "title": "To-Do"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,8 +99,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           }
         ]
@@ -236,40 +193,39 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": true,
-      "templates:Insert template": true,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "templates:Insert template": true
     }
   },
-  "active": "c52483759fff6cb4",
+  "active": "3a0a094e47913134",
   "lastOpenFiles": [
-    "Notes/Sociology/SOC w5 ch9 - Social Stratification.md",
-    "Midterm 2 Project.md",
-    "Accessories/Aiden's Schoolwork.md",
-    "Notes/Sociology/SOC w4 ch4 - Society.md",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Full Arcohaem 4k.png",
-    "Notes/Sociology/SOC w4 ch5 - Socialization.md",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Full Arcohaem 8k.png",
-    "Accessories/Idea Index.md",
     "Accessories/To-Do.md",
-    "Notes/Sociology/SOC w3 ch3 - Culture.md",
-    "Notes/Sociology/SOC w1 ch1 - Intro to Sociology.md",
-    "Notes/Sociology/SOC w2 ch2 - Research.md",
-    "Notes/Sociology/SOC Ideas.md",
-    "Part 6 - Ethnocentrism.md",
-    "Tabletop/Arcohaem/Worldbuilding/Factions/Frigoshia.md",
-    "Tabletop/Arcohaem/Worldbuilding/Factions/Republic of Arcohaem.md",
+    "Tabletop/Arcohaem/Story/Sessions/Part 6 - Ethnocentrism.md",
     "Tabletop/Arcohaem/Story/Plots/Arcohaem v7.md",
-    "Notes/Data Communications Notes/The Application Layer.md",
-    "Notes/Data Communications Notes/The Network Layer.md",
-    "Dihscussion 5.md",
+    "Tabletop/Arcohaem/Worldbuilding/Factions/Frigoshia.md",
+    "Notes/Sociology/SOC w3 ch3 - Culture.md",
+    "Tabletop/Arcohaem/Worldbuilding/Factions/Republic of Arcohaem.md",
+    "Tabletop/Arcohaem/Worldbuilding/Places/Hephaestus.md",
+    "Tabletop/Arcohaem/Worldbuilding/Characters/Kaul.md",
+    "Tabletop/Arcohaem/Worldbuilding/Characters/Chancellor Harald.md",
+    "Tabletop/Arcohaem/Worldbuilding/World History - Arcohaem.md",
+    "Tabletop/Arcohaem/Worldbuilding/Characters/Atka.md",
+    "Tabletop/Arcohaem/Worldbuilding/Characters/Commander Ragnar.md",
     "Tabletop/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
-    "a.md",
-    "Frigoshia Redone.md",
+    "Midterm 2 Project.md",
+    "Notes/Sociology/SOC w4 ch4 - Society.md",
+    "Notes/Sociology/SOC w4 ch5 - Socialization.md",
+    "Notes/Sociology/SOC w5 ch9 - Social Stratification.md",
     "Rough Library Sketch.md",
-    "Tabletop/Arcohaem/Worldbuilding/Characters/Thane.md",
-    "Vault Overview.md",
-    "Tabletop/Arcohaem/References/Arcohaem Enemy Index.md",
+    "Tabletop/Mega Dungeon/Johnny Hayes.md",
+    "Tabletop/Mega Dungeon/Fixing Johnny Hayes.md",
+    "Tabletop/Paranoia on the SMS-66.md",
+    "Tabletop/Arcohaem/Media/Pictures/Maps/Full Arcohaem 4k.png",
+    "Tabletop/Arcohaem/Story/Sessions/Part 2 - Just Like the Simulations.md",
+    "Interview Process.md",
+    "Tabletop/Arcohaem/Story/Sessions/Part 8 - Premonition.md",
+    "Tabletop/Arcohaem/Story/Sessions/Part 7 - May We Come in.md",
+    "Accessories/Aiden's Schoolwork.md",
+    "Tabletop/Arcohaem/Media/Pictures/Maps/Full Arcohaem 8k.png",
     "Notes/Chess/Checkmates/CM Arabian Mate.png",
     "Notes/Chess/Checkmates/CM Back Knight Mate.png",
     "Notes/Chess/Checkmates/CM Ur Trash.png",

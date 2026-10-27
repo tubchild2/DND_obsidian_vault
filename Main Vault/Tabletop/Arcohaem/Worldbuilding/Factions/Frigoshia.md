@@ -31,29 +31,11 @@ Conservative, cultured, and cruel
 
 **Beliefs**
 - The Republic is evil
-	- Philosopher 1: Mark Fielder
-		- Exposure to foreign thinking and globalism is harmful to affected countries' identities
-		- Arcohaemian citizens were happy prior to industrialization
-		- Arcohaem should remain isolated to maintain their cultural heritage
-		- The Republic was wrong to enforce industrialization onto the north without its consent
-		- Industrialization will continue spreading by force in Arcohaem if left unchecked
-	- Philosopher 2: Karl Scherer
-		- People in industrial societies are conditioned to suppress their natural instincts to conform to society's rules and function like components of a machine
-		- People are alienated from the products of their labor, the process of ones labor, from each other, and from themself
-		- The owners of the means of production can instill false consciousness into workers, making them think and feel things that aren't in their best interest but rather in the best interest of those in power.
-	- Philosopher 3: Jeremias Kaczynski
-		- Industrial society replaces the intended way of things with artificial surrogate experiences.
-		- Technology forces humans to adapt, not the other way around.
-		- Technology will inevitably lead to greater suffering, catastrophe, and the loss of human control.
-		- The industrial system can't be reformed.
-	- Philosopher 4: Antonin Weber
-		- Industrialization leads to people being trapped by institutions and bureaucracy
-		- This leads to a sense of disenchantment with the world
-	- Philosopher 5: Kilian Durkheim
-		- When society no longer has the support of a firm collective consciousness (the communal beliefs, morals, and attitudes of a society), they develop the feeling of Anomie
-		- Anomie is when collective norms are weakened and people are alienated from each other. 
-		- Industrialization and globalization may cause cultural identity to collapse, causing people to enter a state of Anomie.
-		- People wouldn't feel connected like they should
+	- Mark Fielder: Believed that exposure to foreign thinking and globalism is harmful to Arcohaemian cultural identity. Industrialization caused disunity and unhappiness, and it's wrong to force it onto people who don't want it. It'll keep spreading if left unchecked. He was criticized for being overdramatic and for lacking comprehensive studies. 
+	- Karl Scherer: Believed that people in indsutrial societies are conditions to suppress their natural instincts to conform to society's rules and function like components in a machine. Industrialization alienates people from themselves, from each other, and from their labor. All the power is in the hands of the people who control the means of production. He was well received by sociologists and philosophers. 
+	- Antonin Weber: Believed that industrialization leads people to being trapped by institutions and bureaucracy. This leads to a sense of disenchantment with the world. He believed a better world could exist if it allowed technological progress within philosophical limits tied to individual freedoms and pride, and community values and connection. His ideas were very popular and led to a lot of anti-republic protests. 
+	- Killian Durkheim: Believed that, without the support of a firm collective conciseness, society will weaken their collective norms, and become alienated from one another. Industrialization may cause cultural identity to collapse, causing people to enter a state of Anomie. People need to feel connected, and they were prior to the Republic, and in their contained feudal society. Him and Weber had similar arguments, and were similarly received. 
+	- Jeremias Kaczynski: He was a fanatical Frigoshian loyalist from Nedrena. He believed that Industrial societies replace the intended experiences of life with artificial, surrogate experiences. Technology forces mankind to adapt, and not the other way around. It'll lead to greater suffering, catastrophe, and the loss of human control, and it can't be reformed. He led violent protests and ended up becoming a terrorist. He was a bad person, but his philosophy was popular. 
 	- Owning Republic material or E-Tech is a sign of national heresy
 - Roles
 	- Fathers should protect and provide for large families
@@ -61,7 +43,9 @@ Conservative, cultured, and cruel
 	- Children should be obedient, respectful, and disciplined
 	- Sons should prepare for the military or to become a father
 	- Daughters should prepare to become a mother
-	- Men should work very hard
+	- Men should be strong, tall, heavy, hungry, hairy, and resilient. 
+	- Women should be kind, pretty, respectful, obedient, and loyal.
+	- Grandparents should help to raise grandchildren and live with their children.
 - Honor
 	- Succeeding dishonorably is worse than losing
 	- Fleeing from a fight is a mark of cowardice and weakness
