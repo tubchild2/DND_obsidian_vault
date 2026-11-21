@@ -1,10 +1,10 @@
 ### Movies
 Ranking
-1. Kung Fu Panda
-2. Nacho Libre
-3. Megamind
-4. The Truman Show
-5. Revenge of the Sith
+1. The Truman Show
+2. Megamind
+3. Kung Fu Panda
+4. Revenge of the Sith
+5. Nacho Libre
 6. Forrest Gump
 7. Iron Man
 8. Guardians of The Galaxy
@@ -18,7 +18,6 @@ Ranking
 16. Diary of a Wimpy Kid 1-3
 17. JoJo Rabbit 
 18. Ferris Bueller's Day Off
-19. Dirty Rotten Scoundrels 
 
 
 ### Shows

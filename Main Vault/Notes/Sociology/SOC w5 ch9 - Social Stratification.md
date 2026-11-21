@@ -1,7 +1,6 @@
-
 ## Social Stratification
 **Social Stratification**
-	A society's categorization of its people into rankings based on factors like wealth, income, education, family background, and power. 
+	A society's categorization of its people into rankings based on factors like wealth, income, education, family background, and power.
 	You can be stratified by other things too, like race, gender, age.
 
 **Socioeconomic Status (SES)**
@@ -235,7 +234,7 @@ Wealth is the most significant way of distinguishing classes in the USA
 ###### Conflict Theorist
 Deeply critical of social stratification, asserting that it benefits only some people, not all of society. 
 They believe it perpetuates inequality. 
-Conflict theorists believe that the strained working relationship between employers and employees still exists, as it did when Mark critiqued industrialization. 
+Conflict theorists believe that the strained working relationship between employers and employees still exists, as it did when Marx critiqued industrialization. 
 
 
 ###### Symbolic Interactionist

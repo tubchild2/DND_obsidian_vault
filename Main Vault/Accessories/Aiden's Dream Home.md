@@ -16,7 +16,7 @@ Game Room
 
 Big Office
 Security Room / Secret Room
-Lab
+T H E   L A B
 Indoor Garden
 Studio
 

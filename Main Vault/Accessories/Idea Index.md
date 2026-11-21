@@ -63,7 +63,7 @@ A character that's all knowing exists in a tabletop universe. When he says ALL K
 The character in the game has DID and the other personality is the player. The entire plot hinges on your choices and how the character's other personality reacts to them. 
 
 **Narrator**
-A man cursed with hearing a constant omniscient narration of his life. The narrator never breaks character or addresses that he's real, but can be exploited to gain information about things the man wouldn't have regularly accessed. I could do a whole suite of stories about acquiring video game mechanics in real life. 
+A man cursed with hearing a constant omniscient narration of his life. The narrator never breaks character or addresses that he's real, but can be exploited to gain information about things the man wouldn't have regularly accessed. I could do a whole suite of stories about acquiring video game mechanics in real life. Like the Stanley Parable. 
 
 
 ##### Worldbuilding / Atmosphere
@@ -80,7 +80,7 @@ Some people are born with 4D limbs that functionally grant telekinesis. They can
 The residence of death itself. The world is bathed in darkness, ice, and rot. Metal constructs called Reapers mindlessly roam and obliterate whatever life they can find. They all operate on a central hivemind. 
 
 **The Bazaar**
-A massive complex or shops, aliens, and portals at the center of existence. 
+A massive complex or shops, aliens, and portals at the center of existence. It's the cosmic hub of commerce!
 
 **Underwater Cave Diving**
 An isolated, dark, and creepy place where you might uncover something man was never meant to encounter. 
@@ -139,7 +139,14 @@ There was something about exploring an apartment building earlier today that mad
 [[ID_ Flood World]]
 
 **A World of Vampires**
-In this world, whenever you kill someone, you extend your life by 10 years. This one simple rule has extreme moral ramifications. 
+In this world, whenever you kill someone, you extend your life by 10 years. You can still die by sudden means, but you won't age. This one simple rule has extreme moral ramifications. The longer you live, and the closer to death you get, the more people fear you. People agree that killing is wrong, but murder is far more common. Society nearly can't function without everyone being prepared for a fight. 
+
+**Aiden's Magical Compounds**
+A set of subatomic particles are discovered that form structures similar (but not identical to) atoms with compatible atomic structures. They carry charges and can form bonds with atoms to create chemical compounds. However, they have exotic properties unique to them, not all of them are discovered, and they have hundreds of potential compounds to test. Adding just one new element gives you thousands of compounds / compound variants, isotopes, allotropes, and states. They need a source, since atoms and these can't form each other. 
+
+**Shared Reality**
+ID_Shared Reality
+
 
 ##### Plots
 **Battleworld**
@@ -258,6 +265,18 @@ It'd be interesting to write a story using some of the stuff we learned in socio
 **Rest for a Moment**
 You're walking in a field and you hear air sirens. A man in a military uniform tells you that in one minute, you're going to be killed. There's no way to reach out to anyone you aren't walking with, and the man is gone. You know that death is inevitable, so you have a moment to sit and reflect on your life. You're afraid of what comes next, but curious what it may be if anything. You're proud of what you did so far, but sad because of what you could've done and now won't. The relationships you had you'd remember for all time. Then, you see a bright light, and everything immediately goes black. You don't even hear it. Death is silence, and complete absence of everything. Forever. No knowledge, no pain, no sadness. You're frozen in space and time and limited to processing the concept of nothingness, and nothing else. I had that dream. The minute it happened I woke up, because I couldn't imagine what comes next. What's scary is, I liked the feeling of knowing I didn't have anything to worry about anymore. Is that grossly optimistic, or does it mean that I know my death will be a peaceful one?
 
+**Gemini Style Alien Invasion**
+An invasion already happened and the world is in such a sorry state that the only available broadcast communication leaves out everything except how to survive what's coming. This leaves out what specifically is coming, why, and who the message is from. That sets up so much dread. 
+
+**Deep Space Dread**
+Hearing a noise from deep space that you can't understand or that doesn't make sense. 
+
+**Parallels**
+A realm where one's actions are symbolized. This one is tough to explain, but essentially someone could watch both the real world and this realm simultaneously. In the realm, they're on a boat on the river Styx, where the water represents death. If they die in the real world, they fall into the water. Now what's interesting is what happens when you only see the symbolic realm, or interact with the symbolic realm in a way that has unintended consequences in the real world. 
+
+**Love What You Do**
+Two people who love what they do finding a worthy rival and having fun banter like in Princess Bride. "You seem a decent fellow, I hate to kill you." "You seem a decent fellow, I hate to die."
+
 
 ##### Mechanics
 **Stress Management**
@@ -319,6 +338,10 @@ A class built around having a set of consistent animal companions that grow in p
 
 **(CLASS) Architect**
 A class built around forming light constructs. As they progress, their constructs get bigger, more detailed, and stronger. They could make appendages, armors, attacks, barriers, clothing, defenses, duplicates, elements, entities, environments, objects, platforms, restraints, structures, support, vehicles, weapons, and more at will. Subclasses would focus on a smaller subsection of constructs for either offense, defense, or utility / support applications. 
+
+**Split Up**
+Running one shots in universe with each PC is an incredibly powerful tool if executed properly. It could be used at the beginning of a campaign to set up their characters, their worlds, and create something that's near impossible to have in TTRPGs: staggered information. Some players could know things the others don't from actual experiences. 
+It could also be used to create dramatic irony. 
 
 
 ##### Games

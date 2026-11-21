@@ -14,87 +14,128 @@ Conservative, cultured, and cruel
 
 
 ### Culture
-**Values**
-- National Pride
-	- Nationalism
-	- Traditionalism
-	- Conservationism
-- Personal Life
-	- Skill and Hard Work
-	- Family
-	- Honor
-- Confronting Obstacles
-	- Combat
-	- Bravery
-	- Discipline
-	- Determination
+Overall Feeling:
+	Traditional family and country centric people who think in terms of societal value.
 
-**Beliefs**
-- The Republic is evil
-	- Mark Fielder: Believed that exposure to foreign thinking and globalism is harmful to Arcohaemian cultural identity. Industrialization caused disunity and unhappiness, and it's wrong to force it onto people who don't want it. It'll keep spreading if left unchecked. He was criticized for being overdramatic and for lacking comprehensive studies. 
-	- Karl Scherer: Believed that people in indsutrial societies are conditions to suppress their natural instincts to conform to society's rules and function like components in a machine. Industrialization alienates people from themselves, from each other, and from their labor. All the power is in the hands of the people who control the means of production. He was well received by sociologists and philosophers. 
-	- Antonin Weber: Believed that industrialization leads people to being trapped by institutions and bureaucracy. This leads to a sense of disenchantment with the world. He believed a better world could exist if it allowed technological progress within philosophical limits tied to individual freedoms and pride, and community values and connection. His ideas were very popular and led to a lot of anti-republic protests. 
-	- Killian Durkheim: Believed that, without the support of a firm collective conciseness, society will weaken their collective norms, and become alienated from one another. Industrialization may cause cultural identity to collapse, causing people to enter a state of Anomie. People need to feel connected, and they were prior to the Republic, and in their contained feudal society. Him and Weber had similar arguments, and were similarly received. 
-	- Jeremias Kaczynski: He was a fanatical Frigoshian loyalist from Nedrena. He believed that Industrial societies replace the intended experiences of life with artificial, surrogate experiences. Technology forces mankind to adapt, and not the other way around. It'll lead to greater suffering, catastrophe, and the loss of human control, and it can't be reformed. He led violent protests and ended up becoming a terrorist. He was a bad person, but his philosophy was popular. 
-	- Owning Republic material or E-Tech is a sign of national heresy
-- Roles
-	- Fathers should protect and provide for large families
-	- Mothers should care for their kids, home, and chores
-	- Children should be obedient, respectful, and disciplined
-	- Sons should prepare for the military or to become a father
-	- Daughters should prepare to become a mother
-	- Men should be strong, tall, heavy, hungry, hairy, and resilient. 
-	- Women should be kind, pretty, respectful, obedient, and loyal.
-	- Grandparents should help to raise grandchildren and live with their children.
-- Honor
-	- Succeeding dishonorably is worse than losing
-	- Fleeing from a fight is a mark of cowardice and weakness
-	- Acknowledging defeat is a mark of humility and honor
+###### Values
+The Frigoshian people think of people in strict terms of societal value. They view things that are beneficial to society as honorable and things that are harmful as dishonorable. 
+1. Being honorable means honoring your country's traditions, government, and environment. Acting in a way that separates one from their ancestry is dishonorable and ungrateful. 
+2. Being honorable means being capable of lifting yourself and others up to add a net positive to society. Taking more than you give is dishonorable. Taking shortcuts or earning success through dishonorable means is worse than failing. 
+	1. Be independent
+	2. Be strong
+	3. Be skilled
+	4. Be protective
+	5. Avoid industrialized shortcuts
+3. It means raising a large family to develop the community. Ending your bloodline shows a lack of appreciation for your ancestry and prevents you from adding more to society. 
+4. It means showing respect to others and to your ancestors. 
 
-**Norms**
-- Boys should begin training for military service at the age of 8, regardless of whether they plan to join or not. 
-- When they turn 18, men should trek from Freyrhage to Brunnborg to prove their manhood, ethnicity, and connection to the land. 
-- When they turn 18, women should begin looking for a partner. 
-- You should never have extramarital affairs, take something that doesn't belong to you, or end someone's life without proper provocation. 
-- Children should be taught Frigoshian from birth, even if it isn't the common tongue anymore. 
-- King's Laws cannot be broken no matter where you are. 
 
-**Languages**
-- Common
-- Frigoshian
+###### Beliefs
+**The Republic**
+Influenced by the philosophies of Mark Fielder, Karl Scherer, Antonin Weber, Kilian Durkheim, and Jeremias Kaczynski, they have extreme opinions about industrialization and about the Republic that essentially boil down to the following:
+1. Foreign thinking is harmful to their cultural identity. 
+2. Industrialization pulls people from each other, from their work, and makes them conform to it. This makes the world feel disenchanted and monotonous.
+3. Industrialization gives all the power to the people who control the means of production, instead of to those who are skilled or in leadership positions.
+4. Industrial society cannot be redeemed and will get worse unless it's halted. 
 
-**Art**
-- Architecture
-	- Ancient: Tibetan Monasteries
-	- Rural: Inuit Tribal
-	- Suburban: Viking
-	- Urban: Gothic / Medieval
-- National Colors
-	- Snow White
-	- Deep Red
-- Clothing
-	- Ancient: Tibetan Robes with Draconic Patterns
-	- Rural: Inuit / Medieval Peasant Robes
-	- Suburban: Inuit / Medieval Middle-Class Robes
-	- Urban: Inuit / Medieval Upper-Class Robes
-- Mask Painting
-- Dance
+**Society**
+- Each member should contribute more to society than they take from it. 
+
+
+###### Norms and Societal Roles
+**The Family Unit**
+Parents
+- No one should ever have extramarital affairs
+- Fathers should protect and provide.
+- Mothers should care and do chores. 
+- Grandparents should help raise grandchildren and live with their children. 
+Children
+- They're expected to develop individualism and pursue their own interests, 
+- They begin studying a familial martial art / weapon at 8. 
+- They are taught Frigoshian from birth, even if it isn't the common tongue anymore. 
+- They should be married by 18.
+
+**Citizens**
+- Men should be strong, reliable, skilled, responsible, honorable, heavy, tall, hairy, and resilient. They should master a trade and complete a trek across the country by 18 years old to prove their individualism and manhood. 
+- Women should be kind, pretty, respectful, obedient, loyal, and skilled homemakers. 
+- No one should ever take something that doesn't belong to them
+- No one should ever end someone's life without proper provocation or agreed upon terms
+	- Rejecting a challenge is fine, but fleeing or cheating is dishonorable. 
+	- Acknowledging one's defeat is a mark of humility and honor.
+- King's laws can't be broken no matter what the Baron, Overlord, Lord, or Gentry says. 
+
+**Lowest Ranks of Society**
+- Indentured servitude is a situation in which one pledges their labor in exchange for repayment of a debt of some kind. 
+- Slavery is a situation in which one is bought or sold as property and forced into labor. 
+- Serfdom is a situation in which one is loaned land in exchange from products and regular payments to a land owner. 
+- Prisoners are to be slaves or to be executed. 
+- Slaves -> Servants -> Serfs -> Gentry -> Lords -> Overlords -> Barons -> King
+
+
+###### Art
+**Martial Arts**
 - Dueling
+- Archery
+- Ether
+	- Highly personalized experience
+- Pralo
+	- Similar to Sambo, boxing, and wrestling
+	- Full contact striking and grappling martial art
+	- Integrated strategies and battle tactics
+	- A slow, heavy, and brutal style
+	- Emphasizes weight, patience, and endurance
+
+**Design Arts**
+- Fashion
+	- Emphasis on practicality rather than expression
+	- Mostly fur lined robes, coats, and tunics
+	- Upper classes use fancier furs and silks
+	- People want durability, warmth, and comfort
+- Mask Painting
+	- Used in theater
+	- Given to girls for games
+	- Predominately a feminine hobby
+- Music
+	- Lute
+	- Harp
+	- Piano
+	- Drums
+	- Bells
+	- Flutes
+	- Bagpipes
+- Dance
+- Architecture
+	- Ancient: Tibetan
+	- Rural: Inuit Tribal / Viking
+	- Suburban: Viking
+	- Urban: Gothic Medieval
 - Forging
 - Cooking
-- Archery
-- Ether (magic)
 
-**Technology**
-- Renaissance / Medieval Technology
-- Tribal / Viking Aesthetic
+###### Languages
+**Common**
+	The common language of Serendipita. Spoken by almost everyone. 
 
-**Ceremonies**
-- Sovereignty Day
-	- Marks the day that the Northern tribes declared independence and became their own people.
-	- Food, games, and remembrance of the former year
-	- Doubles as new years day.
+**Frigoshian**
+	An ancient dialect originating in Frigoshia. It was spoken in the north until around ~604 when the Republic formed. It's mixed into common speech via idioms, for dramatic effect, for incompatible words, and by the elderly. 
+		**Incompatible Words**
+			**Foelma.** A deep melancholic and bittersweet longing for an absent person, place, event, or thing that is loved, lost, or may never return. 
+			**Osmiel.**. The feeling of pleasure, joy, or satisfaction that comes from learning about or seeing another person's troubles, failures, or misfortunes. 
+			**Nastata**. An aesthetic and philosophy that finds beauty and peace in imperfection, transience, and simplicity. 
+			
 
+**Nonverbal Communication**
+	Relies a lot on hand movements and tonality. 
+
+**Symbology**
+
+
+###### Ceremonies
+**Sovereignty Day**
+	An annual festival commemorating the day the Northern tribes declared independence
+	Celebrated with food, games, and remembrance of the former year. 
+	Each family brings something unique to the community celebration. 
+	February 12th
 
 
 ### Government
@@ -105,6 +146,8 @@ Their military is far smarter, far more skilled, and far more physically powerfu
 
 Lords, Barons, and the King all make laws that effect everything below them and cannot be overwritten. 
 Primogeniture is King's law. Male, firstborn, legitimate children inherit all / most of a parent's estate on death. 
+
+![[Frigoshian Hierarchy.canvas]]
 
 As of 12c 1266
 - King Atka
@@ -125,33 +168,23 @@ As of 12c 1266
 				- Riders
 	- 21 Barons
 		- 1 Tribe
-			- 3 Great Lords (~1 per town)
-				- 4 Lesser Lords
+			- 3 Great Lords (~1 per town) / Overlord
+				- 4 Lesser Lords / Lord
 					- 10 Constables
 					- 5 Grunts
-					- 550 Peasants
-
-**Totals**
-138600 Peasants
-2520 Constables
-1260 Grunts
-1250 soldiers
-252 Lesser Lords
-63 Great Lords
-50 captains
-10 generals
-50 secret police
-40 spies
-21 Barons
-1 Head of Secret Police
-1 King
+					- 550 Peasants 
+						- Gentry (Landlords)
+						- Indentured Servants
+						- Serfs
+						- Slaves
 
 
 ### Land
 Arctic, and largely uninhabitable (especially the Wastes Pale)
-- Torhild (***CAPITAL***)
+- [[Torhild]] (***CAPITAL***)
 	- Formerly known as just "Frigoshia"
 	- Well protected by the mountains of Thall
+	- Contains Thallwell, Leistungbourg, and New Durkheim
 - Nedrena
 	- In The Wastes Pale
 - Brunnborg

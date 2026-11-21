@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "5ce84b77e59df242",
+        "id": "88e155ca92e1a1eb",
         "type": "tabs",
         "children": [
           {
-            "id": "3a0a094e47913134",
+            "id": "b9f90b8040274f65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Accessories/To-Do.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To-Do"
+            }
+          },
+          {
+            "id": "169925294d5b3e04",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,20 +36,63 @@
             }
           },
           {
-            "id": "dbf0675a916acd96",
+            "id": "ae68880381258480",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Accessories/To-Do.md",
+                "file": "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Thallwell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To-Do"
+              "title": "Thallwell"
+            }
+          },
+          {
+            "id": "69817dddf3535a65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/New Durkheim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "New Durkheim"
+            }
+          },
+          {
+            "id": "7647da0ac2d9c9a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Leistungbourg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leistungbourg"
+            }
+          },
+          {
+            "id": "14440097088146b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Torhild.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Torhild"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -107,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 200
   },
   "right": {
     "id": "7efababeab0f1b4b",
@@ -187,6 +244,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
       "switcher:Open quick switcher": true,
@@ -196,35 +255,83 @@
       "templates:Insert template": true
     }
   },
-  "active": "3a0a094e47913134",
+  "floating": {
+    "id": "75319180263ae234",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a7e91deed4712237",
+        "type": "window",
+        "children": [
+          {
+            "id": "caf9314ff5640eb1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e2353002307352cf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TORHILD EVENT TRACKER.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "TORHILD EVENT TRACKER"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 630,
+        "y": 166,
+        "width": 840,
+        "height": 969,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e2353002307352cf",
   "lastOpenFiles": [
+    "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Torhild.md",
+    "TORHILD EVENT TRACKER.md",
+    "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Leistungbourg.md",
+    "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/New Durkheim.md",
+    "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Thallwell.md",
     "Accessories/To-Do.md",
-    "Tabletop/Arcohaem/Story/Sessions/Part 6 - Ethnocentrism.md",
-    "Tabletop/Arcohaem/Story/Plots/Arcohaem v7.md",
-    "Tabletop/Arcohaem/Worldbuilding/Factions/Frigoshia.md",
-    "Notes/Sociology/SOC w3 ch3 - Culture.md",
-    "Tabletop/Arcohaem/Worldbuilding/Factions/Republic of Arcohaem.md",
-    "Tabletop/Arcohaem/Worldbuilding/Places/Hephaestus.md",
-    "Tabletop/Arcohaem/Worldbuilding/Characters/Kaul.md",
-    "Tabletop/Arcohaem/Worldbuilding/Characters/Chancellor Harald.md",
-    "Tabletop/Arcohaem/Worldbuilding/World History - Arcohaem.md",
-    "Tabletop/Arcohaem/Worldbuilding/Characters/Atka.md",
-    "Tabletop/Arcohaem/Worldbuilding/Characters/Commander Ragnar.md",
-    "Tabletop/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
-    "Midterm 2 Project.md",
-    "Notes/Sociology/SOC w4 ch4 - Society.md",
-    "Notes/Sociology/SOC w4 ch5 - Socialization.md",
-    "Notes/Sociology/SOC w5 ch9 - Social Stratification.md",
-    "Rough Library Sketch.md",
-    "Tabletop/Mega Dungeon/Johnny Hayes.md",
-    "Tabletop/Mega Dungeon/Fixing Johnny Hayes.md",
-    "Tabletop/Paranoia on the SMS-66.md",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Full Arcohaem 4k.png",
-    "Tabletop/Arcohaem/Story/Sessions/Part 2 - Just Like the Simulations.md",
-    "Interview Process.md",
-    "Tabletop/Arcohaem/Story/Sessions/Part 8 - Premonition.md",
     "Tabletop/Arcohaem/Story/Sessions/Part 7 - May We Come in.md",
-    "Accessories/Aiden's Schoolwork.md",
+    "Tabletop/Arcohaem/Story/Sessions/Part 6 - Ethnocentrism.md",
+    "Tabletop/Arcohaem/Story/Sessions/Part 8 - Premonition.md",
+    "Tabletop/Arcohaem/Story/Sessions/Classic/CLASSIC Part 6 - The Big Bad Wolves.md",
+    "Tabletop/Arcohaem/Story/Plots/Arcohaem v7.md",
+    "Tabletop/Arcohaem/Story/Plots/Arcohaem v6.md",
+    "Tabletop/Arcohaem/Worldbuilding/Factions/Frigoshia.md",
+    "Tabletop/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
+    "Accessories/Aiden's Schedule.md",
+    "Notes/Sociology/SOC w9 ch16 - Education.md",
+    "Discussion 9.md",
+    "Poll.md",
+    "Tabletop/Character for Luca's Game.md",
+    "Notes/Sociology/SOC w8 ch8 - Media and Technology.md",
+    "Notes/Sociology/SOC w7 ch7 - Deviance.md",
+    "Notes/Sociology/SOC w6 ch12 - Sex.md",
+    "Notes/Sociology/SOC w6 ch11 - Race.md",
+    "Notes/Sociology/SOC w5 ch9 - Social Stratification.md",
+    "Notes/Sociology/SOC w4 ch5 - Socialization.md",
+    "Notes/Sociology/SOC w4 ch4 - Society.md",
+    "Tabletop/Arcohaem/References/Frigoshian Hierarchy.canvas",
+    "Tabletop/Arcohaem/Media/Graphs/Session 4 Bunker.canvas",
+    "Tabletop/Arcohaem/References/Republic Hierarchy.canvas",
+    "Pasted image 20261104190653.png",
+    "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia",
+    "Tabletop/Arcohaem/Worldbuilding/Places/Republic",
+    "Notes/Excel",
+    "Untitled.base",
+    "Notes/Chemistry",
+    "Tabletop/Arcohaem/Media/Pictures/Maps/Full Arcohaem 4k.png",
     "Tabletop/Arcohaem/Media/Pictures/Maps/Full Arcohaem 8k.png",
     "Notes/Chess/Checkmates/CM Arabian Mate.png",
     "Notes/Chess/Checkmates/CM Back Knight Mate.png",
@@ -236,23 +343,14 @@
     "Notes/Chess",
     "atlas-vtt/collections/Arcohaem/scenes/Arcohaem Tribes w Landmarks.atlasmap",
     "Tabletop/Arcohaem/Media/Pictures/Maps/Arcohaem Tribes.png",
-    "atlas-vtt/collections/Arcohaem/scenes/Arcohaem Tribes w Landmarks.thumb.jpg",
     "atlas-vtt/collections/Arcohaem/scenes/scene-1790962695630-56hm6b.json",
     "atlas-vtt/collections/Arcohaem/maps/map-1790962684312-dtriew.json",
-    "atlas-vtt/collections/Arcohaem/players",
-    "atlas-vtt/collections/Arcohaem/encounters",
-    "atlas-vtt/collections/Arcohaem/scenes",
-    "atlas-vtt/collections/Arcohaem/characters",
-    "atlas-vtt/collections/Arcohaem/maps",
-    "Untitled.canvas",
     "Tabletop/Serendipita/Serendipita Power Dynamic.canvas",
     "Stories and Projects/Timeloop/Timeloop Progression Map.canvas",
     "Stories and Projects/Timeloop/Timeloop Progression.canvas",
-    "Tabletop/Arcohaem/Media/Graphs/Session 4 Bunker.canvas",
     "Tabletop/Uncharted Galaxy/Sessions/Session 3/Wyrm's Rest Flowchart.canvas",
     "Home Network.canvas",
     "TTE/Character Maker.canvas",
-    "TTE/RPGE Character Maker.canvas",
-    "Campaign 1 (Uncharted Galaxy)/Sessions/Session 3/Wyrm's Rest Flowchart.canvas"
+    "TTE/RPGE Character Maker.canvas"
   ]
 }

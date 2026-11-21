@@ -209,36 +209,10 @@ Introduction to Torhild, setup for Torhild arc. Make them care about Frigoshians
 - Introduction to Frigoshian basics
 	- Torhild rules, layout, folkways, important NPCs
 	- History
-		- Philosophers
-		- Tribal founding and history
-		- Rebellion
-		- Reorganization
-			- Early chaos
-			- Kaul's followers vs dissenters 
-			- Feudal implementation
-			- First deployment
-			- Economic reform
-		- Frigoshian prime
-			- Pillaged supplies
-		- Slow decay
-			- Starvation
 	- Languages
-		- Common
-		- Frigoshian (occasionally mixed in)
 	- Technology
-		- Mostly medieval
-		- Renaissance
 	- Businesses
-		- Skilled work, everyone takes pride in what they do, no one is part of the machine
-		- No one is alienated from each other, from themselves, or from their work
-		- Very community oriented
 	- Land
-		- 1 tribe overseen by 1 tribal baron
-		- 3 towns overseen by 3 overlords
-		- 12 regions overseen by 12 lesser lords
-		- Local policing don by 120 constables and 60 grunts
-		- 3300 citizens in their town, and 9900 citizens in their tribe
-		- Tribe is a well developed medieval town with 12+ castles, a beautiful mountain range in the distance, hills, rivers, and lakes. 
 	- Characters
 		- Vetle Ritva
 			- Friend and ally on the inside
@@ -270,12 +244,14 @@ Introduction to Torhild, setup for Torhild arc. Make them care about Frigoshians
 - Free to do as they please without any preplanned structure
 - Kaul asks them for details on what they're doing. Tease his role. 
 - Find a strong lead that the dragon program is real
+- Set up for Part 7 Waypoints
 
-**Chapter 21: Welcome Wagon**
+**Chapter 21: Home Invasion Welcome Wagon**
 - Kaul tells them the people who found the "Frigoshian" transport with dragon incubators may have been lying. They have evidence something exists, so this doesn't hold. 
 - The sun is setting, and they know the Wraith is after them.
-- They hear him before they see him. This gives them a moment to prepare in absolute silence. 
-- Wraith encounter. They see him move past their front window. 
+- They hear him before they see him. They see him move past their front window. This gives them a moment to prepare in absolute silence. 
+	- Focus on scaring them and building dread, not on horror. I want a Gemini Home Entertainment style encounter that's more about fear of a home invasion. 
+- Wraith encounter. 
 - The Wraith begins grooming one of the Wolves for a future deal in Part 8 in which they leave the wolves and join him and Malfaust. 
 	- God comes in 3 days
 
@@ -309,7 +285,7 @@ Cork board investigation, the city investigates back. Make some players love Fri
 - Advance characters
 	- Rosie: befriends their personas, not their actual selves. She may die like Howard for being in the wrong place at the wrong time
 	- Vetle: he owes them one for saving his life, but he's no traitor!
-	- It'd be cool if some players ran into a group of kids who have a lemonade stand empire and are engaging in snowball turf wars with another empire. 
+- Unlock Tier 3 Locations
 
 **Chapter 24**
 - The leader of the secret police, Magnus, visits their home with about 10 other men
@@ -343,12 +319,19 @@ Final hardcore investigation, fully separating the party by ideology, pushing th
 	- Nonverbal communication
 - Continue grooming one player for the Wraith deal. 
 	- God comes in 1 day
-- Advance characters
-	- Vetle: he owes them one for saving his life, but he's no traitor!
-	- Ham: won't take kindly to spies obviously, but he's fair 
 
 **Chapter 27**
-- Getting to follow the trapper and get their revenge. He reveals the location of the dragon program after they beat him up. He makes it crazy satisfying to kick his butt. He'll use what Kaul knows against them all. He isn't a fighter, he's a slippery spy. 
+- Getting to follow the trapper and get their revenge. He reveals the location of the dragon program after they beat him up. He makes it crazy satisfying to kick his butt. 
+	- They see him and he sees them and he tries to slip away through the crowd. 
+	- (play Slip Away!)
+	- They pursue him, and he tries to throw them off and slow them down. 
+		- He'll use his Kaul sourced knowledge against them. 
+	- No one else in the government recognizes them but him, but the Trapper is definitely in on it. 
+	- He gets away for a moment and makes a phone call. "I'm still in the building. They're here too! We can't do that here there's too many people. Well send someone! God damn it!" He hangs up and starts rushing. He keeps looking at his watch and sweating. 
+	- Once they're close behind him, he hesitates for a moment. He sees them and gets the attention of some constables. He starts speaking to them about something completely unrelated. He can't hold the conversation forever. The Wolves can risk getting caught, or they can find a way to get him alone. 
+	- He runs outside and sprints through an alley towards a secret tunnel. He has trouble with it (dice roll?) and then they have another chance to catch him before he gets away. 
+	- If pressured enough he'll try to kill himself and say that they'll kill him if he talks. They can interrogate him some more, but he won't break unless he's absolutely forced. He says they don't understand, and that they aren't supposed to catch him. Kind of a fourth wall break in a weird way. 
+	- He'll reveal where the dragon program is... and also set them up for a trap. 
 - Level up to 14
 
 #### Act 3
@@ -365,19 +348,22 @@ The conspiracy goes beyond Frigoshia!
 - Getting into Atka's library in a subsection of his castle
 - Instigate argument about whether to continue or not
 - The Wraith meets with the player alone, and offers them the deal
+	- CLASSIC Part 6 - The Big Bad Wolves
 - They sneak into Atka's secret dungeon, which is hidden like a Indiana Jones secret room
 
 **Chapter 30**
 - Atka's hidden dungeon is insane, and was mostly destroyed in expectation of them
+- They're completely alone.
 - Atka is nuts and he's really obsessed with AOTH
 - The dragon program exists, but it isn't what they thought. It's called Project Amalgamma
 - Atka is collaborating with the Wraith on it. The eggs came from "M," and an upcoming republic gala honoring Lord Commander Galen has something to do with it. 
 - The letters were addressed to "C.K." Don't point out the two C.K.s they know.
 
 **Chapter 31**
+- If they bring the trapper here to guide them, he'll start getting really nervous around now and keep checking his watch / the clock. "He isn't supposed to be here when it happens..."
 - All the stuff that didn't seem related in parts 6-8 all clicks together, and they're baited into a trap
 - [[Terrik|The Wraith]]'s miniature will be painted with Musou Black
-- The Wraith is going to really, whole heartedly try to kill them all. He's no longer holding back, they know too much and have to die. He doesn't want to kill them, and is angry at them for not taking the hint. 
+- The Wraith is going to really, whole heartedly try to kill them all. He's no longer holding back, he's stronger, and they know too much and have to die. He doesn't want to kill them, and is angry at them for not taking the hint. 
 - The entire library is going to get bombarded by a bunch of rockets shot by Frigoshian funnelers in black and red robes, like the Wraith. 
 - They try to escape with their lives. 
 - They get their communicators stolen or broken at some point in this session
@@ -448,6 +434,7 @@ Seeing how corrupt the Republic really is
 	- Arcohaem is sick and they both know it. Serendipita is sick and they both know it. He's trying to make the world a better place, and all they're doing is standing in the way of justice and protecting an inherently broken system. 
 	- He won't reveal anything they don't already know. 
 	- He'll imply he has a boss named "M."
+	- Galen will speak to Kaul. He thinks maybe it's time for the Wraith to make his first public appearance, since this is kind of a big deal. Kaul hesitates. He can't let that happen yet, it's too high profile. He's terrified of Galen, and the two hate each other, but Kaul's in charge here. 
 
 **Chapter 41: But They're the Avengers!**
 - Once the transfer is complete, regardless of if the Wolves found the files or not, Kaul will evacuate everyone and call the guards to kill them. 

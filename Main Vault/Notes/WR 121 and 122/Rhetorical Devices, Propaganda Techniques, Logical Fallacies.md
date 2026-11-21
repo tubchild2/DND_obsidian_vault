@@ -14,10 +14,10 @@ Antithesis.
 Figurative Speech. 
 	Anything that isn't literal. Lets the reader make new meaning, and adds nuance.
 	- Metaphors. Literally stating something that isn't true to imply meaning. This *is* this. "Time is money." "Life is a roller coaster."
-	- Similes. Comparison between two things using "like" or "as." "Stubborn as a mule." "Sleep like a baby."
 	- Hyperbole. Exaggerates a situation, quality, or characteristic. "So hungry, I could eat a horse." "I've been waiting forever."
 	- Personification. Giving human qualities to non-human things. "The trees danced in the wind." Adds more feeling and personality to a moment.
 	- Analogy. Highlighting the similarities between two different things without saying they're the same thing, or that they're like each other.
+	- Similes. Comparison between two things using "like" or "as." "Stubborn as a mule." "Sleep like a baby."
 
 Tricolon.
 	A list with three parts. Lists of 3 sound better, and stick with people.
@@ -42,7 +42,7 @@ Varied Sentence Length
 ## Propaganda Techniques
 Assertion. 
 	Making bold statements. The audience is not invited to question the validity of the statements as they are delivered with confidence and enthusiasm. “Make America Great Again” is a bold statement that you aren’t invited to look further into.
-	
+
 False dilemma. 
 	Claiming that there are only two answers to a problem. There is really no choice involved in such statements and the dilemma created is false. “We either stop driving SUVs, or we have global warming.”
 
@@ -94,7 +94,7 @@ Faulty Causality / Post Hoc
 	Because Y happened after X, X must have caused Y! Correlation vs. causation.
 
 Begging the Question / Umm... Because I'm Clearly Right
-	I'm right because I'm right. Assuming true the thing that's being argued. "A pound of feathers weighs less than a pound of bricks" "I can't get a C, I'm an A student!" Would this argument make sense if you didn't already agree with the conclusion.
+	I'm right because I'm right. Assuming true the thing that's being argued. "A pound of feathers weighs less than a pound of bricks" "I can't get a C, I'm an A student!" *Would this argument make sense if you didn't already agree with the conclusion.*
 
 Non Sequitur.
 	When claims and points don't connect. Making the argument about something else. Very commonly used to pivot and to dodge questions. "What do you know about how much ice cream I can eat, you have 16 unpaid parking tickets" also works here, because it pivots from the amount of ice cream one should eat to the qualifications of the opponent. The key here, is that it could still technically be related.

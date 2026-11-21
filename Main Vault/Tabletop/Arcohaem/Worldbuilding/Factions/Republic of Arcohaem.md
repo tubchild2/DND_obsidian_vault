@@ -130,142 +130,91 @@ Progressive, industrial, and corrupt
 
 
 #### Order
-As of 12c 1266, this is what the structure of the Republic looks like. There are 177 Senate seats. 
+As of 12c 1266, this is what the structure of the Republic looks like. There are 178 Senate seats. 
 
-**Totals**
-231600 Citizens
-3125 Privates
-1592 Policemen / 650 Champions 
-540 Tribal Police
-460 Senate Delegates
-350 Senate Aides
-270 Senate Advisors
-228 Local Judges
-175 Senators
-125 Captains
-125 Majors
-76 Mayors / 78 Chieftains
-66 Tribal Judges
-50 Royal Guards
-30 EATU Royal Guards
-26 Warchiefs
-25 Commanders
-25 Strike Teams
-22 Governors / 13 Tribal Leaders
-5 Generals
-1 Captain of the EATU Royal Guard
-1 EATU President
-1 Chancellor
-1 Lord Commander
+| Position                              | Oversees Group            | C/E/S Math                                                 | Color  | Rank | Voting Power |
+| ------------------------------------- | ------------------------- | ---------------------------------------------------------- | ------ | ---- | ------------ |
+| Chancellor                            | Senate                    | 1                                                          | Red    | III  | y            |
+| Lord Commander                        | Army + Royal Guard        | 1                                                          | Red    | II   | y            |
+| Royal Guard                           |                           | 50                                                         | Red    | I    |              |
+| General                               | Battalion                 | 5 x Lord Commander                                         | Orange | III  |              |
+| Commander                             | Platoon + Strike Team     | 5  x General                                               | Orange | II   |              |
+| Captain                               | Squadron                  | 5 x Cmdr                                                   | Orange | I    |              |
+| Major                                 |                           | 5 x Cmdr                                                   | Yellow | II   |              |
+| Private                               |                           | 25 x Cpt                                                   | Yellow | I    |              |
+| EATU President (E.)                   | Bloc Senate Oversight     | 1 x Bloc (E.)                                              | Violet | VII  | y            |
+| Captain of Bloc <br>Royal Guard (E.)  | Bloc Royal Guard          | 1 (E.)                                                     | Violet | VI   |              |
+| Bloc Royal Guard                      |                           | 30 (E.)                                                    | Violet | V    |              |
+| Senator                               | Senator Body              | 5 x Tribe                                                  | Violet | IV   | y            |
+| Delegate                              |                           | 3 x Senator (C.)<br>3 x Senator (E.)<br>2 x Senator (S.)   | Violet | III  | y*           |
+| Advisor                               |                           | 2 x Senator (C.)<br>2 x Senator (E.)<br>0 x Senator (S.)   | Violet | II   |              |
+| Aide                                  |                           | 3 x Senator (C.)<br>2 x Senator (E.)<br>2 x Senator (S.)   | Violet | I    |              |
+| Governor (C.E.)<br>Tribal Leader (S.) | Tribe                     | 1 x Tribe                                                  | Green  | VI   |              |
+| Tribal Judge (C.E.)<br>Warchief (S.)  | Tribal Court              | 3 x Tribe (C.E.)<br>2 x Tribe (S.)                         | Green  | V    |              |
+| Tribal Police (C.E.)<br>Champion (S.) |                           | 30 x Tribe (C.)<br>20 x Tribe (E.)<br>10 x Tribe (S.)      | Green  | IV   |              |
+| Mayor (C.E.)<br>Chieftain (S.)        | City (C.)<br>Village (E.) | 4 x Tribe (C.)<br>3 x Tribe (E.)<br>6 x Tribe (S.)         | Green  | III  |              |
+| City Judge (C.E.)<br>Chieftain (S.)   | City Court                | 3 x City (C.E.)<br>(see Chieftain) (S.)                    | Green  | II   |              |
+| City Police (C.E.)<br>Champion (S.)   |                           | 20 x City (C.)<br>22 x City (E.)<br>5 x Village (S.)       | Green  | I    |              |
+| Citizen                               |                           | 2250 x City (C.)<br>2200 x City (E.)<br>800 x Village (S.) | Blue   | I    |              |
 
+**Structure**
+10 Central Tribes
+12 Eastern Tribes
+13 Southern Tribes
 
-**The Senate & Republic Military**
-- Central Bloc
-- Eastern Bloc (EATU)
-- Southern Bloc
-- Chancellor Kaul
-	- Lord Commander (red helmet patterns)
-		- 50 Royal Guards (red helmet patterns)
-	- 5 Generals (purple helmet patterns)
-		- 5 Commanders (blue helmet patterns)
-			- 5 Captains (green helmet patterns)
-				- 25 Privates
-					- Snipers
-					- Scouts
-					- Mages
-					- Soldiers
-					- Medics
-					- Spies
-					- Operators
-			- Strike Team
-				- 5 Majors (green helmet patterns)
-3125 Privates
-125 Captains
-125 Majors
-50 Royal Guards
-25 Commanders
-25 Strike Teams
-5 Generals
-1 Chancellor
-1 Lord Commander
-
-**Central Bloc**
-- 10 Tribes
-	- Governor
-		- 4 Mayors
-			- 3 local judges
-			- 20 Police
-			- 2250 Citizens
-		- 3 tribal judges
-		- 30 tribal police
-		- 5 Senators
-			- 3 Advisors
-			- 2 Aides
-			- 3 Delegates
-90000 Citizens
-800 Policemen
-300 Tribal Police
-150 Senate Delegates
-150 Senate Advisors
-120 Local Judges
-100 Senate Aides
-50 Senators
-40 Mayors
-30 Tribal Judges
-10 Governors
-
-**Southern Bloc**
-- 13 Tribes
-	- Tribal Leader
-		- 6 Chieftains
-			- 5 Champions
-			- 800 Citizens
-		- 5 Senators
-			- 2 Aides
-			- 2 Delegates
-		- 2 Warchiefs
-			- 10 Champions
-62400 Citizens
-650 Champions 
-130 Senate Delegates
-130 Senate Aides
-78 Chieftains
-65 Senators
-26 Warchiefs
-13 Tribal Leaders
+![[Republic Hierarchy.canvas]]
 
 
-**Eastern Bloc (EATU)**
-- President Thane
-	- Captain of the Royal Guard
-		- 30 Royal Guards
-- EATU Senate
-	- 12 Tribes
-		- Governor
-			- 3 Mayors
-				- 3 local judges
-				- 22 Police
-				- 2200 Citizens
-			- 5 Senators
-				- 2 Advisors
-				- 2 Aides
-				- 3 Delegates
-			- 3 tribal judges
-			- 20 tribal police
-79200 Citizens
-792 Policemen
-240 Tribal Police
-180 Senate Delegates
-120 Senate Aides
-120 Senate Advisors
-108 Local Judges
-60 Senators
-36 Tribal Judges
-36 Mayors
-30 Royal Guards
-12 Governors
-1 Captain of the Royal Guard
-1 President
+- Senate (Chancellor)
+	- Army (Lord Commander)
+		- Battalions (Generals)
+			- Strike Teams (Commanders)
+			- Platoons (Commanders)
+				- Squadrons (Captains)
+					- (Privates)
+						- (Snipers)
+						- (Scouts)
+						- (Mages)
+						- (Soldiers)
+						- (Medics)
+						- (Spies)
+						- (Operators)
+	- Central Bloc
+		- Tribes (Governors)
+			- Cities (Mayors)
+				- City Court (City Judges)
+				- (City Police)
+				- Citizens
+			- Senator Bodies (Senators)
+				- (Advisors)
+				- (Aides)
+				- (Delegates)
+			- Tribal Court (Tribal Judges)
+			- (Tribal Police)
+	- Eastern Bloc (EATU)
+		- Tribes (Governors)
+			- Cities (Mayors)
+				- City Court (City Judges)
+				- (City Police)
+				- Citizens
+			- EATU (Bloc President)
+				- Senator Bodies (Senators)
+					- (Advisors)
+					- (Aides)
+					- (Delegates)
+			- Tribal Court (Tribal Judges)
+			- (Tribal Police)
+	- Southern Bloc
+		- Tribes (Tribal Leaders)
+			- Villages (Chieftains)
+				- (Champions)
+				- Citizens
+			- Senator Bodies (Senators)
+				- (Aides)
+				- (Delegates)
+			- (Warchiefs)
+				- (Champions)
+
 
 
 ### Politics / The Corruption

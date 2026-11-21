@@ -82,6 +82,7 @@ See [[World History - Arcohaem]]
 
 ### The Tone
 - Adventurous. Doesn't involve the fate of the world right away.
+	- Boy this one went out the window fast
 - Fantastical. Industrial Era Arctic Clone Wars.
 - Sincere. Doesn't poke fun at itself.
 - Epic. Themes of power, conquest, revenge, justice, etc.

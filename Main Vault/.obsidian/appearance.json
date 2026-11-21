@@ -5,5 +5,6 @@
   "theme": "obsidian",
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "monospaceFontFamily": ""
+  "monospaceFontFamily": "",
+  "showRibbon": true
 }
