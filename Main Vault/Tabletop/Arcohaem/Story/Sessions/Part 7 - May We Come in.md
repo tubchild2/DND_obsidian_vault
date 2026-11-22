@@ -5,8 +5,10 @@ Cork board investigation, the city investigates back. Make some players love Fri
 - Kaul tries to get them to go home but something is off about the things he's saying. 
 	- He's throwing them off
 	- Kaul is scared of something and really doesn't want them to find anything.
+	- He tells them that the people who found the incubators may have been lying
 - Corkboard and plan for the day
 
+The Republic lost more ground in the war and is losing
 
 ### Chapter 23: Xenocentrism
 Micro-level exploration
@@ -22,7 +24,10 @@ More about the people they meet and their stories.
 - **Turf War**
 	- Set up for Trapper reveal
 - **Trapper Pursuit**
-	- Attracts attention
+	- Attracts attention of secret police
+- **What a Dunce!**
+- **Chekhov's Gun**
+- **Maxwell's Silver Hammer**
 
 ###### Session Events
 **Magnus Tease**

@@ -5,6 +5,7 @@ Final hardcore investigation, fully separating the party by ideology, pushing th
 - Kaul is just doing his job and he's freaking out even more than last session
 - Corkboard and plan for the day
 
+The Republic lost more ground in the war and is losing
 
 ### Chapter 26: Xenophobia
 Investigate the high profile risky stuff and find the program.
@@ -15,10 +16,12 @@ Plant seeds for them to have the following belief:
 *Appeal to honor, action, vengeance, and loyalty this session.*
 
 ###### Encouraged Events
-- **Turf War**
-	- If this hasn't happened yet, at least let them know Little Timmy
-- **Trapper Pursuit**
-	- If this hasn't happened yet, this has to happen
+- **Combo Turf War - Trapper Pursuit**
+	- Let them know Little Timmy and learn the trapper's face
+- **Shawshank**
+- **Kenny's Quest**
+- **The Conqueror**
+- **Quest for Skyler**
 
 ###### Session Events
 **The Power Elite**

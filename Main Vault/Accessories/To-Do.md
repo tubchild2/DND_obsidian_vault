@@ -1,25 +1,6 @@
 ### Session 6
 **Outlining**
-- Frigoshia is winning the war and their plans are pretty clever
-- Random waypoints
-	- Xenobiology
-	- Gut Busters
-	- What a Dunce!
-	- Maxwell's Silver Hammer
-	- The Conqueror
-	- Shawshank
-	- Chekhov's Gun
-	- Kenny's Quest
-- Non gated waypoints
-	- Local Art
-	- Tier 1 Investigation Points (getting bearings and low-risk stuff)
-	- Strong lead on the dragon program
 - Arcohaem v7 Levelling
-
-**Practice**
-- Select music
-- Prep corkboard
-- Clean table
 
 **Post-Session**
 - Write Recap
@@ -33,6 +14,17 @@
 
 
 ### **Future Sessions and Stuff**
+**Next Events**
+- Part 7 events
+- Part 8 events
+- What a Dunce!
+- Maxwell's Silver Hammer
+- The Conqueror
+- Quest for Skyler
+- Chekhov's Gun
+- Kenny's Quest
+- Tailor quests to sympathetic or loyalist side of the party.
+
 **Flashbacks**
 - For certain complex pieces of lore, have one-shots take place in the past
 - Maybe set them in other parts of the world

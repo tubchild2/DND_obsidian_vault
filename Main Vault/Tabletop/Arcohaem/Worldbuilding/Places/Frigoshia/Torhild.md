@@ -2,7 +2,7 @@ Capital Tribe of [[Frigoshia]]
 Run by [[Baron Norland]]
 
 
-#### History
+### History
 Pre Republic
 - Founded as tribe of "Frigoshia" in ~12c 119
 
@@ -24,14 +24,16 @@ Post War
 - Food shortages began in 1260
 
 
-#### Cities
+### Cities
 - [[Thallwell]]
 - [[Leistungbourg]]
 - [[New Durkheim]]
 
 
-#### Tribe Wide Events and Side Quests
-###### Turf War (Thallwell or New Durkheim)
+### Quests
+###### Turf War
+THALLWELL OR LEISTUNGBOURG
+
 **PeleCO in Thallwell**
 The farm kids in Thallwell formed a lemonade stand empire called PeleCo. Pele is a Frigoshian word for juice. They were led by Little Timmy Contos, the son of Lord Coby Contos (the Trapper) and Vivian Contos. Timmy is a clever, street wise kid who has Saul Goodman style tactics to get ahead of those more advantaged than him. He's been spending his entire *allowance* to fund the business because he his friends want more money to buy food. Little Timmy's last name will be kept secret. 
 
@@ -58,7 +60,8 @@ He separates them and they have to collaborate and make up a cover story.
 	Ham puts them in the back of his coach and locks it. 
 	He says he'll be right back but he has to go get something. 
 	He never comes back, and they have a chance to leave. 
-	The next day, they find out he "killed himself." 
+	The next day, they find out he "killed himself."
+If they don't reveal the truth, one of them is going to get publicly executed to save the others
 
 
 ###### Trapper Pursuit

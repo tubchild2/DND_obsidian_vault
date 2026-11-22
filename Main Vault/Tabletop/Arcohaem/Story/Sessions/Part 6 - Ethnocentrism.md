@@ -1,6 +1,8 @@
 Introduction to Torhild, setup for Torhild arc. Make them care about Frigoshians. 
 
 ### Chapter 18.5: Finishing What I Didn't
+	PLAY: "R U OK"
+
 ##### Phone Trouble (Sleeping)
 Again, your communicators begin beeping in the middle of the night. Something is wrong with them. The technologically astute among you figure they might need to be turned off and on again. 
 
@@ -26,7 +28,12 @@ Again, your communicators begin beeping in the middle of the night. Something is
 	- (Asked about the trap or the man) "Oh my god are you serious? I had no idea! I'm not using Kragknull's notes anymore. You don't think he knew do you?"
 	- (Asked about the fluid) "It's likely some form of coolant or byproduct. I have some experience in [[Serendipita|E-Tech]] from my early Senator days, and I'm certain our top scientists didn't make some kind of error if that's what you're suggesting. I can ask if you really want, but I'm sure it's not important."
 
+The Republic lost more ground in the war and is losing
+LEAD THEM TO BELIEVE THEY'RE SAFE FROM THE WRAITH
+
 ### Chapter 19: Into Torhild
+	PLAY: "Himalayan Hunger"
+
 **Encino Man**
 - Getting into Torhild
 - They're about out of food. 
@@ -61,26 +68,49 @@ Again, your communicators begin beeping in the middle of the night. Something is
 	- Door with peephole and lock
 	- Plenty of land?
 	- Rooms for each of them
+	- Neighbor nearby
+	- Push them towards Thallwell, but they can get one anywhere
+	- There's no legal system there's just a gentry or lord who'll add them to his list and come back for taxes and a percentage of whatever they produce on the land (or money). 
 - Library
 	- The king is in on it
 - Echo Republic propaganda
 - Tell Iona he can acquire Vodka
+- **Gut Busters**
+	- Walk past Countee's
+- **What a Dunce!**
+	- Missing posters for Tommy Bordges in the woods in West Thallwell
+	- May lead them towards Xenobiology
+- **Xenobiology**
+
 
 ###### Session Events
+---
+**-- MORNING OF DAY 1 --**
 **A Butterfly's Wings pt. 1**
-- They bump into someone named Rosie. She falls down and says sorry and keeps briskly walking away. She drops a piece of paper though. 
-	- Anti-Frigoshian literature. 
-		- Freedom without killing!
-		- Fight Atka!
+
+	PLAY: NOTHING
+
+While they're in public, they bump into a woman named Rosie. 
+She falls and says sorry and keeps briskly walking away. 
+She dropped something on the ground
+	Anti-Frigoshian Literature
+		Freedom isn't murder
 
 Before they leave...
+- They hear some screaming
 - They see her getting dragged into a black coach by some men in black suits with black leather gloves. She's screaming and frantically trying to run away but there's too many of them. She's flailing her arms and legs on the ground. 
 - No one does anything, and no one even watches. 
+
+
 
 **Deep Water**
 - There's a bunch of kids standing at the edge of a river / lake. They keep pointing at a cave and looking at a photo. They keep looking over their shoulders. 
 - It's a family photo, but in the river there's a faint orange light coming from a cave. It's gone now but they see the cave under the water and wonder what it is. Like the Solway Fifth Spaceman.
 - Requires some underwater cave diving to access. 
+
+		IN THE CAVE:
+		PLAY: "Do Something!"
+
 - There's an unfathomably deep underwater pit. It's perfectly circular. They can't see the bottom of it. 
 	- Breath: 1 + CON mod minutes, minimum 30 seconds
 	- Dive: 1/2 walking speed (about 15ft)
@@ -96,10 +126,15 @@ Before they leave...
 	- They see fiery lights at the bottom, so far in the distance
 	- They hear roars
 	- They hear metallic clanging
+- (IN LORE)
+	- Amalgamma is being relocated currently.
+	- This is the final day the program actually existed in Torhild. 
 
+
+
+---
+**-- AFTERNOON OF DAY 1 --**
 **The Welcome Wagon**
-- Push them towards Thallwell, but they can get one anywhere
-- There's no legal system there's just a gentry or lord who'll add them to his list and come back for taxes and a percentage of whatever they produce on the land (or money). 
 - The neighbors begin a welcome wagon to welcome them into the neighborhood
 	- Thallwell: potato chowder, fried onions, bread, and fresh strawberries
 	- Leistungbourg: pot roast, potatoes, sourdough, and strawberry cake
@@ -136,12 +171,15 @@ Before they leave...
 	- Reinforces gender roles
 
 **A Butterfly's Wings pt. 2**
+
+	PLAY: NOTHING
+
 Later, in public...
 - They see a big crowd in town.
 - There's a bunch of people on stage with Lord Dalon of Leistungbourg. 
 	- Three men, and a woman. They're all in fetters and have been stripped down to their underwear. They look like they've been beaten. One man is crying quietly. 
 	- They recognize the woman as Rosie from earlier.
-- Lord Dalon explains, "...if your arm is rotting, you must remove it, lest it spreads to infect you whole. Every piece of Frigoshian society functions like an organ in a body, and today, we must act as the immune system. As apprehended by Magnus Schulz of the Frigoshian secret police, we have a number of heretics, prisoners, and criminals to judge."
+- Lord Dalon explains, "...if your arm is rotting, you must remove it, lest it spreads to infect you whole. Every piece of Frigoshian society functions like an organ in a body, and today, we must act as the immune system. As apprehended by Magnus Schulz of the Frigoshian secret police, we have a number of heretics, prisoners, and criminals to judge here today."
 	- Rosie Cordel, age 29, has been convicted of 2 counts of sedition, and 1 count of disturbing the peace. She has been sentenced to execution by hanging. 
 		- She tries to keep collected to die with honor but she's crying and angry. They drag her up onto a noose and place her head into it. They kick the stool and she is hanged. 
 		- Her body is collected. 
@@ -163,33 +201,60 @@ Later, in public...
 - The secret police exist and you do NOT want to fight them. Make sure they understand that. They're led by Magnus. 
 
 
-### Chapter 21: Home Invasion Welcome Wagon
-It's the end of the day. It's a full moon. 
 
-**Well that doesn't make sense**
-- Kaul tells them the people who found the "Frigoshian" transport with dragon incubators may have been lying. 
-	- They have evidence something exists, so this doesn't hold...
+### Chapter 21: Home Invasion Welcome Wagon
+
+---
+**-- EVENING OF OF DAY 1 --**
+It's the end of the day. It's a full moon. 
+You all return home for a moment and start getting ready for bed.
+
+**A Moment for Rorik**
+(Remind Rorik of his dead wife and make him sad)
+Say he might need to catch some air or something / You hear something coming from the neighbor's house. 
+You see the neighbors' house. You can see Melvin and Helen's silhouettes through the window. They're dancing. 
+You step off the porch, and listen for a moment. 
+
+What's everyone else doing as the day ends?
+(STALL FOR 4 MINUTES)
+![[thruthewindow.wav]]
 
 **Wraith Groom 1**
+Just play it, and don't play any music, and let them do what they want to do.
+![[call4.wav]]
 Focus on scaring them and building dread, not on horror. 
 I want a Gemini Home Entertainment style encounter that's more about fear of a home invasion. 
-- They hear the wraith's call in the distance as they're getting home. 
+
+	PLAY: "Duskwood" if necessary
+
 - They close the door and have time to prepare in absolute silence. 
 	- Armed to the teeth
-- Someone knocks on the door (they can check the peephole)
-	- He's really sorry about what happened and wants to smooth things over. 
-	- Dacey doesn't know he's out right now just please open the door. 
-	- He doesn't know what danger he's in. (Howard Hamlin)
-	- (not answering)
-		- He'll open the door and say hello
-	- (answering)
-		- He'll see that they have weapons and demand to know what's going on
-- They see the Wraith move outside their front window
-	- If they tell him to leave he doesn't want to
-	- They might pull him inside to protect him
-	- He keeps asking what's going on and is being super loud
-- They hear stuff coming from the other rooms
-- Then it stops
+
+(Someone knocks on the door)
+![[knock1.wav]]
+![[knock2.wav]]
+
+(check the peephole)
+	It's Jaymin!
+
+(ignore it)
+	He starts yelling
+	It's Jaymin
+	He's really sorry about what happened and he just wants to smooth things over.
+	Dacey doesn't know he's out right now
+	Just please open the door!
+	He won't go away
+
+(answer it)
+	He'll see that they have weapons and demand to know what's going on
+	He won't leave
+
+They see a shadow move outside their front window. 
+
+*wait a moment*
+
+You hear something move in the other rooms
+
 - *What Do YOU DO?*
 	- Don't release the tension. He never strikes... He does something different this time... 
 	- They'll eventually have to check the house
