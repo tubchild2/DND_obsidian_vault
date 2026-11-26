@@ -1,4 +1,4 @@
-The northeast third of Torhild
+The northeast third of [[Torhild]]
 Named after the mountains of Thall that surround Torhild
 A more relaxed city made up of farms and a couple 
 
@@ -69,6 +69,7 @@ Coby Contos is the trapper. He's a 28 year old man and he's a rat. He drinks a l
 Just outside New Durkheim, in the west wood of Thallwell, rests a cliff sheet of ice rock. Scaling it leads to a small grove surrounding a chasm. A small hut with a weathered chimney. Smoke is pluming out of it, and the warm glow of a fireplace can be seen through the dirty brown windows. 
 
 *What do you do?*
+
 (Investigating chasm)
 	It's fenced off. A large wooden sign has "keep out" painted on it in yellow. There's a gate locked with a rudimentary lock. 
 	(Hopping fence or opening gate)
@@ -133,14 +134,6 @@ Coneflower
 Fairymoss
 	A pale purple moss.
 	Drinking it causes psychosis and delusions to fade away.
-
-
-
-
-
-
-
-
 
 ###### Gut Busters
 Countee's, a diner run by Chesley Countee (son of Jess and Reika), in in the area. 

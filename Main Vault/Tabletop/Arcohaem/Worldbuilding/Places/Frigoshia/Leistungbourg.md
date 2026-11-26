@@ -94,7 +94,6 @@ Tripp Heckert, age 34. Convicted of manslaughter. Failed to save his cousin Eddi
 They can free them, but doing so attracts attention and could harm the mission. 
 If they don't, some men will die. Kaul advises against it. 
 
-
 ###### Chekhov's Gun
 A piece of folklore tied to Torhild. 10 or so years ago, there was a man who ran a theater in Leistungbourg. He was teaching some students about being a playwright, and he wanted to demonstrate the principle of Chekhov's Gun, which essentially stated that, if a gun is observed in the first act, it must be used in the third. So, he bought a cheap pistol from a shady vendor in New Durkheim. The guy didn't tell him where he got the gun from, but it wasn't normal. All he said was something about finding it in some caves nearby. He tried to do some rudimentary ethology with it, but it wouldn't work. So, he gave up. The actors began the play without him, so he put it in a chest and walked back to watch the show. During the third act of the play, someone backstage found it, and shot the owner of the theater. When he was interrogated, he confessed that he didn't remember the incident and blacked out the whole time. It was as if the pistol shot itself. No one believed him, obviously, but the gun was taken and buried anyways. The moral of the story is to avoid sketchy salesman, but once again, the gun really did exist. It has the principle of Chekhov's Gun applied to it, and if it's observed during the first act of a story, it'll activate and fire during the third act if it's unused. It's extremely powerful. 
 

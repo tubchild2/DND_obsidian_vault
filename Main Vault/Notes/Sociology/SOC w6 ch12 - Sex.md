@@ -40,7 +40,6 @@
 	People assume heterosexual orientation is biologically determined and is the default or normal type of orientation. 
 
 
-
 #### Gender Roles
 **Gender Role**
 	Refers to society's concept of how men and women are expected to look and how they should behave. 
@@ -60,7 +59,6 @@
 **Motherhood Penalty v. the Fatherhood Premium**
 	Women have a hard time shedding the expectation that they can't be a good mother and a good worker.
 	Men don't have this problem at all.
-
 
 
 #### Gender Identity
@@ -88,7 +86,6 @@
 
 **Transphobia**
 	Fear, hatred, or dislike of transgender people. 
-
 
 
 ## Gender and Gender Inequality
@@ -148,6 +145,7 @@
 	Political representation is mostly made up of White men. 
 	More women are elected to serve in congress now. 
 
+
 #### Feminism
 **Misogyny**
 	The hatred of, aversion to, or prejudice against women. 
@@ -170,7 +168,6 @@
 **Gloria Steinem**
 	Journalist and prominent advocate for women's rights. 
 	Founded Ms. Magazine. 
-
 
 
 ## Perspectives

@@ -75,6 +75,7 @@ LEAD THEM TO BELIEVE THEY'RE SAFE FROM THE WRAITH
 	- The king is in on it
 - Echo Republic propaganda
 - Tell Iona he can acquire Vodka
+
 - **Gut Busters**
 	- Walk past Countee's
 - **What a Dunce!**
@@ -169,6 +170,8 @@ Before they leave...
 	- Asks why they moved and where they're from
 	- Asks what about skills, jobs, hobbies
 	- Reinforces gender roles
+
+BENTLEY GOT POTIONS
 
 **A Butterfly's Wings pt. 2**
 

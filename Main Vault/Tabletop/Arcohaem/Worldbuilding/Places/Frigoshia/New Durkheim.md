@@ -88,6 +88,9 @@ A piece of folklore tied to Torhild. There was once a man who hated his brother 
 **THE CONQUEROR**
 A fencer and strategist. He was rejected from the army because of a previous injury. Now he sits in the park challenging people to chess and gloating about how great he could've been. He has a small group of fans that like watching him kick the pants off other cocky people. He wants an equal. Once he gets one (Tinkle Winkler probably), he'll get obsessed with learning more about them. He'll call them an artist and develop a strong friendship. 
 
+Coulton Hutching
+
+
 ### DISTRICTS
 ###### North
 - Residential

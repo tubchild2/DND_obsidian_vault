@@ -4,77 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "88e155ca92e1a1eb",
+        "id": "0511737701d77806",
         "type": "tabs",
         "children": [
           {
-            "id": "169925294d5b3e04",
+            "id": "7b3e1ba0895ed7e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tabletop/Arcohaem/Story/Sessions/Part 6 - Ethnocentrism.md",
+                "file": "Tabletop/Thanksgiving Break One-Shot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part 6 - Ethnocentrism"
+              "title": "Thanksgiving Break One-Shot"
             }
           },
           {
-            "id": "2f4149b11e42ad20",
+            "id": "60f884934b67ec23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Thallwell.md",
+                "file": "Accessories/Idea Index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thallwell"
+              "title": "Idea Index"
             }
           },
           {
-            "id": "888c4ab8dd219876",
+            "id": "ca789fec8cbda6ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/New Durkheim.md",
+                "file": "Tabletop/Arcohaem/Worldbuilding/Characters/Marrek Renn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Durkheim"
+              "title": "Marrek Renn"
             }
           },
           {
-            "id": "0f630c3ad60bf4a0",
+            "id": "497d9d218a0f91a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Leistungbourg.md",
+                "file": "GOBLIN STATS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leistungbourg"
+              "title": "GOBLIN STATS"
             }
           },
           {
-            "id": "9e252d4a7e338b3b",
+            "id": "05f2399a55e5e9f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Torhild.md",
+                "file": "KNIGHT LIGHT STATS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Torhild"
+              "title": "KNIGHT LIGHT STATS"
             }
           }
         ]
@@ -149,7 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 200
   },
   "right": {
     "id": "7efababeab0f1b4b",
@@ -165,6 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tabletop/Thanksgiving Break One-Shot.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
@@ -240,18 +241,40 @@
       "templates:Insert template": true
     }
   },
-  "active": "169925294d5b3e04",
+  "active": "7b3e1ba0895ed7e1",
   "lastOpenFiles": [
-    "TORHILD EVENT TRACKER.md",
-    "Tabletop/Arcohaem/Story/Sessions/Part 6 - Ethnocentrism.md",
-    "Accessories/To-Do.md",
+    "KNIGHT LIGHT STATS.md",
+    "Tabletop/Thanksgiving Break One-Shot.md",
+    "Accessories/Idea Index.md",
+    "GOBLIN STATS.md",
+    "Tabletop/Arcohaem/Story/Sessions/Part 2 - Just Like the Simulations.md",
+    "Tabletop/Arcohaem/References/Republic Hierarchy.canvas",
+    "Tabletop/Arcohaem/Worldbuilding/Characters/Marrek Renn.md",
+    "Tabletop/Arcohaem/Worldbuilding/Factions/Republic of Arcohaem.md",
+    "Tabletop/Arcohaem/Worldbuilding/Factions/Frigoshia.md",
     "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Torhild.md",
     "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Leistungbourg.md",
+    "Tabletop/Arcohaem/Worldbuilding/Characters/Thane.md",
     "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/New Durkheim.md",
     "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Thallwell.md",
-    "thruthewindow.wav",
-    "thruthewindow3.wav",
-    "thruthewindow2.wav",
+    "Tabletop/Arcohaem/Worldbuilding/Factions/Normons.md",
+    "Tabletop/Arcohaem/Worldbuilding/Factions/East Arcohaem Trade Union.md",
+    "Tabletop/Arcohaem/Worldbuilding/Places/Arcohaem.md",
+    "Notes/Sociology/SOC w6 ch12 - Sex.md",
+    "Tabletop/Character for Luca's Game.md",
+    "Questions to Ask.md",
+    "Notes/Sociology/SOC w10 ch18 - Work and the Economy.md",
+    "Notes/Sociology/SOC w10 ch6 - Groups and Organization.md",
+    "Accessories/Aiden's Schedule.md",
+    "Tabletop/Paranoia on the SMS-66.md",
+    "Accessories/To-Do.md",
+    "20 Shortcuts.md",
+    "Notes/SQL/SQL Week 2 Notes.md",
+    "Tabletop/Arcohaem/References/Frigoshian Hierarchy.canvas",
+    "Tabletop/Arcohaem/Media/Pictures/Maps/Arcohaem Tribes.png",
+    "Tabletop/Arcohaem/Media/thruthewindow.wav",
+    "Tabletop/Arcohaem/Media/thruthewindow3.wav",
+    "Tabletop/Arcohaem/Media/thruthewindow2.wav",
     "Tabletop/Arcohaem/Media/SFX/The Wraith/call4.wav",
     "Tabletop/Arcohaem/Media/SFX/The Wraith/echo3.wav",
     "Tabletop/Arcohaem/Media/SFX/The Wraith/echo2.wav",
@@ -259,27 +282,7 @@
     "Tabletop/Arcohaem/Media/SFX/The Wraith/echo8.wav",
     "Tabletop/Arcohaem/Media/SFX/The Wraith/echo7.wav",
     "Tabletop/Arcohaem/Media/SFX/The Wraith/echo6.wav",
-    "Tabletop/Arcohaem/Story/Sessions/Part 7 - May We Come in.md",
-    "Accessories/Idea Index.md",
-    "Tabletop/Arcohaem/Worldbuilding/Factions/Republic of Arcohaem.md",
-    "Tabletop/Arcohaem/Worldbuilding/Places/Arcohaem.md",
-    "Tabletop/Serendipita/Serendipita.md",
-    "Tabletop/Arcohaem/Worldbuilding/Factions/Frigoshia.md",
-    "Tabletop/Arcohaem/Story/Sessions/Part 8 - Premonition.md",
-    "Tabletop/Arcohaem/Story/Sessions/Classic/CLASSIC Part 6 - The Big Bad Wolves.md",
-    "Tabletop/Arcohaem/Story/Plots/Arcohaem v7.md",
-    "Tabletop/Arcohaem/Story/Plots/Arcohaem v6.md",
-    "Tabletop/Arcohaem/Story/Sessions/Part 5 - Friend of My Friend.md",
-    "Accessories/Aiden's Schedule.md",
-    "Notes/Sociology/SOC w9 ch16 - Education.md",
-    "Discussion 9.md",
-    "Poll.md",
-    "Tabletop/Character for Luca's Game.md",
-    "Notes/Sociology/SOC w8 ch8 - Media and Technology.md",
-    "Notes/Sociology/SOC w7 ch7 - Deviance.md",
-    "Tabletop/Arcohaem/References/Frigoshian Hierarchy.canvas",
     "Tabletop/Arcohaem/Media/Graphs/Session 4 Bunker.canvas",
-    "Tabletop/Arcohaem/References/Republic Hierarchy.canvas",
     "Pasted image 20261104190653.png",
     "Tabletop/Arcohaem/Media/Pictures/Maps/Full Arcohaem 4k.png",
     "Tabletop/Arcohaem/Media/Pictures/Maps/Full Arcohaem 8k.png",
@@ -289,7 +292,6 @@
     "Notes/Chess/Checkmates/CM Rook Knight.png",
     "Notes/Chess/Checkmates/CM Back Rank.png",
     "Notes/Chess/img coords.png",
-    "Tabletop/Arcohaem/Media/Pictures/Maps/Arcohaem Tribes.png",
     "Tabletop/Serendipita/Serendipita Power Dynamic.canvas",
     "Stories and Projects/Timeloop/Timeloop Progression Map.canvas",
     "Stories and Projects/Timeloop/Timeloop Progression.canvas",

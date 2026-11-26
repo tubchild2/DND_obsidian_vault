@@ -3,20 +3,25 @@ Monday
 Tuesday
 
 Wednesday
+- SOC
+	- Class 6pm
+	- Chapter 18
+- TTRPG
+	- Jayden's One-Shot Blitz
 
 Thursday
+- TTRPG
+	- Jayden's One-Shot Blitz
+- Visit
 
 Friday
-- ARC Outlining
+- Visit
 
 Saturday
-- ARC Blitz
-- ARC Practice
+- Visit
 
 Sunday
-- Arcohaem Session 6
-
-
+- Visit
 
 
 

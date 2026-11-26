@@ -22,3 +22,5 @@ Created by Josulf Smithossn in 738 following his creation of the [[East Arcohaem
 Made to represent the theoretical ideal values for an [[Arcohaem]] citizen.
 Through evangelism, Normonism spread shockingly well to the southern tribes.
 Were primarily beet farmers. In the south, they still are.
+
+President Thane of the EATU is a devout Normon

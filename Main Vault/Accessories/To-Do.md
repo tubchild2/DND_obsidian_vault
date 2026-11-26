@@ -12,18 +12,35 @@
 	- Characters?
 	- Events?
 
+Part 7
+- **Finish the rest of the events**
+- **Begin prior to entering the pit**
+	- No hallucinations or explosions. It's stopped prior to their arrival. 
+	- No scraping stuff from Ted the Caver
+	- Map out dragon program
+	- Evidence of bio-organic machinery
+	- Entering from a large machine's vent
+	- Photo of the trapper without his armor with King Atka
+	- Statues of Aoth and some evidence of the crap they were doing
+	- Proof of Dragons
+- Give them more physical evidence to use on the corkboard
+- Tailor towards party sympathy (Hunter, Xavi, Gray)
+
+**Part 8**
+- Review part 8 events
+- Tailor towards party loyalty (Skyler, Luca, Bentley)
+
 
 ### **Future Sessions and Stuff**
 **Next Events**
 - Part 7 events
 - Part 8 events
-- What a Dunce!
-- Maxwell's Silver Hammer
 - The Conqueror
 - Quest for Skyler
+- Quest for Gray
+- Quest for 
 - Chekhov's Gun
 - Kenny's Quest
-- Tailor quests to sympathetic or loyalist side of the party.
 
 **Flashbacks**
 - For certain complex pieces of lore, have one-shots take place in the past

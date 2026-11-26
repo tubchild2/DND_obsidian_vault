@@ -1,11 +1,11 @@
 
 
 6
-- [ ] A Butterfly's Wings pt. 1
-- [ ] Deep Water
-- [ ] The Welcome Wagon
-- [ ] A Butterfly's Wings pt. 2
-- [ ] Wraith Groom 1
+- [x] A Butterfly's Wings pt. 1
+- [x] Deep Water
+- [x] The Welcome Wagon
+- [x] A Butterfly's Wings pt. 2
+- [x] Wraith Groom 1
 They witness an execution and see their friends sold into slavery, they buy a house and meet the neighbors, they see some crazy stuff underground, and the Wraith begins his plans. 
 
 7
@@ -23,13 +23,13 @@ Primarily, this session focuses on letting them care about the people here, and 
 They see how evil and manipulative the Frigoshian elite is. They learn the program does exist, and that it is spearheaded by Atka, but it's some other group outside of the government that's running it, and it apparently predates Atka's rule. The players are pushed into fighting, and then they discover the Trapper's family by accident after learning his face, and get the information out of him one way or the other. 
 
 Thallwell
-- [ ] Xenobiology
-- [ ] Gut Busters
-- [ ] What a Dunce!
+- [x] Xenobiology
+- [x] Gut Busters
+- [x] What a Dunce!
 
 New Durkheim
-- [ ] Maxwell's Silver Hammer
-- [ ] The Conqueror
+- [x] Maxwell's Silver Hammer
+- [x] The Conqueror
 - [ ] Quest for Skyler
 
 Leistungbourg

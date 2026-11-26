@@ -34,7 +34,7 @@ More about the people they meet and their stories.
 - The secret police are after them.
 - They know the consequences already.
 
-**Atka's Atypical Ascention**
+**Atka's Atypical Ascension**
 - Atka only rose to power because those who opposed him died under mysterious, Wraith adjacent circumstances...
 
 **Wraith Groom 2**

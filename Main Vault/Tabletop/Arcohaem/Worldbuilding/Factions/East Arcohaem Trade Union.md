@@ -12,7 +12,8 @@ The alliance of the eastern tribes of [[Arcohaem]]. They formed to protect their
 
 ### Structure
 Each senator from the eastern tribes can petition to be granted a seat in the EATU. 
-Once approved, they can participate in the biweekly meetings to discuss the future of the eastern tribes.
+Once approved, they can participate in the biweekly meetings to discuss the future of the eastern tribes. 
+	(Monday and Friday)
 The union meetings are overseen by a President, who is elected at the start of each decade.
 The president has a seat on the Republic senate, and acts as a senator and representative.
 If a president dies or is impeached, the Vice President takes over until a new President is elected.
