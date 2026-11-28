@@ -151,6 +151,7 @@ He'll narrate over the PA system the entire time
 - Explain his thought process for some traps
 - Act generally stupid and narcissistic
 - Throw things at them last minute
+- Talks about his ex wife
 - Set up for accidentally revealing his location
 	- A voice in the back will start talking about his burrito delivery being delayed
 	- It'll keep saying, "Expect 5 minute delay on delivery"
@@ -212,7 +213,7 @@ PUZZLE 2
 PUZZLE 3
 	"I'm hairy, I'm gross.
 	Not slender, not tall.
-	The whore he hates most,
+	The hag he hates most,
 	The worst of them all.
 	Who am I?"
 Foreskinnius' Ex Wife

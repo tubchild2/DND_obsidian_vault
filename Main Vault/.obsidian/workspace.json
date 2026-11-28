@@ -77,7 +77,8 @@
               "title": "KNIGHT LIGHT STATS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,15 +242,15 @@
       "templates:Insert template": true
     }
   },
-  "active": "7b3e1ba0895ed7e1",
+  "active": "60f884934b67ec23",
   "lastOpenFiles": [
-    "KNIGHT LIGHT STATS.md",
-    "Tabletop/Thanksgiving Break One-Shot.md",
+    "Tabletop/Arcohaem/Worldbuilding/Characters/Marrek Renn.md",
     "Accessories/Idea Index.md",
     "GOBLIN STATS.md",
+    "KNIGHT LIGHT STATS.md",
+    "Tabletop/Thanksgiving Break One-Shot.md",
     "Tabletop/Arcohaem/Story/Sessions/Part 2 - Just Like the Simulations.md",
     "Tabletop/Arcohaem/References/Republic Hierarchy.canvas",
-    "Tabletop/Arcohaem/Worldbuilding/Characters/Marrek Renn.md",
     "Tabletop/Arcohaem/Worldbuilding/Factions/Republic of Arcohaem.md",
     "Tabletop/Arcohaem/Worldbuilding/Factions/Frigoshia.md",
     "Tabletop/Arcohaem/Worldbuilding/Places/Frigoshia/Torhild.md",
